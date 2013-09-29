@@ -73,5 +73,11 @@ Model business issues mathematically and solve them with IBM ILOG CPLEX Optimize
 IBM ILOG CPLEX Optimizer's mathematical programming technology enables decision optimization for improving efficiency, reducing costs, and increasing profitability.
 [Official Site](http://www-01.ibm.com/software/commerce/optimization/cplex-optimizer/)
 
-## Question about 
+## Question about fairness
+
+* Anton J. Kleywegt
+
+Optimization and Stochastic Modeling applied to Transportation, Distribution and Logistics, especially in the following areas: Vehicle Routing and Scheduling, Distribution Operations, Distribution Network Design, Yield Management, Terminal Design and Operations, Logistics Planning and Control, Multimodal Transportation, Intelligent Transportation Systems.
+[Profile line](http://www2.isye.gatech.edu/~anton/)
+
 
