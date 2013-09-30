@@ -1,5 +1,6 @@
-Microgrid_sim
-=============
+# Microgrid_sim
+
+Advisors: [Hemanshu Kaul](http://iit.edu/csl/am/faculty/kaul_hemanshu.shtml) and [Michael Pelsmajer](http://iit.edu/csl/am/faculty/pelsmajer_michael.shtml)
 
 ## Problem definition
 
