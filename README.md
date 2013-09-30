@@ -78,6 +78,6 @@ IBM ILOG CPLEX Optimizer's mathematical programming technology enables decision 
 * Anton J. Kleywegt
 
 Optimization and Stochastic Modeling applied to Transportation, Distribution and Logistics, especially in the following areas: Vehicle Routing and Scheduling, Distribution Operations, Distribution Network Design, Yield Management, Terminal Design and Operations, Logistics Planning and Control, Multimodal Transportation, Intelligent Transportation Systems.
-[Profile line](http://www2.isye.gatech.edu/~anton/)
+[Profile link](http://www2.isye.gatech.edu/~anton/)
 
 
