@@ -1,0 +1,130 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% IIT THESIS Main File
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% File: main.tex                                   	  
+% IIT THESIS Main File                                
+% by Hongwei Jin on 05/30/2003                      
+% Revised by Hongwei Jin on 11/18/2003                
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                          
+% This file is a main LaTeX file for IIT thesis. 
+% In this file, it will illustrate the structure of 
+% the whole thesis. For detailed content, it will 
+% include in other .tex files.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Note: 
+% 1. it is required to use iitthesis.cls style file;
+% 2. it is required to include font11.clo, and font12.clo files;
+% 3. it create a separate file mybib.bib for bibliography.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%% Include style file
+\documentclass{iitthesis}
+
+% Document Options:
+%
+% Note if you want to save paper when printing drafts,
+% replace the above line by
+%
+%   \documentclass[draft]{iitthesis}
+%
+% See Help file for more about options.
+
+\usepackage[dvips]{graphicx}    % This package is used for Figures
+\usepackage{rotating}           % This package is used for landscape mode.
+\usepackage{epsfig}
+\usepackage{subfigure}          % These two packages, epsfig and subfigure, are used for creating subplots.
+% Packages are explained in the Help document.
+\usepackage[colorlinks,linkcolor=black]{hyperref}
+
+%% Document content begins here
+
+\begin{document}
+
+%%% Declarations for Title Page %%%
+	\title{Not decided yet\\
+	  With Two Line Titles}
+	\author{Hongwei Jin}
+	\degree{Master of Science}
+	\dept{Applied Mathematics}
+	\date{May 2014}
+	\copyrightnoticetrue      % crate copyright page or not
+	%\coadvisortrue           % add co-advisor. activate it by removing % symbol to add co-advisor
+	\maketitle                % create title and copyright pages
+	
+	\prelimpages         % Settings of preliminary pages are done with \prelimpages command
+
+%%%  Acknowledgement
+	\begin{acknowledgement}     % acknowledgment environment, this is optional
+	Acknoledgement goes here.
+	% or \input{acknowledgement.tex} % you need a separate acknowledgement.tex file to include it.
+	\end{acknowledgement}
+
+%%% Table of Contents
+	\tableofcontents
+	\clearpage
+
+%%% List of Tables
+	\listoftables
+	\clearpage
+
+%%%% List of Figures
+	\listoffigures
+	\clearpage
+
+%%%% List of Symbols(optional)
+	\listofsymbols
+	\SymbolDefinition{$\beta$}{probability of non-detecting bad data}
+	\SymbolDefinition{$\delta$}{Transition Coefficient Constant for the Design of Linear-Phase FIR Filters}
+	\SymbolDefinition{$\zeta$}{Reflection Coefficient Parameter}
+	\clearpage
+%%% Abstract 
+	\begin{abstract}           % abstract environment, this is optional
+	\par Your Abstract goes here!
+	% or \input{abstract.tex}  %you need a separate abstract.tex file to include it.
+	\end{abstract}
+	\clearpage
+
+\textpages     % Settings of text-pages are done with \textpages command
+
+% Chapters are created with \Chapter{title} command
+\input{chapter1}
+% \Chapter{INTRODUCTION}
+
+\input{chapter2}
+\input{chapter3}
+\input{chapter4}
+
+
+%
+%%% APPENDIX
+%
+
+% Do the settings of appendices with \appendix command
+\appendix
+	
+	% Then create each appendix using
+	% \Appendix{title_of_appendix} command
+	
+	\Appendix{Table of Transition Coefficients for the Design of Linear-Phase FIR Filters}
+	
+	Your Appendix will go here !
+	
+%	\moretoc
+	
+	\Appendix{Name of your Second Appendix}
+	
+	Your second appendix text....
+	
+	\Appendix{Name of your Third Appendix}
+
+	Your third appendix text....
+	
+	
+\bibliographystyle{plain}
+\bibliography{mybib}
+
+\end{document}
