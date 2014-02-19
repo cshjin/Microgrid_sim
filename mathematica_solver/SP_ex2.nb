@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       157,          7]
-NotebookDataLength[     70112,       1695]
-NotebookOptionsPosition[     68410,       1637]
-NotebookOutlinePosition[     68753,       1652]
-CellTagsIndexPosition[     68710,       1649]
+NotebookDataLength[     68452,       1657]
+NotebookOptionsPosition[     66752,       1599]
+NotebookOutlinePosition[     67100,       1614]
+CellTagsIndexPosition[     67057,       1611]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -90,71 +90,51 @@ Cell[TextData[StyleBox["This is an example of first time period optimization",
 Cell[CellGroupData[{
 
 Cell[BoxData[
- RowBox[{
-  RowBox[{"Minimize", "[", 
-   RowBox[{
-    RowBox[{"{", 
+ RowBox[{"Minimize", "[", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{
      RowBox[{
       RowBox[{
-       RowBox[{
-        RowBox[{"(", 
-         RowBox[{"xGB", "+", "xGC"}], ")"}], "*", "0.051"}], "+", 
-       RowBox[{
-        RowBox[{"(", 
-         RowBox[{"10", "+", "xGB", "+", "xRB", "-", "xBC", "-", "xBG"}], 
-         ")"}], "*", "0.03"}], "-", 
-       RowBox[{
-        RowBox[{"(", 
-         RowBox[{"xBG", "+", "xRG"}], ")"}], "*", "0.0408"}]}], ",", 
+       RowBox[{"(", 
+        RowBox[{"xGB", "+", "xGC"}], ")"}], "*", "0.051"}], "+", 
+      RowBox[{
+       RowBox[{"(", 
+        RowBox[{"10", "+", "xGB", "+", "xRB", "-", "xBC", "-", "xBG"}], ")"}],
+        "*", "0.03"}], "-", 
+      RowBox[{
+       RowBox[{"(", 
+        RowBox[{"xBG", "+", "xRG"}], ")"}], "*", "0.0408"}]}], ",", 
+     "\[IndentingNewLine]", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"xBC", "+", "xGC", "+", "xRC"}], "\[Equal]", "100"}], "&&", 
       "\[IndentingNewLine]", 
       RowBox[{
-       RowBox[{
-        RowBox[{"xBC", "+", "xGC", "+", "xRC"}], "\[Equal]", "100"}], "&&", 
-       "\[IndentingNewLine]", 
-       RowBox[{
-        RowBox[{"-", "10"}], "\[LessEqual]", " ", 
-        RowBox[{"xRB", "+", "xGB", "-", "xBG", "-", "xBC"}], "\[LessEqual]", 
-        " ", "40"}], "&&", "\[IndentingNewLine]", 
-       RowBox[{
-        RowBox[{"xRG", "+", "xRB", "+", "xRC"}], "\[Equal]", "120"}], "&&", 
-       "\[IndentingNewLine]", 
-       RowBox[{"xGB", "\[GreaterEqual]", "0"}], "&&", 
-       RowBox[{"xGC", "\[GreaterEqual]", "0"}], "&&", 
-       RowBox[{"xRB", "\[GreaterEqual]", "0"}], "&&", 
-       RowBox[{"xRC", "\[GreaterEqual]", "0"}], "&&", 
-       RowBox[{"xRG", "\[GreaterEqual]", "0"}], "&&", 
-       RowBox[{"xBC", "\[GreaterEqual]", "0"}], "&&", 
-       RowBox[{"xBG", "\[GreaterEqual]", "0"}]}]}], "}"}], ",", 
-    "\[IndentingNewLine]", 
-    RowBox[{"{", 
-     RowBox[{
-     "xGB", ",", "xGC", ",", "xRB", ",", "xRC", ",", "xRG", ",", "xBC", ",", 
-      "xBG"}], "}"}]}], "]"}], 
-  NamespaceBox["LinguisticAssistant",
-   DynamicModuleBox[{WolframAlphaClient`Private`query$$ = "", 
-    WolframAlphaClient`Private`boxes$$ = "None", 
-    WolframAlphaClient`Private`allassumptions$$ = {}, 
-    WolframAlphaClient`Private`assumptions$$ = {}, 
-    WolframAlphaClient`Private`open$$ = {1}}, 
-    DynamicBox[ToBoxes[
-      AlphaIntegration`LinguisticAssistantBoxes["", 1, 
-       Dynamic[WolframAlphaClient`Private`query$$], 
-       Dynamic[WolframAlphaClient`Private`boxes$$], 
-       Dynamic[WolframAlphaClient`Private`allassumptions$$], 
-       Dynamic[WolframAlphaClient`Private`assumptions$$], 
-       Dynamic[WolframAlphaClient`Private`open$$]], StandardForm],
-     ImageSizeCache->{30., {11., 17.}}],
-    DynamicModuleValues:>{}],
-   BaseStyle->{Deployed -> True},
-   DeleteWithContents->True,
-   Editable->False,
-   SelectWithContents->True]}]], "Input",
+       RowBox[{"-", "10"}], "\[LessEqual]", " ", 
+       RowBox[{"xRB", "+", "xGB", "-", "xBG", "-", "xBC"}], "\[LessEqual]", 
+       " ", "40"}], "&&", "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{"xRG", "+", "xRB", "+", "xRC"}], "\[Equal]", "120"}], "&&", 
+      "\[IndentingNewLine]", 
+      RowBox[{"xGB", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"xGC", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"xRB", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"xRC", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"xRG", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"xBC", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"xBG", "\[GreaterEqual]", "0"}]}]}], "}"}], ",", 
+   "\[IndentingNewLine]", 
+   RowBox[{"{", 
+    RowBox[{
+    "xGB", ",", "xGC", ",", "xRB", ",", "xRC", ",", "xRG", ",", "xBC", ",", 
+     "xBG"}], "}"}]}], "]"}]], "Input",
  CellChangeTimes->{{3.6009927616290674`*^9, 3.6009927761508985`*^9}, {
    3.6009931387216363`*^9, 3.600993187442423*^9}, {3.6010041678081236`*^9, 
    3.6010041809988785`*^9}, {3.601006738131138*^9, 3.6010067506868563`*^9}, {
    3.6010357483250194`*^9, 3.6010357647579594`*^9}, {3.6010495109634686`*^9, 
    3.601049511042473*^9}, {3.601049646351212*^9, 3.601049647038251*^9}, 
-   3.6010530095853753`*^9}],
+   3.6010530095853753`*^9, {3.6016024207786474`*^9, 3.6016024259919457`*^9}}],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -1613,30 +1593,12 @@ Cell[BoxData[
  CellChangeTimes->{3.601053277310834*^9, 3.601053495170544*^9}]
 }, Open  ]],
 
-Cell[BoxData[
- NamespaceBox["LinguisticAssistant",
-  DynamicModuleBox[{WolframAlphaClient`Private`query$$ = "", 
-   WolframAlphaClient`Private`boxes$$ = "None", 
-   WolframAlphaClient`Private`allassumptions$$ = {}, 
-   WolframAlphaClient`Private`assumptions$$ = {}, 
-   WolframAlphaClient`Private`open$$ = {1}}, 
-   DynamicBox[ToBoxes[
-     AlphaIntegration`LinguisticAssistantBoxes["", 1, 
-      Dynamic[WolframAlphaClient`Private`query$$], 
-      Dynamic[WolframAlphaClient`Private`boxes$$], 
-      Dynamic[WolframAlphaClient`Private`allassumptions$$], 
-      Dynamic[WolframAlphaClient`Private`assumptions$$], 
-      Dynamic[WolframAlphaClient`Private`open$$]], StandardForm],
-    ImageSizeCache->{30., {11., 17.}}],
-   DynamicModuleValues:>{}],
-  BaseStyle->{Deployed -> True},
-  DeleteWithContents->True,
-  Editable->False,
-  SelectWithContents->True]], "Input",
- CellChangeTimes->{{3.601053290309763*^9, 3.6010532928959064`*^9}}]
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.601053290309763*^9, 3.6010532928959064`*^9}, {
+  3.601602455894656*^9, 3.601602456081667*^9}}]
 },
-WindowSize->{1264, 683},
-WindowMargins->{{0, Automatic}, {0, Automatic}},
+WindowSize->{624, 732},
+WindowMargins->{{Automatic, -1280}, {Automatic, -49}},
 FrontEndVersion->"9.0 for Microsoft Windows (64-bit) (January 25, 2013)",
 StyleDefinitions->"Default.nb"
 ]
@@ -1652,51 +1614,51 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[579, 22, 1505, 38, 72, "Input"],
+Cell[579, 22, 1505, 38, 112, "Input"],
 Cell[2087, 62, 664, 15, 31, "Output"]
 }, Open  ]],
 Cell[2766, 80, 144, 2, 31, "Input"],
 Cell[2913, 84, 226, 3, 30, "Text"],
 Cell[CellGroupData[{
-Cell[3164, 91, 2805, 65, 146, "Input"],
-Cell[5972, 158, 520, 13, 31, "Output"]
+Cell[3164, 91, 1939, 45, 152, "Input"],
+Cell[5106, 138, 520, 13, 52, "Output"]
 }, Open  ]],
-Cell[6507, 174, 532, 13, 31, InheritFromParent],
-Cell[7042, 189, 230, 4, 30, "Text"],
-Cell[7275, 195, 338, 6, 68, "Text"],
+Cell[5641, 154, 532, 13, 52, "Input"],
+Cell[6176, 169, 230, 4, 30, "Text"],
+Cell[6409, 175, 338, 6, 68, "Text"],
 Cell[CellGroupData[{
-Cell[7638, 205, 7170, 169, 472, "Input"],
-Cell[14811, 376, 562, 11, 21, "Message"],
-Cell[15376, 389, 1914, 36, 112, "Output"]
+Cell[6772, 185, 7170, 169, 832, "Input"],
+Cell[13945, 356, 562, 11, 21, "Message"],
+Cell[14510, 369, 1914, 36, 272, "Output"]
 }, Open  ]],
-Cell[17305, 428, 303, 5, 30, "Text"],
-Cell[17611, 435, 229, 4, 49, "Text"],
+Cell[16439, 408, 303, 5, 49, "Text"],
+Cell[16745, 415, 229, 4, 49, "Text"],
 Cell[CellGroupData[{
-Cell[17865, 443, 7001, 167, 472, "Input"],
-Cell[24869, 612, 1532, 34, 104, "Output"]
+Cell[16999, 423, 7001, 167, 832, "Input"],
+Cell[24003, 592, 1532, 34, 92, "Output"]
 }, Open  ]],
-Cell[26416, 649, 136, 3, 30, "Text"],
+Cell[25550, 629, 136, 3, 30, "Text"],
 Cell[CellGroupData[{
-Cell[26577, 656, 6200, 146, 472, "Input"],
-Cell[32780, 804, 1505, 33, 104, "Output"]
+Cell[25711, 636, 6200, 146, 592, "Input"],
+Cell[31914, 784, 1505, 33, 112, "Output"]
 }, Open  ]],
-Cell[34300, 840, 133, 3, 30, "Text"],
+Cell[33434, 820, 133, 3, 30, "Text"],
 Cell[CellGroupData[{
-Cell[34458, 847, 4845, 116, 352, "Input"],
-Cell[39306, 965, 439, 9, 21, "Message"],
-Cell[39748, 976, 1398, 27, 92, "Output"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[41183, 1008, 9497, 233, 552, "Input"],
-Cell[50683, 1243, 2195, 32, 90, "Message"],
-Cell[52881, 1277, 1691, 26, 107, "Message"],
-Cell[54575, 1305, 1794, 34, 144, "Output"]
+Cell[33592, 827, 4845, 116, 472, "Input"],
+Cell[38440, 945, 439, 9, 21, "Message"],
+Cell[38882, 956, 1398, 27, 152, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[56406, 1344, 9418, 232, 552, "Input"],
-Cell[65827, 1578, 1629, 34, 72, "Output"]
+Cell[40317, 988, 9497, 233, 1032, "Input"],
+Cell[49817, 1223, 2195, 32, 158, "Message"],
+Cell[52015, 1257, 1691, 26, 175, "Message"],
+Cell[53709, 1285, 1794, 34, 272, "Output"]
 }, Open  ]],
-Cell[67471, 1615, 935, 20, 45, "Input"]
+Cell[CellGroupData[{
+Cell[55540, 1324, 9418, 232, 1032, "Input"],
+Cell[64961, 1558, 1629, 34, 112, "Output"]
+}, Open  ]],
+Cell[66605, 1595, 143, 2, 31, "Input"]
 }
 ]
 *)
