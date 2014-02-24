@@ -10,14 +10,16 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       157,          7]
-NotebookDataLength[     18851,        501]
-NotebookOptionsPosition[     17828,        460]
-NotebookOutlinePosition[     18171,        475]
-CellTagsIndexPosition[     18128,        472]
+NotebookDataLength[     16447,        419]
+NotebookOptionsPosition[     16091,        402]
+NotebookOutlinePosition[     16434,        417]
+CellTagsIndexPosition[     16391,        414]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
+
+Cell[CellGroupData[{
 Cell[BoxData[{
  RowBox[{"ClearAll", "[", "\"\<Global`*\>\"", "]"}], "\[IndentingNewLine]", 
  RowBox[{
@@ -104,23 +106,6 @@ Cell[BoxData[{
   RowBox[{"capBat", " ", "=", " ", "100"}], ";"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{"capRes", " ", "=", " ", "400"}], ";"}], "\[IndentingNewLine]", 
- RowBox[{
-  RowBox[{"(*", 
-   RowBox[{"Print", "[", 
-    RowBox[{"c", ",", "\"\< \>\"", ",", " ", "t"}], "]"}], "*)"}]}]}], "Input",
- CellChangeTimes->{{3.601602487500464*^9, 3.6016026031450787`*^9}, 
-   3.601603704216056*^9, {3.601606537303099*^9, 3.601606609710241*^9}, {
-   3.6016066708957405`*^9, 3.60160670184251*^9}, {3.6016071396065493`*^9, 
-   3.6016071740705204`*^9}, {3.6016072600924406`*^9, 3.601607262197561*^9}, {
-   3.601607306815113*^9, 3.6016073242861123`*^9}, {3.6016073722818575`*^9, 
-   3.601607500147171*^9}, {3.601608338903145*^9, 3.601608358156246*^9}, {
-   3.601654076558716*^9, 3.6016541918203087`*^9}, {3.6016548765064707`*^9, 
-   3.6016549290324745`*^9}, {3.601655368067586*^9, 3.601655381700366*^9}, 
-   3.602204017915613*^9, {3.602204997855663*^9, 3.6022050175947914`*^9}}],
-
-Cell[CellGroupData[{
-
-Cell[BoxData[{
  RowBox[{
   RowBox[{"optValue", " ", "=", " ", 
    RowBox[{"Minimize", "[", 
@@ -353,113 +338,70 @@ Cell[BoxData[{
        "yGC3", ",", "yRB3", ",", "yRC3", ",", "yRG3", ",", "yBC3", ",", 
        "yBG3"}], "}"}]}], "]"}]}], ";"}], "\[IndentingNewLine]", 
  RowBox[{
-  RowBox[{"Print", "[", "optValue", "]"}], ";"}]}], "Input",
- CellChangeTimes->{{3.6016542344797487`*^9, 3.6016542783662586`*^9}, {
-  3.6016543291451635`*^9, 3.601654332356347*^9}, {3.6016544240765924`*^9, 
-  3.6016544818568974`*^9}, {3.6016545349229326`*^9, 3.6016546541137505`*^9}, {
-  3.6016547085708647`*^9, 3.601654862498669*^9}, {3.6016549358668656`*^9, 
-  3.6016549731209965`*^9}, {3.601655359364088*^9, 3.601655363200308*^9}, {
-  3.6016600145571766`*^9, 3.6016601499259195`*^9}, {3.601660441279584*^9, 
-  3.601660518230985*^9}, {3.6016605535650063`*^9, 3.6016605630035458`*^9}, {
-  3.601674503035468*^9, 3.6016745082527666`*^9}, {3.602204969324031*^9, 
-  3.6022049742833147`*^9}, {3.6022050301645107`*^9, 3.6022050463944387`*^9}, {
-  3.6022053756542716`*^9, 3.602205391909201*^9}}],
+  RowBox[{"Print", "[", "optValue", "]"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"(*", 
+   RowBox[{"Print", "[", 
+    RowBox[{"c", ",", "\"\< \>\"", ",", " ", "t"}], "]"}], "*)"}]}]}], "Input",
+ CellChangeTimes->{{3.601602487500464*^9, 3.6016026031450787`*^9}, 
+   3.601603704216056*^9, {3.601606537303099*^9, 3.601606609710241*^9}, {
+   3.6016066708957405`*^9, 3.60160670184251*^9}, {3.6016071396065493`*^9, 
+   3.6016071740705204`*^9}, {3.6016072600924406`*^9, 3.601607262197561*^9}, {
+   3.601607306815113*^9, 3.6016073242861123`*^9}, {3.6016073722818575`*^9, 
+   3.601607500147171*^9}, {3.601608338903145*^9, 3.601608358156246*^9}, {
+   3.601654076558716*^9, 3.6016541918203087`*^9}, {3.6016548765064707`*^9, 
+   3.6016549290324745`*^9}, {3.601655368067586*^9, 3.601655381700366*^9}, 
+   3.602204017915613*^9, {3.602204997855663*^9, 3.6022050175947914`*^9}, {
+   3.602258650069495*^9, 3.6022586504438963`*^9}}],
 
 Cell[BoxData[
  RowBox[{"{", 
-  RowBox[{"4.030475`", ",", 
+  RowBox[{
+   RowBox[{"-", "4.2168750000000035`"}], ",", 
    RowBox[{"{", 
     RowBox[{
      RowBox[{"xGB", "\[Rule]", "0.`"}], ",", 
      RowBox[{"xGC", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"xRB", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"xRC", "\[Rule]", "278.`"}], ",", 
-     RowBox[{"xRG", "\[Rule]", "77.`"}], ",", 
-     RowBox[{"xBC", "\[Rule]", "65.`"}], ",", 
-     RowBox[{"xBG", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"xRB", "\[Rule]", "58.`"}], ",", 
+     RowBox[{"xRC", "\[Rule]", "259.`"}], ",", 
+     RowBox[{"xRG", "\[Rule]", "78.`"}], ",", 
+     RowBox[{"xBC", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"xBG", "\[Rule]", "152.`"}], ",", 
      RowBox[{"yGB1", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yGC1", "\[Rule]", "50.`"}], ",", 
+     RowBox[{"yGC1", "\[Rule]", "0.`"}], ",", 
      RowBox[{"yRB1", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yRC1", "\[Rule]", "355.`"}], ",", 
+     RowBox[{"yRC1", "\[Rule]", "395.`"}], ",", 
      RowBox[{"yRG1", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yBC1", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yBC1", "\[Rule]", "58.`"}], ",", 
      RowBox[{"yBG1", "\[Rule]", "0.`"}], ",", 
      RowBox[{"yGB2", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yGC2", "\[Rule]", "227.5`"}], ",", 
+     RowBox[{"yGC2", "\[Rule]", "197.5`"}], ",", 
      RowBox[{"yRB2", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yRC2", "\[Rule]", "177.5`"}], ",", 
+     RowBox[{"yRC2", "\[Rule]", "197.5`"}], ",", 
      RowBox[{"yRG2", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yBC2", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yBC2", "\[Rule]", "58.`"}], ",", 
      RowBox[{"yBG2", "\[Rule]", "0.`"}], ",", 
      RowBox[{"yGB3", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yGC3", "\[Rule]", "316.25`"}], ",", 
+     RowBox[{"yGC3", "\[Rule]", "296.25`"}], ",", 
      RowBox[{"yRB3", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yRC3", "\[Rule]", "88.75`"}], ",", 
+     RowBox[{"yRC3", "\[Rule]", "98.75`"}], ",", 
      RowBox[{"yRG3", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yBC3", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yBC3", "\[Rule]", "58.`"}], ",", 
      RowBox[{"yBG3", "\[Rule]", "0.`"}]}], "}"}]}], "}"}]], "Print",
- CellChangeTimes->{
-  3.601660521008144*^9, 3.602204781227272*^9, 3.602205052077764*^9, {
-   3.6022053791954737`*^9, 3.6022053924232306`*^9}, {3.602211121967942*^9, 
-   3.602211153197728*^9}}]
+ CellChangeTimes->{3.602258656995908*^9}]
 }, Open  ]],
 
-Cell[CellGroupData[{
-
-Cell[BoxData["t"], "Input",
- CellChangeTimes->{3.6022111738779106`*^9}],
-
-Cell[BoxData["21"], "Output",
- CellChangeTimes->{3.6022111777841344`*^9}]
-}, Open  ]],
-
-Cell[CellGroupData[{
-
-Cell[BoxData["c"], "Input",
- CellChangeTimes->{3.602211179704244*^9}],
-
-Cell[BoxData["\<\"M\"\>"], "Output",
- CellChangeTimes->{3.602211180072265*^9}]
-}, Open  ]],
-
-Cell[CellGroupData[{
-
-Cell[BoxData["avaiableResource"], "Input",
- CellChangeTimes->{{3.6022112030185776`*^9, 3.6022112115590663`*^9}}],
-
-Cell[BoxData["355"], "Output",
- CellChangeTimes->{3.6022112137891936`*^9}]
-}, Open  ]],
-
-Cell[CellGroupData[{
-
-Cell[BoxData["demand1"], "Input",
- CellChangeTimes->{{3.6022112297351055`*^9, 3.6022112359234595`*^9}}],
-
-Cell[BoxData["343"], "Output",
- CellChangeTimes->{3.6022112369235168`*^9}]
-}, Open  ]],
-
-Cell[CellGroupData[{
-
-Cell[BoxData["demand2"], "Input",
- CellChangeTimes->{{3.602211238152587*^9, 3.6022112419908066`*^9}}],
-
-Cell[BoxData["405"], "Output",
- CellChangeTimes->{3.602211242411831*^9}]
-}, Open  ]],
-
-Cell[CellGroupData[{
-
-Cell[BoxData["iniInBat"], "Input",
- CellChangeTimes->{{3.6022112611839046`*^9, 3.602211265751166*^9}}],
-
-Cell[BoxData["65"], "Output",
- CellChangeTimes->{{3.6022112631870193`*^9, 3.602211266328199*^9}}]
-}, Open  ]]
+Cell["\<\
+This is a new case.
+In this case, we consider repeated two-stage SP, in which, at time t=t+1, we \
+know the weather condition of t+1, and run it again to meet the requirement \
+of t+2.\
+\>", "Text",
+ CellChangeTimes->{{3.602258673999937*^9, 3.6022587418756566`*^9}, {
+  3.602258828674209*^9, 3.602258861293866*^9}}]
 },
-WindowSize->{1186, 862},
-WindowMargins->{{0, Automatic}, {0, Automatic}},
+WindowSize->{1264, 675},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
 FrontEndVersion->"9.0 for Microsoft Windows (64-bit) (January 25, 2013)",
 StyleDefinitions->"Default.nb"
 ]
@@ -474,35 +416,11 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[557, 20, 3841, 98, 312, "Input"],
 Cell[CellGroupData[{
-Cell[4423, 122, 10489, 243, 612, "Input"],
-Cell[14915, 367, 1631, 36, 62, "Print"]
+Cell[579, 22, 13652, 332, 912, "Input"],
+Cell[14234, 356, 1513, 34, 43, "Print"]
 }, Open  ]],
-Cell[CellGroupData[{
-Cell[16583, 408, 71, 1, 31, "Input"],
-Cell[16657, 411, 73, 1, 31, "Output"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[16767, 417, 69, 1, 31, "Input"],
-Cell[16839, 420, 78, 1, 31, "Output"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[16954, 426, 112, 1, 31, "Input"],
-Cell[17069, 429, 74, 1, 31, "Output"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[17180, 435, 103, 1, 31, "Input"],
-Cell[17286, 438, 74, 1, 31, "Output"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[17397, 444, 101, 1, 31, "Input"],
-Cell[17501, 447, 72, 1, 31, "Output"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[17610, 453, 102, 1, 31, "Input"],
-Cell[17715, 456, 97, 1, 87, "Output"]
-}, Open  ]]
+Cell[15762, 393, 325, 7, 49, "Text"]
 }
 ]
 *)
