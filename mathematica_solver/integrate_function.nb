@@ -10,16 +10,14 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       157,          7]
-NotebookDataLength[     16845,        426]
-NotebookOptionsPosition[     16415,        406]
-NotebookOutlinePosition[     16757,        421]
-CellTagsIndexPosition[     16714,        418]
+NotebookDataLength[     18851,        501]
+NotebookOptionsPosition[     17828,        460]
+NotebookOutlinePosition[     18171,        475]
+CellTagsIndexPosition[     18128,        472]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
-
-Cell[CellGroupData[{
 Cell[BoxData[{
  RowBox[{"ClearAll", "[", "\"\<Global`*\>\"", "]"}], "\[IndentingNewLine]", 
  RowBox[{
@@ -86,7 +84,13 @@ Cell[BoxData[{
      RowBox[{"200", ",", "400"}], "}"}], "]"}]}], 
   ";"}], "\[IndentingNewLine]", 
  RowBox[{
-  RowBox[{"demand", " ", "=", " ", 
+  RowBox[{"demand1", " ", "=", " ", 
+   RowBox[{"RandomInteger", "[", 
+    RowBox[{"{", 
+     RowBox[{"200", ",", "500"}], "}"}], "]"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"demand2", " ", "=", " ", 
    RowBox[{"RandomInteger", "[", 
     RowBox[{"{", 
      RowBox[{"200", ",", "500"}], "}"}], "]"}]}], 
@@ -100,8 +104,10 @@ Cell[BoxData[{
   RowBox[{"capBat", " ", "=", " ", "100"}], ";"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{"capRes", " ", "=", " ", "400"}], ";"}], "\[IndentingNewLine]", 
- RowBox[{"Print", "[", 
-  RowBox[{"c", ",", "\"\< \>\"", ",", " ", "t"}], "]"}]}], "Input",
+ RowBox[{
+  RowBox[{"(*", 
+   RowBox[{"Print", "[", 
+    RowBox[{"c", ",", "\"\< \>\"", ",", " ", "t"}], "]"}], "*)"}]}]}], "Input",
  CellChangeTimes->{{3.601602487500464*^9, 3.6016026031450787`*^9}, 
    3.601603704216056*^9, {3.601606537303099*^9, 3.601606609710241*^9}, {
    3.6016066708957405`*^9, 3.60160670184251*^9}, {3.6016071396065493`*^9, 
@@ -109,19 +115,8 @@ Cell[BoxData[{
    3.601607306815113*^9, 3.6016073242861123`*^9}, {3.6016073722818575`*^9, 
    3.601607500147171*^9}, {3.601608338903145*^9, 3.601608358156246*^9}, {
    3.601654076558716*^9, 3.6016541918203087`*^9}, {3.6016548765064707`*^9, 
-   3.6016549290324745`*^9}, {3.601655368067586*^9, 3.601655381700366*^9}}],
-
-Cell[BoxData[
- InterpretationBox[
-  RowBox[{"\<\"N\"\>", "\[InvisibleSpace]", "\<\" \"\>", "\[InvisibleSpace]", 
-   "13"}],
-  SequenceForm["N", " ", 13],
-  Editable->False]], "Print",
- GeneratedCell->False,
- CellAutoOverwrite->False,
- CellChangeTimes->{{3.6016553760280414`*^9, 3.601655389567816*^9}, {
-  3.601655441363778*^9, 3.601655450083277*^9}}]
-}, Open  ]],
+   3.6016549290324745`*^9}, {3.601655368067586*^9, 3.601655381700366*^9}, 
+   3.602204017915613*^9, {3.602204997855663*^9, 3.6022050175947914`*^9}}],
 
 Cell[CellGroupData[{
 
@@ -254,7 +249,7 @@ Cell[BoxData[{
           ")"}]}]}], ",", "\[IndentingNewLine]", 
        RowBox[{
         RowBox[{
-         RowBox[{"xBC", "+", "xGC", "+", "xRC"}], "\[Equal]", "demand"}], "&&",
+         RowBox[{"xBC", "+", "xGC", "+", "xRC"}], "\[Equal]", "demand1"}], "&&",
          "\[IndentingNewLine]", 
         RowBox[{"0", "\[LessEqual]", " ", 
          RowBox[{"iniInBat", "+", "xRB", "+", "xGB", "-", "xBG", "-", "xBC"}],
@@ -277,8 +272,8 @@ Cell[BoxData[{
         RowBox[{"yBC1", "\[GreaterEqual]", "0"}], "&&", 
         RowBox[{"yBG1", "\[GreaterEqual]", "0"}], "&&", "\[IndentingNewLine]", 
         RowBox[{
-         RowBox[{"yBC1", "+", "yGC1", "+", "yRC1"}], "\[Equal]", 
-         RowBox[{"demand", "+", "100"}]}], "&&", "\[IndentingNewLine]", 
+         RowBox[{"yBC1", "+", "yGC1", "+", "yRC1"}], "\[Equal]", "demand2"}], 
+        "&&", "\[IndentingNewLine]", 
         RowBox[{
          RowBox[{"-", 
           RowBox[{"(", 
@@ -303,8 +298,8 @@ Cell[BoxData[{
         RowBox[{"yBC2", "\[GreaterEqual]", "0"}], "&&", 
         RowBox[{"yBG2", "\[GreaterEqual]", "0"}], "&&", "\[IndentingNewLine]", 
         RowBox[{
-         RowBox[{"yBC2", "+", "yGC2", "+", "yRC2"}], "\[Equal]", 
-         RowBox[{"demand", "+", "100"}]}], "&&", "\[IndentingNewLine]", 
+         RowBox[{"yBC2", "+", "yGC2", "+", "yRC2"}], "\[Equal]", "demand2"}], 
+        "&&", "\[IndentingNewLine]", 
         RowBox[{
          RowBox[{"-", 
           RowBox[{"(", 
@@ -330,8 +325,8 @@ Cell[BoxData[{
         RowBox[{"yBC3", "\[GreaterEqual]", "0"}], "&&", 
         RowBox[{"yBG3", "\[GreaterEqual]", "0"}], "&&", "\[IndentingNewLine]", 
         RowBox[{
-         RowBox[{"yBC3", "+", "yGC3", "+", "yRC3"}], "\[Equal]", 
-         RowBox[{"demand", "+", "100"}]}], "&&", "\[IndentingNewLine]", 
+         RowBox[{"yBC3", "+", "yGC3", "+", "yRC3"}], "\[Equal]", "demand2"}], 
+        "&&", "\[IndentingNewLine]", 
         RowBox[{
          RowBox[{"-", 
           RowBox[{"(", 
@@ -366,45 +361,104 @@ Cell[BoxData[{
   3.6016549731209965`*^9}, {3.601655359364088*^9, 3.601655363200308*^9}, {
   3.6016600145571766`*^9, 3.6016601499259195`*^9}, {3.601660441279584*^9, 
   3.601660518230985*^9}, {3.6016605535650063`*^9, 3.6016605630035458`*^9}, {
-  3.601674503035468*^9, 3.6016745082527666`*^9}}],
+  3.601674503035468*^9, 3.6016745082527666`*^9}, {3.602204969324031*^9, 
+  3.6022049742833147`*^9}, {3.6022050301645107`*^9, 3.6022050463944387`*^9}, {
+  3.6022053756542716`*^9, 3.602205391909201*^9}}],
 
 Cell[BoxData[
  RowBox[{"{", 
-  RowBox[{"9.412225`", ",", 
+  RowBox[{"4.030475`", ",", 
    RowBox[{"{", 
     RowBox[{
      RowBox[{"xGB", "\[Rule]", "0.`"}], ",", 
      RowBox[{"xGC", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"xRB", "\[Rule]", "90.`"}], ",", 
-     RowBox[{"xRC", "\[Rule]", "229.`"}], ",", 
-     RowBox[{"xRG", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"xBC", "\[Rule]", "80.`"}], ",", 
-     RowBox[{"xBG", "\[Rule]", "77.`"}], ",", 
+     RowBox[{"xRB", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"xRC", "\[Rule]", "278.`"}], ",", 
+     RowBox[{"xRG", "\[Rule]", "77.`"}], ",", 
+     RowBox[{"xBC", "\[Rule]", "65.`"}], ",", 
+     RowBox[{"xBG", "\[Rule]", "0.`"}], ",", 
      RowBox[{"yGB1", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yGC1", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yGC1", "\[Rule]", "50.`"}], ",", 
      RowBox[{"yRB1", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yRC1", "\[Rule]", "319.`"}], ",", 
+     RowBox[{"yRC1", "\[Rule]", "355.`"}], ",", 
      RowBox[{"yRG1", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yBC1", "\[Rule]", "90.`"}], ",", 
+     RowBox[{"yBC1", "\[Rule]", "0.`"}], ",", 
      RowBox[{"yBG1", "\[Rule]", "0.`"}], ",", 
      RowBox[{"yGB2", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yGC2", "\[Rule]", "159.5`"}], ",", 
+     RowBox[{"yGC2", "\[Rule]", "227.5`"}], ",", 
      RowBox[{"yRB2", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yRC2", "\[Rule]", "159.5`"}], ",", 
+     RowBox[{"yRC2", "\[Rule]", "177.5`"}], ",", 
      RowBox[{"yRG2", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yBC2", "\[Rule]", "90.`"}], ",", 
+     RowBox[{"yBC2", "\[Rule]", "0.`"}], ",", 
      RowBox[{"yBG2", "\[Rule]", "0.`"}], ",", 
      RowBox[{"yGB3", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yGC3", "\[Rule]", "239.25`"}], ",", 
+     RowBox[{"yGC3", "\[Rule]", "316.25`"}], ",", 
      RowBox[{"yRB3", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yRC3", "\[Rule]", "79.75`"}], ",", 
+     RowBox[{"yRC3", "\[Rule]", "88.75`"}], ",", 
      RowBox[{"yRG3", "\[Rule]", "0.`"}], ",", 
-     RowBox[{"yBC3", "\[Rule]", "90.`"}], ",", 
+     RowBox[{"yBC3", "\[Rule]", "0.`"}], ",", 
      RowBox[{"yBG3", "\[Rule]", "0.`"}]}], "}"}]}], "}"}]], "Print",
- CellChangeTimes->{3.601660521008144*^9}]
+ CellChangeTimes->{
+  3.601660521008144*^9, 3.602204781227272*^9, 3.602205052077764*^9, {
+   3.6022053791954737`*^9, 3.6022053924232306`*^9}, {3.602211121967942*^9, 
+   3.602211153197728*^9}}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["t"], "Input",
+ CellChangeTimes->{3.6022111738779106`*^9}],
+
+Cell[BoxData["21"], "Output",
+ CellChangeTimes->{3.6022111777841344`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["c"], "Input",
+ CellChangeTimes->{3.602211179704244*^9}],
+
+Cell[BoxData["\<\"M\"\>"], "Output",
+ CellChangeTimes->{3.602211180072265*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["avaiableResource"], "Input",
+ CellChangeTimes->{{3.6022112030185776`*^9, 3.6022112115590663`*^9}}],
+
+Cell[BoxData["355"], "Output",
+ CellChangeTimes->{3.6022112137891936`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["demand1"], "Input",
+ CellChangeTimes->{{3.6022112297351055`*^9, 3.6022112359234595`*^9}}],
+
+Cell[BoxData["343"], "Output",
+ CellChangeTimes->{3.6022112369235168`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["demand2"], "Input",
+ CellChangeTimes->{{3.602211238152587*^9, 3.6022112419908066`*^9}}],
+
+Cell[BoxData["405"], "Output",
+ CellChangeTimes->{3.602211242411831*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["iniInBat"], "Input",
+ CellChangeTimes->{{3.6022112611839046`*^9, 3.602211265751166*^9}}],
+
+Cell[BoxData["65"], "Output",
+ CellChangeTimes->{{3.6022112631870193`*^9, 3.602211266328199*^9}}]
 }, Open  ]]
 },
-WindowSize->{624, 732},
+WindowSize->{1186, 862},
 WindowMargins->{{0, Automatic}, {0, Automatic}},
 FrontEndVersion->"9.0 for Microsoft Windows (64-bit) (January 25, 2013)",
 StyleDefinitions->"Default.nb"
@@ -420,13 +474,34 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
+Cell[557, 20, 3841, 98, 312, "Input"],
 Cell[CellGroupData[{
-Cell[579, 22, 3542, 89, 352, "Input"],
-Cell[4124, 113, 350, 9, 23, "Print"]
+Cell[4423, 122, 10489, 243, 612, "Input"],
+Cell[14915, 367, 1631, 36, 62, "Print"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[4511, 127, 10402, 241, 1052, "Input"],
-Cell[14916, 370, 1483, 33, 81, "Print"]
+Cell[16583, 408, 71, 1, 31, "Input"],
+Cell[16657, 411, 73, 1, 31, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[16767, 417, 69, 1, 31, "Input"],
+Cell[16839, 420, 78, 1, 31, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[16954, 426, 112, 1, 31, "Input"],
+Cell[17069, 429, 74, 1, 31, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[17180, 435, 103, 1, 31, "Input"],
+Cell[17286, 438, 74, 1, 31, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[17397, 444, 101, 1, 31, "Input"],
+Cell[17501, 447, 72, 1, 31, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[17610, 453, 102, 1, 31, "Input"],
+Cell[17715, 456, 97, 1, 87, "Output"]
 }, Open  ]]
 }
 ]

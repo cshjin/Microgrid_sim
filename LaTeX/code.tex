@@ -1,0 +1,84 @@
+{\scriptsize \begin{lstlisting}
+ClearAll["Global`*"]
+t = RandomInteger[{0, 23}];
+c = RandomChoice[{"N", "A", "M"}];
+markovChainMatrix = {{0.7, 0.2, 0.1}, {0.6, 0.3, 0.1}, {0.5, 0.4, 
+    0.1}};
+buyPrice = 
+  If[7 <= t <= 11 || 17 <= t <= 21, 0.099, 
+   If[11 <= t <= 17, 0.081, 0.051]];
+sellPrice = 0.8 * buyPrice ;
+buyPriceTPlus = 
+  If[7 <= t + 1 <= 11 || 17 <= t + 1 <= 21, 0.099, 
+   If[11 <= t + 1 <= 17, 0.081, 0.051]];
+sellPriceTPlus = 0.8*buyPriceTPlus;
+avaiableResource = RandomInteger[{200, 400}];
+demand = RandomInteger[{200, 500}];
+iniInBat = RandomInteger[{0, 100}];
+capBat = 100;
+capRes = 400;
+\end{lstlisting}}
+
+Then solve to get the minimum cost:
+{\scriptsize \begin{lstlisting}
+Minimize[{
+  (xGB + xGC)*
+    buyPrice + (iniInBat + xGB + xRB - xBC - xBG)*0.01 + (iniInBat + 
+     xGB + xRB + xBC + xBG) + 0.02 - (xBG + xRG)*sellPrice +
+   If[c == "N", 0.7, 
+     If[c == "A", 0.6, 
+      0.5]]*((yGB1 + yGC1)*
+       buyPriceTPlus + ((10 + xRB + xRB - xBC - xBG) + yGB1 + yRB1 - 
+         yBC1 - yBG1)*0.01 - (yBG1 + yRG1)*sellPriceTPlus) +
+   If[c == "N", 0.2, 
+     If[c == "A", 0.3, 
+      0.4]]*((yGB2 + yGC2)*
+       buyPriceTPlus + ((10 + xRB + xRB - xBC - xBG) + yGB2 + yRB2 - 
+         yBC2 - yBG2)*0.01 - (yBG2 + yRG2)*sellPriceTPlus) +
+   If[c == "N", 0.1, 
+     If[c == "A", 0.1, 
+      0.1]]*((yGB3 + yGC3)*
+       buyPriceTPlus + ((10 + xRB + xRB - xBC - xBG) + yGB3 + yRB3 - 
+         yBC3 - yBG3)*0.01 - (yBG3 + yRG3)*sellPriceTPlus),
+  xBC + xGC + xRC == demand &&
+   0 <= iniInBat + xRB + xGB - xBG - xBC <= capBat &&
+   xRG + xRB + xRC == avaiableResource &&
+   xGB >= 0 && xGC >= 0 && xRB >= 0 && xRC >= 0 && xRG >= 0 && 
+   xBC >= 0 && xBG >= 0 &&
+   yGB1 >= 0 && yGC1 >= 0 && yRB1 >= 0 && yRC1 >= 0 && yRG1 >= 0 && 
+   yBC1 >= 0 && yBG1 >= 0 &&
+   yBC1 + yGC1 + yRC1 == demand + 100 &&
+   -(iniInBat + xRB + xRB - xBC - xBG) <= 
+    yRB1 + yGB1 - yBG1 - yBC1 <= 
+    capBat - (iniInBat + xRB + xRB - xBC - xBG) &&
+   yRG1 + yRB1 + yRC1 == avaiableResource &&
+   yGB2 >= 0 && yGC2 >= 0 && yRB2 >= 0 && yRC2 >= 0 && yRG2 >= 0 && 
+   yBC2 >= 0 && yBG2 >= 0 &&
+   yBC2 + yGC2 + yRC2 == demand + 100 &&
+   -(iniInBat + xRB + xRB - xBC - xBG) <= 
+    yRB2 + yGB2 - yBG2 - yBC2 <= 
+    capBat - (iniInBat + xRB + xRB - xBC - xBG) &&
+   yRG2 + yRB2 + yRC2 == avaiableResource/2 &&
+   yGB3 >= 0 && yGC3 >= 0 && yRB3 >= 0 && yRC3 >= 0 && yRG3 >= 0 && 
+   yBC3 >= 0 && yBG3 >= 0 &&
+   yBC3 + yGC3 + yRC3 == demand + 100 &&
+   -(iniInBat + xRB + xRB - xBC - xBG) <= 
+    yRB3 + yGB3 - yBG3 - yBC3 <= 
+    capBat - (iniInBat + xRB + xRB - xBC - xBG) &&
+   yRG3 + yRB3 + yRC3 == avaiableResource/4},
+ {xGB, xGC, xRB, xRC, xRG, xBC, xBG, yGB1, yGC1, yRB1, yRC1, yRG1, 
+  yBC1, yBG1, yGB2, yGC2, yRB2, yRC2, yRG2, yBC2, yBG2, yGB3, yGC3, 
+  yRB3, yRC3, yRG3, yBC3, yBG3}]
+\end{lstlisting}}
+One example:
+A random example like this, c="N", t=13
+Then the result will be like this:
+{\scriptsize \begin{lstlisting}
+{39.855, {xGB -> 0., xGC -> 0., xRB -> 0., xRC -> 221., xRG -> 123., 
+  xBC -> 0., xBG -> 0., yGB1 -> 0., yGC1 -> 0., yRB1 -> 23., 
+  yRC1 -> 321., yRG1 -> 0., yBC1 -> 0., yBG1 -> 68., yGB2 -> 104., 
+  yGC2 -> 0., yRB2 -> 0., yRC2 -> 172., yRG2 -> 0., yBC2 -> 149., 
+  yBG2 -> 0., yGB3 -> 190., yGC3 -> 0., yRB3 -> 0., yRC3 -> 86., 
+  yRG3 -> 0., yBC3 -> 235., yBG3 -> 0.}}
+\end{lstlisting}
+}

@@ -39,14 +39,14 @@
 \usepackage{subfigure}          % These two packages, epsfig and subfigure, are used for creating subplots.
 % Packages are explained in the Help document.
 \usepackage[colorlinks,linkcolor=black]{hyperref}
-
+\usepackage{listings}
 %% Document content begins here
 
 \begin{document}
 
 %%% Declarations for Title Page %%%
-	\title{Not decided yet\\
-	  With Two Line Titles}
+	\title{Multi-stages stochastic programming on microgrid\\
+	  and its mathematical simulations}
 	\author{Hongwei Jin}
 	\degree{Master of Science}
 	\dept{Applied Mathematics}
@@ -80,6 +80,8 @@
 	\SymbolDefinition{$\beta$}{probability of non-detecting bad data}
 	\SymbolDefinition{$\delta$}{Transition Coefficient Constant for the Design of Linear-Phase FIR Filters}
 	\SymbolDefinition{$\zeta$}{Reflection Coefficient Parameter}
+	\SymbolDefinition{$ C^R $}{Capacity of local generators}
+	
 	\clearpage
 %%% Abstract 
 	\begin{abstract}           % abstract environment, this is optional
@@ -95,9 +97,9 @@
 % \Chapter{INTRODUCTION}
 
 \input{chapter2}
-\input{chapter3}
-\input{chapter4}
-
+%\input{chapter3}
+%\input{chapter4}
+%\input{chapter5}
 
 %
 %%% APPENDIX
@@ -112,16 +114,17 @@
 	\Appendix{Table of Transition Coefficients for the Design of Linear-Phase FIR Filters}
 	
 	Your Appendix will go here !
+	\input{code}
 	
 %	\moretoc
 	
-	\Appendix{Name of your Second Appendix}
-	
-	Your second appendix text....
-	
-	\Appendix{Name of your Third Appendix}
-
-	Your third appendix text....
+%	\Appendix{Name of your Second Appendix}
+%	
+%	Your second appendix text....
+%	
+%	\Appendix{Name of your Third Appendix}
+%
+%	Your third appendix text....
 	
 	
 \bibliographystyle{plain}
