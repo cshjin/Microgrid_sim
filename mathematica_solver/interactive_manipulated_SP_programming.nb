@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       157,          7]
-NotebookDataLength[     26159,        561]
-NotebookOptionsPosition[     25802,        544]
-NotebookOutlinePosition[     26145,        559]
-CellTagsIndexPosition[     26102,        556]
+NotebookDataLength[     34584,        771]
+NotebookOptionsPosition[     34164,        752]
+NotebookOutlinePosition[     34528,        768]
+CellTagsIndexPosition[     34485,        765]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -24,6 +24,145 @@ change if change time and weather, also it will tell us the quantitive fact \
 of the change in the model.",
  FontWeight->"Bold"]], "Text",
  CellChangeTimes->{{3.602208276206174*^9, 3.6022083762698965`*^9}}],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"d", " ", "=", " ", 
+   RowBox[{"Import", "[", 
+    RowBox[{"\"\<wt_data.csv\>\"", ",", "\"\<CSV\>\"", ",", 
+     RowBox[{
+     "Path", "\[Rule]", 
+      "\"\<E:\\\\Dropbox\\\\GitHub\\\\microgrid_sim\\\\mathematica_solver\>\"\
+"}], ",", 
+     RowBox[{"\"\<HeaderLines\>\"", "\[Rule]", "1"}]}], "]"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"windSpeed", " ", "=", " ", 
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      RowBox[{"d", "[", 
+       RowBox[{"[", 
+        RowBox[{"All", ",", "20"}], "]"}], "]"}], "/", "10"}], "*", 
+     "0.44704"}], "//", "N"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"solarRadi", " ", "=", " ", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+      "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", 
+       "0", ",", "0", ",", "0", ",", "0", ",", "0"}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", 
+       "0", ",", "0", ",", "0", ",", "0", ",", "0"}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", 
+       "0", ",", "0", ",", "0", ",", "0", ",", "0"}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", 
+       "0", ",", "0", ",", "0", ",", "0", ",", "0"}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "0", ",", "0", ",", "0", ",", "0", ",", "12", ",", "43", ",", "13", ",",
+        "0", ",", "0", ",", "0", ",", "0", ",", "0"}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "0", ",", "0", ",", "1", ",", "24", ",", "94", ",", "146", ",", "114", 
+       ",", "16", ",", "17", ",", "0", ",", "0", ",", "0"}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "0", ",", "3", ",", "66", ",", "216", ",", "202", ",", "247", ",", 
+       "282", ",", "216", ",", "142", ",", "37", ",", "9", ",", "0"}], "}"}], 
+     ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "40", ",", "108", ",", "217", ",", "273", ",", "202", ",", "305", ",", 
+       "370", ",", "338", ",", "309", ",", "240", ",", "145", ",", "30"}], 
+      "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "191", ",", "234", ",", "282", ",", "328", ",", "281", ",", "370", ",", 
+       "434", ",", "401", ",", "402", ",", "342", ",", "353", ",", "263"}], 
+      "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "213", ",", "305", ",", "302", ",", "328", ",", "299", ",", "425", ",", 
+       "433", ",", "449", ",", "445", ",", "337", ",", "422", ",", "330"}], 
+      "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "254", ",", "334", ",", "304", ",", "345", ",", "375", ",", "402", ",", 
+       "515", ",", "490", ",", "460", ",", "350", ",", "491", ",", "387"}], 
+      "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "310", ",", "311", ",", "328", ",", "326", ",", "457", ",", "418", ",", 
+       "487", ",", "444", ",", "505", ",", "374", ",", "507", ",", "426"}], 
+      "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "301", ",", "313", ",", "314", ",", "285", ",", "446", ",", "459", ",", 
+       "513", ",", "495", ",", "465", ",", "352", ",", "478", ",", "388"}], 
+      "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "229", ",", "335", ",", "291", ",", "303", ",", "450", ",", "448", ",", 
+       "424", ",", "453", ",", "487", ",", "301", ",", "437", ",", "334"}], 
+      "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "257", ",", "310", ",", "250", ",", "299", ",", "425", ",", "408", ",", 
+       "430", ",", "422", ",", "476", ",", "276", ",", "359", ",", "307"}], 
+      "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "219", ",", "280", ",", "204", ",", "289", ",", "402", ",", "379", ",", 
+       "395", ",", "395", ",", "441", ",", "291", ",", "212", ",", "210"}], 
+      "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "68", ",", "129", ",", "140", ",", "225", ",", "332", ",", "335", ",", 
+       "305", ",", "348", ",", "299", ",", "123", ",", "10", ",", "0"}], 
+      "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "0", ",", "9", ",", "36", ",", "157", ",", "259", ",", "273", ",", 
+       "265", ",", "221", ",", "105", ",", "0", ",", "0", ",", "0"}], "}"}], 
+     ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "0", ",", "0", ",", "0", ",", "8", ",", "93", ",", "156", ",", "145", 
+       ",", "48", ",", "0", ",", "0", ",", "0", ",", "0"}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", 
+       "0", ",", "0", ",", "0", ",", "0", ",", "0"}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", 
+       "0", ",", "0", ",", "0", ",", "0", ",", "0"}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", 
+       "0", ",", "0", ",", "0", ",", "0", ",", "0"}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", 
+       "0", ",", "0", ",", "0", ",", "0", ",", "0"}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+      "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", "0", ",", 
+       "0", ",", "0", ",", "0", ",", "0", ",", "0"}], "}"}]}], "}"}]}], 
+  ";"}]}], "Input",
+ CellChangeTimes->{{3.603463448680473*^9, 3.60346347661207*^9}, {
+  3.603463544814972*^9, 3.603463549770255*^9}, {3.603464327205722*^9, 
+  3.60346434448071*^9}, {3.6034645873306*^9, 3.603464588068642*^9}, {
+  3.6034646434768114`*^9, 3.60346464519991*^9}, {3.603467533390795*^9, 
+  3.603467538059062*^9}, {3.6034755848639536`*^9, 3.60347558515497*^9}}],
 
 Cell[CellGroupData[{
 
@@ -46,12 +185,18 @@ Cell[BoxData[
       RowBox[{"If", "[", 
        RowBox[{
         RowBox[{
-         RowBox[{"7", "\[LessEqual]", " ", "t", "<", "11"}], "||", 
-         RowBox[{"17", "<", "t", "\[LessEqual]", " ", "21"}]}], ",", "0.099", 
-        ",", 
+         RowBox[{"7", "\[LessEqual]", " ", 
+          RowBox[{"Mod", "[", 
+           RowBox[{"t", ",", "24"}], "]"}], "<", "11"}], "||", 
+         RowBox[{"17", "<", 
+          RowBox[{"Mod", "[", 
+           RowBox[{"t", ",", "24"}], "]"}], "\[LessEqual]", " ", "21"}]}], 
+        ",", "0.099", ",", 
         RowBox[{"If", "[", 
          RowBox[{
-          RowBox[{"11", "\[LessEqual]", "t", "\[LessEqual]", " ", "17"}], ",",
+          RowBox[{"11", "\[LessEqual]", 
+           RowBox[{"Mod", "[", 
+            RowBox[{"t", ",", "24"}], "]"}], "\[LessEqual]", " ", "17"}], ",",
            "0.081", ",", "0.051"}], "]"}]}], "]"}]}], ";", 
      "\[IndentingNewLine]", 
      RowBox[{"sellPrice", " ", "=", " ", 
@@ -62,15 +207,22 @@ Cell[BoxData[
        RowBox[{
         RowBox[{
          RowBox[{"7", "\[LessEqual]", " ", 
-          RowBox[{"t", "+", "1"}], "<", "11"}], "||", 
+          RowBox[{
+           RowBox[{"Mod", "[", 
+            RowBox[{"t", ",", "24"}], "]"}], "+", "1"}], "<", "11"}], "||", 
          RowBox[{"17", "<", 
-          RowBox[{"t", "+", "1"}], "\[LessEqual]", " ", "21"}]}], ",", 
-        "0.099", ",", 
+          RowBox[{
+           RowBox[{"Mod", "[", 
+            RowBox[{"t", ",", "24"}], "]"}], "+", "1"}], "\[LessEqual]", " ", 
+          "21"}]}], ",", "0.099", ",", 
         RowBox[{"If", "[", 
          RowBox[{
           RowBox[{"11", "\[LessEqual]", 
-           RowBox[{"t", "+", "1"}], "\[LessEqual]", " ", "17"}], ",", "0.081",
-           ",", "0.051"}], "]"}]}], "]"}]}], ";", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"Mod", "[", 
+             RowBox[{"t", ",", "24"}], "]"}], "+", "1"}], "\[LessEqual]", " ",
+            "17"}], ",", "0.081", ",", "0.051"}], "]"}]}], "]"}]}], ";", 
+     "\[IndentingNewLine]", 
      RowBox[{"sellPriceTPlus", " ", "=", " ", 
       RowBox[{"0.8", "*", "buyPriceTPlus"}]}], ";", "\[IndentingNewLine]", 
      RowBox[{"(*", 
@@ -97,6 +249,61 @@ Cell[BoxData[
          RowBox[{"{", 
           RowBox[{"0", ",", "100"}], "}"}], "]"}]}], ";"}], "*)"}], 
      "\[IndentingNewLine]", 
+     RowBox[{"m", " ", "=", " ", 
+      RowBox[{
+       RowBox[{"DateString", "[", 
+        RowBox[{
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"s", "[", 
+            RowBox[{"[", 
+             RowBox[{"10", ",", "1"}], "]"}], "]"}], ",", 
+           RowBox[{"{", 
+            RowBox[{
+            "\"\<Year\>\"", ",", "\"\<Month\>\"", ",", "\"\<Day\>\"", ",", 
+             "\"\< \>\"", ",", "\"\<Hour\>\"", ",", "\"\<:\>\"", ",", 
+             "\"\<Minute\>\""}], "}"}]}], "}"}], ",", "\"\<Month\>\""}], 
+        "]"}], "//", "ToExpression"}]}], ";", "\[IndentingNewLine]", 
+     RowBox[{"avaiableResource1", " ", "=", " ", 
+      RowBox[{
+       RowBox[{"0.25", "*", "1.27", "*", "25", "*", "Pi", "*", 
+        RowBox[{
+         RowBox[{"windSpeed", "[", 
+          RowBox[{"[", "t", "]"}], "]"}], "^", "3"}]}], "+", 
+       RowBox[{"1.2", "*", "100", "*", 
+        RowBox[{"solarRadi", "[", 
+         RowBox[{"[", 
+          RowBox[{
+           RowBox[{
+            RowBox[{"Mod", "[", 
+             RowBox[{"t", ",", "24"}], "]"}], "+", "1"}], ",", "m"}], "]"}], 
+         "]"}]}]}]}], ";", "\[IndentingNewLine]", 
+     RowBox[{"(*", 
+      RowBox[{
+       RowBox[{
+       "If", " ", "it", " ", "is", " ", "the", " ", "last", " ", "time", " ", 
+        "of", " ", "the", " ", "sequence"}], ",", " ", 
+       RowBox[{"then", " ", "pick", " ", "the", " ", "first", " ", "one"}], 
+       ",", " ", 
+       RowBox[{"change", " ", "it", " ", "to", " ", "a", " ", "loop"}]}], 
+      "\[IndentingNewLine]", "\[IndentingNewLine]", "*)"}], 
+     "\[IndentingNewLine]", 
+     RowBox[{"avaiableResource2", "=", 
+      RowBox[{
+       RowBox[{"0.25", "*", "1.27", "*", "25", "*", "Pi", "*", 
+        RowBox[{
+         RowBox[{"windSpeed", "[", 
+          RowBox[{"[", 
+           RowBox[{"t", "+", "1"}], "]"}], "]"}], "^", "3"}]}], " ", "+", 
+       RowBox[{"1.2", "*", "100", "*", 
+        RowBox[{"solarRadi", "[", 
+         RowBox[{"[", 
+          RowBox[{
+           RowBox[{
+            RowBox[{"Mod", "[", 
+             RowBox[{
+              RowBox[{"t", "+", "1"}], ",", "24"}], "]"}], "+", "1"}], ",", 
+           "m"}], "]"}], "]"}]}]}]}], ";", "\[IndentingNewLine]", 
      RowBox[{"capBat", " ", "=", " ", "100"}], ";", "\[IndentingNewLine]", 
      RowBox[{"capRes", " ", "=", " ", "400"}], ";", " ", 
      "\[IndentingNewLine]", 
@@ -336,75 +543,60 @@ Cell[BoxData[
          "yBC3", ",", "yBG3"}], "}"}]}], "]"}]}], "\[IndentingNewLine]", 
     "}"}], ",", 
    RowBox[{"{", 
-    RowBox[{"t", ",", "0", ",", "23", ",", "1"}], "}"}], ",", 
+    RowBox[{"t", ",", "1", ",", "8759", ",", "1"}], "}"}], ",", 
    RowBox[{"{", 
     RowBox[{"c", ",", 
      RowBox[{"{", 
       RowBox[{"\"\<N\>\"", ",", "\"\<A\>\"", ",", "\"\<M\>\""}], "}"}]}], 
     "}"}], ",", 
    RowBox[{"{", 
-    RowBox[{"avaiableResource1", ",", "100", ",", "400", ",", "10", ",", 
+    RowBox[{"demand1", ",", "2000", ",", "20000", ",", "10", ",", 
      RowBox[{"Appearance", "\[Rule]", " ", "\"\<Open\>\""}]}], "}"}], ",", 
    RowBox[{"{", 
-    RowBox[{"avaiableResource2", ",", "100", ",", "400", ",", "10", ",", 
-     RowBox[{"Appearance", "\[Rule]", " ", "\"\<Open\>\""}]}], "}"}], ",", 
-   RowBox[{"{", 
-    RowBox[{"demand1", ",", "100", ",", "500", ",", "10", ",", 
-     RowBox[{"Appearance", "\[Rule]", " ", "\"\<Open\>\""}]}], "}"}], ",", 
-   RowBox[{"{", 
-    RowBox[{"demand2", ",", "100", ",", "500", ",", "10", ",", 
+    RowBox[{"demand2", ",", "2000", ",", "20000", ",", "10", ",", 
      RowBox[{"Appearance", "\[Rule]", " ", "\"\<Open\>\""}]}], "}"}], ",", 
    RowBox[{"{", 
     RowBox[{"iniInBat", ",", "0", ",", "100", ",", "5", ",", 
      RowBox[{"Appearance", "\[Rule]", " ", "\"\<Open\>\""}]}], "}"}]}], 
   "]"}]], "Input",
- CellChangeTimes->{{3.602205454144761*^9, 3.60220548140132*^9}, {
-  3.6022055601698256`*^9, 3.6022055970389338`*^9}, {3.602205650715004*^9, 
-  3.602205675032395*^9}, {3.602206025787457*^9, 3.602206081149624*^9}, {
-  3.6022063113377895`*^9, 3.602206353815219*^9}, {3.6022063907423315`*^9, 
-  3.6022065484113493`*^9}, {3.602259983372199*^9, 3.6022599889102087`*^9}, {
-  3.6022613193822126`*^9, 3.6022613768215137`*^9}, {3.6022616422616396`*^9, 
-  3.602261656863265*^9}, {3.602261760915448*^9, 3.602261800452718*^9}}],
+ CellChangeTimes->CompressedData["
+1:eJxTTMoPSmViYGAQB2IQ/WjhkcSV1145zr2ukwqizfJZ80H0J7uFxSA64GFY
+FYhO5EysBdE3jSxXgugdJ1U2gGid86/OgGg3MatLIFrv4PVrIPqYZu8rEM33
+8jXjESCdpzCXCUSLWb9ZAaKve0ptANFR8R4XQfS9+dKXwXxv2QcgelUN31MQ
+vYLrxHT+m68c1y7UnwGio1a/3g+iD9RlHgHRLaW/LoNoiftSN0C0X/xzCQEg
+vYFRSwFEz1vPpQqib7XGg+m++y91QLROOocuiOYQlnEA0VJ7FcG0jbvNMbD+
+mWznQPS0tHm3QHRVfskjEF3gPf05iNbaPvE9iJ565LCsIJDOXmwiB6J3nnxq
+DKKv+Ipbgmh9P+NEEG31+mYKiAYAYSjGaA==
+  "]],
 
 Cell[BoxData[
  TagBox[
   StyleBox[
-   DynamicModuleBox[{$CellContext`avaiableResource1$$ = 
-    320, $CellContext`avaiableResource2$$ = 130, $CellContext`c$$ = 
-    "N", $CellContext`demand1$$ = 160, $CellContext`demand2$$ = 
-    320, $CellContext`iniInBat$$ = 10, $CellContext`t$$ = 17, Typeset`show$$ =
-     True, Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
+   DynamicModuleBox[{$CellContext`c$$ = "A", $CellContext`demand1$$ = 
+    4100, $CellContext`demand2$$ = 15900, $CellContext`iniInBat$$ = 
+    25, $CellContext`t$$ = 4577, Typeset`show$$ = True, 
+    Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
     Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
     "\"untitled\"", Typeset`specs$$ = {{
-      Hold[$CellContext`t$$], 0, 23, 1}, {
+      Hold[$CellContext`t$$], 1, 8759, 1}, {
       Hold[$CellContext`c$$], {"N", "A", "M"}}, {
-      Hold[$CellContext`avaiableResource1$$], 100, 400, 10}, {
-      Hold[$CellContext`avaiableResource2$$], 100, 400, 10}, {
-      Hold[$CellContext`demand1$$], 100, 500, 10}, {
-      Hold[$CellContext`demand2$$], 100, 500, 10}, {
+      Hold[$CellContext`demand1$$], 2000, 20000, 10}, {
+      Hold[$CellContext`demand2$$], 2000, 20000, 10}, {
       Hold[$CellContext`iniInBat$$], 0, 100, 5}}, Typeset`size$$ = {
-    888.5, {44., 12.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
-    Typeset`skipInitDone$$ = True, $CellContext`t$21918$$ = 
-    0, $CellContext`c$21919$$ = 0, $CellContext`avaiableResource1$21920$$ = 
-    0, $CellContext`avaiableResource2$21921$$ = 
-    0, $CellContext`demand1$21922$$ = 0, $CellContext`demand2$21923$$ = 
-    0, $CellContext`iniInBat$21924$$ = 0}, 
+    930.5, {44., 12.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
+    Typeset`skipInitDone$$ = True, $CellContext`t$442393$$ = 
+    0, $CellContext`c$442394$$ = 0, $CellContext`demand1$442395$$ = 
+    0, $CellContext`demand2$442396$$ = 0, $CellContext`iniInBat$442397$$ = 0}, 
     DynamicBox[Manipulate`ManipulateBoxes[
      1, StandardForm, 
-      "Variables" :> {$CellContext`avaiableResource1$$ = 
-        100, $CellContext`avaiableResource2$$ = 100, $CellContext`c$$ = 
-        "N", $CellContext`demand1$$ = 100, $CellContext`demand2$$ = 
-        100, $CellContext`iniInBat$$ = 0, $CellContext`t$$ = 0}, 
-      "ControllerVariables" :> {
-        Hold[$CellContext`t$$, $CellContext`t$21918$$, 0], 
-        Hold[$CellContext`c$$, $CellContext`c$21919$$, 0], 
-        Hold[$CellContext`avaiableResource1$$, \
-$CellContext`avaiableResource1$21920$$, 0], 
-        Hold[$CellContext`avaiableResource2$$, \
-$CellContext`avaiableResource2$21921$$, 0], 
-        Hold[$CellContext`demand1$$, $CellContext`demand1$21922$$, 0], 
-        Hold[$CellContext`demand2$$, $CellContext`demand2$21923$$, 0], 
-        Hold[$CellContext`iniInBat$$, $CellContext`iniInBat$21924$$, 0]}, 
+      "Variables" :> {$CellContext`c$$ = "N", $CellContext`demand1$$ = 
+        2000, $CellContext`demand2$$ = 2000, $CellContext`iniInBat$$ = 
+        0, $CellContext`t$$ = 1}, "ControllerVariables" :> {
+        Hold[$CellContext`t$$, $CellContext`t$442393$$, 0], 
+        Hold[$CellContext`c$$, $CellContext`c$442394$$, 0], 
+        Hold[$CellContext`demand1$$, $CellContext`demand1$442395$$, 0], 
+        Hold[$CellContext`demand2$$, $CellContext`demand2$442396$$, 0], 
+        Hold[$CellContext`iniInBat$$, $CellContext`iniInBat$442397$$, 0]}, 
       "OtherVariables" :> {
        Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
         Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
@@ -413,19 +605,32 @@ $CellContext`avaiableResource2$21921$$, 0],
       "Body" :> {$CellContext`markovChainMatrix = {{0.7, 0.2, 0.1}, {0.6, 0.3,
            0.1}, {0.5, 0.4, 0.1}}; $CellContext`buyPrice = If[
            Or[
-            Inequality[7, LessEqual, $CellContext`t$$, Less, 11], 
-            Inequality[17, Less, $CellContext`t$$, LessEqual, 21]], 0.099, 
+            Inequality[7, LessEqual, 
+             Mod[$CellContext`t$$, 24], Less, 11], 
+            Inequality[17, Less, 
+             Mod[$CellContext`t$$, 24], LessEqual, 21]], 0.099, 
            If[
-           11 <= $CellContext`t$$ <= 17, 0.081, 
+           11 <= Mod[$CellContext`t$$, 24] <= 17, 0.081, 
             0.051]]; $CellContext`sellPrice = 
          0.8 $CellContext`buyPrice; $CellContext`buyPriceTPlus = If[
            Or[
-            Inequality[7, LessEqual, $CellContext`t$$ + 1, Less, 11], 
-            Inequality[17, Less, $CellContext`t$$ + 1, LessEqual, 21]], 0.099, 
+            Inequality[7, LessEqual, Mod[$CellContext`t$$, 24] + 1, Less, 11], 
+            Inequality[
+            17, Less, Mod[$CellContext`t$$, 24] + 1, LessEqual, 21]], 0.099, 
            If[
-           11 <= $CellContext`t$$ + 1 <= 17, 0.081, 
+           11 <= Mod[$CellContext`t$$, 24] + 1 <= 17, 0.081, 
             0.051]]; $CellContext`sellPriceTPlus = 
-         0.8 $CellContext`buyPriceTPlus; $CellContext`capBat = 
+         0.8 $CellContext`buyPriceTPlus; $CellContext`m = ToExpression[
+           DateString[{
+             Part[$CellContext`s, 10, 1], {
+             "Year", "Month", "Day", " ", "Hour", ":", "Minute"}}, 
+            "Month"]]; $CellContext`avaiableResource1 = 
+         0.25 1.27 25 Pi Part[$CellContext`windSpeed, $CellContext`t$$]^3 + 
+          1.2 100 Part[$CellContext`solarRadi, Mod[$CellContext`t$$, 24] + 
+             1, $CellContext`m]; $CellContext`avaiableResource2 = 
+         0.25 1.27 25 Pi Part[$CellContext`windSpeed, $CellContext`t$$ + 1]^3 + 
+          1.2 100 Part[$CellContext`solarRadi, Mod[$CellContext`t$$ + 1, 24] + 
+             1, $CellContext`m]; $CellContext`capBat = 
          100; $CellContext`capRes = 400; 
         Minimize[{($CellContext`xGB + $CellContext`xGC) $CellContext`buyPrice + \
 ($CellContext`iniInBat$$ + $CellContext`xGB + $CellContext`xRB - \
@@ -440,7 +645,6 @@ $CellContext`sellPrice + If[$CellContext`c$$ == "N", 0.7,
 $CellContext`buyPriceTPlus + (($CellContext`iniInBat$$ + $CellContext`xGB + \
 $CellContext`xRB - $CellContext`xBC - $CellContext`xBG) + $CellContext`yGB1 + \
 $CellContext`yRB1 - $CellContext`yBC1 - $CellContext`yBG1) 
-              
               0.001 + (($CellContext`iniInBat$$ + $CellContext`xGB + \
 $CellContext`xRB - $CellContext`xBC - $CellContext`xBG) + $CellContext`yGB1 + \
 $CellContext`yRB1 + $CellContext`yBC1 + $CellContext`yBG1) 
@@ -474,7 +678,7 @@ $CellContext`demand1$$,
             0 <= $CellContext`iniInBat$$ + $CellContext`xRB + \
 $CellContext`xGB - $CellContext`xBG - $CellContext`xBC <= \
 $CellContext`capBat, $CellContext`xRG + $CellContext`xRB + $CellContext`xRC == \
-$CellContext`avaiableResource1$$, $CellContext`xGB >= 0, $CellContext`xGC >= 
+$CellContext`avaiableResource1, $CellContext`xGB >= 0, $CellContext`xGC >= 
             0, $CellContext`xRB >= 0, $CellContext`xRC >= 0, $CellContext`xRG >= 
             0, $CellContext`xBC >= 0, $CellContext`xBG >= 
             0, $CellContext`yGB1 >= 0, $CellContext`yGC1 >= 
@@ -487,7 +691,7 @@ $CellContext`xRB - $CellContext`xBC - $CellContext`xBG) <= $CellContext`yRB1 + \
 $CellContext`yGB1 - $CellContext`yBG1 - $CellContext`yBC1 <= \
 $CellContext`capBat - ($CellContext`iniInBat$$ + $CellContext`xGB + \
 $CellContext`xRB - $CellContext`xBC - $CellContext`xBG), $CellContext`yRG1 + \
-$CellContext`yRB1 + $CellContext`yRC1 == $CellContext`avaiableResource2$$, \
+$CellContext`yRB1 + $CellContext`yRC1 == $CellContext`avaiableResource2, \
 $CellContext`yGB2 >= 0, $CellContext`yGC2 >= 0, $CellContext`yRB2 >= 
             0, $CellContext`yRC2 >= 0, $CellContext`yRG2 >= 
             0, $CellContext`yBC2 >= 0, $CellContext`yBG2 >= 
@@ -497,7 +701,7 @@ $CellContext`xRB - $CellContext`xBC - $CellContext`xBG) <= $CellContext`yRB2 + \
 $CellContext`yGB2 - $CellContext`yBG2 - $CellContext`yBC2 <= \
 $CellContext`capBat - ($CellContext`iniInBat$$ + $CellContext`xGB + \
 $CellContext`xRB - $CellContext`xBC - $CellContext`xBG), $CellContext`yRG2 + \
-$CellContext`yRB2 + $CellContext`yRC2 == $CellContext`avaiableResource2$$/
+$CellContext`yRB2 + $CellContext`yRC2 == $CellContext`avaiableResource2/
              2, $CellContext`yGB3 >= 0, $CellContext`yGC3 >= 
             0, $CellContext`yRB3 >= 0, $CellContext`yRC3 >= 
             0, $CellContext`yRG3 >= 0, $CellContext`yBC3 >= 
@@ -508,7 +712,7 @@ $CellContext`xRB - $CellContext`xBC - $CellContext`xBG) <= $CellContext`yRB3 + \
 $CellContext`yGB3 - $CellContext`yBG3 - $CellContext`yBC3 <= \
 $CellContext`capBat - ($CellContext`iniInBat$$ + $CellContext`xGB + \
 $CellContext`xRB - $CellContext`xBC - $CellContext`xBG), $CellContext`yRG3 + \
-$CellContext`yRB3 + $CellContext`yRC3 == $CellContext`avaiableResource2$$/
+$CellContext`yRB3 + $CellContext`yRC3 == $CellContext`avaiableResource2/
              4]}, {$CellContext`xGB, $CellContext`xGC, $CellContext`xRB, \
 $CellContext`xRC, $CellContext`xRG, $CellContext`xBC, $CellContext`xBG, \
 $CellContext`yGB1, $CellContext`yGC1, $CellContext`yRB1, $CellContext`yRC1, \
@@ -517,14 +721,13 @@ $CellContext`yGC2, $CellContext`yRB2, $CellContext`yRC2, $CellContext`yRG2, \
 $CellContext`yBC2, $CellContext`yBG2, $CellContext`yGB3, $CellContext`yGC3, \
 $CellContext`yRB3, $CellContext`yRC3, $CellContext`yRG3, $CellContext`yBC3, \
 $CellContext`yBG3}]}, 
-      "Specifications" :> {{$CellContext`t$$, 0, 23, 1}, {$CellContext`c$$, {
-         "N", "A", "M"}}, {$CellContext`avaiableResource1$$, 100, 400, 10, 
-         Appearance -> "Open"}, {$CellContext`avaiableResource2$$, 100, 400, 
-         10, Appearance -> "Open"}, {$CellContext`demand1$$, 100, 500, 10, 
-         Appearance -> "Open"}, {$CellContext`demand2$$, 100, 500, 10, 
-         Appearance -> "Open"}, {$CellContext`iniInBat$$, 0, 100, 5, 
-         Appearance -> "Open"}}, "Options" :> {}, "DefaultOptions" :> {}],
-     ImageSizeCache->{940., {226., 231.}},
+      "Specifications" :> {{$CellContext`t$$, 1, 8759, 
+         1}, {$CellContext`c$$, {"N", "A", "M"}}, {$CellContext`demand1$$, 
+         2000, 20000, 10, Appearance -> "Open"}, {$CellContext`demand2$$, 
+         2000, 20000, 10, Appearance -> "Open"}, {$CellContext`iniInBat$$, 0, 
+         100, 5, Appearance -> "Open"}}, "Options" :> {}, 
+      "DefaultOptions" :> {}],
+     ImageSizeCache->{982., {174., 179.}},
      SingleEvaluation->True],
     Deinitialization:>None,
     DynamicModuleValues:>{},
@@ -539,11 +742,17 @@ $CellContext`yBG3}]},
    3.602206053482041*^9, 3.602206082158681*^9}, 3.602206313143893*^9, 
    3.6022063824228554`*^9, 3.6022065500944457`*^9, 3.6022110937343273`*^9, 
    3.602259997209423*^9, 3.6022613807371206`*^9, 3.6022616628848763`*^9, 
-   3.602261804993126*^9}]
+   3.602261804993126*^9, 3.603297973111185*^9, 3.6034631063968954`*^9, {
+   3.6034645684595203`*^9, 3.6034645977311945`*^9}, 3.6034646536713943`*^9, 
+   3.603465787846266*^9, 3.6034658478866997`*^9, 3.603466011501058*^9, 
+   3.6034660494122267`*^9, 3.6034660858363094`*^9, 3.603466116032037*^9, 
+   3.6034664833910484`*^9, 3.6034675989575453`*^9, {3.6034749560999904`*^9, 
+   3.603474984326605*^9}, 3.6034755954615593`*^9}]
 }, Open  ]]
 },
 WindowSize->{1264, 675},
 WindowMargins->{{0, Automatic}, {Automatic, 0}},
+ShowSelection->True,
 FrontEndVersion->"9.0 for Microsoft Windows (64-bit) (January 25, 2013)",
 StyleDefinitions->"Default.nb"
 ]
@@ -559,9 +768,10 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[557, 20, 353, 5, 49, "Text"],
+Cell[913, 27, 5727, 137, 252, "Input"],
 Cell[CellGroupData[{
-Cell[935, 29, 14571, 337, 892, "Input"],
-Cell[15509, 368, 10277, 173, 506, "Output"]
+Cell[6665, 168, 16812, 401, 992, "Input"],
+Cell[23480, 571, 10668, 178, 402, "Output"]
 }, Open  ]]
 }
 ]
