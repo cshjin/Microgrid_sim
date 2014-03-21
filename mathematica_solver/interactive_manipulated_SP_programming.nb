@@ -10,14 +10,22 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       157,          7]
-NotebookDataLength[     34584,        771]
-NotebookOptionsPosition[     34164,        752]
-NotebookOutlinePosition[     34528,        768]
-CellTagsIndexPosition[     34485,        765]
+NotebookDataLength[     24598,        605]
+NotebookOptionsPosition[     24141,        585]
+NotebookOutlinePosition[     24507,        601]
+CellTagsIndexPosition[     24464,        598]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
+
+Cell[CellGroupData[{
+Cell["\<\
+Manipulated weather two stage SP\
+\>", "Subtitle",
+ CellChangeTimes->{{3.60409683556299*^9, 3.604096843617451*^9}, {
+  3.604098916009985*^9, 3.604098948343835*^9}}],
+
 Cell[TextData[StyleBox["This is manipulated example, set time, weather \
 condition, and its correlated demand, local resources. To see what will \
 change if change time and weather, also it will tell us the quantitive fact \
@@ -30,10 +38,8 @@ Cell[BoxData[{
   RowBox[{"d", " ", "=", " ", 
    RowBox[{"Import", "[", 
     RowBox[{"\"\<wt_data.csv\>\"", ",", "\"\<CSV\>\"", ",", 
-     RowBox[{
-     "Path", "\[Rule]", 
-      "\"\<E:\\\\Dropbox\\\\GitHub\\\\microgrid_sim\\\\mathematica_solver\>\"\
-"}], ",", 
+     RowBox[{"Path", "\[Rule]", 
+      RowBox[{"NotebookDirectory", "[", "]"}]}], ",", 
      RowBox[{"\"\<HeaderLines\>\"", "\[Rule]", "1"}]}], "]"}]}], 
   ";"}], "\[IndentingNewLine]", 
  RowBox[{
@@ -162,9 +168,11 @@ Cell[BoxData[{
   3.603463544814972*^9, 3.603463549770255*^9}, {3.603464327205722*^9, 
   3.60346434448071*^9}, {3.6034645873306*^9, 3.603464588068642*^9}, {
   3.6034646434768114`*^9, 3.60346464519991*^9}, {3.603467533390795*^9, 
-  3.603467538059062*^9}, {3.6034755848639536`*^9, 3.60347558515497*^9}}],
-
-Cell[CellGroupData[{
+  3.603467538059062*^9}, {3.6034755848639536`*^9, 3.60347558515497*^9}, {
+  3.6039272999650097`*^9, 3.603927344553252*^9}, {3.603927389556604*^9, 
+  3.6039273935452833`*^9}, {3.603927516225691*^9, 3.603927560506034*^9}, {
+  3.603928349198456*^9, 3.6039284153717747`*^9}, {3.603931029228194*^9, 
+  3.6039310363773613`*^9}, {3.604089981561964*^9, 3.6040899829050407`*^9}}],
 
 Cell[BoxData[
  RowBox[{"Manipulate", "[", 
@@ -255,7 +263,7 @@ Cell[BoxData[
         RowBox[{
          RowBox[{"{", 
           RowBox[{
-           RowBox[{"s", "[", 
+           RowBox[{"d", "[", 
             RowBox[{"[", 
              RowBox[{"10", ",", "1"}], "]"}], "]"}], ",", 
            RowBox[{"{", 
@@ -560,198 +568,23 @@ Cell[BoxData[
      RowBox[{"Appearance", "\[Rule]", " ", "\"\<Open\>\""}]}], "}"}]}], 
   "]"}]], "Input",
  CellChangeTimes->CompressedData["
-1:eJxTTMoPSmViYGAQB2IQ/WjhkcSV1145zr2ukwqizfJZ80H0J7uFxSA64GFY
+1:eJxTTMoPSmViYGCQAGIQ/WjhkcSV1145zr2ukwqizfJZ80H0J7uFxSA64GFY
 FYhO5EysBdE3jSxXgugdJ1U2gGid86/OgGg3MatLIFrv4PVrIPqYZu8rEM33
 8jXjESCdpzCXCUSLWb9ZAaKve0ptANFR8R4XQfS9+dKXwXxv2QcgelUN31MQ
 vYLrxHT+m68c1y7UnwGio1a/3g+iD9RlHgHRLaW/LoNoiftSN0C0X/xzCQEg
 vYFRSwFEz1vPpQqib7XGg+m++y91QLROOocuiOYQlnEA0VJ7FcG0jbvNMbD+
 mWznQPS0tHm3QHRVfskjEF3gPf05iNbaPvE9iJ565LCsIJDOXmwiB6J3nnxq
-DKKv+Ipbgmh9P+NEEG31+mYKiAYAYSjGaA==
+DKKv+Ipbgmh9P+NEEG31+mYKiA7d+L7yE5AOEsuoBdEAHWTQEA==
   "]],
 
 Cell[BoxData[
- TagBox[
-  StyleBox[
-   DynamicModuleBox[{$CellContext`c$$ = "A", $CellContext`demand1$$ = 
-    4100, $CellContext`demand2$$ = 15900, $CellContext`iniInBat$$ = 
-    25, $CellContext`t$$ = 4577, Typeset`show$$ = True, 
-    Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
-    Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
-    "\"untitled\"", Typeset`specs$$ = {{
-      Hold[$CellContext`t$$], 1, 8759, 1}, {
-      Hold[$CellContext`c$$], {"N", "A", "M"}}, {
-      Hold[$CellContext`demand1$$], 2000, 20000, 10}, {
-      Hold[$CellContext`demand2$$], 2000, 20000, 10}, {
-      Hold[$CellContext`iniInBat$$], 0, 100, 5}}, Typeset`size$$ = {
-    930.5, {44., 12.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
-    Typeset`skipInitDone$$ = True, $CellContext`t$442393$$ = 
-    0, $CellContext`c$442394$$ = 0, $CellContext`demand1$442395$$ = 
-    0, $CellContext`demand2$442396$$ = 0, $CellContext`iniInBat$442397$$ = 0}, 
-    DynamicBox[Manipulate`ManipulateBoxes[
-     1, StandardForm, 
-      "Variables" :> {$CellContext`c$$ = "N", $CellContext`demand1$$ = 
-        2000, $CellContext`demand2$$ = 2000, $CellContext`iniInBat$$ = 
-        0, $CellContext`t$$ = 1}, "ControllerVariables" :> {
-        Hold[$CellContext`t$$, $CellContext`t$442393$$, 0], 
-        Hold[$CellContext`c$$, $CellContext`c$442394$$, 0], 
-        Hold[$CellContext`demand1$$, $CellContext`demand1$442395$$, 0], 
-        Hold[$CellContext`demand2$$, $CellContext`demand2$442396$$, 0], 
-        Hold[$CellContext`iniInBat$$, $CellContext`iniInBat$442397$$, 0]}, 
-      "OtherVariables" :> {
-       Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
-        Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
-        Typeset`specs$$, Typeset`size$$, Typeset`update$$, Typeset`initDone$$,
-         Typeset`skipInitDone$$}, 
-      "Body" :> {$CellContext`markovChainMatrix = {{0.7, 0.2, 0.1}, {0.6, 0.3,
-           0.1}, {0.5, 0.4, 0.1}}; $CellContext`buyPrice = If[
-           Or[
-            Inequality[7, LessEqual, 
-             Mod[$CellContext`t$$, 24], Less, 11], 
-            Inequality[17, Less, 
-             Mod[$CellContext`t$$, 24], LessEqual, 21]], 0.099, 
-           If[
-           11 <= Mod[$CellContext`t$$, 24] <= 17, 0.081, 
-            0.051]]; $CellContext`sellPrice = 
-         0.8 $CellContext`buyPrice; $CellContext`buyPriceTPlus = If[
-           Or[
-            Inequality[7, LessEqual, Mod[$CellContext`t$$, 24] + 1, Less, 11], 
-            Inequality[
-            17, Less, Mod[$CellContext`t$$, 24] + 1, LessEqual, 21]], 0.099, 
-           If[
-           11 <= Mod[$CellContext`t$$, 24] + 1 <= 17, 0.081, 
-            0.051]]; $CellContext`sellPriceTPlus = 
-         0.8 $CellContext`buyPriceTPlus; $CellContext`m = ToExpression[
-           DateString[{
-             Part[$CellContext`s, 10, 1], {
-             "Year", "Month", "Day", " ", "Hour", ":", "Minute"}}, 
-            "Month"]]; $CellContext`avaiableResource1 = 
-         0.25 1.27 25 Pi Part[$CellContext`windSpeed, $CellContext`t$$]^3 + 
-          1.2 100 Part[$CellContext`solarRadi, Mod[$CellContext`t$$, 24] + 
-             1, $CellContext`m]; $CellContext`avaiableResource2 = 
-         0.25 1.27 25 Pi Part[$CellContext`windSpeed, $CellContext`t$$ + 1]^3 + 
-          1.2 100 Part[$CellContext`solarRadi, Mod[$CellContext`t$$ + 1, 24] + 
-             1, $CellContext`m]; $CellContext`capBat = 
-         100; $CellContext`capRes = 400; 
-        Minimize[{($CellContext`xGB + $CellContext`xGC) $CellContext`buyPrice + \
-($CellContext`iniInBat$$ + $CellContext`xGB + $CellContext`xRB - \
-$CellContext`xBC - $CellContext`xBG) 
-            0.001 + ($CellContext`iniInBat$$ + $CellContext`xGB + \
-$CellContext`xRB + $CellContext`xBC + $CellContext`xBG) 
-            0.002 - ($CellContext`xBG + $CellContext`xRG) \
-$CellContext`sellPrice + If[$CellContext`c$$ == "N", 0.7, 
-              
-              If[$CellContext`c$$ == "A", 0.6, 
-               0.5]] (($CellContext`yGB1 + $CellContext`yGC1) \
-$CellContext`buyPriceTPlus + (($CellContext`iniInBat$$ + $CellContext`xGB + \
-$CellContext`xRB - $CellContext`xBC - $CellContext`xBG) + $CellContext`yGB1 + \
-$CellContext`yRB1 - $CellContext`yBC1 - $CellContext`yBG1) 
-              0.001 + (($CellContext`iniInBat$$ + $CellContext`xGB + \
-$CellContext`xRB - $CellContext`xBC - $CellContext`xBG) + $CellContext`yGB1 + \
-$CellContext`yRB1 + $CellContext`yBC1 + $CellContext`yBG1) 
-              0.002 - ($CellContext`yBG1 + $CellContext`yRG1) \
-$CellContext`sellPriceTPlus) + If[$CellContext`c$$ == "N", 0.2, 
-              
-              If[$CellContext`c$$ == "A", 0.3, 
-               0.4]] (($CellContext`yGB2 + $CellContext`yGC2) \
-$CellContext`buyPriceTPlus + (($CellContext`iniInBat$$ + $CellContext`xGB + \
-$CellContext`xRB - $CellContext`xBC - $CellContext`xBG) + $CellContext`yGB2 + \
-$CellContext`yRB2 - $CellContext`yBC2 - $CellContext`yBG2) 
-              0.001 + (($CellContext`iniInBat$$ + $CellContext`xGB + \
-$CellContext`xRB - $CellContext`xBC - $CellContext`xBG) + $CellContext`yGB2 + \
-$CellContext`yRB2 + $CellContext`yBC2 + $CellContext`yBG2) 
-              0.002 - ($CellContext`yBG2 + $CellContext`yRG2) \
-$CellContext`sellPriceTPlus) + If[$CellContext`c$$ == "N", 0.1, 
-              
-              If[$CellContext`c$$ == "A", 0.1, 
-               0.1]] (($CellContext`yGB3 + $CellContext`yGC3) \
-$CellContext`buyPriceTPlus + (($CellContext`iniInBat$$ + $CellContext`xGB + \
-$CellContext`xRB - $CellContext`xBC - $CellContext`xBG) + $CellContext`yGB3 + \
-$CellContext`yRB3 - $CellContext`yBC3 - $CellContext`yBG3) 
-              0.001 + (($CellContext`iniInBat$$ + $CellContext`xGB + \
-$CellContext`xRB - $CellContext`xBC - $CellContext`xBG) + $CellContext`yGB3 + \
-$CellContext`yRB3 + $CellContext`yBC3 + $CellContext`yBG3) 
-              0.002 - ($CellContext`yBG3 + $CellContext`yRG3) \
-$CellContext`sellPriceTPlus), 
-           
-           And[$CellContext`xBC + $CellContext`xGC + $CellContext`xRC == \
-$CellContext`demand1$$, 
-            0 <= $CellContext`iniInBat$$ + $CellContext`xRB + \
-$CellContext`xGB - $CellContext`xBG - $CellContext`xBC <= \
-$CellContext`capBat, $CellContext`xRG + $CellContext`xRB + $CellContext`xRC == \
-$CellContext`avaiableResource1, $CellContext`xGB >= 0, $CellContext`xGC >= 
-            0, $CellContext`xRB >= 0, $CellContext`xRC >= 0, $CellContext`xRG >= 
-            0, $CellContext`xBC >= 0, $CellContext`xBG >= 
-            0, $CellContext`yGB1 >= 0, $CellContext`yGC1 >= 
-            0, $CellContext`yRB1 >= 0, $CellContext`yRC1 >= 
-            0, $CellContext`yRG1 >= 0, $CellContext`yBC1 >= 
-            0, $CellContext`yBG1 >= 
-            0, $CellContext`yBC1 + $CellContext`yGC1 + $CellContext`yRC1 == \
-$CellContext`demand2$$, -($CellContext`iniInBat$$ + $CellContext`xGB + \
-$CellContext`xRB - $CellContext`xBC - $CellContext`xBG) <= $CellContext`yRB1 + \
-$CellContext`yGB1 - $CellContext`yBG1 - $CellContext`yBC1 <= \
-$CellContext`capBat - ($CellContext`iniInBat$$ + $CellContext`xGB + \
-$CellContext`xRB - $CellContext`xBC - $CellContext`xBG), $CellContext`yRG1 + \
-$CellContext`yRB1 + $CellContext`yRC1 == $CellContext`avaiableResource2, \
-$CellContext`yGB2 >= 0, $CellContext`yGC2 >= 0, $CellContext`yRB2 >= 
-            0, $CellContext`yRC2 >= 0, $CellContext`yRG2 >= 
-            0, $CellContext`yBC2 >= 0, $CellContext`yBG2 >= 
-            0, $CellContext`yBC2 + $CellContext`yGC2 + $CellContext`yRC2 == \
-$CellContext`demand2$$, -($CellContext`iniInBat$$ + $CellContext`xGB + \
-$CellContext`xRB - $CellContext`xBC - $CellContext`xBG) <= $CellContext`yRB2 + \
-$CellContext`yGB2 - $CellContext`yBG2 - $CellContext`yBC2 <= \
-$CellContext`capBat - ($CellContext`iniInBat$$ + $CellContext`xGB + \
-$CellContext`xRB - $CellContext`xBC - $CellContext`xBG), $CellContext`yRG2 + \
-$CellContext`yRB2 + $CellContext`yRC2 == $CellContext`avaiableResource2/
-             2, $CellContext`yGB3 >= 0, $CellContext`yGC3 >= 
-            0, $CellContext`yRB3 >= 0, $CellContext`yRC3 >= 
-            0, $CellContext`yRG3 >= 0, $CellContext`yBC3 >= 
-            0, $CellContext`yBG3 >= 
-            0, $CellContext`yBC3 + $CellContext`yGC3 + $CellContext`yRC3 == \
-$CellContext`demand2$$, -($CellContext`iniInBat$$ + $CellContext`xGB + \
-$CellContext`xRB - $CellContext`xBC - $CellContext`xBG) <= $CellContext`yRB3 + \
-$CellContext`yGB3 - $CellContext`yBG3 - $CellContext`yBC3 <= \
-$CellContext`capBat - ($CellContext`iniInBat$$ + $CellContext`xGB + \
-$CellContext`xRB - $CellContext`xBC - $CellContext`xBG), $CellContext`yRG3 + \
-$CellContext`yRB3 + $CellContext`yRC3 == $CellContext`avaiableResource2/
-             4]}, {$CellContext`xGB, $CellContext`xGC, $CellContext`xRB, \
-$CellContext`xRC, $CellContext`xRG, $CellContext`xBC, $CellContext`xBG, \
-$CellContext`yGB1, $CellContext`yGC1, $CellContext`yRB1, $CellContext`yRC1, \
-$CellContext`yRG1, $CellContext`yBC1, $CellContext`yBG1, $CellContext`yGB2, \
-$CellContext`yGC2, $CellContext`yRB2, $CellContext`yRC2, $CellContext`yRG2, \
-$CellContext`yBC2, $CellContext`yBG2, $CellContext`yGB3, $CellContext`yGC3, \
-$CellContext`yRB3, $CellContext`yRC3, $CellContext`yRG3, $CellContext`yBC3, \
-$CellContext`yBG3}]}, 
-      "Specifications" :> {{$CellContext`t$$, 1, 8759, 
-         1}, {$CellContext`c$$, {"N", "A", "M"}}, {$CellContext`demand1$$, 
-         2000, 20000, 10, Appearance -> "Open"}, {$CellContext`demand2$$, 
-         2000, 20000, 10, Appearance -> "Open"}, {$CellContext`iniInBat$$, 0, 
-         100, 5, Appearance -> "Open"}}, "Options" :> {}, 
-      "DefaultOptions" :> {}],
-     ImageSizeCache->{982., {174., 179.}},
-     SingleEvaluation->True],
-    Deinitialization:>None,
-    DynamicModuleValues:>{},
-    SynchronousInitialization->True,
-    UnsavedVariables:>{Typeset`initDone$$},
-    UntrackedVariables:>{Typeset`size$$}], "Manipulate",
-   Deployed->True,
-   StripOnInput->False],
-  Manipulate`InterpretManipulate[1]]], "Output",
- CellChangeTimes->{
-  3.6022056014501867`*^9, {3.602205662687689*^9, 3.6022056781505733`*^9}, {
-   3.602206053482041*^9, 3.602206082158681*^9}, 3.602206313143893*^9, 
-   3.6022063824228554`*^9, 3.6022065500944457`*^9, 3.6022110937343273`*^9, 
-   3.602259997209423*^9, 3.6022613807371206`*^9, 3.6022616628848763`*^9, 
-   3.602261804993126*^9, 3.603297973111185*^9, 3.6034631063968954`*^9, {
-   3.6034645684595203`*^9, 3.6034645977311945`*^9}, 3.6034646536713943`*^9, 
-   3.603465787846266*^9, 3.6034658478866997`*^9, 3.603466011501058*^9, 
-   3.6034660494122267`*^9, 3.6034660858363094`*^9, 3.603466116032037*^9, 
-   3.6034664833910484`*^9, 3.6034675989575453`*^9, {3.6034749560999904`*^9, 
-   3.603474984326605*^9}, 3.6034755954615593`*^9}]
+ RowBox[{"ClearAll", "[", "\"\<Global`*\>\"", "]"}]], "Input",
+ CellChangeTimes->{{3.6040901327916136`*^9, 3.6040901475974607`*^9}, {
+  3.604090179499285*^9, 3.604090196869279*^9}}]
 }, Open  ]]
 },
-WindowSize->{1264, 675},
-WindowMargins->{{0, Automatic}, {Automatic, 0}},
+WindowSize->{624, 732},
+WindowMargins->{{131, Automatic}, {28, Automatic}},
 ShowSelection->True,
 FrontEndVersion->"9.0 for Microsoft Windows (64-bit) (January 25, 2013)",
 StyleDefinitions->"Default.nb"
@@ -767,11 +600,12 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[557, 20, 353, 5, 49, "Text"],
-Cell[913, 27, 5727, 137, 252, "Input"],
 Cell[CellGroupData[{
-Cell[6665, 168, 16812, 401, 992, "Input"],
-Cell[23480, 571, 10668, 178, 402, "Output"]
+Cell[579, 22, 174, 4, 56, "Subtitle"],
+Cell[756, 28, 353, 5, 68, "Text"],
+Cell[1112, 35, 5984, 139, 552, "Input"],
+Cell[7099, 176, 16828, 401, 1652, "Input"],
+Cell[23930, 579, 195, 3, 31, "Input"]
 }, Open  ]]
 }
 ]

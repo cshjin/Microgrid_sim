@@ -1,0 +1,1225 @@
+%!PS-Adobe-3.0
+%%BoundingBox: 0 0 612 792
+%%HiResBoundingBox: 0 0 612 792
+%%Creator: (Wolfram Mathematica 9.0 for Microsoft Windows (32-bit) (January 25, 2013))(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[     50649,       1198]
+NotebookOptionsPosition[     49020,       1137]
+NotebookOutlinePosition[     49514,       1157]
+CellTagsIndexPosition[     49471,       1154]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+ureEnd
+}bind def
+/Mscale{
+	0 1 0 1
+	5 -1 roll
+	MathScale
+}bind def
+/Plain/Courier findfont def
+/Bold/Courier-Bold findfont def
+/Italic/Courier-Oblique findfont def
+/MathPictureStart{
+	/Mimatrix
+	 matrix currentmatrix
+,
+
+
+	gsave
+	newpath
+	Mleft
+	Mbottom
+	translate
+	/Mtmatrix
+	matrix currentmatrix
+	def
+	Plain
+	Mfontsize scalefont
+	setfont
+	0 setgray
+	0 setlinewidth
+}bind def
+/MathPictureEnd{
+	grestore
+}bind def
+/Mat,
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", " ", 
+   RowBox[{
+   "Definition", " ", "of", " ", "functions", " ", "to", " ", "work", " ", 
+    "on", " ", "simulation", " ", 
+    RowBox[{"part", "."}]}], " ", "*)"}], "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{
+    RowBox[{"wData", " ", "=", " ", 
+     RowBox[{"Import", "[", 
+      RowBox[{"\"\<wt_data.csv\>\"", ",", "\"\<CSV\>\"", ",", 
+       RowBox[{"Path", "\[Rule]", 
+        RowBox[{"NotebookDirectory", "[", "]"}]}], ",", 
+       RowBox[{"\"\<HeaderLines\>\"", "\[Rule]", "1"}]}], "]"}]}], ";"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"solarRadi", " ", "=", " ", 
+     RowBox[{"Import", "[", 
+      RowBox[{"\"\<solar.txt\>\"", ",", "\"\<Table\>\"", ",", 
+       RowBox[{"Path", "\[Rule]", " ", 
+        RowBox[{"NotebookDirectory", "[", "]"}]}]}], "]"}]}], ";"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"markovChainMatrix", " ", "=", " ", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{"0.7", ",", "0.2", ",", "0.1"}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{"0.6", ",", "0.3", ",", "0.1"}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{"0.5", ",", "0.4", ",", "0.1"}], "}"}]}], "}"}]}], ";"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"stateProb", " ", "=", " ", 
+     RowBox[{
+      RowBox[{"markovChainMatrix", "[", 
+       RowBox[{"[", "1", "]"}], "]"}], ".", 
+      RowBox[{"MatrixPower", "[", 
+       RowBox[{"markovChainMatrix", ",", "10"}], "]"}]}]}], ";"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"randomStateSequence", " ", "=", " ", 
+     RowBox[{"RandomChoice", "[", 
+      RowBox[{
+       RowBox[{"stateProb", "\[Rule]", 
+        RowBox[{"{", 
+         RowBox[{"\"\<N\>\"", ",", "\"\<A\>\"", ",", "\"\<M\>\""}], "}"}]}], 
+       ",", 
+       RowBox[{
+        RowBox[{"Dimensions", "[", "wData", "]"}], "[", 
+        RowBox[{"[", "1", "]"}], "]"}]}], "]"}]}], ";"}], 
+   "\[IndentingNewLine]", "\[IndentingNewLine]", 
+   RowBox[{"(*", " ", 
+    RowBox[{"Extract", " ", "wind", " ", "and", " ", "time", " ", "data"}], 
+    " ", "*)"}], 
+   RowBox[{
+    RowBox[{"windSpeed", " ", "=", " ", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"wData", "[", 
+        RowBox[{"[", 
+         RowBox[{"All", ",", "20"}], "]"}], "]"}], "/", "10"}], "*", 
+      "0.44704"}]}], ";"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"month", "=", " ", 
+     RowBox[{
+      RowBox[{"DateString", "[", 
+       RowBox[{
+        RowBox[{"{", 
+         RowBox[{
+          RowBox[{"wData", "[", 
+           RowBox[{"[", 
+            RowBox[{"10", ",", "1"}], "]"}], "]"}], ",", 
+          RowBox[{"{", 
+           RowBox[{
+           "\"\<Year\>\"", ",", "\"\<Month\>\"", ",", "\"\<Day\>\"", ",", 
+            "\"\< \>\"", ",", "\"\<Hour\>\"", ",", "\"\<:\>\"", ",", 
+            "\"\<Minute\>\""}], "}"}]}], "}"}], ",", "\"\<Month\>\""}], "]"}],
+       "//", "ToExpression"}]}], ";"}], "\[IndentingNewLine]", 
+   "\[IndentingNewLine]", 
+   RowBox[{"(*", " ", 
+    RowBox[{"Define", " ", "Price", " ", "of", " ", "buying", " ", "and", " ", 
+     RowBox[{"selling", "."}]}], " ", "*)"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"BuyPrice", "[", "t_", "]"}], ":=", " ", 
+     RowBox[{"(", "\[IndentingNewLine]", 
+      RowBox[{"If", "[", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"7", "\[LessEqual]", " ", 
+          RowBox[{"Mod", "[", 
+           RowBox[{"t", ",", "24"}], "]"}], "<", "11"}], "||", 
+         RowBox[{"17", "<", 
+          RowBox[{"Mod", "[", 
+           RowBox[{"t", ",", "24"}], "]"}], "\[LessEqual]", " ", "21"}]}], 
+        ",", "0.099", ",", 
+        RowBox[{"If", "[", 
+         RowBox[{
+          RowBox[{"11", "\[LessEqual]", 
+           RowBox[{"Mod", "[", 
+            RowBox[{"t", ",", "24"}], "]"}], "\[LessEqual]", " ", "17"}], ",",
+           "0.081", ",", "\[IndentingNewLine]", "0.051"}], "]"}]}], "]"}], 
+      "\[IndentingNewLine]", ")"}]}], ";"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"SellPrice", "[", "t_", "]"}], ":=", " ", 
+     RowBox[{"0.8", "*", 
+      RowBox[{"BuyPrice", "[", "t", "]"}]}]}], ";"}], "\[IndentingNewLine]", 
+   "\[IndentingNewLine]", 
+   RowBox[{"(*", " ", 
+    RowBox[{
+     RowBox[{"Initialize", " ", "stages"}], ",", " ", 
+     RowBox[{"currently", " ", "two", " ", 
+      RowBox[{"stages", "."}]}]}], " ", "*)"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"stageSize", " ", "=", " ", "2"}], ";"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"availableResources", " ", "=", " ", 
+     RowBox[{"Table", "[", 
+      RowBox[{"0", ",", " ", 
+       RowBox[{"{", 
+        RowBox[{"i", ",", "stageSize"}], "}"}]}], "]"}]}], ";"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"demand", " ", "=", " ", 
+     RowBox[{"Table", "[", 
+      RowBox[{"0", ",", 
+       RowBox[{"{", 
+        RowBox[{"i", ",", " ", "stageSize"}], "}"}]}], "]"}]}], ";"}], 
+   "\[IndentingNewLine]", "\[IndentingNewLine]", 
+   RowBox[{"(*", " ", 
+    RowBox[{"Initial", " ", "values", " ", "to", " ", 
+     RowBox[{"parameters", "."}]}], " ", "*)"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"airDensity", " ", "=", " ", "1.27"}], ";"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"windTurbineCoefficientFactor", " ", "=", " ", "0.5"}], ";"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"windTurbineRadius", " ", "=", " ", "5"}], ";"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"solarRadiationFactor", " ", "=", " ", "1.2"}], ";"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"solarPanelSize", " ", "=", " ", "100"}], ";"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"initBatt", " ", "=", "100"}], ";"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"t", "=", "100"}], ";"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"capBat", "=", "100"}], ";"}], "\[IndentingNewLine]", 
+   "\[IndentingNewLine]", 
+   RowBox[{"(*", " ", 
+    RowBox[{
+    "Function", " ", "of", " ", "Available", " ", "Resources", " ", "at", " ",
+      "time", " ", 
+     RowBox[{"t", ":", " ", 
+      RowBox[{
+      "electricity", " ", "power", " ", "from", " ", "wind", " ", "energy", 
+       " ", "and", " ", "solar", " ", "energy"}]}]}], " ", "*)"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"AvailableResource", "[", "t_", "]"}], ":=", 
+     RowBox[{"(", "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{"0.5", "*", "windTurbineCoefficientFactor", "*", 
+        RowBox[{"windTurbineRadius", "^", "2"}], "*", "airDensity", "*", "Pi",
+         "*", 
+        RowBox[{
+         RowBox[{"windSpeed", "[", 
+          RowBox[{"[", "t", "]"}], "]"}], "^", "3"}]}], "+", 
+       RowBox[{"solarRadiationFactor", "*", "solarPanelSize", "*", 
+        RowBox[{"solarRadi", "[", 
+         RowBox[{"[", 
+          RowBox[{
+           RowBox[{
+            RowBox[{"Mod", "[", 
+             RowBox[{"t", ",", "24"}], "]"}], "+", "1"}], ",", "month"}], 
+          "]"}], "]"}]}]}], "\[IndentingNewLine]", ")"}]}], ";"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{"(*", " ", 
+    RowBox[{
+    "Function", " ", "of", " ", "Local", " ", "Demand", " ", "at", " ", 
+     "time", " ", 
+     RowBox[{"t", ":", " ", 
+      RowBox[{
+      "pick", " ", "a", " ", "random", " ", "integer", " ", "from", " ", 
+       "1000", " ", "to", " ", "10000"}]}]}], " ", "*)"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"Demand", "[", "t_", "]"}], ":=", 
+     RowBox[{"(", "\[IndentingNewLine]", 
+      RowBox[{"(*", 
+       RowBox[{"If", "[", 
+        RowBox[{
+         RowBox[{"t", "\[Equal]", "18"}], ",", "100000", ",", 
+         RowBox[{
+          RowBox[{"AvailableResource", "[", "t", "]"}], "+", "1000"}]}], 
+        "]"}], "*)"}], "\[IndentingNewLine]", "2000", "\[IndentingNewLine]", 
+      RowBox[{"(*", 
+       RowBox[{"RandomInteger", "[", 
+        RowBox[{"{", 
+         RowBox[{"1000", ",", "10000"}], "}"}], "]"}], "*)"}], 
+      "\[IndentingNewLine]", ")"}]}], ";"}], "\[IndentingNewLine]", 
+   RowBox[{"(*", " ", 
+    RowBox[{
+    "Function", " ", "of", " ", "unit", " ", "cost", " ", "of", " ", 
+     "reserving", " ", "electricity", " ", "in", " ", 
+     RowBox[{"battery", " ", ":", " ", 
+      RowBox[{"set", " ", "it", " ", "constant"}]}]}], " ", "*)"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"ReserveCost", "[", "t_", "]"}], ":=", 
+     RowBox[{"(", "0.02", ")"}]}], ";"}], "\[IndentingNewLine]", 
+   RowBox[{"(*", " ", 
+    RowBox[{
+    "Function", " ", "of", " ", "unit", " ", "cost", " ", "of", " ", 
+     "transiting", " ", "electricity", " ", "to", " ", "or", " ", "from", " ", 
+     RowBox[{"battery", " ", ":", " ", 
+      RowBox[{"set", " ", "it", " ", "constant"}]}]}], " ", "*)"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"TransitionCost", "[", "t_", "]"}], ":=", 
+     RowBox[{"(", "0.01", ")"}]}], ";"}], "\[IndentingNewLine]", 
+   "\[IndentingNewLine]", 
+   RowBox[{"(*", " ", 
+    RowBox[{
+     RowBox[{
+     "Function", " ", "of", " ", "optimization", " ", "of", " ", "simple", 
+      " ", "two"}], "-", "stage"}], " ", "*)"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"StageMinimize", "[", 
+      RowBox[{"t_", ",", "initBatt_"}], "]"}], ":=", 
+     RowBox[{"(", "\[IndentingNewLine]", 
+      RowBox[{"Minimize", "[", "\[IndentingNewLine]", 
+       RowBox[{
+        RowBox[{"{", "\[IndentingNewLine]", 
+         RowBox[{
+          RowBox[{
+           RowBox[{
+            RowBox[{"(", 
+             RowBox[{"xGB", "+", "xGC"}], ")"}], "*", 
+            RowBox[{"BuyPrice", "[", "t", "]"}]}], "+", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"(", 
+             RowBox[{
+             "initBatt", "+", "xGB", "+", "xRB", "-", "xBC", "-", "xBG"}], 
+             ")"}], "*", 
+            RowBox[{"ReserveCost", "[", "t", "]"}]}], " ", "+", " ", 
+           "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"(", 
+             RowBox[{
+             "initBatt", "+", "xGB", "+", "xRB", "+", "xBC", "+", "xBG"}], 
+             ")"}], "*", 
+            RowBox[{"TransitionCost", "[", "t", "]"}]}], "-", 
+           "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"(", 
+             RowBox[{"xBG", "+", "xRG"}], ")"}], "*", 
+            RowBox[{"SellPrice", "[", "t", "]"}]}], "+", 
+           "\[IndentingNewLine]", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"If", "[", 
+             RowBox[{
+              RowBox[{
+               RowBox[{"randomStateSequence", "[", 
+                RowBox[{"[", "t", "]"}], "]"}], "\[Equal]", "\"\<N\>\""}], 
+              ",", 
+              RowBox[{"markovChainMatrix", "[", 
+               RowBox[{"[", 
+                RowBox[{"1", ",", "1"}], "]"}], "]"}], ",", 
+              "\[IndentingNewLine]", 
+              RowBox[{"If", "[", 
+               RowBox[{
+                RowBox[{
+                 RowBox[{"randomStateSequence", "[", 
+                  RowBox[{"[", "t", "]"}], "]"}], "\[Equal]", "\"\<A\>\""}], 
+                ",", 
+                RowBox[{"markovChainMatrix", "[", 
+                 RowBox[{"[", 
+                  RowBox[{"2", ",", "1"}], "]"}], "]"}], ",", 
+                "\[IndentingNewLine]", 
+                RowBox[{"markovChainMatrix", "[", 
+                 RowBox[{"[", 
+                  RowBox[{"3", ",", "1"}], "]"}], "]"}]}], "]"}]}], "]"}], 
+            "*", 
+            RowBox[{"(", "\[IndentingNewLine]", "\t", 
+             RowBox[{
+              RowBox[{
+               RowBox[{"(", 
+                RowBox[{"yGB1", "+", "yGC1"}], ")"}], "*", 
+               RowBox[{"BuyPrice", "[", 
+                RowBox[{"t", "+", "1"}], "]"}]}], "+", "\[IndentingNewLine]", 
+              "\t", 
+              RowBox[{
+               RowBox[{"(", 
+                RowBox[{
+                 RowBox[{"(", 
+                  RowBox[{
+                  "initBatt", "+", "xGB", "+", "xRB", "-", "xBC", "-", 
+                   "xBG"}], ")"}], "+", "yGB1", "+", "yRB1", "-", "yBC1", "-",
+                  "yBG1"}], ")"}], "*", 
+               RowBox[{"ReserveCost", "[", 
+                RowBox[{"t", "+", "1"}], "]"}]}], "+", "\[IndentingNewLine]", 
+              "\t", 
+              RowBox[{
+               RowBox[{"(", 
+                RowBox[{
+                 RowBox[{"(", 
+                  RowBox[{
+                  "initBatt", "+", "xGB", "+", "xRB", "-", "xBC", "-", 
+                   "xBG"}], ")"}], "+", "yGB1", "+", "yRB1", "+", "yBC1", "+",
+                  "yBG1"}], ")"}], "*", 
+               RowBox[{"TransitionCost", "[", 
+                RowBox[{"t", "+", "1"}], "]"}]}], "-", "\[IndentingNewLine]", 
+              "\t", 
+              RowBox[{
+               RowBox[{"(", 
+                RowBox[{"yBG1", "+", "yRG1"}], ")"}], "*", 
+               RowBox[{"SellPrice", "[", 
+                RowBox[{"t", "+", "1"}], "]"}]}]}], ")"}]}], "+", 
+           "\[IndentingNewLine]", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"If", "[", 
+             RowBox[{
+              RowBox[{
+               RowBox[{"randomStateSequence", "[", 
+                RowBox[{"[", "t", "]"}], "]"}], "\[Equal]", "\"\<N\>\""}], 
+              ",", 
+              RowBox[{"markovChainMatrix", "[", 
+               RowBox[{"[", 
+                RowBox[{"2", ",", "1"}], "]"}], "]"}], ",", 
+              "\[IndentingNewLine]", 
+              RowBox[{"If", "[", 
+               RowBox[{
+                RowBox[{
+                 RowBox[{"randomStateSequence", "[", 
+                  RowBox[{"[", "t", "]"}], "]"}], "\[Equal]", "\"\<A\>\""}], 
+                ",", 
+                RowBox[{"markovChainMatrix", "[", 
+                 RowBox[{"[", 
+                  RowBox[{"2", ",", "2"}], "]"}], "]"}], ",", 
+                "\[IndentingNewLine]", 
+                RowBox[{"markovChainMatrix", "[", 
+                 RowBox[{"3", ",", "2"}], "]"}]}], "]"}]}], "]"}], "*", 
+            RowBox[{"(", "\[IndentingNewLine]", "\t", 
+             RowBox[{
+              RowBox[{
+               RowBox[{"(", 
+                RowBox[{"yGB2", "+", "yGC2"}], ")"}], "*", 
+               RowBox[{"BuyPrice", "[", 
+                RowBox[{"t", "+", "1"}], "]"}]}], "+", "\[IndentingNewLine]", 
+              "\t", 
+              RowBox[{
+               RowBox[{"(", 
+                RowBox[{
+                 RowBox[{"(", 
+                  RowBox[{
+                  "initBatt", "+", "xGB", "+", "xRB", "-", "xBC", "-", 
+                   "xBG"}], ")"}], "+", "yGB2", "+", "yRB2", "-", "yBC2", "-",
+                  "yBG2"}], ")"}], "*", 
+               RowBox[{"ReserveCost", "[", 
+                RowBox[{"t", "+", "1"}], "]"}]}], "+", "  ", 
+              "\[IndentingNewLine]", "\t", 
+              RowBox[{
+               RowBox[{"(", 
+                RowBox[{
+                 RowBox[{"(", 
+                  RowBox[{
+                  "initBatt", "+", "xGB", "+", "xRB", "-", "xBC", "-", 
+                   "xBG"}], ")"}], "+", "yGB2", "+", "yRB2", "+", "yBC2", "+",
+                  "yBG2"}], ")"}], "*", 
+               RowBox[{"TransitionCost", "[", 
+                RowBox[{"t", "+", "1"}], "]"}]}], "-", "\[IndentingNewLine]", 
+              "\t\t", 
+              RowBox[{
+               RowBox[{"(", 
+                RowBox[{"yBG2", "+", "yRG2"}], ")"}], "*", 
+               RowBox[{"SellPrice", "[", 
+                RowBox[{"t", "+", "1"}], "]"}]}]}], ")"}]}], "+", 
+           "\[IndentingNewLine]", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"If", "[", 
+             RowBox[{
+              RowBox[{
+               RowBox[{"randomStateSequence", "[", 
+                RowBox[{"[", "t", "]"}], "]"}], "\[Equal]", "\"\<N\>\""}], 
+              ",", 
+              RowBox[{"markovChainMatrix", "[", 
+               RowBox[{"[", 
+                RowBox[{"3", ",", "1"}], "]"}], "]"}], ",", 
+              "\[IndentingNewLine]", 
+              RowBox[{"If", "[", 
+               RowBox[{
+                RowBox[{
+                 RowBox[{"randomStateSequence", "[", 
+                  RowBox[{"[", "t", "]"}], "]"}], "\[Equal]", "\"\<A\>\""}], 
+                ",", 
+                RowBox[{"markovChainMatrix", "[", 
+                 RowBox[{"[", 
+                  RowBox[{"3", ",", "2"}], "]"}], "]"}], ",", 
+                "\[IndentingNewLine]", 
+                RowBox[{"markovChainMatrix", "[", 
+                 RowBox[{"[", 
+                  RowBox[{"3", ",", "3"}], "]"}], "]"}]}], "]"}]}], "]"}], 
+            "*", 
+            RowBox[{"(", "\[IndentingNewLine]", "\t", 
+             RowBox[{
+              RowBox[{
+               RowBox[{"(", 
+                RowBox[{"yGB3", "+", "yGC3"}], ")"}], "*", 
+               RowBox[{"BuyPrice", "[", 
+                RowBox[{"t", "+", "1"}], "]"}]}], "+", "\[IndentingNewLine]", 
+              "\t", 
+              RowBox[{
+               RowBox[{"(", 
+                RowBox[{
+                 RowBox[{"(", 
+                  RowBox[{
+                  "initBatt", "+", "xGB", "+", "xRB", "-", "xBC", "-", 
+                   "xBG"}], ")"}], "+", "yGB3", "+", "yRB3", "-", "yBC3", "-",
+                  "yBG3"}], ")"}], "*", 
+               RowBox[{"ReserveCost", "[", 
+                RowBox[{"t", "+", "1"}], "]"}]}], "+", "\[IndentingNewLine]", 
+              "\t", 
+              RowBox[{
+               RowBox[{"(", 
+                RowBox[{
+                 RowBox[{"(", 
+                  RowBox[{
+                  "initBatt", "+", "xGB", "+", "xRB", "-", "xBC", "-", 
+                   "xBG"}], ")"}], "+", "yGB3", "+", "yRB3", "+", "yBC3", "+",
+                  "yBG3"}], ")"}], "*", 
+               RowBox[{"TransitionCost", "[", 
+                RowBox[{"t", "+", "1"}], "]"}]}], "-", "\[IndentingNewLine]", 
+              "\t", 
+              RowBox[{
+               RowBox[{"(", 
+                RowBox[{"yBG3", "+", "yRG3"}], ")"}], "*", 
+               RowBox[{"SellPrice", "[", 
+                RowBox[{"t", "+", "1"}], "]"}]}]}], ")"}]}]}], ",", 
+          "\[IndentingNewLine]", "\[IndentingNewLine]", 
+          RowBox[{
+           RowBox[{
+            RowBox[{"xBC", "+", "xGC", "+", "xRC"}], "\[Equal]", 
+            RowBox[{"Demand", "[", "t", "]"}]}], "&&", "\[IndentingNewLine]", 
+           RowBox[{"0", "\[LessEqual]", " ", 
+            RowBox[{
+            "initBatt", "+", "xRB", "+", "xGB", "-", "xBG", "-", "xBC"}], 
+            "\[LessEqual]", " ", "capBat"}], "&&", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"xRG", "+", "xRB", "+", "xRC"}], "\[Equal]", 
+            RowBox[{"AvailableResource", "[", "t", "]"}]}], "&&", 
+           "\[IndentingNewLine]", 
+           RowBox[{"xGB", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"xGC", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"xRB", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"xRC", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"xRG", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"xBC", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"xBG", "\[GreaterEqual]", "0"}], "&&", 
+           "\[IndentingNewLine]", "\[IndentingNewLine]", 
+           "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"yBC1", "+", "yGC1", "+", "yRC1"}], "\[Equal]", 
+            RowBox[{"Demand", "[", 
+             RowBox[{"t", "+", "1"}], "]"}]}], "&&", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"-", 
+             RowBox[{"(", 
+              RowBox[{
+              "initBatt", "+", "xGB", "+", "xRB", "-", "xBC", "-", "xBG"}], 
+              ")"}]}], "\[LessEqual]", " ", 
+            RowBox[{"yRB1", "+", "yGB1", "-", "yBG1", "-", "yBC1"}], 
+            "\[LessEqual]", " ", 
+            RowBox[{"capBat", "-", 
+             RowBox[{"(", 
+              RowBox[{
+              "initBatt", "+", "xGB", "+", "xRB", "-", "xBC", "-", "xBG"}], 
+              ")"}]}]}], "&&", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"yRG1", "+", "yRB1", "+", "yRC1"}], "\[Equal]", 
+            RowBox[{"AvailableResource", "[", 
+             RowBox[{"t", "+", "1"}], "]"}]}], "&&", "\[IndentingNewLine]", 
+           RowBox[{"yGB1", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yGC1", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yRB1", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yRC1", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yRG1", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yBC1", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yBG1", "\[GreaterEqual]", "0"}], "&&", 
+           "\[IndentingNewLine]", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"yBC2", "+", "yGC2", "+", "yRC2"}], "\[Equal]", 
+            RowBox[{"Demand", "[", 
+             RowBox[{"t", "+", "1"}], "]"}]}], "&&", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"-", 
+             RowBox[{"(", 
+              RowBox[{
+              "initBatt", "+", "xGB", "+", "xRB", "-", "xBC", "-", "xBG"}], 
+              ")"}]}], "\[LessEqual]", " ", 
+            RowBox[{"yRB2", "+", "yGB2", "-", "yBG2", "-", "yBC2"}], 
+            "\[LessEqual]", " ", 
+            RowBox[{"capBat", "-", 
+             RowBox[{"(", 
+              RowBox[{
+              "initBatt", "+", "xGB", "+", "xRB", "-", "xBC", "-", "xBG"}], 
+              ")"}]}]}], "&&", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"yRG2", "+", "yRB2", "+", "yRC2"}], "\[Equal]", 
+            RowBox[{
+             RowBox[{"AvailableResource", "[", 
+              RowBox[{"t", "+", "1"}], "]"}], "/", "2"}]}], "&&", 
+           "\[IndentingNewLine]", 
+           RowBox[{"yGB2", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yGC2", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yRB2", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yRC2", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yRG2", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yBC2", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yBG2", "\[GreaterEqual]", "0"}], "&&", 
+           "\[IndentingNewLine]", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"yBC3", "+", "yGC3", "+", "yRC3"}], "\[Equal]", 
+            RowBox[{"Demand", "[", 
+             RowBox[{"t", "+", "1"}], "]"}]}], "&&", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"-", 
+             RowBox[{"(", 
+              RowBox[{
+              "initBatt", "+", "xGB", "+", "xRB", "-", "xBC", "-", "xBG"}], 
+              ")"}]}], "\[LessEqual]", " ", 
+            RowBox[{"yRB3", "+", "yGB3", "-", "yBG3", "-", "yBC3"}], 
+            "\[LessEqual]", " ", 
+            RowBox[{"capBat", "-", 
+             RowBox[{"(", 
+              RowBox[{
+              "initBatt", "+", "xGB", "+", "xRB", "-", "xBC", "-", "xBG"}], 
+              ")"}]}]}], "&&", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"yRG3", "+", "yRB3", "+", "yRC3"}], "\[Equal]", 
+            RowBox[{
+             RowBox[{"AvailableResource", "[", 
+              RowBox[{"t", "+", "1"}], "]"}], "/", "4"}]}], "&&", 
+           "\[IndentingNewLine]", 
+           RowBox[{"yGB3", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yGC3", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yRB3", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yRC3", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yRG3", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yBC3", "\[GreaterEqual]", "0"}], "&&", 
+           RowBox[{"yBG3", "\[GreaterEqual]", "0"}]}]}], 
+         "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+        RowBox[{"{", 
+         RowBox[{
+         "xGB", ",", "xGC", ",", "xRB", ",", "xRC", ",", "xRG", ",", "xBC", 
+          ",", "xBG", ",", "yGB1", ",", "yGC1", ",", "yRB1", ",", "yRC1", ",",
+           "yRG1", ",", "yBC1", ",", "yBG1", ",", "yGB2", ",", "yGC2", ",", 
+          "yRB2", ",", "yRC2", ",", "yRG2", ",", "yBC2", ",", "yBG2", ",", 
+          "yGB3", ",", "yGC3", ",", "yRB3", ",", "yRC3", ",", "yRG3", ",", 
+          "yBC3", ",", "yBG3"}], "}"}]}], "]"}], "\[IndentingNewLine]", 
+      ")"}]}], ";"}]}]}]], "Input",
+ CellChangeTimes->{{3.6040903810218115`*^9, 3.6040904250083275`*^9}, {
+   3.604090582596341*^9, 3.6040905915768547`*^9}, {3.6040914535951595`*^9, 
+   3.604091493605448*^9}, {3.6040990387680063`*^9, 3.6040990392930365`*^9}, {
+   3.604100627103854*^9, 3.604100659143687*^9}, {3.604100801623836*^9, 
+   3.6041008984763756`*^9}, {3.604152105195197*^9, 3.604152172374039*^9}, {
+   3.604152293968994*^9, 3.6041523151892076`*^9}, {3.6041524666478705`*^9, 
+   3.604152474539322*^9}, {3.604152505030066*^9, 3.6041526103540897`*^9}, {
+   3.6041527249666457`*^9, 3.604152831673749*^9}, {3.6041530261438723`*^9, 
+   3.6041530314631763`*^9}, {3.6041532547839494`*^9, 
+   3.6041533001495442`*^9}, {3.6041535995236673`*^9, 3.604153634593673*^9}, {
+   3.6041536759470387`*^9, 3.6041536793922358`*^9}, {3.604153745209*^9, 
+   3.604153769563393*^9}, {3.604154206191367*^9, 3.6041542797575746`*^9}, {
+   3.604154526303676*^9, 3.6041545668229938`*^9}, {3.6041547856575108`*^9, 
+   3.6041548406926584`*^9}, {3.604154921275267*^9, 3.604154977363475*^9}, {
+   3.604155062846365*^9, 3.6041550648684807`*^9}, {3.6041563074305506`*^9, 
+   3.604156313569902*^9}, {3.604156430222574*^9, 3.6041564440073624`*^9}, {
+   3.60415649414123*^9, 3.6041566613137918`*^9}, {3.60415691373623*^9, 
+   3.6041569274220123`*^9}, {3.6041569740206776`*^9, 
+   3.6041570257486362`*^9}, {3.604166516543479*^9, 3.6041665629461327`*^9}, {
+   3.604188032569934*^9, 3.6041880329199543`*^9}, {3.604188175560113*^9, 
+   3.604188282310219*^9}, {3.604188618486447*^9, 3.6041886250968246`*^9}, {
+   3.604190037784626*^9, 3.6041901868911543`*^9}, {3.6041907511224265`*^9, 
+   3.6041908532212667`*^9}, {3.6041908962457275`*^9, 
+   3.6041909152288127`*^9}, {3.604191412898278*^9, 3.604191421605776*^9}, {
+   3.6041936026585255`*^9, 3.6041936031385527`*^9}, {3.604194398895067*^9, 
+   3.604194401656225*^9}, {3.604195092825758*^9, 3.60419517609052*^9}, {
+   3.604195432886208*^9, 3.6041954330892196`*^9}, {3.604196248661868*^9, 
+   3.604196268352994*^9}, {3.6041964588828917`*^9, 3.604196462682109*^9}, {
+   3.6041975942918334`*^9, 3.6041976054334707`*^9}, {3.6041977455394845`*^9, 
+   3.604197747051571*^9}, 3.6041990769576373`*^9, {3.60419944940594*^9, 
+   3.6041994746013813`*^9}, {3.6041996267350826`*^9, 
+   3.6041996269100924`*^9}, {3.604237302418082*^9, 3.6042373047782173`*^9}, {
+   3.6042374300473824`*^9, 3.604237641078452*^9}, {3.6042378870965242`*^9, 
+   3.604237944230792*^9}, {3.604238039946266*^9, 3.6042381127004275`*^9}, {
+   3.60423816012114*^9, 3.604238160315151*^9}, {3.6042384029980316`*^9, 
+   3.6042384042411027`*^9}, {3.604238509742137*^9, 3.604238658166627*^9}, {
+   3.6042868420218744`*^9, 3.604287029877404*^9}, {3.6042871900962057`*^9, 
+   3.604287192851363*^9}, {3.6042873421839046`*^9, 3.604287389719623*^9}, {
+   3.604287532368782*^9, 3.6042875345249057`*^9}, {3.604287901110873*^9, 
+   3.604287908551299*^9}, {3.6043233093001766`*^9, 3.6043233108841767`*^9}, {
+   3.604323352283177*^9, 3.6043233530501766`*^9}, {3.6043235434981766`*^9, 
+   3.604323556217177*^9}, 3.6043246208581767`*^9, 3.604324762329177*^9, {
+   3.604324826065177*^9, 3.604324978653177*^9}, {3.604325038673177*^9, 
+   3.604325065040177*^9}, {3.6043251776891766`*^9, 3.6043251789101768`*^9}, {
+   3.6043253807931767`*^9, 3.6043253950351768`*^9}, {3.604326438867177*^9, 
+   3.6043264392661767`*^9}, {3.6043270681111765`*^9, 3.604327068447177*^9}}],
+
+Cell[CellGroupData[{
+
+B38DADA635B292DC0AE493F021165B7610BEF8F59683E1BDF3F12790EB3
+AA0F1C1E39AE5313F93AEEDD67B8C40AE08174130E495E4081B4DE0490D6A408A8DDC36C16C7288C
+8E16287500F4BF93F8D376E07F515E02D17DD39074E794ABF6CECC003,
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"firstStage", " ", "=", " ", 
+  RowBox[{"StageMinimize", "[", 
+   RowBox[{"t", ",", "initBatt"}], "]"}]}]], "Input",
+ CellChangeTimes->{{3.6041665693484993`*^9, 3.6041665840813417`*^9}, 
+   3.604172987904619*^9, {3.604187996589876*^9, 3.6041881395210514`*^9}, 
+   3.6041881865847435`*^9, {3.6041882893366203`*^9, 3.6041883120219183`*^9}, {
+   3.6041885909808736`*^9, 3.6041885997453747`*^9}, {3.60418865280941*^9, 
+   3.6041886780498533`*^9}, {3.6041887950665464`*^9, 
+   3.6041890190953608`*^9}, {3.6041890644229527`*^9, 3.604189193698347*^9}, {
+   3.6041909947243595`*^9, 3.604191131358175*^9}, {3.6041912453316936`*^9, 
+   3.6041912532451468`*^9}, {3.604191288119141*^9, 3.6041912956975746`*^9}, {
+   3.6041924633343596`*^9, 3.6041924662705274`*^9}, {3.60419353210849*^9, 
+   3.604193614481201*^9}, {3.6041936620599227`*^9, 3.604193662593953*^9}, {
+   3.6041944073745522`*^9, 3.604194410095708*^9}, 3.604195154672295*^9, {
+   3.604195419703454*^9, 3.6041954377224846`*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"17.969555234634043`", ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"xGB", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"xGC", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"xRB", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"xRC", "\[Rule]", "2000.`"}], ",", 
+     RowBox[{"xRG", "\[Rule]", "364.14048173519177`"}], ",", 
+     RowBox[{"xBC", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"xBG", "\[Rule]", "100.`"}], ",", 
+     RowBox[{"yGB1", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yGC1", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yRB1", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yRC1", "\[Rule]", "2000.`"}], ",", 
+     RowBox[{"yRG1", "\[Rule]", "295.28641178001953`"}], ",", 
+     RowBox[{"yBC1", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yBG1", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yGB2", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yGC2", "\[Rule]", "852.3567941099902`"}], ",", 
+     RowBox[{"yRB2", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yRC2", "\[Rule]", "1147.6432058900098`"}], ",", 
+     RowBox[{"yRG2", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yBC2", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yBG2", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yGB3", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yGC3", "\[Rule]", "1426.178397054995`"}], ",", 
+     RowBox[{"yRB3", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yRC3", "\[Rule]", "573.8216029450049`"}], ",", 
+     RowBox[{"yRG3", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yBC3", "\[Rule]", "1.1368683772161603`*^-13"}], ",", 
+     RowBox[{"yBG3", "\[Rule]", "0.`"}]}], "}"}]}], "}"}]], "Output",
+ CellChangeTimes->{{3.604324812271177*^9, 3.604324924723177*^9}, {
+   3.6043249706471767`*^9, 3.604324982834177*^9}, 3.604325073822177*^9, 
+   3.604325190311177*^9, 3.6043270740901766`*^9}]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+7CE65554092D5C945F
+9A20E7591A630C18786EA07CBC74BA3FD2625D8760855443ADCA6DB7EA75E04B8BE7182493397F97
+9C72848DEAAF3DB3E40A043F76B7C478A28110203C6116D4E95EA656000,
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"initBatt", " ", "=", " ", 
+  RowBox[{"N", "[", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"(", 
+      RowBox[{"xRB", "/.", 
+       RowBox[{"firstStage", "[", 
+        RowBox[{"[", "2", "]"}], "]"}]}], ")"}], "+", 
+     RowBox[{"(", 
+      RowBox[{"xGB", "/.", 
+       RowBox[{"firstStage", "[", 
+        RowBox[{"[", "2", "]"}], "]"}]}], ")"}]}], ",", "2"}], 
+   "]"}]}]], "Input",
+ CellChangeTimes->{{3.6041925978850555`*^9, 3.604192665333913*^9}, {
+  3.6041940648379602`*^9, 3.604194065850018*^9}, {3.604194114770816*^9, 
+  3.6041941154938574`*^9}, {3.6041941807205887`*^9, 3.6041941872099595`*^9}, {
+  3.6041954263838363`*^9, 3.604195428057932*^9}}],
+
+Cell[BoxData["0.`"], "Output",
+ CellChangeTimes->{{3.604192636113242*^9, 3.6041926660889564`*^9}, 
+   3.604193685842283*^9, 3.604194085236127*^9, 3.604194120762159*^9, 
+   3.6041942024718323`*^9, 3.6041944236204815`*^9, 3.6041954460259595`*^9, 
+   3.604287771525461*^9, 3.604323243619177*^9, 3.6043270897331767`*^9}]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+50C6E29C0BBAF
+4817906A7B7C0CF6B182666A6E75111DC0E538BEDDCDA3B97637F09E47ADF191BBD86A602D709451
+62CCB2D31B2A43FE75C3F9D083ED191326730D45106DC53D85A73757082F98735559F00EA498309B
+D80D0E524F5A7B81EEA4E0329CF0BC569FAD9A7687FE6AF7A2B5EB59049C8C113D8CA3DDEDC674D2
+2400BC56E44CF3B5F043,
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"secondStage", " ", "=", " ", 
+  RowBox[{"StageMinimize", "[", 
+   RowBox[{
+    RowBox[{"t", "+", "1"}], ",", "initBatt"}], "]"}]}]], "Input",
+ CellChangeTimes->{{3.6041926756205015`*^9, 3.604192681470836*^9}, {
+  3.6041936342233305`*^9, 3.6041936404126844`*^9}, {3.6041944137799187`*^9, 
+  3.6041944150569916`*^9}, {3.604195439370579*^9, 3.604195450385209*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"41.96860150360591`", ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"xGB", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"xGC", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"xRB", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"xRC", "\[Rule]", "2000.`"}], ",", 
+     RowBox[{"xRG", "\[Rule]", "295.28641178001953`"}], ",", 
+     RowBox[{"xBC", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"xBG", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yGB1", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yGC1", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yRB1", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yRC1", "\[Rule]", "2000.`"}], ",", 
+     RowBox[{"yRG1", "\[Rule]", "295.28641178001953`"}], ",", 
+     RowBox[{"yBC1", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yBG1", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yGB2", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yGC2", "\[Rule]", "852.3567941099902`"}], ",", 
+     RowBox[{"yRB2", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yRC2", "\[Rule]", "1147.6432058900098`"}], ",", 
+     RowBox[{"yRG2", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yBC2", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yBG2", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yGB3", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yGC3", "\[Rule]", "1426.178397054995`"}], ",", 
+     RowBox[{"yRB3", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yRC3", "\[Rule]", "573.8216029450049`"}], ",", 
+     RowBox[{"yRG3", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yBC3", "\[Rule]", "0.`"}], ",", 
+     RowBox[{"yBG3", "\[Rule]", "0.`"}]}], "}"}]}], "}"}]], "Output",
+ CellChangeTimes->{{3.60419545092424*^9, 3.604195453986415*^9}, 
+   3.6041990946946516`*^9, 3.6042874026733637`*^9, 3.604323245860177*^9, 
+   3.6043233241751766`*^9, 3.604324920714177*^9, 3.604327095143177*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+5280142245
+55A9DDB55C3052058E19E9C599A88ED30D6D941244BD75F1AAB3D9D6E356BBEBAE5D92EB56559FE9
+1048664EEA5762B84D,
+
+81288C9884EBC826CE2AB1D05E81BD897E68FC8913379E374C7455181
+8B48D616A6BA72FA24ACB949249522
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+ED863C5F
+9A446D097F4DF55A3DB9008FD794143E12AAAF1CEBB60C9C15CB622439C4639C701D1179E4387FEE
+6ED72022FC2AA8B8,
+
+E5BA8F71F2EBF5BADBBDA42F8BB752041488C24205AF1EB466D487BA365
+C4C7ED324A22C8EB7B90679E067DEF52
+}, Open  ]]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+6DDBF339C399219600B12AA72B9116CE4FF8E4FC176F599E1F7CE9AC309706
+2ED4D8FE56F11FB538AA9473A278D64D4D2A36621E05C1A8315711AF8473EE26853C57E05046B825
+BB2B4EC12BCC0662DA58257E329407210B209F164BCEC1E9E090578CD7B674C8A22,
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Table", "[", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"StageMinimize", "[", 
+      RowBox[{"t", ",", "initBatt"}], "]"}], "[", 
+     RowBox[{"[", "1", "]"}], "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "1", ",", "10", ",", "1"}], "}"}]}], "]"}], 
+  RowBox[{"(*", " ", 
+   RowBox[{
+   "ignore", " ", "the", " ", "initial", " ", "battery", " ", "amount", " ", 
+    "change", " ", "at", " ", "each", " ", "step"}], " ", "*)"}]}]], "Input",
+ CellChangeTimes->{{3.6043240183611765`*^9, 3.604324039079177*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NMinimize", "::", "incst"}], "MessageName"], 
+  RowBox[{
+  ":", " "}], "\<\"\[NoBreak]\\!\\(NMinimize\\)\[NoBreak] was unable to \
+generate any initial points satisfying the inequality constraints \
+\[NoBreak]\\!\\({\\(\\(\\(\\(\\(\\(-1999.9999999999995`\\)\\) + \
+\\(\\(0.9999999999999997`\\\\ xBC\\)\\) + \\(\\(0.9999999999999997`\\\\ \
+xGC\\)\\)\\)\\) \[LessEqual] 0\\)\\), \\(\\(\\(\\(\\(\\(356.7709518636403` \
+\[VeryThinSpace]\\)\\) - \\(\\(3.3306690738754696`*^-16\\\\ xBC\\)\\) - xBG + \
+xGB + \\(\\(0.9999999999999997`\\\\ xGC\\)\\) - \\(\\(1.`\\\\ xRG\\)\\)\\)\\) \
+\[LessEqual] 0\\)\\), \\(\\(\\(\\(\\(\\(-456.7709518636403`\\)\\) - \
+\\(\\(0.9999999999999997`\\\\ xBC\\)\\) - \\(\\(0.9999999999999997`\\\\ \
+xGC\\)\\) + \\(\\(1.`\\\\ xRG\\)\\)\\)\\) \[LessEqual] 0\\)\\), \\(\\(\
+\[LeftSkeleton] 10 \[RightSkeleton]\\)\\), \
+\\(\\(\\(\\(\\(\\(1870.4037533846263` \[VeryThinSpace]\\)\\) + \\(\\(1.`\\\\ \
+yGC3\\)\\) - \\(\\(1.`\\\\ yRB3\\)\\) - \\(\\(1.`\\\\ yRG3\\)\\)\\)\\) \
+\[LessEqual] 0\\)\\), \\(\\(\\(\\(\\(\\(-3870.403753384626`\\)\\) + \
+\\(\\(0.9999999999999998`\\\\ yRB3\\)\\) + \\(\\(0.9999999999999998`\\\\ yRG3\
+\\)\\)\\)\\) \[LessEqual] 0\\)\\), \
+\\(\\(\\(\\(\\(\\(-2327.1747052482665`\\)\\) + \\(\\(3.3306690738754696`*^-16\
+\\\\ xBC\\)\\) + xBG - xGB - \\(\\(0.9999999999999997`\\\\ xGC\\)\\) + \
+\\(\\(1.`\\\\ xRG\\)\\) + yBG3 - yGB3 - \\(\\(1.`\\\\ yGC3\\)\\) + \
+\\(\\(1.`\\\\ yRG3\\)\\)\\)\\) \[LessEqual] 0\\)\\)}\\)\[NoBreak]. The \
+initial region specified may not contain any feasible points. Changing the \
+initial region or specifying explicit initial points may provide a better \
+solution. \\!\\(\\*ButtonBox[\\\"\[RightSkeleton]\\\", \
+ButtonStyle->\\\"Link\\\", ButtonFrame->None, \
+ButtonData:>\\\"paclet:ref/message/NMinimize/incst\\\", ButtonNote -> \
+\\\"NMinimize::incst\\\"]\\)\"\>"}]], "Message", "MSG",
+ CellChangeTimes->{3.604324181092177*^9, 3.6043271275881767`*^9}],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NMinimize", "::", "nnum"}], "MessageName"], 
+  RowBox[{
+  ":", " "}], "\<\"The function value \
+\[NoBreak]\\!\\(\\(\\(90.89462143068017` \[VeryThinSpace]\\)\\) + \
+\\(\\(70.88381895824489`\\\\ \\(\\(\\(\\({\\(\\({0.7`, 0.2`, 0.1`}\\)\\), \\(\
+\\({0.6`, 0.3`, 0.1`}\\)\\), \\(\\({0.5`, 0.4`, 0.1`}\\)\\)}\\)\\)[\\(\\(3, 2\
+\\)\\)]\\)\\)\\)\\)\\)\[NoBreak] is not a number at \[NoBreak]\\!\\({xBC, \
+xBG, xGB, xGC, xRB, xRC, xRG, yBC1, yBC2, yBC3, yBG1, yBG2, yBG3, yGB1, yGB2, \
+yGB3, yGC1, yGC2, yGC3, yRB1, yRB2, yRB3, yRC1, yRC2, yRC3, yRG1, yRG2, yRG3}\
+\\)\[NoBreak] = \[NoBreak]\\!\\({0.02822866162868647`, 1.9731757221913848`, \
+0.0367798877020749`, 0.010759097178126953`, 456.8052692054193`, \
+1999.9610122411927`, 0.004670417027821228`, \\(\\(-13479.631585638874`\\)\\), \
+\\(\\(-5738.820428490175`\\)\\), \\(\\(-1868.4416618678265`\\)\\), \
+0.03724998518438236`, 0.0827362956689231`, 0.01552092629418931`, \\(\\(\
+\[LeftSkeleton] 21 \[RightSkeleton]\\)\\), \\(\\(\[LeftSkeleton] 20 \
+\[RightSkeleton]\\)\\), \\(\\(\[LeftSkeleton] 21 \[RightSkeleton]\\)\\), \
+0.029533377892874493`, 0.028805573623175953`, 0.0017863492965870089`, \
+0.046345062884558245`, 0.06003381822624228`, 0.008152875446283138`, \
+15479.60205226098`, 7738.79162291655`, 3868.43987551853`, \
+1.9666162146446622`, 1.9558500344756589`, 1.955724990649961`}\\)\[NoBreak]. \
+\\!\\(\\*ButtonBox[\\\"\[RightSkeleton]\\\", ButtonStyle->\\\"Link\\\", \
+ButtonFrame->None, ButtonData:>\\\"paclet:ref/NMinimize\\\", ButtonNote -> \\\
+\"NMinimize::nnum\\\"]\\)\"\>"}]], "Message", "MSG",
+ CellChangeTimes->{3.604324181092177*^9, 3.6043271276611767`*^9}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+  "32.83559835620132`", ",", "42.55042058909284`", ",", "48.11383122369673`", 
+   ",", "51.43774877470096`", ",", "33.28918049358999`", ",", 
+   "47.49327075644351`", ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{
+      RowBox[{"0.099`", " ", 
+       RowBox[{"(", 
+        RowBox[{"xGB", "+", "xGC"}], ")"}]}], "+", 
+      RowBox[{"0.02`", " ", 
+       RowBox[{"(", 
+        RowBox[{
+        "0.`", "\[VeryThinSpace]", "-", "xBC", "-", "xBG", "+", "xGB", "+", 
+         "xRB"}], ")"}]}], "+", 
+      RowBox[{"0.01`", " ", 
+       RowBox[{"(", 
+        RowBox[{
+        "0.`", "\[VeryThinSpace]", "+", "xBC", "+", "xBG", "+", "xGB", "+", 
+         "xRB"}], ")"}]}], "-", 
+      RowBox[{"0.0792`", " ", 
+       RowBox[{"(", 
+        RowBox[{"xBG", "+", "xRG"}], ")"}]}], "+", 
+      RowBox[{"0.5`", " ", 
+       RowBox[{"(", 
+        RowBox[{
+         RowBox[{"0.099`", " ", 
+          RowBox[{"(", 
+           RowBox[{"yGB1", "+", "yGC1"}], ")"}]}], "+", 
+         RowBox[{"0.02`", " ", 
+          RowBox[{"(", 
+           RowBox[{
+           "0.`", "\[VeryThinSpace]", "-", "xBC", "-", "xBG", "+", "xGB", "+",
+             "xRB", "-", "yBC1", "-", "yBG1", "+", "yGB1", "+", "yRB1"}], 
+           ")"}]}], "+", 
+         RowBox[{"0.01`", " ", 
+          RowBox[{"(", 
+           RowBox[{
+           "0.`", "\[VeryThinSpace]", "-", "xBC", "-", "xBG", "+", "xGB", "+",
+             "xRB", "+", "yBC1", "+", "yBG1", "+", "yGB1", "+", "yRB1"}], 
+           ")"}]}], "-", 
+         RowBox[{"0.0792`", " ", 
+          RowBox[{"(", 
+           RowBox[{"yBG1", "+", "yRG1"}], ")"}]}]}], ")"}]}], "+", 
+      RowBox[{"0.1`", " ", 
+       RowBox[{"(", 
+        RowBox[{
+         RowBox[{"0.099`", " ", 
+          RowBox[{"(", 
+           RowBox[{"yGB3", "+", "yGC3"}], ")"}]}], "+", 
+         RowBox[{"0.02`", " ", 
+          RowBox[{"(", 
+           RowBox[{
+           "0.`", "\[VeryThinSpace]", "-", "xBC", "-", "xBG", "+", "xGB", "+",
+             "xRB", "-", "yBC3", "-", "yBG3", "+", "yGB3", "+", "yRB3"}], 
+           ")"}]}], "+", 
+         RowBox[{"0.01`", " ", 
+          RowBox[{"(", 
+           RowBox[{
+           "0.`", "\[VeryThinSpace]", "-", "xBC", "-", "xBG", "+", "xGB", "+",
+             "xRB", "+", "yBC3", "+", "yBG3", "+", "yGB3", "+", "yRB3"}], 
+           ")"}]}], "-", 
+         RowBox[{"0.0792`", " ", 
+          RowBox[{"(", 
+           RowBox[{"yBG3", "+", "yRG3"}], ")"}]}]}], ")"}]}], "+", 
+      RowBox[{
+       RowBox[{"(", 
+        RowBox[{
+         RowBox[{"0.099`", " ", 
+          RowBox[{"(", 
+           RowBox[{"yGB2", "+", "yGC2"}], ")"}]}], "+", 
+         RowBox[{"0.02`", " ", 
+          RowBox[{"(", 
+           RowBox[{
+           "0.`", "\[VeryThinSpace]", "-", "xBC", "-", "xBG", "+", "xGB", "+",
+             "xRB", "-", "yBC2", "-", "yBG2", "+", "yGB2", "+", "yRB2"}], 
+           ")"}]}], "+", 
+         RowBox[{"0.01`", " ", 
+          RowBox[{"(", 
+           RowBox[{
+           "0.`", "\[VeryThinSpace]", "-", "xBC", "-", "xBG", "+", "xGB", "+",
+             "xRB", "+", "yBC2", "+", "yBG2", "+", "yGB2", "+", "yRB2"}], 
+           ")"}]}], "-", 
+         RowBox[{"0.0792`", " ", 
+          RowBox[{"(", 
+           RowBox[{"yBG2", "+", "yRG2"}], ")"}]}]}], ")"}], " ", 
+       RowBox[{
+        RowBox[{"{", 
+         RowBox[{
+          RowBox[{"{", 
+           RowBox[{"0.7`", ",", "0.2`", ",", "0.1`"}], "}"}], ",", 
+          RowBox[{"{", 
+           RowBox[{"0.6`", ",", "0.3`", ",", "0.1`"}], "}"}], ",", 
+          RowBox[{"{", 
+           RowBox[{"0.5`", ",", "0.4`", ",", "0.1`"}], "}"}]}], "}"}], "[", 
+        RowBox[{"3", ",", "2"}], "]"}]}]}], ",", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"xBC", "+", "xGC", "+", "xRC"}], "\[Equal]", "2000"}], "&&", 
+      RowBox[{"0", "\[LessEqual]", 
+       RowBox[{
+       "0.`", "\[VeryThinSpace]", "-", "xBC", "-", "xBG", "+", "xGB", "+", 
+        "xRB"}], "\[LessEqual]", "100"}], "&&", 
+      RowBox[{
+       RowBox[{"xRB", "+", "xRC", "+", "xRG"}], "\[Equal]", 
+       "2456.7709518636398`"}], "&&", 
+      RowBox[{"xGB", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"xGC", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"xRB", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"xRC", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"xRG", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"xBC", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"xBG", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{
+       RowBox[{"yBC1", "+", "yGC1", "+", "yRC1"}], "\[Equal]", "2000"}], "&&", 
+      RowBox[{
+       RowBox[{
+       "0.`", "\[VeryThinSpace]", "+", "xBC", "+", "xBG", "-", "xGB", "-", 
+        "xRB"}], "\[LessEqual]", 
+       RowBox[{
+        RowBox[{"-", "yBC1"}], "-", "yBG1", "+", "yGB1", "+", "yRB1"}], 
+       "\[LessEqual]", 
+       RowBox[{
+       "100.`", "\[VeryThinSpace]", "+", "xBC", "+", "xBG", "-", "xGB", "-", 
+        "xRB"}]}], "&&", 
+      RowBox[{
+       RowBox[{"yRB1", "+", "yRC1", "+", "yRG1"}], "\[Equal]", 
+       "15481.61501353851`"}], "&&", 
+      RowBox[{"yGB1", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yGC1", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yRB1", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yRC1", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yRG1", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yBC1", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yBG1", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{
+       RowBox[{"yBC2", "+", "yGC2", "+", "yRC2"}], "\[Equal]", "2000"}], "&&", 
+      RowBox[{
+       RowBox[{
+       "0.`", "\[VeryThinSpace]", "+", "xBC", "+", "xBG", "-", "xGB", "-", 
+        "xRB"}], "\[LessEqual]", 
+       RowBox[{
+        RowBox[{"-", "yBC2"}], "-", "yBG2", "+", "yGB2", "+", "yRB2"}], 
+       "\[LessEqual]", 
+       RowBox[{
+       "100.`", "\[VeryThinSpace]", "+", "xBC", "+", "xBG", "-", "xGB", "-", 
+        "xRB"}]}], "&&", 
+      RowBox[{
+       RowBox[{"yRB2", "+", "yRC2", "+", "yRG2"}], "\[Equal]", 
+       "7740.807506769255`"}], "&&", 
+      RowBox[{"yGB2", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yGC2", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yRB2", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yRC2", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yRG2", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yBC2", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yBG2", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{
+       RowBox[{"yBC3", "+", "yGC3", "+", "yRC3"}], "\[Equal]", "2000"}], "&&", 
+      RowBox[{
+       RowBox[{
+       "0.`", "\[VeryThinSpace]", "+", "xBC", "+", "xBG", "-", "xGB", "-", 
+        "xRB"}], "\[LessEqual]", 
+       RowBox[{
+        RowBox[{"-", "yBC3"}], "-", "yBG3", "+", "yGB3", "+", "yRB3"}], 
+       "\[LessEqual]", 
+       RowBox[{
+       "100.`", "\[VeryThinSpace]", "+", "xBC", "+", "xBG", "-", "xGB", "-", 
+        "xRB"}]}], "&&", 
+      RowBox[{
+       RowBox[{"yRB3", "+", "yRC3", "+", "yRG3"}], "\[Equal]", 
+       "3870.4037533846276`"}], "&&", 
+      RowBox[{"yGB3", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yGC3", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yRB3", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yRC3", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yRG3", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yBC3", "\[GreaterEqual]", "0"}], "&&", 
+      RowBox[{"yBG3", "\[GreaterEqual]", "0"}]}]}], "}"}], ",", 
+   RowBox[{"-", "2522.459018755567`"}], ",", 
+   RowBox[{"-", "4440.225676488297`"}], ",", 
+   RowBox[{"-", "4362.974902035766`"}]}], "}"}]], "Output",
+ CellChangeTimes->{3.6043241811871767`*^9, 3.6043271276821766`*^9}]
+}, Open  ]],
+
+Cell[TextData[{
+ StyleBox["The example shows above is the example of generating repeated \
+two-stage in 10 steps. But in the one of the step, it cannot get the \
+optimized solution. \n\n",
+  FontWeight->"Bold",
+  FontColor->RGBColor[1, 0, 0]],
+ StyleBox["The result is short for like this: {",
+  FontWeight->"Bold",
+  FontColor->RGBColor[0, 0, 1]],
+ "32.8356,42.5504,48.1138,51.4377,33.2892,47.4933,",
+ StyleBox["***",
+  FontColor->RGBColor[0, 0, 1]],
+ ",-2522.46,-4440.23,-4362.97",
+ StyleBox["}\n\nAlso notice in two-stage the result for the first step \
+contains one optimized variable like {",
+  FontWeight->"Bold",
+  FontColor->RGBColor[0, 0, 1]],
+ "yBC3->1.13687*10^-13",
+ StyleBox["}, which is obvious quite small, and such kind of variable value \
+only appears in Battery to Consumer (BC).",
+  FontWeight->"Bold",
+  FontColor->RGBColor[0, 0, 1]]
+}], "Text",
+ CellChangeTimes->{{3.604324062775177*^9, 3.604324062869177*^9}, {
+   3.6043241153141766`*^9, 3.6043241172811766`*^9}, {3.6043241481281767`*^9, 
+   3.604324345893177*^9}, {3.6043243839701767`*^9, 3.6043245021871767`*^9}, {
+   3.604326958655177*^9, 3.6043269594391766`*^9}, {3.604326995629177*^9, 
+   3.6043269969891768`*^9}, {3.6043271646231766`*^9, 3.604327177155177*^9}, 
+   3.604327274270177*^9}]
+}, Open  ]]
+},
+WindowSize->{1272, 907},
+WindowMargins->{{Automatic, 0}, {Automatic, 0}},
+PrintingCopies->1,
+PrintingPageRange->{32000, 32000},
+PrintingOptions->{"Magnification"->1.,
+"PaperOrientation"->"Portrait",
+"PaperSize"->{612, 792}},
+FrontEndVersion->"9.0 for Microsoft Windows (32-bit) (January 25, 2013)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[579, 22, 227, 3, 56, "Subtitle"],
+Cell[809, 27, 211, 3, 33, "Subsubtitle"],
+Cell[1023, 32, 27480, 620, 2112, "Input"],
+Cell[CellGroupData[{
+Cell[28528, 656, 197, 3, 33, "Subsubtitle"],
+Cell[CellGroupData[{
+Cell[28750, 663, 999, 15, 31, "Input"],
+Cell[29752, 680, 1741, 35, 76, "Output"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[31542, 721, 159, 2, 33, "Subsubtitle"],
+Cell[CellGroupData[{
+Cell[31726, 727, 672, 17, 31, "Input"],
+Cell[32401, 746, 316, 4, 31, "Output"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[32766, 756, 275, 6, 33, "Subsubtitle"],
+Cell[CellGroupData[{
+Cell[33066, 766, 385, 7, 31, "Input"],
+Cell[33454, 775, 1738, 35, 72, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[35229, 815, 111, 1, 31, "Input"],
+Cell[35343, 818, 88, 1, 31, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[35468, 824, 107, 1, 31, "Input"],
+Cell[35578, 827, 92, 1, 31, "Output"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[35731, 835, 210, 3, 56, "Subtitle"],
+Cell[CellGroupData[{
+Cell[35966, 842, 547, 14, 31, "Input"],
+Cell[36516, 858, 1968, 31, 86, "Message"],
+Cell[38487, 891, 1667, 26, 73, "Message"],
+Cell[40157, 919, 7567, 184, 292, "Output"]
+}, Open  ]],
+Cell[47739, 1106, 1265, 28, 125, "Text"]
+}, Open  ]]
+}
+]
+*)
+
