@@ -22,27 +22,30 @@
 
 from datetime import datetime, timedelta
 
+OFFPEAK = 0.051
+MIDPEAK = 0.081
+ONPEAK = 0.099
 
 def tou(month, weekday, hour):
     """ Calculate TOU pricing
     """
     if weekday in [0, 6]:
-        return 0.055
+        return OFFPEAK
     else:
         if month in [5, 6, 7, 8, 9, 10]:
             if hour in [11, 12, 13, 14, 15, 16]:
-                return 0.099
+                return ONPEAK
             elif hour in [7, 8, 9, 10, 17, 18, 19, 20]:
-                return 0.081
+                return MIDPEAK
             else:
-                return 0.055
+                return OFFPEAK
         else:
             if hour in [11, 12, 13, 14, 15, 16]:
-                return 0.081
+                return MIDPEAK
             elif hour in [7, 8, 9, 10, 17, 18, 19, 20]:
-                return 0.099
+                return ONPEAK
             else:
-                return 0.055
+                return OFFPEAK
 
 
 def main():
@@ -54,9 +57,12 @@ def main():
     for i in range(8760):
         price_list.append(tou(date.month, int(date.strftime("%w")), date.hour))
         date = date + timedelta(hours=1)
-    with open("..\\Data\\BuyPricing.txt", "w") as out_file:
+    with open("..\\Data\\BuyingPrice.txt", "w") as out_file:
         for i in price_list:
             out_file.write(str(i) + "\n")
-            
+    with open("..\\Data\\SellingPrice.txt", "w") as out_file:
+        for i in price_list:
+            out_file.write(str(i * 0.8) + "\n")
+
 if __name__ == '__main__':
     main()
