@@ -22,9 +22,11 @@
 
 from datetime import datetime, timedelta
 
+# DEFINE MACRO VARIABLES
 OFFPEAK = 0.051
 MIDPEAK = 0.081
 ONPEAK = 0.099
+
 
 def tou(month, weekday, hour):
     """ Calculate TOU pricing
