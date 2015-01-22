@@ -17,3 +17,4 @@ LaTeX/*.lot
 LaTeX/*.out
 LaTeX/*.toc
 LaTeX/
+References/*
