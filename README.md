@@ -82,3 +82,5 @@ Optimization and Stochastic Modeling applied to Transportation, Distribution and
 [Profile link](http://www2.isye.gatech.edu/~anton/)
 
 
+p.s.
+For researchers and students from Applied Mathematics division, if you are interested in large complex systems, and want to work on energy related research, please read a report from DOE: [At the U.S. Department of Energy: Past, Present and a View of Future](http://science.energy.gov/~/media/ascr/pdf/program-documents/docs/Brown_report_may_08.pdf). It may help you to understand how to begin your research and set up a startpoint.
