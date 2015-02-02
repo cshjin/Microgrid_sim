@@ -1,0 +1,22 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+1:00 AM,64.9,59.9,84,30.19,15.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1993-08-08 06:00:00
+2:00 AM,64.9,59.9,84,30.20,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1993-08-08 07:00:00
+3:00 AM,-9999,-9999,N/A,30.21,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1993-08-08 08:00:00
+4:00 AM,59.9,59.0,97,30.22,8.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1993-08-08 09:00:00
+5:00 AM,61.0,57.9,90,30.24,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1993-08-08 10:00:00
+6:00 AM,59.9,59.0,97,30.25,8.0,Calm,Calm,-,N/A,,Clear,0,1993-08-08 11:00:00
+7:00 AM,59.9,56.8,90,30.26,8.0,Calm,Calm,-,N/A,,Clear,0,1993-08-08 12:00:00
+8:00 AM,65.8,57.9,76,30.27,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1993-08-08 13:00:00
+9:00 AM,70.0,59.9,70,30.28,10.0,SW,5.8,-,N/A,,Scattered Clouds,220,1993-08-08 14:00:00
+10:00 AM,72.9,59.9,64,30.28,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1993-08-08 15:00:00
+11:00 AM,74.8,57.9,55,30.29,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1993-08-08 16:00:00
+12:00 PM,74.8,54.9,50,30.28,10.0,NW,5.8,-,N/A,,Mostly Cloudy,310,1993-08-08 17:00:00
+1:00 PM,77.0,56.8,50,30.28,15.0,WSW,5.8,-,N/A,,Mostly Cloudy,240,1993-08-08 18:00:00
+2:00 PM,77.0,55.9,48,30.27,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1993-08-08 19:00:00
+4:00 PM,79.0,61.0,54,30.24,10.0,SSW,5.8,-,N/A,,Mostly Cloudy,210,1993-08-08 21:00:00
+5:00 PM,77.0,61.0,58,30.24,15.0,ESE,5.8,-,N/A,,Mostly Cloudy,120,1993-08-08 22:00:00
+6:00 PM,77.9,63.0,60,30.24,15.0,East,11.5,-,N/A,,Scattered Clouds,90,1993-08-08 23:00:00
+8:00 PM,73.9,61.0,64,30.24,15.0,East,10.4,-,N/A,,Clear,90,1993-08-09 01:00:00
+9:00 PM,70.9,63.0,76,30.24,15.0,East,5.8,-,N/A,,Clear,90,1993-08-09 02:00:00
+10:00 PM,70.0,63.9,81,30.26,15.0,SSE,4.6,-,N/A,,Clear,150,1993-08-09 03:00:00
+11:00 PM,68.9,64.9,87,30.25,15.0,SSE,4.6,-,N/A,,Clear,150,1993-08-09 04:00:00

@@ -1,0 +1,24 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+1:00 AM,70.0,56.8,63,30.04,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1994-05-23 06:00:00
+2:00 AM,68.9,55.9,63,30.03,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1994-05-23 07:00:00
+3:00 AM,68.0,56.8,67,30.02,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1994-05-23 08:00:00
+4:00 AM,66.9,55.9,68,30.01,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1994-05-23 09:00:00
+5:00 AM,66.9,59.0,76,30.03,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1994-05-23 10:00:00
+6:00 AM,64.9,59.9,84,30.05,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1994-05-23 11:00:00
+7:00 AM,65.8,59.0,79,30.06,9.0,WNW,6.9,-,N/A,,Mostly Cloudy,300,1994-05-23 12:00:00
+8:00 AM,66.9,57.9,73,30.06,5.0,NNW,6.9,-,N/A,,Drizzle,330,1994-05-23 13:00:00
+9:00 AM,70.0,57.9,65,30.06,4.0,NE,5.8,-,N/A,,Drizzle,50,1994-05-23 14:00:00
+10:00 AM,70.0,57.9,65,30.06,6.0,NNE,6.9,-,N/A,,Drizzle,30,1994-05-23 15:00:00
+11:00 AM,74.8,57.9,55,30.06,8.0,NE,6.9,-,N/A,,Mostly Cloudy,50,1994-05-23 16:00:00
+12:00 PM,74.8,59.0,58,30.05,8.0,NE,6.9,-,N/A,,Mostly Cloudy,50,1994-05-23 17:00:00
+1:00 PM,77.0,61.9,59,30.06,8.0,ENE,13.8,-,N/A,,Mostly Cloudy,60,1994-05-23 18:00:00
+2:00 PM,75.9,61.0,60,30.04,8.0,ENE,8.1,-,N/A,,Scattered Clouds,60,1994-05-23 19:00:00
+3:00 PM,77.9,59.9,54,30.01,8.0,ENE,9.2,-,N/A,,Scattered Clouds,60,1994-05-23 20:00:00
+4:00 PM,77.0,61.0,58,30.00,10.0,ENE,11.5,-,N/A,,Scattered Clouds,60,1994-05-23 21:00:00
+5:00 PM,75.9,59.0,56,29.96,10.0,ENE,13.8,-,N/A,,Scattered Clouds,60,1994-05-23 22:00:00
+6:00 PM,72.9,50.0,44,29.95,10.0,NE,12.7,-,N/A,,Scattered Clouds,50,1994-05-23 23:00:00
+7:00 PM,68.9,50.0,51,29.93,10.0,ENE,13.8,-,N/A,,Mostly Cloudy,60,1994-05-24 00:00:00
+8:00 PM,65.8,47.8,52,29.93,15.0,ENE,9.2,-,N/A,,Mostly Cloudy,60,1994-05-24 01:00:00
+9:00 PM,65.8,48.9,54,29.95,15.0,NW,16.1,-,N/A,,Mostly Cloudy,310,1994-05-24 02:00:00
+10:00 PM,63.0,61.0,93,29.93,10.0,NNE,9.2,-,N/A,,Mostly Cloudy,20,1994-05-24 03:00:00
+11:00 PM,61.9,61.0,97,29.95,10.0,North,11.5,-,N/A,,Mostly Cloudy,360,1994-05-24 04:00:00

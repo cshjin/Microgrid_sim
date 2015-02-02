@@ -1,0 +1,24 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,7.9,0.9,73,30.30,15.0,Calm,Calm,-,N/A,,Clear,0,1996-01-20 06:00:00
+1:00 AM,7.9,1.9,77,30.31,15.0,Calm,Calm,-,N/A,,Clear,0,1996-01-20 07:00:00
+2:00 AM,7.9,1.9,77,30.32,15.0,Calm,Calm,-,N/A,,Clear,0,1996-01-20 08:00:00
+3:00 AM,7.9,0.9,73,30.31,15.0,Calm,Calm,-,N/A,,Clear,0,1996-01-20 09:00:00
+4:00 AM,7.9,1.9,77,30.31,15.0,Calm,Calm,-,N/A,,Clear,0,1996-01-20 10:00:00
+5:00 AM,7.9,1.9,77,30.33,15.0,Calm,Calm,-,N/A,,Clear,0,1996-01-20 11:00:00
+6:00 AM,9.0,2.8,76,30.34,15.0,Calm,Calm,-,N/A,,Clear,0,1996-01-20 12:00:00
+7:00 AM,9.9,3.9,77,30.36,15.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-01-20 13:00:00
+8:00 AM,10.9,2.8,70,30.37,10.0,Calm,Calm,-,N/A,,Overcast,0,1996-01-20 14:00:00
+9:00 AM,12.9,5.0,71,30.38,15.0,South,4.6,-,N/A,,Mostly Cloudy,170,1996-01-20 15:00:00
+11:00 AM,14.0,5.0,67,30.38,15.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-01-20 17:00:00
+12:00 PM,14.0,5.0,67,30.35,15.0,SW,5.8,-,N/A,,Scattered Clouds,230,1996-01-20 18:00:00
+1:00 PM,21.9,5.0,48,30.32,20.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-01-20 19:00:00
+2:00 PM,23.0,14.9,71,30.29,15.0,SSE,8.1,-,N/A,,Mostly Cloudy,160,1996-01-20 20:00:00
+3:00 PM,23.0,7.9,52,30.26,15.0,SSE,8.1,-,N/A,,Overcast,160,1996-01-20 21:00:00
+4:00 PM,23.0,7.9,52,30.27,10.0,SSE,6.9,-,N/A,,Overcast,160,1996-01-20 22:00:00
+5:00 PM,20.8,9.9,63,30.27,10.0,South,8.1,-,N/A,,Overcast,180,1996-01-20 23:00:00
+6:00 PM,20.8,10.9,66,30.27,10.0,South,8.1,-,N/A,,Scattered Clouds,170,1996-01-21 00:00:00
+7:00 PM,20.8,11.8,68,30.27,15.0,South,6.9,-,N/A,,Scattered Clouds,170,1996-01-21 01:00:00
+8:00 PM,20.8,11.8,68,30.25,15.0,South,5.8,-,N/A,,Scattered Clouds,180,1996-01-21 02:00:00
+9:00 PM,20.8,11.8,68,30.26,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-01-21 03:00:00
+10:00 PM,20.8,14.0,75,30.26,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-01-21 04:00:00
+11:00 PM,18.9,12.9,78,30.26,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1996-01-21 05:00:00

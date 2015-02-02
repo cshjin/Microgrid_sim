@@ -1,0 +1,22 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,32.9,30.9,92,30.06,3.0,Calm,Calm,-,0.10,Fog-Rain,Light Rain Showers,0,1995-02-27 06:00:00
+1:00 AM,32.9,30.9,92,30.07,3.0,Calm,Calm,-,0.10,Fog-Rain,Light Rain Showers,0,1995-02-27 07:00:00
+3:00 AM,32.9,32.0,96,30.04,4.0,Calm,Calm,-,0.10,Fog-Rain,Light Rain Showers,0,1995-02-27 09:00:00
+5:00 AM,32.9,32.0,96,30.03,4.0,Calm,Calm,-,0.10,Fog-Rain,Light Rain Showers,0,1995-02-27 11:00:00
+6:00 AM,32.9,32.0,96,30.03,4.0,Calm,Calm,-,N/A,Fog-Rain,Light Rain Showers,0,1995-02-27 12:00:00
+7:00 AM,34.0,32.0,92,30.03,2.0,NE,4.6,-,N/A,Fog-Rain,Light Rain,40,1995-02-27 13:00:00
+8:00 AM,34.0,32.9,96,30.07,5.0,Calm,Calm,-,N/A,Fog,Fog,0,1995-02-27 14:00:00
+10:00 AM,34.0,32.0,92,30.08,4.0,Calm,Calm,-,0.10,Fog,Fog,0,1995-02-27 16:00:00
+11:00 AM,32.9,32.0,96,30.09,5.5,Calm,Calm,-,N/A,Fog,Fog,0,1995-02-27 17:00:00
+12:00 PM,32.0,28.9,88,30.09,10.5,Calm,Calm,-,N/A,Fog,Fog,0,1995-02-27 18:00:00
+1:00 PM,32.0,29.8,92,30.09,3.0,Calm,Calm,-,N/A,Fog,Fog,0,1995-02-27 19:00:00
+2:00 PM,32.0,29.8,92,30.08,3.0,NNE,15.0,-,N/A,Fog,Fog,30,1995-02-27 20:00:00
+3:00 PM,32.0,29.8,92,30.09,3.0,NNE,15.0,-,N/A,Fog,Fog,30,1995-02-27 21:00:00
+4:00 PM,32.0,29.8,92,30.10,4.0,NE,11.5,-,N/A,Fog,Fog,40,1995-02-27 22:00:00
+5:00 PM,32.9,29.8,88,30.11,4.0,NNE,11.5,-,N/A,Fog,Fog,30,1995-02-27 23:00:00
+6:00 PM,32.0,29.8,92,30.11,7.0,NNE,13.8,-,N/A,,Light Freezing Drizzle,30,1995-02-28 00:00:00
+7:00 PM,32.9,29.8,88,30.13,7.0,NNE,16.1,-,N/A,,Light Drizzle,30,1995-02-28 01:00:00
+8:00 PM,32.9,29.8,88,30.15,7.0,NNE,16.1,-,N/A,,Light Drizzle,20,1995-02-28 02:00:00
+9:00 PM,32.9,30.9,92,30.15,7.0,NNE,12.7,-,N/A,,Light Drizzle,20,1995-02-28 03:00:00
+10:00 PM,32.9,29.8,88,30.18,7.0,North,11.5,-,N/A,,Overcast,10,1995-02-28 04:00:00
+11:00 PM,34.0,29.8,85,30.16,10.0,North,11.5,-,N/A,,Overcast,10,1995-02-28 05:00:00

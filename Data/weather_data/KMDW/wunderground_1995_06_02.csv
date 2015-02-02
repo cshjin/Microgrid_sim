@@ -1,0 +1,24 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+1:00 AM,66.9,65.8,96,29.93,8.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1995-06-02 06:00:00
+2:00 AM,66.9,65.8,96,29.91,8.0,SSE,10.4,-,N/A,,Mostly Cloudy,160,1995-06-02 07:00:00
+5:00 AM,64.9,64.9,100,29.90,8.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1995-06-02 10:00:00
+6:00 AM,64.9,64.9,100,29.90,3.0,Calm,Calm,-,N/A,Fog,Fog,0,1995-06-02 11:00:00
+7:00 AM,65.8,65.8,100,29.93,5.0,Calm,Calm,-,N/A,Fog,Fog,0,1995-06-02 12:00:00
+8:00 AM,66.9,32.0,27,29.92,4.0,Calm,Calm,-,N/A,Fog,Fog,0,1995-06-02 13:00:00
+9:00 AM,68.0,68.0,100,29.93,4.0,Calm,Calm,-,N/A,Fog,Fog,0,1995-06-02 14:00:00
+10:00 AM,68.9,68.9,100,29.93,5.0,Calm,Calm,-,N/A,,Drizzle,0,1995-06-02 15:00:00
+11:00 AM,70.9,68.9,93,29.93,5.0,Calm,Calm,-,N/A,,Drizzle,0,1995-06-02 16:00:00
+12:00 PM,82.9,70.0,65,29.91,4.0,SSE,4.6,-,N/A,,Drizzle,160,1995-06-02 17:00:00
+1:00 PM,72.9,70.0,91,29.90,6.0,ESE,8.1,-,N/A,Fog,Fog,120,1995-06-02 18:00:00
+2:00 PM,68.9,68.9,100,29.92,6.0,WSW,11.5,-,0.10,Fog,Fog,250,1995-06-02 19:00:00
+2:15 PM,-9999,-9999,N/A,29.93,3.0,WNW,9.2,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,290,1995-06-02 19:15:00
+3:00 PM,63.9,63.9,100,29.93,10.5,West,11.5,-,0.10,Rain-Thunderstorm,Light Thunderstorms and Rain,280,1995-06-02 20:00:00
+3:17 PM,-9999,-9999,N/A,29.94,2.0,NNW,6.9,-,N/A,Fog-Rain,Light Rain Showers,330,1995-06-02 20:17:00
+4:00 PM,63.0,63.0,100,29.93,10.5,NW,5.8,-,0.20,Fog-Rain,Light Rain Showers,310,1995-06-02 21:00:00
+5:00 PM,63.9,63.9,100,29.92,3.0,North,5.8,-,N/A,Fog-Rain,Light Rain,360,1995-06-02 22:00:00
+6:00 PM,63.9,63.9,100,29.91,3.0,NNW,5.8,-,0.10,Fog-Rain,Light Rain,340,1995-06-02 23:00:00
+7:00 PM,63.9,63.9,100,29.90,5.0,NNE,5.8,-,N/A,Fog-Rain,Light Rain,30,1995-06-03 00:00:00
+8:00 PM,64.9,64.9,100,29.90,3.0,NNE,5.8,-,N/A,Fog,Fog,30,1995-06-03 01:00:00
+9:00 PM,63.9,63.9,100,29.91,3.0,Calm,Calm,-,N/A,Fog,Fog,0,1995-06-03 02:00:00
+10:00 PM,63.0,63.0,100,29.93,3.0,ENE,5.8,-,N/A,Fog,Fog,60,1995-06-03 03:00:00
+11:00 PM,59.9,59.9,100,29.93,2.0,Calm,Calm,-,N/A,Fog,Fog,0,1995-06-03 04:00:00

@@ -1,0 +1,24 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,11.8,9.0,88,30.09,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1994-02-25 06:00:00
+2:00 AM,16.9,11.8,81,30.07,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1994-02-25 08:00:00
+3:00 AM,18.0,10.9,74,30.05,10.0,ENE,9.2,-,N/A,,Overcast,60,1994-02-25 09:00:00
+4:00 AM,18.9,12.9,78,30.03,10.0,South,9.2,-,N/A,,Overcast,190,1994-02-25 10:00:00
+5:00 AM,18.9,14.0,81,30.02,10.0,East,10.4,-,N/A,,Overcast,80,1994-02-25 11:00:00
+6:00 AM,20.8,11.8,68,29.96,10.0,East,13.8,-,N/A,,Overcast,100,1994-02-25 12:00:00
+7:00 AM,21.9,14.0,72,29.93,8.0,ENE,13.8,-,N/A,,Overcast,70,1994-02-25 13:00:00
+8:00 AM,19.9,18.0,92,29.91,1.0,ENE,12.7,-,N/A,Fog-Snow,Light Snow Showers,70,1994-02-25 14:00:00
+9:00 AM,19.9,18.0,92,29.82,1.0,East,13.8,-,N/A,Fog-Snow,Snow Showers,80,1994-02-25 15:00:00
+10:00 AM,20.8,18.9,92,29.79,0.2,South,11.5,-,N/A,Fog-Snow,Snow,170,1994-02-25 16:00:00
+11:00 AM,21.9,20.8,96,29.76,0.2,ENE,6.9,-,N/A,Fog-Snow,Snow,70,1994-02-25 17:00:00
+12:00 PM,23.9,21.9,92,29.71,0.4,East,5.8,-,N/A,Fog-Snow,Snow,90,1994-02-25 18:00:00
+1:00 PM,27.0,23.9,88,29.67,1.0,Calm,Calm,-,N/A,Fog-Snow,Light Snow Showers,0,1994-02-25 19:00:00
+2:00 PM,27.0,23.9,88,29.67,3.0,West,15.0,-,N/A,Fog-Snow,Light Snow Showers,260,1994-02-25 20:00:00
+3:00 PM,25.0,19.9,81,29.71,3.0,West,20.7,-,N/A,Fog-Snow,Light Snow Showers,260,1994-02-25 21:00:00
+4:00 PM,23.0,18.0,81,0.00,3.0,WSW,23.0,34.5,N/A,Snow,Light Blowing Snow,250,1994-02-25 22:00:00
+5:00 PM,16.0,11.8,84,29.83,2.0,North,-9999.0,-,N/A,Snow,Light Blowing Snow,0,1994-02-25 23:00:00
+6:00 PM,14.9,14.0,96,29.87,0.2,West,23.0,-,N/A,Snow,Light Blowing Snow,270,1994-02-26 00:00:00
+6:25 PM,16.9,14.9,92,29.92,2.0,West,13.8,-,N/A,Snow,Light Blowing Snow,260,1994-02-26 00:25:00
+7:00 PM,18.9,16.0,89,29.94,5.0,West,20.7,-,N/A,Snow,Light Blowing Snow,260,1994-02-26 01:00:00
+9:00 PM,16.9,11.8,81,30.07,7.0,WNW,20.7,-,N/A,,Overcast,300,1994-02-26 03:00:00
+10:00 PM,14.9,9.0,77,30.12,7.0,West,17.3,-,N/A,,Mostly Cloudy,280,1994-02-26 04:00:00
+11:00 PM,14.0,9.0,80,30.14,7.0,WNW,17.3,-,N/A,,Mostly Cloudy,290,1994-02-26 05:00:00

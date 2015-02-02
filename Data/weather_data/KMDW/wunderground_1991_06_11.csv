@@ -1,0 +1,25 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,73.9,64.0,71,30.01,10.0,WNW,11.5,-,N/A,,Overcast,290,1991-06-11 05:00:00
+1:00 AM,72.0,64.0,76,30.00,10.0,WSW,6.9,-,N/A,,Mostly Cloudy,240,1991-06-11 06:00:00
+2:00 AM,71.1,64.0,78,29.99,10.0,SW,6.9,-,N/A,,Mostly Cloudy,230,1991-06-11 07:00:00
+3:00 AM,70.0,64.0,81,29.98,8.0,WSW,11.5,-,N/A,,Mostly Cloudy,240,1991-06-11 08:00:00
+4:00 AM,68.0,64.9,90,29.96,6.0,West,8.1,-,N/A,Fog-Rain,Light Rain Showers,260,1991-06-11 09:00:00
+5:00 AM,68.0,64.9,90,29.96,6.0,West,11.5,-,N/A,Fog-Rain,Light Rain,260,1991-06-11 10:00:00
+5:17 AM,-9999,-9999,N/A,29.98,10.5,West,11.5,-,N/A,Fog-Rain,Light Rain,270,1991-06-11 10:17:00
+6:00 AM,68.0,66.0,93,29.97,5.5,West,8.1,-,N/A,Fog-Rain,Light Rain,260,1991-06-11 11:00:00
+7:00 AM,66.9,66.0,97,29.98,2.8,WSW,6.9,-,N/A,Fog-Rain,Light Rain,240,1991-06-11 12:00:00
+8:00 AM,68.0,66.0,93,29.97,5.5,SW,9.2,-,N/A,Fog-Rain,Light Rain,220,1991-06-11 13:00:00
+9:00 AM,68.0,66.0,93,29.98,2.8,SW,10.4,-,N/A,Fog-Rain,Light Rain,220,1991-06-11 14:00:00
+10:00 AM,68.0,66.0,93,29.98,2.0,SW,8.1,-,N/A,Fog-Rain,Light Rain,230,1991-06-11 15:00:00
+11:00 AM,68.0,66.0,93,29.97,3.0,WSW,10.4,-,N/A,Fog-Rain,Light Rain,240,1991-06-11 16:00:00
+12:00 PM,73.0,68.0,84,29.96,3.0,WSW,9.2,-,N/A,Fog,Fog,240,1991-06-11 17:00:00
+1:00 PM,75.9,66.9,74,29.96,9.0,WSW,9.2,-,N/A,,Mostly Cloudy,240,1991-06-11 18:00:00
+2:00 PM,80.1,64.0,58,29.94,10.0,WSW,6.9,-,N/A,,Overcast,250,1991-06-11 19:00:00
+3:00 PM,70.0,62.1,76,29.93,5.0,ENE,5.8,-,N/A,Fog-Rain,Light Rain Showers,60,1991-06-11 20:00:00
+4:00 PM,79.0,63.0,58,29.91,8.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1991-06-11 21:00:00
+5:00 PM,77.0,64.0,64,29.91,10.0,East,11.5,-,N/A,,Mostly Cloudy,90,1991-06-11 22:00:00
+6:00 PM,78.1,62.1,58,29.90,10.0,East,9.2,-,N/A,,Mostly Cloudy,80,1991-06-11 23:00:00
+7:00 PM,75.9,57.9,54,29.91,15.0,ENE,9.2,-,N/A,,Mostly Cloudy,70,1991-06-12 00:00:00
+8:00 PM,75.0,60.1,60,29.91,10.0,East,8.1,-,N/A,,Scattered Clouds,100,1991-06-12 01:00:00
+9:00 PM,73.9,60.1,62,29.90,10.0,East,5.8,-,N/A,,Scattered Clouds,100,1991-06-12 02:00:00
+10:00 PM,71.1,63.0,75,29.93,7.0,South,6.9,-,N/A,,Clear,180,1991-06-12 03:00:00

@@ -1,0 +1,22 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:45 AM,51.8,48.2,88,30.07,8.0,South,9.2,-,N/A,,Mostly Cloudy,180,1996-11-06 06:45:00
+1:45 AM,51.8,50.0,94,30.06,7.0,South,9.2,-,N/A,,Mostly Cloudy,180,1996-11-06 07:45:00
+2:45 AM,51.8,50.0,94,30.05,7.0,South,9.2,-,N/A,,Scattered Clouds,180,1996-11-06 08:45:00
+4:45 AM,53.6,50.0,88,-9999,5.0,South,10.4,-,N/A,,Partly Cloudy,180,1996-11-06 10:45:00
+5:45 AM,53.6,51.8,94,30.03,5.0,SSW,11.5,-,N/A,,Scattered Clouds,200,1996-11-06 11:45:00
+7:45 AM,55.4,51.8,88,30.00,4.0,SSW,13.8,-,N/A,,Mostly Cloudy,200,1996-11-06 13:45:00
+8:45 AM,59.0,53.6,82,29.99,5.0,South,17.3,-,N/A,,Haze,190,1996-11-06 14:45:00
+9:45 AM,60.8,55.4,82,29.98,8.0,South,20.7,-,N/A,,Overcast,190,1996-11-06 15:45:00
+10:45 AM,60.8,55.4,82,29.95,8.0,South,20.7,-,N/A,Rain,Light Rain,190,1996-11-06 16:45:00
+11:45 AM,60.8,57.2,88,29.92,5.0,South,17.3,-,N/A,Rain,Light Rain,190,1996-11-06 17:45:00
+12:45 PM,51.8,35.6,54,29.88,-9999.0,South,9.2,-,N/A,,Unknown,170,1996-11-06 18:45:00
+1:45 PM,60.8,59.0,94,29.87,3.0,South,16.1,-,N/A,Rain,Light Rain,190,1996-11-06 19:45:00
+2:45 PM,60.8,59.0,94,29.86,1.5,South,16.1,-,N/A,Rain,Light Rain Showers,170,1996-11-06 20:45:00
+3:45 PM,60.8,60.8,100,29.85,2.0,South,17.3,-,N/A,Rain,Light Rain Showers,180,1996-11-06 21:45:00
+4:45 PM,60.8,60.8,100,29.85,2.0,South,16.1,-,N/A,Rain,Light Rain Showers,180,1996-11-06 22:45:00
+5:45 PM,60.8,59.0,94,29.85,3.0,South,16.1,-,N/A,Rain,Light Rain Showers,170,1996-11-06 23:45:00
+6:45 PM,60.8,51.8,72,29.81,6.0,South,17.3,23.0,N/A,,Overcast,190,1996-11-07 00:45:00
+7:45 PM,62.6,60.8,94,29.84,7.0,SW,17.3,24.2,N/A,,Mostly Cloudy,220,1996-11-07 01:45:00
+8:55 PM,60.8,59.0,94,29.84,9.0,SW,19.6,-,N/A,,Mostly Cloudy,220,1996-11-07 02:55:00
+10:45 PM,60.8,59.0,94,29.84,10.0,SW,12.7,-,N/A,Rain,Light Rain,220,1996-11-07 04:45:00
+11:45 PM,53.6,51.8,94,29.83,10.0,NW,12.7,-,N/A,Rain,Light Rain,310,1996-11-07 05:45:00

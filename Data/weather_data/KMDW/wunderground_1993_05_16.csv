@@ -1,0 +1,25 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,61.9,45.0,54,29.90,10.0,WNW,5.8,-,N/A,Rain,Light Rain Showers,290,1993-05-16 05:00:00
+1:00 AM,59.0,45.9,62,29.89,10.0,WNW,10.4,-,N/A,,Light Drizzle,290,1993-05-16 06:00:00
+2:00 AM,54.9,48.9,80,29.89,15.0,West,4.6,-,N/A,,Overcast,260,1993-05-16 07:00:00
+3:00 AM,54.0,43.9,69,29.89,15.0,NE,9.2,-,N/A,,Overcast,50,1993-05-16 08:00:00
+4:00 AM,52.9,39.9,61,29.91,10.0,NE,6.9,-,N/A,,Overcast,50,1993-05-16 09:00:00
+5:00 AM,50.0,43.9,79,29.93,10.0,ENE,5.8,-,N/A,,Overcast,60,1993-05-16 10:00:00
+6:00 AM,47.8,45.0,90,29.95,8.0,Calm,Calm,-,N/A,Rain,Light Rain Showers,0,1993-05-16 11:00:00
+7:00 AM,47.8,45.0,90,29.96,15.0,Calm,Calm,-,N/A,,Overcast,0,1993-05-16 12:00:00
+8:00 AM,48.9,45.9,89,29.97,15.0,Calm,Calm,-,N/A,,Overcast,0,1993-05-16 13:00:00
+9:00 AM,52.0,47.8,86,29.99,10.0,West,5.8,-,N/A,,Mostly Cloudy,280,1993-05-16 14:00:00
+10:00 AM,54.9,48.9,80,30.00,15.0,WNW,5.8,-,N/A,,Mostly Cloudy,290,1993-05-16 15:00:00
+11:00 AM,55.9,45.9,69,30.01,15.0,West,5.8,-,N/A,,Mostly Cloudy,280,1993-05-16 16:00:00
+12:00 PM,59.9,52.9,78,30.01,20.0,NW,9.2,-,N/A,,Mostly Cloudy,310,1993-05-16 17:00:00
+1:00 PM,61.0,41.0,48,30.00,20.0,West,6.9,-,N/A,,Mostly Cloudy,280,1993-05-16 18:00:00
+2:00 PM,59.9,41.9,51,29.98,20.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1993-05-16 19:00:00
+3:00 PM,63.0,41.9,46,29.96,20.0,NNE,5.8,-,N/A,,Scattered Clouds,30,1993-05-16 20:00:00
+4:00 PM,63.0,41.9,46,29.96,20.0,East,4.6,-,N/A,,Scattered Clouds,90,1993-05-16 21:00:00
+5:00 PM,61.9,41.9,48,29.95,20.0,ENE,9.2,-,N/A,,Scattered Clouds,60,1993-05-16 22:00:00
+6:00 PM,61.0,41.9,49,29.95,20.0,ENE,6.9,-,N/A,,Scattered Clouds,60,1993-05-16 23:00:00
+7:00 PM,59.9,41.9,51,29.95,25.0,ENE,8.1,-,N/A,,Scattered Clouds,60,1993-05-17 00:00:00
+8:00 PM,56.8,41.9,57,29.95,25.0,ENE,5.8,-,N/A,,Clear,60,1993-05-17 01:00:00
+9:00 PM,54.9,43.9,66,29.96,20.0,ENE,5.8,-,N/A,,Scattered Clouds,60,1993-05-17 02:00:00
+10:00 PM,54.9,45.0,69,29.96,15.0,South,5.8,-,N/A,,Scattered Clouds,180,1993-05-17 03:00:00
+11:00 PM,55.9,45.0,67,29.96,15.0,South,5.8,-,N/A,,Scattered Clouds,190,1993-05-17 04:00:00

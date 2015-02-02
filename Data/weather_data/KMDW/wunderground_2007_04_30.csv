@@ -1,0 +1,31 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:22 AM,64.4,62.6,94,29.90,10.0,South,6.9,-,0.00,,Overcast,170,2007-04-30 05:22:00
+12:31 AM,64.4,62.6,94,29.91,10.0,NE,6.9,-,0.00,,Overcast,40,2007-04-30 05:31:00
+12:44 AM,66.2,60.8,83,29.96,10.0,NNW,11.5,-,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,330,2007-04-30 05:44:00
+12:51 AM,66.0,61.0,84,29.97,5.0,NW,23.0,39.1,0.02,Rain-Thunderstorm,Light Thunderstorms and Rain,320,2007-04-30 05:51:00
+12:59 AM,64.4,60.8,88,29.95,2.0,NNW,17.3,-,0.05,Rain-Thunderstorm,Light Thunderstorms and Rain,330,2007-04-30 05:59:00
+1:03 AM,64.4,62.6,94,29.94,4.0,WSW,9.2,-,0.05,Rain-Thunderstorm,Light Thunderstorms and Rain,250,2007-04-30 06:03:00
+1:45 AM,64.4,62.6,94,29.88,10.0,SSE,9.2,-,0.08,,Mostly Cloudy,150,2007-04-30 06:45:00
+1:51 AM,64.0,62.1,93,29.86,10.0,SSE,9.2,-,0.08,,Mostly Cloudy,150,2007-04-30 06:51:00
+2:51 AM,63.0,59.0,87,29.91,10.0,North,11.5,-,N/A,,Mostly Cloudy,360,2007-04-30 07:51:00
+3:51 AM,53.1,43.0,69,29.93,10.0,North,11.5,-,N/A,,Scattered Clouds,360,2007-04-30 08:51:00
+4:51 AM,53.1,42.1,66,29.93,10.0,North,9.2,-,N/A,,Scattered Clouds,360,2007-04-30 09:51:00
+5:51 AM,52.0,42.1,69,29.94,10.0,North,5.8,-,N/A,,Scattered Clouds,360,2007-04-30 10:51:00
+6:51 AM,55.0,39.9,57,29.96,10.0,NE,13.8,-,N/A,,Scattered Clouds,50,2007-04-30 11:51:00
+7:51 AM,57.0,41.0,55,29.97,10.0,NE,12.7,-,N/A,,Partly Cloudy,50,2007-04-30 12:51:00
+8:51 AM,60.8,42.8,52,29.98,10.0,NE,11.5,-,N/A,,Partly Cloudy,50,2007-04-30 13:51:00
+9:51 AM,61.0,39.9,46,29.98,10.0,ENE,13.8,-,N/A,,Partly Cloudy,70,2007-04-30 14:51:00
+10:51 AM,63.0,37.0,38,29.98,10.0,ENE,17.3,-,N/A,,Scattered Clouds,60,2007-04-30 15:51:00
+11:51 AM,64.9,37.9,37,29.97,10.0,ENE,13.8,-,N/A,,Scattered Clouds,60,2007-04-30 16:51:00
+12:51 PM,66.0,37.0,34,29.96,10.0,NE,15.0,-,N/A,,Scattered Clouds,50,2007-04-30 17:51:00
+1:51 PM,64.9,36.0,34,29.96,10.0,ENE,12.7,-,N/A,,Scattered Clouds,70,2007-04-30 18:51:00
+2:51 PM,66.0,37.9,36,29.92,10.0,ENE,16.1,-,N/A,,Partly Cloudy,70,2007-04-30 19:51:00
+3:51 PM,64.0,39.0,40,29.91,10.0,NE,13.8,-,N/A,,Scattered Clouds,50,2007-04-30 20:51:00
+4:51 PM,64.0,41.0,43,29.91,10.0,NNE,11.5,-,N/A,,Scattered Clouds,20,2007-04-30 21:51:00
+5:51 PM,62.1,41.0,46,29.90,10.0,NNE,10.4,-,N/A,,Partly Cloudy,20,2007-04-30 22:51:00
+6:51 PM,57.9,39.9,51,29.91,10.0,NNE,15.0,-,N/A,,Clear,30,2007-04-30 23:51:00
+7:51 PM,54.0,37.9,55,29.92,10.0,NNE,11.5,-,N/A,,Scattered Clouds,20,2007-05-01 00:51:00
+8:51 PM,55.0,39.0,55,29.91,10.0,ENE,11.5,-,N/A,,Scattered Clouds,60,2007-05-01 01:51:00
+9:51 PM,54.0,42.1,64,29.89,10.0,Variable,3.5,-,N/A,,Scattered Clouds,0,2007-05-01 02:51:00
+10:51 PM,55.0,43.0,64,29.92,10.0,NNE,13.8,39.1,N/A,,Scattered Clouds,20,2007-05-01 03:51:00
+11:51 PM,51.1,41.0,68,29.91,10.0,NE,10.4,-,N/A,,Clear,50,2007-05-01 04:51:00

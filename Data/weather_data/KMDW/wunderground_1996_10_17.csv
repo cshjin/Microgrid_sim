@@ -1,0 +1,21 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:45 AM,62.6,57.2,82,29.84,12.0,South,15.0,-,N/A,,Overcast,190,1996-10-17 05:45:00
+1:45 AM,62.6,57.2,82,29.83,12.0,South,11.5,-,N/A,,Overcast,190,1996-10-17 06:45:00
+3:45 AM,62.6,55.4,77,29.79,12.0,South,13.8,-,N/A,,Mostly Cloudy,190,1996-10-17 08:45:00
+5:45 AM,62.6,53.6,72,29.77,10.0,South,17.3,-,N/A,,Mostly Cloudy,190,1996-10-17 10:45:00
+6:45 AM,60.8,51.8,72,29.78,10.0,ESE,16.1,-,N/A,,Mostly Cloudy,120,1996-10-17 11:45:00
+7:45 AM,60.8,51.8,72,29.77,3.0,SSW,17.3,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,200,1996-10-17 12:45:00
+8:45 AM,59.0,55.4,88,29.76,8.0,South,18.4,-,N/A,,Mostly Cloudy,180,1996-10-17 13:45:00
+9:45 AM,62.6,55.4,77,29.75,10.0,South,16.1,-,N/A,,Scattered Clouds,190,1996-10-17 14:45:00
+10:45 AM,66.2,55.4,68,29.73,10.0,SSW,17.3,-,N/A,,Scattered Clouds,200,1996-10-17 15:45:00
+11:45 AM,69.8,57.2,64,29.70,12.0,SSW,15.0,-,N/A,,Scattered Clouds,200,1996-10-17 16:45:00
+12:45 PM,75.2,57.2,53,29.66,10.0,SSW,23.0,-,N/A,,Scattered Clouds,200,1996-10-17 17:45:00
+1:45 PM,73.4,57.2,57,29.66,12.0,SSW,19.6,-,N/A,,Overcast,200,1996-10-17 18:45:00
+2:45 PM,71.6,59.0,64,29.66,12.0,SW,19.6,-,N/A,,Overcast,220,1996-10-17 19:45:00
+3:45 PM,68.0,60.8,78,29.63,4.0,SSW,20.7,-,N/A,Rain,Rain,210,1996-10-17 20:45:00
+4:45 PM,68.0,62.6,83,29.63,8.0,SSW,10.4,-,N/A,Rain,Light Rain,210,1996-10-17 21:45:00
+5:45 PM,64.4,62.6,94,29.68,2.0,SW,17.3,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,220,1996-10-17 22:45:00
+6:45 PM,59.0,57.2,94,29.69,10.0,West,15.0,-,N/A,Rain,Light Rain,270,1996-10-17 23:45:00
+7:45 PM,55.4,50.0,82,29.70,15.0,WNW,19.6,-,N/A,Rain,Light Rain Showers,290,1996-10-18 00:45:00
+9:45 PM,48.2,42.8,82,29.73,15.0,WNW,16.1,-,N/A,,Partly Cloudy,290,1996-10-18 02:45:00
+10:45 PM,48.2,41.0,76,29.81,15.0,WNW,16.1,-,N/A,,Mostly Cloudy,290,1996-10-18 03:45:00

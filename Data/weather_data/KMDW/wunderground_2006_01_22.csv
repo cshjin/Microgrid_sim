@@ -1,0 +1,32 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:53 AM,25.0,23.0,92,30.51,4.0,Calm,Calm,-,N/A,,Clear,0,2006-01-22 06:53:00
+1:53 AM,24.1,21.9,91,30.52,4.0,Calm,Calm,-,N/A,,Clear,0,2006-01-22 07:53:00
+2:53 AM,23.0,21.0,92,30.53,4.0,Calm,Calm,-,N/A,,Clear,0,2006-01-22 08:53:00
+3:53 AM,19.9,19.0,96,30.52,4.0,Calm,Calm,-,N/A,,Clear,0,2006-01-22 09:53:00
+4:23 AM,19.4,17.6,93,30.47,0.2,Calm,Calm,-,N/A,Fog,Light Freezing Fog,0,2006-01-22 10:23:00
+4:53 AM,21.9,19.9,92,30.53,0.2,Calm,Calm,-,N/A,Fog,Light Freezing Fog,0,2006-01-22 10:53:00
+5:53 AM,21.9,21.0,96,30.53,0.2,Calm,Calm,-,N/A,Fog,Light Freezing Fog,0,2006-01-22 11:53:00
+6:30 AM,21.2,21.2,100,30.46,0.2,Calm,Calm,-,N/A,Fog,Light Freezing Fog,0,2006-01-22 12:30:00
+6:53 AM,23.0,21.9,96,30.51,0.2,Calm,Calm,-,N/A,Fog,Light Freezing Fog,0,2006-01-22 12:53:00
+7:06 AM,23.0,21.2,93,30.47,0.2,Calm,Calm,-,N/A,Fog,Light Freezing Fog,0,2006-01-22 13:06:00
+7:22 AM,23.0,21.2,93,30.46,0.2,Calm,Calm,-,N/A,Fog,Light Freezing Fog,0,2006-01-22 13:22:00
+7:53 AM,23.0,21.9,96,30.51,0.1,Calm,Calm,-,N/A,Fog,Light Freezing Fog,0,2006-01-22 13:53:00
+8:44 AM,24.8,23.0,93,30.46,0.5,Calm,Calm,-,N/A,Fog,Light Freezing Fog,0,2006-01-22 14:44:00
+8:53 AM,24.1,24.1,100,30.51,0.8,Calm,Calm,-,N/A,,Overcast,0,2006-01-22 14:53:00
+9:27 AM,24.8,24.8,100,30.47,1.0,South,3.5,-,N/A,,Mostly Cloudy,180,2006-01-22 15:27:00
+9:53 AM,27.0,25.0,92,30.52,1.5,South,3.5,-,N/A,,Mostly Cloudy,180,2006-01-22 15:53:00
+10:53 AM,28.9,27.0,92,30.51,2.5,South,4.6,-,N/A,,Mostly Cloudy,190,2006-01-22 16:53:00
+11:53 AM,30.9,28.0,89,30.47,4.0,South,4.6,-,N/A,,Mostly Cloudy,190,2006-01-22 17:53:00
+12:53 PM,33.1,28.9,85,30.43,5.0,SSW,5.8,-,N/A,,Overcast,210,2006-01-22 18:53:00
+1:53 PM,34.0,28.9,82,30.37,7.0,WSW,3.5,-,N/A,,Mostly Cloudy,250,2006-01-22 19:53:00
+2:53 PM,35.1,28.0,76,30.37,9.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,2006-01-22 20:53:00
+3:53 PM,35.1,28.9,78,30.38,9.0,NW,3.5,-,N/A,,Overcast,310,2006-01-22 21:53:00
+4:53 PM,35.1,28.9,78,30.37,8.0,Calm,Calm,-,N/A,,Overcast,0,2006-01-22 22:53:00
+5:53 PM,34.0,28.0,79,30.36,9.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,2006-01-22 23:53:00
+6:53 PM,33.1,27.0,78,30.33,10.0,Calm,Calm,-,N/A,,Overcast,0,2006-01-23 00:53:00
+7:53 PM,33.1,28.0,82,30.32,10.0,Calm,Calm,-,N/A,,Overcast,0,2006-01-23 01:53:00
+8:53 PM,32.0,28.0,85,30.31,10.0,NW,4.6,-,N/A,,Overcast,310,2006-01-23 02:53:00
+9:53 PM,30.9,27.0,85,30.30,10.0,WNW,5.8,-,N/A,,Overcast,300,2006-01-23 03:53:00
+10:53 PM,28.9,26.1,89,30.27,10.0,NW,5.8,-,N/A,,Mostly Cloudy,320,2006-01-23 04:53:00
+11:50 PM,26.6,24.8,93,30.22,2.5,NW,5.8,-,N/A,,Mostly Cloudy,320,2006-01-23 05:50:00
+11:53 PM,26.1,25.0,96,30.26,1.0,NW,5.8,-,N/A,,Mostly Cloudy,320,2006-01-23 05:53:00

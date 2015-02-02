@@ -1,0 +1,13 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:53 PM,75.9,69.1,79,29.92,4.0,SW,13.8,24.2,0.05,Rain,Rain,230,2000-06-10 17:53:00
+1:53 PM,82.9,69.1,63,29.88,10.0,SSW,13.8,26.5,0.01,,Scattered Clouds,210,2000-06-10 18:53:00
+2:53 PM,84.9,66.0,53,29.86,10.0,SSW,21.9,31.1,N/A,,Scattered Clouds,210,2000-06-10 19:53:00
+3:53 PM,87.1,69.1,55,29.83,10.0,SW,24.2,33.4,N/A,,Scattered Clouds,220,2000-06-10 20:53:00
+4:53 PM,89.1,66.9,48,29.82,10.0,SW,16.1,27.6,N/A,,Scattered Clouds,230,2000-06-10 21:53:00
+5:53 PM,88.0,66.0,48,29.82,10.0,SW,19.6,27.6,N/A,,Partly Cloudy,220,2000-06-10 22:53:00
+6:53 PM,87.1,64.0,46,29.84,10.0,SW,16.1,32.2,N/A,,Scattered Clouds,230,2000-06-10 23:53:00
+7:53 PM,84.9,66.0,53,29.86,10.0,SW,16.1,25.3,N/A,,Scattered Clouds,230,2000-06-11 00:53:00
+8:53 PM,82.0,66.9,60,29.88,10.0,SW,10.4,-,N/A,,Scattered Clouds,230,2000-06-11 01:53:00
+9:53 PM,82.0,68.0,62,29.90,10.0,SW,8.1,-,N/A,,Mostly Cloudy,220,2000-06-11 02:53:00
+10:53 PM,81.0,66.9,62,29.91,10.0,SW,12.7,-,N/A,,Scattered Clouds,220,2000-06-11 03:53:00
+11:53 PM,79.0,68.0,69,29.91,10.0,SW,16.1,20.7,N/A,,Scattered Clouds,230,2000-06-11 04:53:00

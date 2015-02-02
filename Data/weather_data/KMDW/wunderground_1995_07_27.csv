@@ -1,0 +1,25 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,75.9,72.9,90,29.93,7.0,Calm,Calm,-,N/A,,Overcast,0,1995-07-27 05:00:00
+1:00 AM,74.8,73.9,97,29.93,6.0,Calm,Calm,-,N/A,Fog,Fog,0,1995-07-27 06:00:00
+2:00 AM,74.8,73.9,97,29.93,6.0,Calm,Calm,-,N/A,Fog,Fog,0,1995-07-27 07:00:00
+3:00 AM,74.8,73.9,97,29.93,6.0,Calm,Calm,-,N/A,Fog,Fog,0,1995-07-27 08:00:00
+5:00 AM,72.9,72.9,100,29.93,5.0,Calm,Calm,-,N/A,Fog,Fog,0,1995-07-27 10:00:00
+6:00 AM,73.9,72.9,96,29.93,5.0,Calm,Calm,-,N/A,Fog,Fog,0,1995-07-27 11:00:00
+7:00 AM,73.9,73.9,100,29.94,5.0,Calm,Calm,-,N/A,Fog,Fog,0,1995-07-27 12:00:00
+8:00 AM,75.9,73.9,94,29.92,5.0,ENE,9.2,-,N/A,Fog,Fog,60,1995-07-27 13:00:00
+9:00 AM,79.9,73.9,82,29.95,5.0,Calm,Calm,-,N/A,Fog,Fog,0,1995-07-27 14:00:00
+10:00 AM,81.9,72.9,74,29.94,7.0,East,5.8,-,N/A,,Mostly Cloudy,100,1995-07-27 15:00:00
+11:00 AM,82.9,72.9,71,29.93,7.0,East,5.8,-,N/A,,Mostly Cloudy,100,1995-07-27 16:00:00
+12:00 PM,84.9,74.8,72,29.91,5.0,Calm,Calm,-,N/A,,Drizzle,0,1995-07-27 17:00:00
+1:00 PM,86.9,72.9,63,29.90,7.0,SW,8.1,-,N/A,,Mostly Cloudy,230,1995-07-27 18:00:00
+2:00 PM,86.0,70.0,59,29.88,7.0,South,8.1,-,N/A,,Mostly Cloudy,190,1995-07-27 19:00:00
+3:00 PM,90.0,72.0,55,29.85,10.0,SSW,11.5,-,N/A,,Mostly Cloudy,200,1995-07-27 20:00:00
+4:00 PM,88.9,70.9,55,29.83,10.0,SSW,13.8,-,N/A,,Mostly Cloudy,200,1995-07-27 21:00:00
+5:00 PM,91.9,72.0,52,29.87,10.0,SSW,11.5,-,N/A,,Scattered Clouds,210,1995-07-27 22:00:00
+6:00 PM,91.9,70.9,50,29.78,10.0,SSW,11.5,-,N/A,,Mostly Cloudy,200,1995-07-27 23:00:00
+7:00 PM,90.0,72.0,55,29.78,10.0,SSW,8.1,-,N/A,,Mostly Cloudy,200,1995-07-28 00:00:00
+8:00 PM,88.0,72.9,61,29.80,10.0,SW,13.8,-,N/A,,Overcast,220,1995-07-28 01:00:00
+9:00 PM,74.8,72.9,94,29.90,2.0,West,17.3,-,0.10,Rain-Thunderstorm,Thunderstorms and Rain,280,1995-07-28 02:00:00
+9:30 PM,-9999,-9999,N/A,29.80,7.0,South,24.2,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,180,1995-07-28 02:30:00
+10:00 PM,72.9,70.9,93,29.82,10.0,South,16.1,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,190,1995-07-28 03:00:00
+11:00 PM,72.0,70.0,93,29.80,15.0,South,13.8,-,N/A,,Mostly Cloudy,180,1995-07-28 04:00:00

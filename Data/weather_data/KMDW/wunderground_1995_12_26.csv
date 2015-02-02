@@ -1,0 +1,25 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,16.0,9.0,74,30.14,10.0,WNW,5.8,-,N/A,,Clear,290,1995-12-26 06:00:00
+1:00 AM,18.0,9.0,68,30.11,10.0,West,8.1,-,N/A,,Mostly Cloudy,270,1995-12-26 07:00:00
+2:00 AM,16.0,7.9,70,30.09,10.0,West,6.9,-,N/A,,Mostly Cloudy,280,1995-12-26 08:00:00
+3:00 AM,18.0,7.9,65,30.07,20.0,WNW,5.8,-,N/A,,Mostly Cloudy,290,1995-12-26 09:00:00
+4:00 AM,18.0,9.0,68,30.05,15.0,West,5.8,-,N/A,,Mostly Cloudy,270,1995-12-26 10:00:00
+5:00 AM,18.0,9.9,71,30.05,10.0,WSW,6.9,-,N/A,,Mostly Cloudy,250,1995-12-26 11:00:00
+6:00 AM,18.0,9.9,71,30.04,10.0,WSW,5.8,-,N/A,,Mostly Cloudy,240,1995-12-26 12:00:00
+7:00 AM,18.9,9.9,68,30.01,10.0,SW,5.8,-,N/A,,Mostly Cloudy,230,1995-12-26 13:00:00
+8:00 AM,18.9,10.9,71,29.99,10.0,SSW,9.2,-,N/A,,Overcast,210,1995-12-26 14:00:00
+9:00 AM,20.8,11.8,68,29.99,8.0,SSW,6.9,-,N/A,Snow,Light Snow Showers,200,1995-12-26 15:00:00
+10:00 AM,21.9,12.9,68,29.98,10.0,SSW,8.1,-,N/A,Snow,Light Snow Showers,200,1995-12-26 16:00:00
+11:00 AM,23.0,18.0,81,29.94,8.0,SSW,10.4,-,N/A,Snow,Light Snow Showers,200,1995-12-26 17:00:00
+12:00 PM,23.9,23.0,96,29.90,5.5,SSW,8.1,-,N/A,Snow,Light Snow Showers,210,1995-12-26 18:00:00
+1:00 PM,25.9,25.0,96,29.88,2.0,SSW,5.8,-,N/A,Fog-Snow,Light Snow Showers,210,1995-12-26 19:00:00
+2:00 PM,25.9,25.0,96,29.87,10.5,SW,4.6,-,N/A,Fog-Snow,Light Snow,230,1995-12-26 20:00:00
+3:00 PM,27.9,27.0,96,29.88,2.0,West,4.6,-,N/A,Fog-Snow,Light Snow Showers,270,1995-12-26 21:00:00
+4:00 PM,28.9,27.0,92,29.90,3.0,West,5.8,-,N/A,Fog-Snow,Light Snow Showers,270,1995-12-26 22:00:00
+5:00 PM,28.9,27.0,92,29.92,2.0,WNW,6.9,-,N/A,Fog-Snow,Light Snow,300,1995-12-26 23:00:00
+6:00 PM,28.9,25.0,85,29.94,4.0,WNW,8.1,-,N/A,Fog-Snow,Light Snow Showers,300,1995-12-27 00:00:00
+7:00 PM,27.0,23.9,88,29.98,6.0,North,11.5,-,N/A,Fog-Snow,Light Snow,350,1995-12-27 01:00:00
+8:00 PM,25.9,20.8,81,30.00,6.0,NNW,9.2,-,N/A,Fog-Snow,Light Snow Showers,340,1995-12-27 02:00:00
+9:00 PM,29.8,23.0,76,30.02,5.0,NW,11.5,-,N/A,Fog-Snow,Light Snow,310,1995-12-27 03:00:00
+10:00 PM,25.0,19.9,81,30.03,5.0,NW,11.5,-,N/A,Fog-Snow,Light Snow,320,1995-12-27 04:00:00
+11:00 PM,23.0,18.0,81,30.05,7.0,NW,11.5,-,N/A,,Mostly Cloudy,320,1995-12-27 05:00:00

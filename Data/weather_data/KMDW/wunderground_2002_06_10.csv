@@ -1,0 +1,34 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:53 AM,79.0,66.9,66,29.96,7.0,South,11.5,-,N/A,,Scattered Clouds,190,2002-06-10 05:53:00
+1:53 AM,77.0,66.9,71,29.95,7.0,SSW,10.4,-,N/A,,Scattered Clouds,200,2002-06-10 06:53:00
+2:53 AM,75.9,66.9,74,29.94,9.0,SSW,11.5,-,N/A,,Mostly Cloudy,210,2002-06-10 07:53:00
+3:53 AM,75.0,66.0,73,29.94,10.0,SSW,6.9,-,N/A,,Partly Cloudy,200,2002-06-10 08:53:00
+4:53 AM,75.0,66.9,76,29.95,9.0,South,6.9,-,N/A,,Partly Cloudy,190,2002-06-10 09:53:00
+5:53 AM,73.9,66.9,79,29.95,7.0,South,8.1,-,N/A,,Scattered Clouds,190,2002-06-10 10:53:00
+6:53 AM,75.0,68.0,79,29.95,6.0,South,10.4,-,N/A,,Haze,190,2002-06-10 11:53:00
+7:53 AM,78.1,68.0,71,29.94,6.0,SSW,11.5,17.3,N/A,,Haze,200,2002-06-10 12:53:00
+8:53 AM,80.1,70.0,71,29.94,6.0,SSW,16.1,-,N/A,,Haze,200,2002-06-10 13:53:00
+9:53 AM,82.9,68.0,60,29.94,10.0,SW,12.7,23.0,N/A,,Scattered Clouds,220,2002-06-10 14:53:00
+10:53 AM,84.0,68.0,58,29.93,10.0,SW,13.8,25.3,N/A,,Mostly Cloudy,220,2002-06-10 15:53:00
+11:53 AM,87.1,66.9,51,29.92,10.0,SW,13.8,20.7,N/A,,Mostly Cloudy,220,2002-06-10 16:53:00
+12:53 PM,88.0,66.0,48,29.90,10.0,SSW,15.0,21.9,N/A,,Mostly Cloudy,200,2002-06-10 17:53:00
+1:53 PM,88.0,63.0,43,29.87,10.0,SSW,15.0,19.6,N/A,,Mostly Cloudy,210,2002-06-10 18:53:00
+2:53 PM,88.0,64.0,45,29.86,10.0,SSW,10.4,19.6,N/A,,Mostly Cloudy,210,2002-06-10 19:53:00
+3:05 PM,80.6,68.0,65,29.93,2.0,South,24.2,35.7,0.01,Rain-Thunderstorm,Thunderstorms and Rain,190,2002-06-10 20:05:00
+3:22 PM,75.2,69.8,83,29.92,3.0,Variable,3.5,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,0,2002-06-10 20:22:00
+3:53 PM,79.0,69.1,72,29.87,10.0,Calm,Calm,-,0.18,,Mostly Cloudy,0,2002-06-10 20:53:00
+4:53 PM,81.0,70.0,69,29.85,10.0,SE,5.8,-,N/A,,Mostly Cloudy,140,2002-06-10 21:53:00
+5:53 PM,80.1,70.0,71,29.85,9.0,WNW,8.1,-,N/A,,Mostly Cloudy,290,2002-06-10 22:53:00
+6:15 PM,82.4,69.8,66,29.86,10.0,Calm,Calm,-,N/A,Thunderstorm,Mostly Cloudy,0,2002-06-10 23:15:00
+6:39 PM,73.4,69.8,88,29.89,1.2,South,18.4,35.7,0.24,Rain-Thunderstorm,Heavy Thunderstorms and Rain,170,2002-06-10 23:39:00
+6:53 PM,72.0,69.1,91,29.88,5.0,SSW,23.0,36.8,0.27,Rain-Thunderstorm,Light Thunderstorms and Rain,200,2002-06-10 23:53:00
+7:02 PM,71.6,69.8,94,29.92,1.2,SSW,18.4,29.9,0.16,Rain-Thunderstorm,Thunderstorms and Rain,210,2002-06-11 00:02:00
+7:06 PM,71.6,69.8,94,29.93,0.8,SW,18.4,29.9,0.32,Rain-Thunderstorm,Heavy Thunderstorms and Rain,220,2002-06-11 00:06:00
+7:17 PM,71.6,69.8,94,29.94,0.8,SW,9.2,21.9,0.78,Rain-Thunderstorm,Heavy Thunderstorms and Rain,230,2002-06-11 00:17:00
+7:33 PM,71.6,69.8,94,29.90,1.0,East,11.5,-,1.08,Rain-Thunderstorm,Heavy Thunderstorms and Rain,100,2002-06-11 00:33:00
+7:41 PM,73.4,69.8,88,29.91,6.0,ESE,9.2,-,1.09,Rain-Thunderstorm,Light Thunderstorms and Rain,110,2002-06-11 00:41:00
+7:53 PM,73.9,70.0,87,29.88,10.0,SE,8.1,-,1.09,,Overcast,130,2002-06-11 00:53:00
+8:53 PM,75.9,70.0,82,29.87,10.0,SSE,10.4,-,N/A,,Mostly Cloudy,150,2002-06-11 01:53:00
+9:53 PM,75.0,68.0,79,29.87,10.0,SSW,9.2,-,N/A,,Mostly Cloudy,210,2002-06-11 02:53:00
+10:53 PM,75.0,69.1,82,29.86,10.0,SSW,12.7,-,N/A,,Scattered Clouds,200,2002-06-11 03:53:00
+11:53 PM,73.9,69.1,85,29.86,10.0,South,6.9,-,N/A,,Scattered Clouds,180,2002-06-11 04:53:00

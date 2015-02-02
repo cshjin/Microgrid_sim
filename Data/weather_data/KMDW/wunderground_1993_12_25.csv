@@ -1,0 +1,24 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,16.9,14.0,88,29.77,2.0,Calm,Calm,-,N/A,Snow,Light Snow Showers,0,1993-12-25 06:00:00
+1:00 AM,16.9,14.9,92,29.74,2.0,Calm,Calm,-,N/A,Snow,Light Snow Showers,0,1993-12-25 07:00:00
+2:00 AM,16.9,14.9,92,29.72,10.5,NE,5.8,-,N/A,Snow,Light Snow Showers,50,1993-12-25 08:00:00
+3:00 AM,18.0,14.9,88,29.72,2.0,North,5.8,-,N/A,Snow,Light Snow Showers,360,1993-12-25 09:00:00
+4:00 AM,18.0,14.0,84,29.72,4.0,WNW,11.5,-,N/A,Snow,Light Snow,300,1993-12-25 10:00:00
+5:00 AM,14.9,11.8,88,29.73,4.0,NNW,11.5,-,N/A,Snow,Light Snow,330,1993-12-25 11:00:00
+6:00 AM,14.9,9.9,80,29.75,8.0,NNW,11.5,-,N/A,,Overcast,330,1993-12-25 12:00:00
+7:00 AM,12.9,7.9,80,29.78,6.0,NNW,17.3,-,N/A,Fog,Fog,330,1993-12-25 13:00:00
+8:00 AM,11.8,3.9,71,29.81,15.0,NNW,11.5,-,N/A,,Scattered Clouds,330,1993-12-25 14:00:00
+10:00 AM,14.0,5.9,70,29.83,15.0,West,15.0,-,N/A,,Clear,280,1993-12-25 16:00:00
+11:00 AM,16.0,7.9,70,29.84,10.0,West,20.7,-,N/A,,Mostly Cloudy,280,1993-12-25 17:00:00
+12:00 PM,14.9,7.0,71,29.84,10.0,West,20.7,-,N/A,Snow,Light Snow Showers,260,1993-12-25 18:00:00
+1:00 PM,14.0,2.8,61,29.84,10.0,West,20.7,-,N/A,Snow,Light Snow Showers,280,1993-12-25 19:00:00
+2:00 PM,14.0,0.9,56,29.86,10.0,West,23.0,-,N/A,,Mostly Cloudy,280,1993-12-25 20:00:00
+3:00 PM,14.9,-0.0,52,29.87,15.0,West,25.3,-,N/A,,Scattered Clouds,280,1993-12-25 21:00:00
+4:00 PM,14.0,-0.0,54,29.89,15.0,West,20.7,-,N/A,,Scattered Clouds,270,1993-12-25 22:00:00
+5:00 PM,11.8,-0.0,59,29.91,15.0,West,23.0,-,N/A,,Scattered Clouds,270,1993-12-25 23:00:00
+6:00 PM,10.9,-3.1,53,29.95,20.0,West,18.4,-,N/A,,Scattered Clouds,270,1993-12-26 00:00:00
+7:00 PM,9.9,-4.0,54,29.97,20.0,West,20.7,-,N/A,,Scattered Clouds,270,1993-12-26 01:00:00
+8:00 PM,7.9,-5.1,56,29.98,20.0,West,19.6,-,N/A,,Clear,270,1993-12-26 02:00:00
+9:00 PM,7.9,-8.1,48,29.99,20.0,West,20.7,-,N/A,,Clear,270,1993-12-26 03:00:00
+10:00 PM,7.0,-8.1,50,30.01,20.0,West,20.7,-,N/A,,Clear,280,1993-12-26 04:00:00
+11:00 PM,7.0,-8.1,50,29.99,20.0,West,17.3,-,N/A,,Mostly Cloudy,270,1993-12-26 05:00:00

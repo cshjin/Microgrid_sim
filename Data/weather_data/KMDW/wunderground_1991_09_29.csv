@@ -1,0 +1,21 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+2:00 AM,50.0,44.1,80,30.27,20.0,Calm,Calm,-,N/A,,Clear,0,1991-09-29 07:00:00
+3:00 AM,48.9,44.1,83,30.27,20.0,Calm,Calm,-,N/A,,Clear,0,1991-09-29 08:00:00
+5:00 AM,48.0,44.1,86,30.29,20.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1991-09-29 10:00:00
+6:00 AM,46.9,45.0,93,30.31,20.0,Calm,Calm,-,N/A,,Clear,0,1991-09-29 11:00:00
+7:00 AM,46.9,44.1,90,30.34,15.0,Calm,Calm,-,N/A,,Clear,0,1991-09-29 12:00:00
+8:00 AM,48.9,45.0,86,30.34,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1991-09-29 13:00:00
+9:00 AM,60.1,51.1,72,30.36,10.0,ENE,12.7,-,N/A,,Scattered Clouds,60,1991-09-29 14:00:00
+10:00 AM,61.0,42.1,50,30.38,20.0,ENE,11.5,-,N/A,,Mostly Cloudy,70,1991-09-29 15:00:00
+11:00 AM,63.0,42.1,46,30.38,20.0,ENE,12.7,-,N/A,,Scattered Clouds,60,1991-09-29 16:00:00
+12:00 PM,63.0,39.9,43,30.38,20.0,ENE,13.8,-,N/A,,Mostly Cloudy,60,1991-09-29 17:00:00
+1:00 PM,63.0,39.9,43,30.39,20.0,ENE,13.8,-,N/A,,Mostly Cloudy,70,1991-09-29 18:00:00
+2:00 PM,62.1,39.0,43,30.36,20.0,ENE,15.0,-,N/A,,Mostly Cloudy,70,1991-09-29 19:00:00
+3:00 PM,63.0,41.0,45,30.37,20.0,ENE,11.5,-,N/A,,Overcast,70,1991-09-29 20:00:00
+4:00 PM,62.1,41.0,46,30.35,20.0,ENE,12.7,-,N/A,,Overcast,70,1991-09-29 21:00:00
+5:00 PM,62.1,45.0,53,30.34,20.0,ENE,11.5,-,N/A,,Mostly Cloudy,60,1991-09-29 22:00:00
+6:00 PM,62.1,45.0,53,30.31,20.0,ENE,9.2,-,N/A,,Mostly Cloudy,70,1991-09-29 23:00:00
+8:00 PM,59.0,50.0,72,30.31,20.0,ENE,6.9,-,N/A,,Scattered Clouds,60,1991-09-30 01:00:00
+9:00 PM,59.0,50.0,72,30.30,20.0,ENE,8.1,-,N/A,,Scattered Clouds,60,1991-09-30 02:00:00
+10:00 PM,59.0,48.9,69,30.29,20.0,East,5.8,-,N/A,,Scattered Clouds,90,1991-09-30 03:00:00
+11:00 PM,59.0,43.0,55,30.28,10.0,SE,6.9,-,N/A,,Scattered Clouds,140,1991-09-30 04:00:00

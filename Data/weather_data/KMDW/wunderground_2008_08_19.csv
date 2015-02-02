@@ -1,0 +1,24 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:51 AM,70.0,57.9,65,29.99,10.0,SW,3.5,-,N/A,,Clear,230,2008-08-19 05:51:00
+1:51 AM,70.0,57.9,65,29.99,10.0,Calm,Calm,-,N/A,,Clear,0,2008-08-19 06:51:00
+2:51 AM,69.1,57.9,68,30.00,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2008-08-19 07:51:00
+3:51 AM,68.0,59.0,73,30.01,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2008-08-19 08:51:00
+4:51 AM,66.0,59.0,78,30.03,10.0,West,3.5,-,N/A,,Partly Cloudy,280,2008-08-19 09:51:00
+5:51 AM,66.0,60.1,81,30.04,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2008-08-19 10:51:00
+6:51 AM,66.9,62.1,84,30.05,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,2008-08-19 11:51:00
+7:51 AM,72.0,66.0,81,30.06,10.0,NNE,5.8,-,N/A,,Partly Cloudy,30,2008-08-19 12:51:00
+8:51 AM,75.0,64.9,71,30.06,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,2008-08-19 13:51:00
+9:51 AM,78.1,64.9,64,30.06,10.0,Calm,Calm,-,N/A,,Clear,0,2008-08-19 14:51:00
+10:51 AM,81.0,64.9,58,30.07,10.0,Variable,4.6,-,N/A,,Scattered Clouds,0,2008-08-19 15:51:00
+11:51 AM,82.0,64.0,54,30.07,10.0,North,5.8,-,N/A,,Scattered Clouds,350,2008-08-19 16:51:00
+12:51 PM,82.9,64.9,54,30.06,10.0,East,8.1,-,N/A,,Scattered Clouds,90,2008-08-19 17:51:00
+1:51 PM,84.0,66.0,55,30.06,10.0,East,10.4,-,N/A,,Scattered Clouds,90,2008-08-19 18:51:00
+2:51 PM,82.0,66.0,58,30.06,10.0,NNE,11.5,-,N/A,,Mostly Cloudy,30,2008-08-19 19:51:00
+3:51 PM,81.0,66.9,62,30.06,10.0,NE,11.5,-,N/A,,Mostly Cloudy,40,2008-08-19 20:51:00
+4:51 PM,80.1,66.9,64,30.06,10.0,NE,11.5,-,N/A,,Scattered Clouds,40,2008-08-19 21:51:00
+6:51 PM,75.9,66.0,71,30.07,9.0,East,9.2,-,N/A,,Scattered Clouds,80,2008-08-19 23:51:00
+7:51 PM,73.9,64.9,73,30.08,7.0,ENE,10.4,-,N/A,,Scattered Clouds,70,2008-08-20 00:51:00
+8:51 PM,73.0,66.0,79,30.09,9.0,NNE,10.4,-,N/A,,Partly Cloudy,30,2008-08-20 01:51:00
+9:51 PM,72.0,66.0,81,30.09,9.0,NNE,10.4,-,N/A,,Clear,30,2008-08-20 02:51:00
+10:51 PM,72.0,66.0,81,30.08,10.0,NNE,8.1,-,N/A,,Clear,20,2008-08-20 03:51:00
+11:51 PM,72.0,66.9,84,30.09,10.0,NNE,4.6,-,N/A,,Clear,20,2008-08-20 04:51:00

@@ -1,0 +1,25 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,46.9,34.0,61,30.02,10.0,East,11.5,-,N/A,Rain,Light Rain Showers,90,1995-03-27 06:00:00
+1:00 AM,46.9,32.0,56,30.02,10.0,East,16.1,-,N/A,Rain,Light Rain Showers,90,1995-03-27 07:00:00
+2:00 AM,41.9,34.9,76,30.03,7.0,East,15.0,-,N/A,Rain,Light Rain Showers,100,1995-03-27 08:00:00
+3:00 AM,41.9,34.9,76,29.96,7.0,East,17.3,-,0.10,Rain,Light Rain Showers,90,1995-03-27 09:00:00
+5:00 AM,41.0,36.0,82,29.92,10.0,ENE,17.3,-,N/A,,Overcast,70,1995-03-27 11:00:00
+6:00 AM,41.9,34.0,73,29.95,10.0,East,17.3,-,N/A,Rain,Light Rain Showers,100,1995-03-27 12:00:00
+7:00 AM,41.0,29.8,64,29.92,10.0,East,17.3,-,N/A,,Overcast,100,1995-03-27 13:00:00
+8:00 AM,43.0,27.9,55,29.87,10.0,East,23.0,34.5,N/A,,Overcast,100,1995-03-27 14:00:00
+9:00 AM,39.9,32.0,73,29.92,7.0,SSE,11.5,23.0,0.10,Rain,Light Rain Showers,150,1995-03-27 15:00:00
+10:00 AM,38.8,34.9,86,29.89,2.0,ESE,17.3,-,0.10,Rain,Rain Showers,120,1995-03-27 16:00:00
+12:00 PM,39.9,36.9,89,29.88,4.0,ESE,13.8,-,N/A,Fog-Rain,Light Rain Showers,110,1995-03-27 18:00:00
+12:05 PM,-9999,-9999,N/A,0.00,2.0,ESE,13.8,-,N/A,Fog-Rain,Light Rain Showers,110,1995-03-27 18:05:00
+1:00 PM,41.0,38.8,92,29.88,2.0,ESE,11.5,-,N/A,Fog-Rain,Light Rain Showers,120,1995-03-27 19:00:00
+2:00 PM,39.9,39.9,100,29.88,2.8,SSE,11.5,-,N/A,Fog,Fog,160,1995-03-27 20:00:00
+3:00 PM,39.9,38.8,96,29.89,1.0,ENE,11.5,-,N/A,Fog-Rain,Light Rain,70,1995-03-27 21:00:00
+4:00 PM,41.0,39.9,96,29.91,2.8,ENE,9.2,-,0.10,Fog-Rain,Light Rain,70,1995-03-27 22:00:00
+4:01 PM,-9999,-9999,N/A,29.91,3.2,ENE,8.1,-,N/A,Fog,Light Drizzle,60,1995-03-27 22:01:00
+5:00 PM,41.0,39.9,96,29.92,3.2,NE,6.9,-,N/A,Fog,Light Drizzle,50,1995-03-27 23:00:00
+6:00 PM,39.9,38.8,96,29.94,2.0,Calm,Calm,-,N/A,Fog-Rain,Light Rain,0,1995-03-28 00:00:00
+7:00 PM,41.9,41.0,97,29.94,5.0,SW,10.4,-,N/A,Fog,Fog,230,1995-03-28 01:00:00
+8:00 PM,41.9,39.9,93,29.96,5.0,WNW,11.5,-,N/A,Fog,Fog,290,1995-03-28 02:00:00
+9:00 PM,41.9,39.9,93,29.98,8.0,West,8.1,-,N/A,,Overcast,270,1995-03-28 03:00:00
+10:00 PM,41.9,39.9,93,29.99,8.0,WNW,6.9,-,N/A,,Mostly Cloudy,300,1995-03-28 04:00:00
+11:00 PM,41.9,39.9,93,29.99,8.0,WNW,5.8,-,N/A,,Overcast,290,1995-03-28 05:00:00

@@ -1,0 +1,41 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:51 AM,77.0,69.1,76,29.98,10.0,SW,4.6,-,N/A,,Scattered Clouds,220,2010-06-23 05:51:00
+1:51 AM,77.0,68.0,74,29.92,10.0,South,6.9,-,N/A,,Scattered Clouds,180,2010-06-23 06:51:00
+2:51 AM,75.9,71.1,85,29.93,10.0,South,8.1,-,N/A,,Overcast,190,2010-06-23 07:51:00
+3:51 AM,77.0,72.0,84,29.90,10.0,SSW,11.5,18.4,N/A,,Overcast,200,2010-06-23 08:51:00
+4:51 AM,77.0,72.0,84,29.91,10.0,SSW,9.2,-,N/A,,Overcast,200,2010-06-23 09:51:00
+5:51 AM,78.1,72.0,81,29.92,7.0,SW,9.2,-,N/A,,Overcast,220,2010-06-23 10:51:00
+6:51 AM,79.0,72.0,79,29.92,10.0,SW,8.1,-,0.00,Rain,Light Rain,220,2010-06-23 11:51:00
+7:51 AM,73.9,66.9,79,29.96,9.0,North,15.0,21.9,0.02,Rain,Light Rain,360,2010-06-23 12:51:00
+8:51 AM,72.0,66.9,84,29.98,10.0,NNW,6.9,-,0.02,Rain,Light Rain,340,2010-06-23 13:51:00
+9:00 AM,71.6,66.2,83,30.00,8.0,Calm,Calm,-,0.02,Rain-Thunderstorm,Light Thunderstorms and Rain,0,2010-06-23 14:00:00
+9:47 AM,71.6,68.0,88,30.06,8.0,SW,8.1,-,0.09,Rain-Thunderstorm,Light Thunderstorms and Rain,230,2010-06-23 14:47:00
+9:51 AM,71.1,69.1,93,30.05,4.0,WSW,10.4,-,0.11,Rain-Thunderstorm,Thunderstorms and Rain,240,2010-06-23 14:51:00
+9:58 AM,71.6,69.8,94,30.04,0.8,Variable,3.5,-,0.11,Rain-Thunderstorm,Heavy Thunderstorms and Rain,0,2010-06-23 14:58:00
+10:15 AM,71.6,69.8,94,30.03,3.0,SW,6.9,-,0.16,Rain-Thunderstorm,Thunderstorms and Rain,220,2010-06-23 15:15:00
+10:36 AM,71.6,69.8,94,30.00,7.0,South,9.2,-,0.20,Rain,Light Rain,180,2010-06-23 15:36:00
+10:51 AM,73.0,70.0,90,29.99,9.0,SSW,9.2,-,0.21,Rain,Light Rain,200,2010-06-23 15:51:00
+11:51 AM,73.9,69.1,85,29.91,10.0,South,15.0,23.0,0.00,,Overcast,180,2010-06-23 16:51:00
+12:51 PM,75.9,69.1,79,29.89,10.0,SSW,15.0,23.0,N/A,,Overcast,200,2010-06-23 17:51:00
+1:51 PM,82.9,69.1,63,29.83,10.0,SSW,18.4,29.9,N/A,,Mostly Cloudy,200,2010-06-23 18:51:00
+2:51 PM,86.0,69.1,57,29.82,10.0,SSW,15.0,31.1,0.01,,Mostly Cloudy,210,2010-06-23 19:51:00
+3:51 PM,86.0,72.0,63,29.84,10.0,SW,13.8,27.6,N/A,,Mostly Cloudy,220,2010-06-23 20:51:00
+4:51 PM,86.0,73.9,67,29.80,10.0,WSW,9.2,20.7,N/A,,Mostly Cloudy,240,2010-06-23 21:51:00
+5:23 PM,86.0,73.4,66,29.82,10.0,SW,11.5,-,N/A,Thunderstorm,Thunderstorm,220,2010-06-23 22:23:00
+5:51 PM,84.9,73.9,69,29.80,5.0,WSW,18.4,35.7,N/A,Thunderstorm,Unknown,240,2010-06-23 22:51:00
+5:56 PM,78.8,68.0,69,29.85,1.0,WNW,32.2,44.9,0.03,Rain-Thunderstorm,Light Thunderstorms and Rain,300,2010-06-23 22:56:00
+5:58 PM,75.2,68.0,78,29.85,0.5,NW,27.6,44.9,0.09,Rain-Thunderstorm,Thunderstorms and Rain,320,2010-06-23 22:58:00
+6:11 PM,69.8,64.4,83,29.85,1.5,North,17.3,46.0,0.22,Rain-Thunderstorm,Light Thunderstorms and Rain,10,2010-06-23 23:11:00
+6:19 PM,71.6,68.0,88,29.85,0.5,NNW,49.5,64.4,0.30,Fog-Rain-Thunderstorm,Thunderstorms and Rain,330,2010-06-23 23:19:00
+6:23 PM,68.0,64.4,88,29.82,0.2,NNW,43.7,69.0,0.50,Fog-Rain-Thunderstorm,Heavy Thunderstorms and Rain,340,2010-06-23 23:23:00
+6:32 PM,69.8,66.2,88,29.87,0.8,SSW,17.3,72.5,0.74,Rain-Thunderstorm,Heavy Thunderstorms and Rain,210,2010-06-23 23:32:00
+6:40 PM,71.6,64.4,78,29.80,3.0,ESE,6.9,28.8,0.83,Rain-Thunderstorm,Heavy Thunderstorms and Rain,110,2010-06-23 23:40:00
+6:51 PM,71.1,66.0,84,29.82,9.0,SW,9.2,-,0.83,Rain-Thunderstorm,Light Thunderstorms and Rain,220,2010-06-23 23:51:00
+7:51 PM,70.0,66.0,87,29.88,9.0,SW,12.7,19.6,0.01,Rain-Thunderstorm,Light Thunderstorms and Rain,230,2010-06-24 00:51:00
+8:41 PM,69.8,66.2,88,29.87,10.0,SSW,10.4,20.7,0.02,Rain,Light Rain,210,2010-06-24 01:41:00
+8:51 PM,70.0,66.0,87,29.85,10.0,SSW,9.2,18.4,0.02,,Overcast,210,2010-06-24 01:51:00
+9:51 PM,70.0,66.0,87,29.88,10.0,SW,10.4,23.0,N/A,,Overcast,220,2010-06-24 02:51:00
+10:51 PM,70.0,66.9,90,29.87,10.0,SW,10.4,20.7,N/A,,Overcast,230,2010-06-24 03:51:00
+11:25 PM,71.6,66.2,83,29.89,10.0,WSW,12.7,19.6,N/A,,Overcast,240,2010-06-24 04:25:00
+11:45 PM,71.6,68.0,88,29.89,10.0,WSW,13.8,19.6,N/A,,Mostly Cloudy,240,2010-06-24 04:45:00
+11:51 PM,71.1,68.0,90,29.87,10.0,WSW,13.8,-,N/A,,Mostly Cloudy,240,2010-06-24 04:51:00

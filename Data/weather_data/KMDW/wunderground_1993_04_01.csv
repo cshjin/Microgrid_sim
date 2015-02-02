@@ -1,0 +1,28 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,34.9,34.9,100,29.54,5.0,NE,13.8,-,N/A,Fog-Rain,Light Rain,50,1993-04-01 06:00:00
+1:00 AM,34.9,34.9,100,29.55,4.0,NE,13.8,23.0,N/A,Fog-Rain,Light Rain,50,1993-04-01 07:00:00
+2:00 AM,34.0,34.0,100,29.54,10.5,NE,13.8,23.0,N/A,Fog-Snow,Light Snow,50,1993-04-01 08:00:00
+3:00 AM,32.9,32.9,100,29.56,2.0,NE,13.8,23.0,N/A,Fog-Snow,Light Snow,50,1993-04-01 09:00:00
+4:00 AM,32.9,32.9,100,29.57,2.0,NE,13.8,23.0,N/A,Fog-Snow,Light Snow,50,1993-04-01 10:00:00
+5:00 AM,32.0,32.0,100,29.58,2.0,NE,17.3,23.0,N/A,Fog-Snow,Light Snow,50,1993-04-01 11:00:00
+5:08 AM,-9999,-9999,N/A,29.59,1.0,NE,17.3,23.0,N/A,Fog,Unknown,50,1993-04-01 11:08:00
+6:00 AM,32.0,32.0,100,29.60,1.0,NE,13.8,23.0,0.10,Fog-Snow,Light Snow,50,1993-04-01 12:00:00
+7:00 AM,30.9,30.9,100,29.63,0.9,ENE,16.1,23.0,N/A,Fog-Snow,Light Snow,60,1993-04-01 13:00:00
+8:00 AM,30.9,30.9,100,29.65,1.0,NE,13.8,25.3,N/A,Fog-Snow,Light Snow Showers,40,1993-04-01 14:00:00
+9:00 AM,30.9,29.8,96,29.66,1.0,NE,17.3,27.6,N/A,Fog-Snow,Light Snow Showers,50,1993-04-01 15:00:00
+10:00 AM,30.9,28.9,92,29.68,3.0,NE,17.3,27.6,N/A,Fog-Snow,Light Snow Showers,50,1993-04-01 16:00:00
+11:00 AM,29.8,27.9,92,29.70,3.0,NE,17.3,28.8,N/A,Fog-Snow,Light Snow Showers,50,1993-04-01 17:00:00
+12:00 PM,29.8,27.9,92,29.71,3.0,NE,16.1,27.6,N/A,Fog-Snow,Light Snow Showers,50,1993-04-01 18:00:00
+1:00 PM,29.8,27.0,89,29.72,8.0,NE,17.3,27.6,N/A,,Overcast,50,1993-04-01 19:00:00
+1:30 PM,-9999,-9999,N/A,29.72,2.0,North,17.3,-,N/A,,Unknown,10,1993-04-01 19:30:00
+2:00 PM,29.8,27.9,92,29.72,1.0,NNE,17.3,-,N/A,Snow,Light Snow Showers,30,1993-04-01 20:00:00
+3:00 PM,29.8,27.0,89,29.74,1.0,NE,27.6,-,N/A,Snow,Light Snow Showers,50,1993-04-01 21:00:00
+4:00 PM,30.9,27.9,88,29.76,3.0,NE,16.1,-,N/A,Snow,Light Snow,40,1993-04-01 22:00:00
+5:00 PM,30.9,27.9,88,29.78,3.0,NNE,16.1,-,N/A,Snow,Light Snow Showers,30,1993-04-01 23:00:00
+5:25 PM,-9999,-9999,N/A,29.80,1.0,North,15.0,-,N/A,Fog,Unknown,10,1993-04-01 23:25:00
+6:00 PM,28.9,28.9,100,29.80,1.0,North,13.8,-,N/A,Fog-Snow,Light Snow Showers,10,1993-04-02 00:00:00
+7:00 PM,28.9,28.9,100,29.82,1.0,NNE,18.4,-,0.10,Fog-Snow,Light Snow Showers,20,1993-04-02 01:00:00
+8:00 PM,28.9,27.0,92,29.83,3.0,NE,11.5,-,N/A,Fog-Snow,Light Snow Showers,40,1993-04-02 02:00:00
+9:00 PM,28.9,28.9,100,29.85,5.5,NE,11.5,-,N/A,Fog-Snow,Light Snow Showers,50,1993-04-02 03:00:00
+10:00 PM,29.8,27.0,89,29.85,3.0,North,11.5,-,N/A,Fog-Snow,Light Snow Showers,360,1993-04-02 04:00:00
+11:00 PM,29.8,27.9,92,29.85,4.0,North,11.5,-,0.10,Fog-Snow,Light Snow Showers,10,1993-04-02 05:00:00

@@ -1,0 +1,21 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+1:00 AM,37.9,34.0,86,30.31,7.0,NE,15.0,-,N/A,,Overcast,40,1993-11-25 07:00:00
+4:00 AM,37.9,34.0,86,30.28,7.0,NE,17.3,-,N/A,,Overcast,50,1993-11-25 10:00:00
+5:00 AM,37.9,34.0,86,30.27,7.0,ENE,17.3,-,N/A,,Overcast,60,1993-11-25 11:00:00
+6:00 AM,37.9,34.9,89,30.27,8.0,ENE,19.6,-,N/A,,Overcast,60,1993-11-25 12:00:00
+7:00 AM,37.9,34.0,86,30.28,7.0,East,17.3,-,N/A,,Overcast,80,1993-11-25 13:00:00
+8:00 AM,37.9,34.0,86,30.28,5.0,NE,13.8,-,N/A,Fog,Fog,40,1993-11-25 14:00:00
+9:00 AM,38.8,34.0,83,30.28,7.0,ENE,13.8,-,N/A,,Overcast,60,1993-11-25 15:00:00
+10:00 AM,39.9,32.9,76,30.28,15.0,ENE,13.8,-,N/A,,Mostly Cloudy,60,1993-11-25 16:00:00
+11:00 AM,41.0,32.9,73,30.25,8.0,ENE,11.5,-,N/A,Rain,Light Rain,60,1993-11-25 17:00:00
+12:00 PM,41.0,34.9,79,30.22,8.0,ENE,13.8,-,N/A,Rain,Light Rain,60,1993-11-25 18:00:00
+1:00 PM,41.0,36.9,85,30.20,10.0,ENE,9.2,-,N/A,Rain,Light Rain Showers,70,1993-11-25 19:00:00
+2:00 PM,38.8,37.9,97,30.18,2.0,NE,8.1,-,N/A,Rain,Light Rain Showers,50,1993-11-25 20:00:00
+4:00 PM,39.9,38.8,96,30.18,5.5,SE,10.4,-,N/A,Rain,Rain Showers,130,1993-11-25 22:00:00
+5:00 PM,41.0,39.9,96,30.17,2.0,East,10.4,-,N/A,Rain,Light Rain,80,1993-11-25 23:00:00
+6:00 PM,41.0,39.9,96,30.17,2.0,East,10.4,-,N/A,Rain,Light Rain,90,1993-11-26 00:00:00
+7:00 PM,41.0,39.9,96,30.16,2.0,ESE,10.4,-,N/A,Rain,Light Rain,110,1993-11-26 01:00:00
+8:00 PM,39.9,39.9,100,0.00,2.0,ESE,11.5,-,N/A,Rain,Light Rain,110,1993-11-26 02:00:00
+9:00 PM,41.0,39.9,96,30.14,2.0,ESE,11.5,-,N/A,Rain,Light Rain Showers,120,1993-11-26 03:00:00
+10:00 PM,41.0,39.9,96,30.21,2.0,SSE,11.5,-,N/A,Fog-Rain,Light Rain,160,1993-11-26 04:00:00
+11:00 PM,41.0,41.0,100,30.11,2.0,SSE,12.7,-,N/A,Fog-Rain,Light Rain Showers,160,1993-11-26 05:00:00

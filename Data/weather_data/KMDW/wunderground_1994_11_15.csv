@@ -1,0 +1,13 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+8:00 AM,38.8,36.0,89,30.41,15.0,WNW,11.5,-,N/A,,Mostly Cloudy,300,1994-11-15 14:00:00
+9:00 AM,41.0,36.9,85,30.43,15.0,NNW,11.5,-,N/A,,Overcast,340,1994-11-15 15:00:00
+11:00 AM,45.0,37.9,76,30.45,10.0,North,11.5,-,N/A,,Overcast,350,1994-11-15 17:00:00
+1:00 PM,45.9,36.9,71,30.41,15.0,NNW,11.5,-,N/A,,Overcast,340,1994-11-15 19:00:00
+2:00 PM,45.9,36.9,71,30.38,15.0,NNE,11.5,-,N/A,,Mostly Cloudy,20,1994-11-15 20:00:00
+4:00 PM,45.0,34.0,65,30.37,20.0,NNE,13.8,-,N/A,,Mostly Cloudy,30,1994-11-15 22:00:00
+5:00 PM,43.0,34.9,73,30.38,20.0,NNE,9.2,-,N/A,,Mostly Cloudy,20,1994-11-15 23:00:00
+6:00 PM,43.9,36.0,74,30.38,20.0,North,9.2,-,N/A,,Mostly Cloudy,360,1994-11-16 00:00:00
+7:00 PM,43.0,36.0,76,30.38,20.0,NNW,9.2,-,N/A,,Mostly Cloudy,340,1994-11-16 01:00:00
+8:00 PM,41.9,36.0,79,30.36,20.0,NNW,6.9,-,N/A,,Mostly Cloudy,340,1994-11-16 02:00:00
+9:00 PM,43.0,36.0,76,30.36,20.0,NW,9.2,-,N/A,,Mostly Cloudy,320,1994-11-16 03:00:00
+11:00 PM,41.9,36.0,79,30.34,20.0,NNW,5.8,-,N/A,,Mostly Cloudy,330,1994-11-16 05:00:00

@@ -1,0 +1,41 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:51 AM,75.9,64.0,67,29.90,10.0,South,8.1,-,N/A,,Partly Cloudy,180,2008-08-04 05:51:00
+1:51 AM,75.0,64.0,69,29.90,10.0,South,8.1,-,N/A,,Scattered Clouds,180,2008-08-04 06:51:00
+2:51 AM,73.0,64.9,76,29.91,10.0,SSW,6.9,-,N/A,,Partly Cloudy,200,2008-08-04 07:51:00
+3:51 AM,73.9,64.9,73,29.88,10.0,SSW,6.9,-,N/A,,Mostly Cloudy,200,2008-08-04 08:51:00
+4:51 AM,73.0,64.9,76,29.87,10.0,SSW,9.2,18.4,N/A,,Partly Cloudy,210,2008-08-04 09:51:00
+5:51 AM,73.0,66.0,79,29.87,10.0,SW,8.1,-,N/A,,Overcast,230,2008-08-04 10:51:00
+6:10 AM,73.4,66.2,78,29.90,10.0,SSW,9.2,-,N/A,,Overcast,210,2008-08-04 11:10:00
+7:42 AM,75.2,64.4,69,30.00,10.0,North,23.0,31.1,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,360,2008-08-04 12:42:00
+7:51 AM,73.0,66.0,79,29.98,3.0,NNE,23.0,29.9,0.02,Rain-Thunderstorm,Light Thunderstorms and Rain,20,2008-08-04 12:51:00
+7:57 AM,71.6,66.2,83,30.00,2.0,NNE,18.4,28.8,0.03,Rain-Thunderstorm,Heavy Thunderstorms and Rain,30,2008-08-04 12:57:00
+8:03 AM,69.8,66.2,88,30.00,2.0,NNE,10.4,25.3,0.06,Rain-Thunderstorm,Heavy Thunderstorms and Rain,20,2008-08-04 13:03:00
+8:14 AM,69.8,68.0,94,29.98,4.0,ENE,9.2,-,0.11,Rain-Thunderstorm,Light Thunderstorms and Rain,70,2008-08-04 13:14:00
+8:31 AM,69.8,68.0,94,29.93,9.0,ESE,11.5,-,0.17,Rain,Light Rain,110,2008-08-04 13:31:00
+8:51 AM,71.1,69.1,93,29.93,10.0,ESE,8.1,-,0.23,,Overcast,120,2008-08-04 13:51:00
+9:51 AM,71.1,70.0,96,29.98,10.0,Calm,Calm,-,0.01,,Overcast,0,2008-08-04 14:51:00
+10:09 AM,71.6,69.8,94,30.01,6.0,SW,4.6,-,0.02,Rain-Thunderstorm,Thunderstorms and Rain,220,2008-08-04 15:09:00
+10:25 AM,71.6,69.8,94,30.01,5.0,South,9.2,-,0.04,Rain-Thunderstorm,Light Thunderstorms and Rain,190,2008-08-04 15:25:00
+10:42 AM,71.6,71.6,100,29.99,6.0,South,4.6,-,0.06,Rain,Rain,180,2008-08-04 15:42:00
+10:51 AM,71.1,70.0,96,29.95,6.0,SSE,11.5,-,0.07,Rain,Light Rain,160,2008-08-04 15:51:00
+11:20 AM,71.6,71.6,100,29.92,10.0,Variable,6.9,-,0.03,,Mostly Cloudy,0,2008-08-04 16:20:00
+11:51 AM,73.0,71.1,93,29.92,10.0,WNW,8.1,-,0.05,Rain,Light Rain,300,2008-08-04 16:51:00
+12:51 PM,73.9,72.0,93,29.92,10.0,SW,11.5,19.6,0.03,,Mostly Cloudy,220,2008-08-04 17:51:00
+1:34 PM,73.4,71.6,94,29.89,10.0,South,15.0,-,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,180,2008-08-04 18:34:00
+1:51 PM,73.0,72.0,96,29.86,10.0,South,13.8,20.7,0.01,Rain-Thunderstorm,Light Thunderstorms and Rain,170,2008-08-04 18:51:00
+2:20 PM,75.2,73.4,94,29.87,10.0,SSW,11.5,24.2,0.00,,Mostly Cloudy,210,2008-08-04 19:20:00
+2:51 PM,81.0,73.0,77,29.85,10.0,South,11.5,18.4,0.01,,Mostly Cloudy,190,2008-08-04 19:51:00
+3:51 PM,84.9,72.0,65,29.86,10.0,SW,8.1,-,N/A,,Mostly Cloudy,230,2008-08-04 20:51:00
+4:51 PM,86.0,72.0,63,29.87,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,2008-08-04 21:51:00
+5:51 PM,81.0,71.1,72,29.84,10.0,ESE,11.5,-,N/A,,Mostly Cloudy,110,2008-08-04 22:51:00
+6:51 PM,81.0,71.1,72,29.86,9.0,SE,6.9,-,N/A,,Mostly Cloudy,140,2008-08-04 23:51:00
+7:06 PM,80.6,71.6,74,29.89,8.0,East,6.9,-,N/A,,Overcast,80,2008-08-05 00:06:00
+7:51 PM,79.0,71.1,77,29.82,4.0,East,10.4,-,N/A,,Haze,80,2008-08-05 00:51:00
+8:06 PM,77.0,69.8,78,30.02,1.0,WNW,36.8,58.7,0.00,Rain-Thunderstorm,Heavy Thunderstorms and Rain,300,2008-08-05 01:06:00
+8:29 PM,69.8,68.0,94,29.94,3.0,Variable,3.5,16.1,0.02,Rain-Thunderstorm,Heavy Thunderstorms and Rain,0,2008-08-05 01:29:00
+8:51 PM,72.0,70.0,93,29.90,5.0,NW,18.4,26.5,0.05,Rain-Thunderstorm,Light Thunderstorms and Rain,310,2008-08-05 01:51:00
+9:51 PM,73.0,71.1,93,29.85,10.0,South,11.5,-,0.04,Rain,Light Rain,170,2008-08-05 02:51:00
+10:51 PM,73.0,68.0,84,29.85,10.0,Variable,4.6,-,0.03,,Overcast,0,2008-08-05 03:51:00
+11:22 PM,73.4,69.8,88,29.90,10.0,NNW,10.4,20.7,0.02,Thunderstorm,Overcast,340,2008-08-05 04:22:00
+11:41 PM,73.4,69.8,88,29.90,4.0,East,11.5,27.6,0.03,Rain-Thunderstorm,Light Thunderstorms and Rain,100,2008-08-05 04:41:00
+11:51 PM,72.0,69.1,91,29.87,4.0,North,8.1,28.8,0.03,Rain-Thunderstorm,Thunderstorms and Rain,10,2008-08-05 04:51:00

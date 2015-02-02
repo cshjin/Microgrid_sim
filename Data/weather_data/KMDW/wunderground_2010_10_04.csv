@@ -1,0 +1,25 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:51 AM,43.0,37.0,80,30.37,10.0,NW,6.9,-,N/A,,Partly Cloudy,320,2010-10-04 05:51:00
+1:51 AM,44.1,37.9,79,30.37,10.0,NNW,8.1,-,N/A,,Partly Cloudy,330,2010-10-04 06:51:00
+2:51 AM,46.9,37.9,71,30.38,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,2010-10-04 07:51:00
+3:51 AM,46.0,39.0,76,30.38,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,2010-10-04 08:51:00
+4:51 AM,45.0,37.9,76,30.39,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,2010-10-04 09:51:00
+5:51 AM,43.0,37.9,82,30.40,10.0,WNW,3.5,-,N/A,,Scattered Clouds,290,2010-10-04 10:51:00
+6:51 AM,41.0,37.0,86,30.43,10.0,WNW,3.5,-,N/A,,Scattered Clouds,300,2010-10-04 11:51:00
+7:51 AM,44.1,37.9,79,30.44,10.0,NW,4.6,-,N/A,,Scattered Clouds,320,2010-10-04 12:51:00
+8:51 AM,48.9,39.0,69,30.44,10.0,NW,3.5,-,N/A,,Scattered Clouds,310,2010-10-04 13:51:00
+9:51 AM,52.0,37.9,59,30.44,10.0,NW,3.5,-,N/A,,Mostly Cloudy,320,2010-10-04 14:51:00
+10:51 AM,55.0,37.9,53,30.44,10.0,ENE,8.1,-,N/A,,Scattered Clouds,70,2010-10-04 15:51:00
+11:51 AM,57.0,36.0,45,30.43,10.0,North,8.1,-,N/A,,Mostly Cloudy,10,2010-10-04 16:51:00
+12:51 PM,57.0,36.0,45,30.41,10.0,Variable,5.8,-,N/A,,Mostly Cloudy,0,2010-10-04 17:51:00
+1:51 PM,57.0,36.0,45,30.39,10.0,NE,6.9,16.1,N/A,,Mostly Cloudy,50,2010-10-04 18:51:00
+2:51 PM,57.0,37.9,49,30.38,10.0,Variable,6.9,-,N/A,,Mostly Cloudy,0,2010-10-04 19:51:00
+3:51 PM,59.0,37.9,46,30.36,10.0,NE,10.4,-,N/A,,Mostly Cloudy,40,2010-10-04 20:51:00
+4:51 PM,57.0,37.9,49,30.37,10.0,ENE,6.9,-,N/A,,Scattered Clouds,60,2010-10-04 21:51:00
+5:51 PM,55.0,39.0,55,30.36,10.0,East,9.2,-,N/A,,Scattered Clouds,100,2010-10-04 22:51:00
+6:51 PM,53.1,39.0,59,30.36,10.0,East,6.9,-,N/A,,Partly Cloudy,100,2010-10-04 23:51:00
+7:51 PM,52.0,39.9,63,30.36,10.0,ESE,5.8,-,N/A,,Partly Cloudy,110,2010-10-05 00:51:00
+8:51 PM,51.1,39.9,66,30.36,10.0,Calm,Calm,-,N/A,,Clear,0,2010-10-05 01:51:00
+9:51 PM,48.0,39.9,74,30.35,10.0,West,3.5,-,N/A,,Clear,260,2010-10-05 02:51:00
+10:51 PM,46.9,39.9,77,30.35,10.0,Calm,Calm,-,N/A,,Clear,0,2010-10-05 03:51:00
+11:51 PM,46.9,41.0,80,30.35,10.0,Calm,Calm,-,N/A,,Clear,0,2010-10-05 04:51:00

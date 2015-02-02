@@ -1,0 +1,29 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:53 AM,75.9,59.0,56,29.90,10.0,SSW,8.1,-,N/A,,Mostly Cloudy,200,2006-06-21 05:53:00
+1:53 AM,75.0,62.1,64,29.88,10.0,South,10.4,-,0.00,,Mostly Cloudy,190,2006-06-21 06:53:00
+2:53 AM,73.9,63.0,68,29.87,10.0,South,10.4,-,N/A,,Partly Cloudy,190,2006-06-21 07:53:00
+3:53 AM,73.9,64.9,73,29.85,10.0,SSW,11.5,-,N/A,,Scattered Clouds,200,2006-06-21 08:53:00
+4:53 AM,73.9,66.0,76,29.83,10.0,South,6.9,-,N/A,,Scattered Clouds,180,2006-06-21 09:53:00
+5:53 AM,75.0,68.0,79,29.87,10.0,SSW,9.2,17.3,N/A,,Mostly Cloudy,210,2006-06-21 10:53:00
+6:53 AM,77.0,68.0,74,29.86,10.0,SW,10.4,-,0.00,,Mostly Cloudy,220,2006-06-21 11:53:00
+7:53 AM,75.0,70.0,84,29.89,10.0,WSW,10.4,-,0.02,Rain,Light Rain,250,2006-06-21 12:53:00
+8:53 AM,73.9,70.0,87,29.90,9.0,West,9.2,-,0.01,Rain,Light Rain,270,2006-06-21 13:53:00
+9:53 AM,73.0,70.0,90,29.88,10.0,SW,8.1,-,0.02,Rain,Light Rain,230,2006-06-21 14:53:00
+10:53 AM,75.9,71.1,85,29.84,10.0,South,12.7,-,N/A,,Overcast,180,2006-06-21 15:53:00
+11:53 AM,80.1,71.1,74,29.84,9.0,SW,12.7,20.7,N/A,,Overcast,220,2006-06-21 16:53:00
+12:53 PM,84.0,70.0,63,29.83,10.0,WSW,19.6,24.2,N/A,,Overcast,240,2006-06-21 17:53:00
+1:53 PM,86.0,70.0,59,29.86,10.0,WSW,19.6,-,N/A,,Overcast,240,2006-06-21 18:53:00
+2:53 PM,87.1,70.0,57,29.85,10.0,West,16.1,23.0,N/A,,Mostly Cloudy,270,2006-06-21 19:53:00
+3:53 PM,87.1,69.1,55,29.84,10.0,West,16.1,20.7,N/A,,Mostly Cloudy,260,2006-06-21 20:53:00
+4:34 PM,84.2,69.8,62,29.85,9.0,WNW,11.5,-,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,290,2006-06-21 21:34:00
+4:38 PM,82.4,69.8,66,29.87,0.0,ESE,27.6,48.3,0.00,Rain-Thunderstorm,Heavy Thunderstorms and Rain,120,2006-06-21 21:38:00
+4:43 PM,75.2,69.8,83,29.87,0.2,ENE,8.1,49.5,N/A,Rain-Thunderstorm,Heavy Thunderstorms and Rain,60,2006-06-21 21:43:00
+4:47 PM,77.0,71.6,83,29.86,3.0,Variable,5.8,49.5,N/A,Rain-Thunderstorm,Thunderstorms and Rain,0,2006-06-21 21:47:00
+4:53 PM,78.1,73.0,84,29.83,10.0,ESE,5.8,-,N/A,Rain,Light Rain,120,2006-06-21 21:53:00
+5:53 PM,84.0,75.0,74,29.84,10.0,West,10.4,-,0.00,,Scattered Clouds,270,2006-06-21 22:53:00
+6:53 PM,82.9,69.1,63,29.80,10.0,WSW,9.2,-,N/A,,Mostly Cloudy,250,2006-06-21 23:53:00
+7:53 PM,82.0,68.0,62,29.84,10.0,WSW,9.2,-,N/A,,Mostly Cloudy,250,2006-06-22 00:53:00
+8:53 PM,81.0,69.1,67,29.85,10.0,WSW,8.1,-,N/A,,Scattered Clouds,250,2006-06-22 01:53:00
+9:53 PM,79.0,69.1,72,29.87,10.0,WSW,5.8,-,N/A,,Partly Cloudy,240,2006-06-22 02:53:00
+10:53 PM,78.1,69.1,74,29.88,10.0,West,8.1,-,N/A,,Partly Cloudy,260,2006-06-22 03:53:00
+11:53 PM,79.0,69.1,72,29.91,10.0,West,11.5,-,N/A,,Partly Cloudy,270,2006-06-22 04:53:00

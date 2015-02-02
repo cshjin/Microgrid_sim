@@ -1,0 +1,23 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,51.1,26.2,38,30.44,20.0,NNW,11.5,-,N/A,,Mostly Cloudy,330,1991-09-20 05:00:00
+1:00 AM,51.1,27.1,40,30.43,20.0,North,11.5,-,N/A,,Mostly Cloudy,350,1991-09-20 06:00:00
+3:00 AM,46.9,32.0,56,30.44,25.0,NW,9.2,-,N/A,,Scattered Clouds,320,1991-09-20 08:00:00
+4:00 AM,46.9,32.0,56,30.44,25.0,WNW,6.9,-,N/A,,Scattered Clouds,300,1991-09-20 09:00:00
+5:00 AM,44.1,32.0,63,30.44,25.0,WNW,8.1,-,N/A,,Scattered Clouds,300,1991-09-20 10:00:00
+6:00 AM,45.0,31.1,58,30.45,20.0,WNW,6.9,-,N/A,,Scattered Clouds,300,1991-09-20 11:00:00
+8:00 AM,46.0,32.0,58,30.47,20.0,WNW,8.1,-,N/A,,Scattered Clouds,290,1991-09-20 13:00:00
+9:00 AM,50.0,29.1,45,30.48,20.0,WNW,9.2,-,N/A,,Scattered Clouds,300,1991-09-20 14:00:00
+10:00 AM,53.1,27.1,37,30.49,20.0,WNW,9.2,-,N/A,,Scattered Clouds,300,1991-09-20 15:00:00
+11:00 AM,55.0,30.2,39,30.49,20.0,West,8.1,-,N/A,,Scattered Clouds,270,1991-09-20 16:00:00
+12:00 PM,57.9,32.0,37,30.47,20.0,WSW,4.6,-,N/A,,Scattered Clouds,250,1991-09-20 17:00:00
+1:00 PM,57.0,33.1,40,30.46,20.0,West,9.2,-,N/A,,Scattered Clouds,260,1991-09-20 18:00:00
+2:00 PM,57.0,31.1,37,30.42,20.0,West,6.9,-,N/A,,Scattered Clouds,270,1991-09-20 19:00:00
+3:00 PM,60.1,32.0,35,30.40,20.0,WSW,8.1,-,N/A,,Scattered Clouds,250,1991-09-20 20:00:00
+4:00 PM,59.0,32.0,36,30.38,20.0,NNE,6.9,-,N/A,,Scattered Clouds,30,1991-09-20 21:00:00
+5:00 PM,57.9,37.0,46,30.36,20.0,ENE,9.2,-,N/A,,Scattered Clouds,60,1991-09-20 22:00:00
+6:00 PM,55.9,37.0,49,30.36,20.0,ENE,11.5,-,N/A,,Mostly Cloudy,60,1991-09-20 23:00:00
+7:00 PM,53.1,37.0,55,30.35,20.0,ENE,11.5,-,N/A,,Scattered Clouds,70,1991-09-21 00:00:00
+8:00 PM,52.0,37.9,59,30.35,20.0,ENE,5.8,-,N/A,,Scattered Clouds,70,1991-09-21 01:00:00
+9:00 PM,52.0,37.9,59,30.35,20.0,ENE,5.8,-,N/A,,Scattered Clouds,70,1991-09-21 02:00:00
+10:00 PM,51.1,37.9,61,30.35,20.0,ENE,6.9,-,N/A,,Scattered Clouds,70,1991-09-21 03:00:00
+11:00 PM,50.0,39.9,68,30.35,20.0,Calm,Calm,-,N/A,,Clear,0,1991-09-21 04:00:00

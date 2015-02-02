@@ -1,0 +1,28 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:53 AM,73.9,61.0,64,30.00,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,2006-05-30 05:53:00
+1:53 AM,72.0,62.1,71,29.99,10.0,ESE,4.6,-,N/A,,Mostly Cloudy,120,2006-05-30 06:53:00
+2:53 AM,73.0,62.1,68,29.99,10.0,SSE,6.9,-,N/A,,Scattered Clouds,160,2006-05-30 07:53:00
+3:53 AM,73.0,64.0,73,30.01,10.0,SSW,6.9,-,N/A,,Mostly Cloudy,200,2006-05-30 08:53:00
+4:53 AM,71.1,64.0,78,30.02,10.0,South,8.1,-,N/A,,Mostly Cloudy,190,2006-05-30 09:53:00
+5:53 AM,71.1,64.9,81,30.02,10.0,South,6.9,-,N/A,,Mostly Cloudy,190,2006-05-30 10:53:00
+6:53 AM,73.0,66.0,79,30.03,10.0,SSW,6.9,-,N/A,,Scattered Clouds,200,2006-05-30 11:53:00
+7:53 AM,75.9,68.0,76,30.03,10.0,SSW,11.5,-,N/A,,Scattered Clouds,200,2006-05-30 12:53:00
+8:53 AM,79.0,69.1,72,30.04,10.0,SSW,9.2,-,N/A,,Scattered Clouds,200,2006-05-30 13:53:00
+9:53 AM,82.9,70.0,65,30.02,10.0,South,11.5,-,N/A,,Mostly Cloudy,180,2006-05-30 14:53:00
+10:53 AM,82.9,69.1,63,30.01,10.0,South,13.8,18.4,N/A,,Mostly Cloudy,190,2006-05-30 15:53:00
+11:53 AM,86.0,68.0,55,30.00,10.0,South,12.7,-,N/A,,Mostly Cloudy,190,2006-05-30 16:53:00
+12:53 PM,86.0,66.9,53,29.98,10.0,SW,12.7,-,N/A,,Mostly Cloudy,230,2006-05-30 17:53:00
+1:53 PM,86.0,66.9,53,29.98,10.0,SW,9.2,-,N/A,,Mostly Cloudy,230,2006-05-30 18:53:00
+2:31 PM,87.8,68.0,52,30.01,10.0,Variable,6.9,-,N/A,Thunderstorm,Mostly Cloudy,0,2006-05-30 19:31:00
+2:53 PM,81.0,64.9,58,29.98,10.0,SE,13.8,23.0,N/A,Thunderstorm,Thunderstorm,140,2006-05-30 19:53:00
+3:04 PM,82.4,64.4,54,30.00,10.0,SE,13.8,-,N/A,Thunderstorm,Thunderstorm,140,2006-05-30 20:04:00
+3:26 PM,87.8,66.2,49,29.99,10.0,SSE,8.1,-,N/A,,Mostly Cloudy,160,2006-05-30 20:26:00
+3:53 PM,86.0,66.9,53,29.94,10.0,Variable,6.9,-,N/A,,Mostly Cloudy,0,2006-05-30 20:53:00
+4:53 PM,87.8,66.2,49,29.95,10.0,SSW,12.7,19.6,N/A,,Mostly Cloudy,200,2006-05-30 21:53:00
+7:11 PM,87.8,62.6,43,29.95,10.0,SW,6.9,-,N/A,Thunderstorm,Mostly Cloudy,230,2006-05-31 00:11:00
+7:39 PM,75.2,68.0,78,29.99,2.0,South,21.9,32.2,N/A,Rain-Thunderstorm,Thunderstorms and Rain,170,2006-05-31 00:39:00
+7:51 PM,71.6,69.8,94,30.01,2.0,WNW,11.5,25.3,N/A,Rain-Thunderstorm,Heavy Thunderstorms and Rain,290,2006-05-31 00:51:00
+8:07 PM,73.4,66.2,78,30.01,10.0,West,11.5,-,N/A,Rain-Thunderstorm,Light Rain,270,2006-05-31 01:07:00
+8:29 PM,73.4,66.2,78,30.00,10.0,West,6.9,-,N/A,Rain,Light Rain,260,2006-05-31 01:29:00
+9:53 PM,69.8,66.2,88,30.01,6.0,NE,3.5,-,N/A,,Overcast,50,2006-05-31 02:53:00
+11:53 PM,68.0,64.4,88,30.01,6.0,ESE,6.9,-,N/A,,Mostly Cloudy,110,2006-05-31 04:53:00

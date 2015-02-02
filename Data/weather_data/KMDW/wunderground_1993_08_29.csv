@@ -1,0 +1,20 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,70.0,64.9,84,30.05,10.0,ENE,6.9,-,N/A,,Overcast,60,1993-08-29 05:00:00
+3:00 AM,72.0,68.0,87,30.03,10.0,ENE,8.1,-,N/A,,Mostly Cloudy,60,1993-08-29 08:00:00
+5:00 AM,73.9,65.8,76,30.03,10.0,ENE,8.1,-,N/A,,Mostly Cloudy,60,1993-08-29 10:00:00
+6:00 AM,70.0,65.8,87,30.03,10.0,ENE,6.9,-,N/A,,Overcast,60,1993-08-29 11:00:00
+7:00 AM,68.9,65.8,90,30.04,10.0,ENE,11.5,-,N/A,Rain,Light Rain Showers,60,1993-08-29 12:00:00
+8:00 AM,68.0,68.0,100,30.03,10.0,ENE,11.5,-,N/A,,Overcast,60,1993-08-29 13:00:00
+9:00 AM,68.9,68.9,100,30.02,2.0,ENE,13.8,-,0.10,Rain,Light Rain Showers,60,1993-08-29 14:00:00
+10:00 AM,68.9,68.9,100,30.02,5.0,ENE,9.2,-,N/A,,Drizzle,60,1993-08-29 15:00:00
+11:00 AM,65.8,65.8,100,30.04,5.5,SSW,5.8,-,0.20,Fog-Rain-Thunderstorm,Thunderstorms and Rain,200,1993-08-29 16:00:00
+12:00 PM,70.0,70.0,100,30.03,5.5,Calm,Calm,-,0.10,Fog-Rain-Thunderstorm,Thunderstorms and Rain,0,1993-08-29 17:00:00
+1:00 PM,70.0,70.0,100,30.03,5.5,SSW,6.9,-,0.40,Fog-Rain-Thunderstorm,Thunderstorms and Rain,210,1993-08-29 18:00:00
+2:00 PM,70.9,70.9,100,30.00,3.0,South,6.9,-,0.30,Fog-Rain,Rain Showers,190,1993-08-29 19:00:00
+3:00 PM,73.9,70.9,90,29.98,7.0,SSW,8.1,-,0.10,,Mostly Cloudy,200,1993-08-29 20:00:00
+4:00 PM,77.9,72.0,82,29.96,7.0,West,6.9,-,N/A,,Overcast,270,1993-08-29 21:00:00
+5:00 PM,77.0,72.0,84,29.97,6.0,North,6.9,-,N/A,,Drizzle,10,1993-08-29 22:00:00
+6:00 PM,75.9,70.9,84,29.97,10.5,NE,6.9,-,N/A,,Drizzle,40,1993-08-29 23:00:00
+7:00 PM,73.9,70.9,90,29.98,4.0,NE,5.8,-,N/A,Fog,Fog,50,1993-08-30 00:00:00
+8:00 PM,72.9,68.9,87,29.98,6.0,NE,6.9,-,N/A,,Drizzle,40,1993-08-30 01:00:00
+10:00 PM,72.0,68.9,90,29.99,6.0,NE,5.8,-,N/A,Fog,Fog,50,1993-08-30 03:00:00

@@ -1,0 +1,19 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,83.8,72.9,69,29.98,7.0,West,11.5,-,N/A,,Overcast,270,1996-06-30 05:00:00
+1:00 AM,82.9,73.9,74,29.98,7.0,WSW,11.5,-,N/A,,Mostly Cloudy,250,1996-06-30 06:00:00
+2:00 AM,81.0,73.9,79,29.93,7.0,WSW,12.7,-,N/A,,Mostly Cloudy,240,1996-06-30 07:00:00
+3:00 AM,79.9,73.9,82,29.91,7.0,WSW,13.8,-,N/A,,Overcast,240,1996-06-30 08:00:00
+4:00 AM,79.0,73.9,84,29.95,7.0,WNW,11.5,-,N/A,,Mostly Cloudy,290,1996-06-30 09:00:00
+5:00 AM,77.9,73.9,88,29.96,10.0,West,8.1,-,N/A,,Mostly Cloudy,280,1996-06-30 10:00:00
+6:00 AM,77.0,74.8,93,29.98,10.0,West,8.1,-,N/A,,Mostly Cloudy,270,1996-06-30 11:00:00
+7:00 AM,77.0,75.9,96,30.00,10.0,WNW,8.1,-,N/A,,Mostly Cloudy,290,1996-06-30 12:00:00
+8:00 AM,79.0,75.9,90,30.02,10.0,WNW,8.1,-,N/A,,Mostly Cloudy,300,1996-06-30 13:00:00
+9:00 AM,81.9,75.9,82,30.03,10.0,WNW,8.1,-,N/A,,Scattered Clouds,300,1996-06-30 14:00:00
+11:00 AM,86.9,73.9,65,30.04,15.0,WNW,5.8,-,N/A,,Scattered Clouds,290,1996-06-30 16:00:00
+12:00 PM,88.0,72.9,61,30.04,15.0,NW,12.7,-,N/A,,Scattered Clouds,310,1996-06-30 17:00:00
+1:00 PM,90.9,68.9,48,30.03,15.0,NW,17.3,-,N/A,,Scattered Clouds,310,1996-06-30 18:00:00
+2:00 PM,88.9,72.9,59,30.02,15.0,ENE,11.5,-,N/A,,Scattered Clouds,70,1996-06-30 19:00:00
+3:00 PM,88.9,68.9,51,30.02,15.0,ENE,9.2,-,N/A,,Scattered Clouds,60,1996-06-30 20:00:00
+4:00 PM,86.0,68.0,55,30.02,20.0,East,11.5,-,N/A,,Scattered Clouds,80,1996-06-30 21:00:00
+5:00 PM,88.0,68.0,51,30.01,20.0,East,8.1,-,N/A,,Scattered Clouds,80,1996-06-30 22:00:00
+6:00 PM,86.9,68.9,55,30.00,20.0,East,8.1,-,N/A,,Scattered Clouds,80,1996-06-30 23:00:00

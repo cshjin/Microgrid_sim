@@ -1,0 +1,27 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,30.2,20.1,66,30.15,15.0,Calm,Calm,-,N/A,,Clear,0,1992-03-21 06:00:00
+1:00 AM,30.2,20.1,66,30.15,15.0,Calm,Calm,-,N/A,,Clear,0,1992-03-21 07:00:00
+2:00 AM,28.2,19.2,69,30.15,15.0,Calm,Calm,-,N/A,,Clear,0,1992-03-21 08:00:00
+3:00 AM,28.2,18.1,66,30.15,15.0,Calm,Calm,-,N/A,,Clear,0,1992-03-21 09:00:00
+4:00 AM,28.2,19.2,69,30.13,15.0,Calm,Calm,-,N/A,,Clear,0,1992-03-21 10:00:00
+5:00 AM,27.1,19.2,72,30.13,15.0,Calm,Calm,-,N/A,,Clear,0,1992-03-21 11:00:00
+6:00 AM,27.1,17.2,66,30.16,15.0,Calm,Calm,-,N/A,,Clear,0,1992-03-21 12:00:00
+8:00 AM,32.0,16.2,52,30.14,15.0,East,9.2,-,N/A,,Mostly Cloudy,100,1992-03-21 14:00:00
+9:00 AM,33.1,12.2,42,30.14,20.0,SE,13.8,-,N/A,,Overcast,140,1992-03-21 15:00:00
+10:00 AM,33.1,12.2,42,30.13,15.0,South,11.5,-,N/A,,Mostly Cloudy,170,1992-03-21 16:00:00
+11:00 AM,32.0,20.1,62,30.14,6.0,South,9.2,-,N/A,Snow,Snow Showers,170,1992-03-21 17:00:00
+11:15 AM,-9999,-9999,N/A,30.12,3.0,SE,9.2,-,N/A,Fog,Unknown,130,1992-03-21 17:15:00
+11:30 AM,-9999,-9999,N/A,30.11,5.5,SE,9.2,-,N/A,Fog,Unknown,130,1992-03-21 17:30:00
+12:00 PM,30.2,25.2,82,30.09,1.0,ESE,11.5,-,N/A,Snow,Snow Showers,120,1992-03-21 18:00:00
+1:00 PM,30.2,28.2,92,30.05,2.8,ESE,11.5,-,N/A,Fog-Snow,Light Snow Showers,110,1992-03-21 19:00:00
+1:29 PM,-9999,-9999,N/A,30.04,0.8,SE,11.5,-,N/A,Fog,Unknown,130,1992-03-21 19:29:00
+2:00 PM,30.2,29.1,96,30.02,0.5,ESE,11.5,-,N/A,Fog-Snow,Snow Showers,110,1992-03-21 20:00:00
+3:00 PM,31.1,30.2,96,29.99,0.5,North,-9999.0,-,0.10,Fog-Snow,Light Snow,0,1992-03-21 21:00:00
+4:00 PM,30.2,30.2,100,29.95,0.5,SE,11.5,-,N/A,Fog-Snow,Snow,130,1992-03-21 22:00:00
+5:00 PM,31.1,30.2,96,29.92,0.8,East,9.2,-,0.10,Fog-Snow,Light Snow Showers,100,1992-03-21 23:00:00
+6:00 PM,31.1,30.2,96,29.89,1.0,ESE,9.2,-,N/A,Fog-Snow,Snow,110,1992-03-22 00:00:00
+7:00 PM,32.0,30.2,93,29.89,5.5,East,9.2,-,N/A,Snow,Light Snow Showers,80,1992-03-22 01:00:00
+8:00 PM,32.0,31.1,96,29.87,5.5,ENE,5.8,-,0.10,Snow,Light Snow Showers,70,1992-03-22 02:00:00
+9:00 PM,32.0,31.1,96,29.85,1.0,ENE,8.1,-,N/A,Snow,Light Snow Showers,60,1992-03-22 03:00:00
+10:00 PM,33.1,32.0,96,29.82,1.0,ENE,6.9,-,0.10,Fog-Snow,Light Snow Showers,60,1992-03-22 04:00:00
+11:00 PM,33.1,32.0,96,29.79,5.5,ENE,11.5,-,N/A,Fog-Snow,Light Snow Showers,70,1992-03-22 05:00:00

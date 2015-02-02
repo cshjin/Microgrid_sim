@@ -1,0 +1,20 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+1:00 AM,50.0,46.9,89,30.24,15.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1993-09-24 06:00:00
+2:00 AM,48.9,46.9,93,30.25,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1993-09-24 07:00:00
+3:00 AM,47.8,45.9,93,30.24,10.0,Calm,Calm,-,N/A,,Clear,0,1993-09-24 08:00:00
+4:00 AM,47.8,36.9,66,30.23,10.0,Calm,Calm,-,N/A,,Clear,0,1993-09-24 09:00:00
+5:00 AM,46.9,45.0,93,30.24,10.0,Calm,Calm,-,N/A,,Clear,0,1993-09-24 10:00:00
+6:00 AM,45.9,45.0,97,30.24,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1993-09-24 11:00:00
+7:00 AM,46.9,45.9,96,30.23,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1993-09-24 12:00:00
+8:00 AM,47.8,46.9,97,30.22,6.0,South,4.6,-,N/A,Fog,Fog,180,1993-09-24 13:00:00
+10:00 AM,54.9,47.8,77,30.26,4.0,SSW,6.9,-,N/A,,Drizzle,200,1993-09-24 15:00:00
+12:00 PM,61.9,45.9,56,30.23,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1993-09-24 17:00:00
+1:00 PM,63.0,43.9,50,30.20,10.0,SW,4.6,-,N/A,,Mostly Cloudy,220,1993-09-24 18:00:00
+2:00 PM,64.9,41.0,42,30.17,10.0,SSW,5.8,-,N/A,,Mostly Cloudy,200,1993-09-24 19:00:00
+4:00 PM,68.0,41.9,39,30.11,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1993-09-24 21:00:00
+5:00 PM,64.9,45.0,48,30.10,15.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1993-09-24 22:00:00
+6:00 PM,63.9,47.8,56,30.09,10.0,ENE,6.9,-,N/A,,Mostly Cloudy,60,1993-09-24 23:00:00
+7:00 PM,61.0,50.0,67,30.08,10.0,ENE,6.9,-,N/A,,Mostly Cloudy,60,1993-09-25 00:00:00
+8:00 PM,61.0,52.0,72,30.07,10.0,NE,6.9,-,N/A,,Mostly Cloudy,40,1993-09-25 01:00:00
+9:00 PM,59.9,52.0,75,30.07,10.0,ENE,9.2,-,N/A,,Mostly Cloudy,60,1993-09-25 02:00:00
+10:00 PM,61.0,54.0,78,30.08,10.0,ENE,6.9,-,N/A,,Mostly Cloudy,70,1993-09-25 03:00:00

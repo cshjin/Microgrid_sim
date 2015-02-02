@@ -1,0 +1,7 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+6:53 PM,61.0,35.1,38,29.75,10.0,South,13.8,26.5,N/A,,Overcast,180,2000-03-01 00:53:00
+7:53 PM,60.1,37.0,42,29.72,10.0,South,17.3,26.5,N/A,,Overcast,180,2000-03-01 01:53:00
+8:53 PM,59.0,39.0,48,29.70,10.0,South,20.7,29.9,0.00,,Overcast,190,2000-03-01 02:53:00
+9:53 PM,57.9,39.9,51,29.68,10.0,South,17.3,-,N/A,,Mostly Cloudy,190,2000-03-01 03:53:00
+10:53 PM,57.9,39.0,49,29.64,10.0,SSW,12.7,21.9,N/A,,Overcast,200,2000-03-01 04:53:00
+11:53 PM,55.9,44.1,64,29.63,10.0,SSW,13.8,23.0,0.00,,Light Drizzle,210,2000-03-01 05:53:00

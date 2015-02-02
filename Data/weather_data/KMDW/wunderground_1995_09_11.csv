@@ -1,0 +1,18 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,57.9,45.0,62,30.29,15.0,NNE,4.6,-,N/A,,Clear,20,1995-09-11 05:00:00
+1:00 AM,54.9,46.9,75,30.29,15.0,Calm,Calm,-,N/A,,Clear,0,1995-09-11 06:00:00
+3:00 AM,52.9,46.9,80,30.28,15.0,Calm,Calm,-,N/A,,Clear,0,1995-09-11 08:00:00
+4:00 AM,-9999,-9999,N/A,30.28,15.0,Calm,Calm,-,N/A,,Clear,0,1995-09-11 09:00:00
+6:00 AM,54.0,47.8,80,30.28,15.0,Calm,Calm,-,N/A,,Clear,0,1995-09-11 11:00:00
+7:00 AM,52.9,43.0,69,30.29,20.0,South,5.8,-,N/A,,Clear,190,1995-09-11 12:00:00
+9:00 AM,61.0,36.9,41,30.30,15.0,South,6.9,-,N/A,,Scattered Clouds,170,1995-09-11 14:00:00
+10:00 AM,63.0,39.9,43,30.30,15.0,South,8.1,-,N/A,,Mostly Cloudy,170,1995-09-11 15:00:00
+11:00 AM,66.9,43.0,42,30.29,15.0,SSE,6.9,-,N/A,,Mostly Cloudy,160,1995-09-11 16:00:00
+12:00 PM,70.9,45.0,39,30.27,20.0,SSE,9.2,-,N/A,,Scattered Clouds,160,1995-09-11 17:00:00
+1:00 PM,72.9,43.9,35,30.24,15.0,SSE,5.8,-,N/A,,Mostly Cloudy,150,1995-09-11 18:00:00
+3:00 PM,72.0,37.9,29,30.20,25.0,NE,6.9,-,N/A,,Scattered Clouds,50,1995-09-11 20:00:00
+5:00 PM,72.0,43.0,35,30.16,25.0,East,6.9,-,N/A,,Scattered Clouds,80,1995-09-11 22:00:00
+8:00 PM,64.9,47.8,54,30.13,10.0,ENE,8.1,-,N/A,,Mostly Cloudy,70,1995-09-12 01:00:00
+9:00 PM,64.9,50.0,58,30.13,15.0,ENE,5.8,-,N/A,,Scattered Clouds,70,1995-09-12 02:00:00
+10:00 PM,64.9,43.0,45,0.00,35.0,NE,5.8,-,N/A,,Clear,50,1995-09-12 03:00:00
+11:00 PM,64.9,55.9,73,30.11,20.0,NE,4.6,-,N/A,,Clear,50,1995-09-12 04:00:00

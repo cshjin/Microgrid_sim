@@ -1,0 +1,27 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,34.0,34.0,100,29.62,2.0,North,4.6,-,N/A,Fog-Rain,Light Rain Showers,10,1994-01-28 06:00:00
+1:00 AM,34.0,34.0,100,29.60,1.0,Calm,Calm,-,N/A,Fog-Rain,Light Rain Showers,0,1994-01-28 07:00:00
+1:05 AM,-9999,-9999,N/A,29.58,1.0,Calm,Calm,-,N/A,Fog-Rain,Light Rain Showers,0,1994-01-28 07:05:00
+2:00 AM,34.0,34.0,100,29.58,1.0,Calm,Calm,-,N/A,Fog-Rain,Light Rain Showers,0,1994-01-28 08:00:00
+3:00 AM,32.9,32.9,100,29.57,2.0,NW,6.9,-,0.10,Fog-Rain,Light Rain Showers,320,1994-01-28 09:00:00
+4:00 AM,32.9,32.9,100,29.57,2.0,Calm,Calm,-,0.10,Fog-Rain,Light Rain Showers,0,1994-01-28 10:00:00
+5:00 AM,32.9,32.9,100,29.58,2.0,West,9.2,-,0.10,Fog-Rain-Snow,Light Rain Showers,270,1994-01-28 11:00:00
+6:00 AM,32.9,32.0,96,29.54,3.0,WNW,6.9,-,N/A,Fog-Rain-Snow,Light Rain Showers,290,1994-01-28 12:00:00
+7:00 AM,32.0,30.9,96,29.56,4.0,West,9.2,-,N/A,Fog,Light Drizzle,270,1994-01-28 13:00:00
+7:15 AM,-9999,-9999,N/A,29.56,1.0,West,9.2,-,N/A,Fog,Light Drizzle,280,1994-01-28 13:15:00
+8:00 AM,32.0,30.9,96,29.56,5.5,West,9.2,-,N/A,Fog,Light Drizzle,280,1994-01-28 14:00:00
+9:00 AM,32.0,30.9,96,29.59,3.0,West,11.5,-,N/A,Fog,Light Drizzle,270,1994-01-28 15:00:00
+10:00 AM,29.8,27.0,89,29.63,3.0,West,13.8,-,N/A,Fog,Freezing Rain,260,1994-01-28 16:00:00
+11:00 AM,28.9,25.9,88,29.65,6.0,West,18.4,-,N/A,Fog,Fog,270,1994-01-28 17:00:00
+12:00 PM,28.9,25.0,85,29.66,6.0,West,17.3,-,N/A,Snow,Light Snow Showers,270,1994-01-28 18:00:00
+1:00 PM,25.9,21.9,85,29.68,4.0,West,19.6,-,N/A,Fog-Snow,Light Snow Showers,260,1994-01-28 19:00:00
+1:05 PM,-9999,-9999,N/A,29.68,5.5,West,17.3,-,N/A,Fog,Unknown,260,1994-01-28 19:05:00
+3:00 PM,25.0,21.9,88,29.72,3.0,West,19.6,-,N/A,Fog,Fog,260,1994-01-28 21:00:00
+4:00 PM,25.0,21.9,88,29.76,3.0,West,16.1,-,N/A,Fog-Snow,Light Snow Showers,260,1994-01-28 22:00:00
+5:00 PM,25.0,21.9,88,29.81,3.0,West,16.1,-,N/A,Fog-Snow,Light Snow,260,1994-01-28 23:00:00
+6:00 PM,25.9,21.9,85,29.85,8.0,SW,11.5,-,N/A,,Overcast,230,1994-01-29 00:00:00
+7:00 PM,25.9,21.9,85,29.89,7.0,West,13.8,-,N/A,,Overcast,260,1994-01-29 01:00:00
+8:00 PM,25.9,21.9,85,29.92,8.0,West,9.2,-,N/A,,Overcast,270,1994-01-29 02:00:00
+9:00 PM,25.9,21.9,85,29.93,8.0,West,11.5,-,N/A,,Mostly Cloudy,270,1994-01-29 03:00:00
+10:00 PM,25.9,21.9,85,29.96,8.0,WSW,9.2,-,N/A,,Overcast,240,1994-01-29 04:00:00
+11:00 PM,25.0,21.9,88,29.98,5.0,West,11.5,-,N/A,Fog,Fog,260,1994-01-29 05:00:00

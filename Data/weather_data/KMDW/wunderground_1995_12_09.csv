@@ -1,0 +1,23 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,9.0,2.8,76,30.02,4.0,West,18.4,26.5,N/A,Snow,Light Blowing Snow,280,1995-12-09 06:00:00
+1:00 AM,1.9,-6.2,69,30.07,7.0,West,23.0,41.4,N/A,Snow,Light Blowing Snow,280,1995-12-09 07:00:00
+2:00 AM,-0.0,-7.1,72,30.10,7.0,West,23.0,-,N/A,Snow,Light Blowing Snow,280,1995-12-09 08:00:00
+3:00 AM,-1.1,-10.1,66,30.13,7.0,West,20.7,-,N/A,Snow,Light Blowing Snow,270,1995-12-09 09:00:00
+4:00 AM,-2.0,-10.1,68,30.16,7.0,West,20.7,-,N/A,Snow,Light Blowing Snow,270,1995-12-09 10:00:00
+5:00 AM,-1.1,-12.1,60,30.17,7.0,WNW,23.0,-,N/A,Snow,Light Blowing Snow,290,1995-12-09 11:00:00
+6:00 AM,-2.0,-10.1,68,30.19,7.0,West,17.3,-,N/A,Snow,Light Blowing Snow,270,1995-12-09 12:00:00
+7:00 AM,-2.0,-10.1,68,30.19,10.0,West,13.8,20.7,N/A,,Mostly Cloudy,270,1995-12-09 13:00:00
+8:00 AM,-1.1,-9.0,69,30.20,10.0,West,17.3,-,N/A,,Mostly Cloudy,270,1995-12-09 14:00:00
+9:00 AM,-0.0,-8.1,69,30.20,10.0,West,20.7,-,N/A,,Overcast,260,1995-12-09 15:00:00
+10:00 AM,0.9,-8.1,66,0.00,4.0,North,-9999.0,-,N/A,Snow,Light Blowing Snow,0,1995-12-09 16:00:00
+11:00 AM,1.9,-6.2,69,30.19,4.0,WSW,20.7,-,N/A,Snow,Light Blowing Snow,240,1995-12-09 17:00:00
+12:00 PM,2.8,-5.1,70,30.17,3.0,WSW,23.0,-,N/A,Snow,Light Blowing Snow,250,1995-12-09 18:00:00
+1:00 PM,3.9,-4.0,70,30.19,3.0,WSW,23.0,34.5,N/A,Snow,Light Blowing Snow,250,1995-12-09 19:00:00
+2:00 PM,5.0,-1.1,76,30.18,1.0,WSW,25.3,34.5,0.10,Snow,Light Blowing Snow,250,1995-12-09 20:00:00
+3:00 PM,5.9,-2.0,70,30.19,10.5,West,20.7,-,N/A,Snow,Light Blowing Snow,270,1995-12-09 21:00:00
+4:00 PM,5.0,-3.1,69,30.21,2.0,West,23.0,28.8,N/A,Snow,Light Blowing Snow,270,1995-12-09 22:00:00
+5:00 PM,5.0,-1.1,76,30.22,5.5,West,23.0,34.5,N/A,Snow,Light Blowing Snow,260,1995-12-09 23:00:00
+6:00 PM,5.0,-5.1,63,30.24,8.0,West,20.7,32.2,N/A,,Overcast,260,1995-12-10 00:00:00
+7:00 PM,5.0,-4.0,66,30.26,8.0,West,20.7,28.8,N/A,,Overcast,280,1995-12-10 01:00:00
+9:00 PM,5.0,-1.1,76,30.27,5.0,West,17.3,-,N/A,Snow,Light Blowing Snow,270,1995-12-10 03:00:00
+10:00 PM,5.0,-1.1,76,30.27,5.0,West,17.3,-,N/A,Snow,Light Blowing Snow,270,1995-12-10 04:00:00

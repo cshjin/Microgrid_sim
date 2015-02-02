@@ -1,0 +1,24 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:45 AM,28.4,26.6,93,30.29,3.0,NNE,10.4,-,N/A,Snow,Snow,30,1997-02-08 06:45:00
+1:45 AM,28.4,26.6,93,30.29,3.0,NNE,10.4,-,N/A,Snow,Snow,30,1997-02-08 07:45:00
+2:45 AM,28.4,26.6,93,30.29,2.0,North,5.8,-,N/A,Snow,Snow,360,1997-02-08 08:45:00
+3:45 AM,26.6,26.6,100,30.30,2.0,NNW,5.8,-,N/A,Snow,Snow,330,1997-02-08 09:45:00
+4:45 AM,26.6,26.6,100,30.25,2.0,NNW,6.9,-,N/A,Snow,Light Snow,340,1997-02-08 10:45:00
+5:55 AM,26.6,26.6,100,30.30,2.0,NNW,6.9,-,N/A,Snow,Light Snow,340,1997-02-08 11:55:00
+6:45 AM,28.4,26.6,93,30.31,5.0,North,6.9,-,N/A,Snow,Light Snow Showers,10,1997-02-08 12:45:00
+7:45 AM,28.4,26.6,93,30.34,5.5,NE,10.4,-,N/A,Snow,Light Snow Showers,50,1997-02-08 13:45:00
+8:45 AM,28.4,28.4,100,30.35,1.5,NE,8.1,-,N/A,Snow,Light Snow Showers,40,1997-02-08 14:45:00
+9:45 AM,28.4,26.6,93,30.37,1.5,NE,9.2,-,N/A,Snow,Light Snow Showers,50,1997-02-08 15:45:00
+10:45 AM,30.2,28.4,93,30.38,1.5,NE,9.2,-,N/A,Snow,Light Snow Showers,50,1997-02-08 16:45:00
+11:45 AM,28.4,28.4,100,30.38,1.2,NE,10.4,-,N/A,Snow,Light Snow Showers,50,1997-02-08 17:45:00
+12:45 PM,28.4,26.6,93,30.37,1.5,NE,12.7,-,N/A,Snow,Light Snow Showers,50,1997-02-08 18:45:00
+1:45 PM,30.2,26.6,86,30.36,6.0,NNE,11.5,-,N/A,Snow,Light Snow Showers,30,1997-02-08 19:45:00
+2:45 PM,30.2,24.8,80,30.36,10.0,NE,9.2,-,N/A,,Mostly Cloudy,50,1997-02-08 20:45:00
+3:45 PM,30.2,24.8,80,30.37,10.0,NNE,9.2,-,N/A,,Mostly Cloudy,30,1997-02-08 21:45:00
+4:45 PM,30.2,24.8,80,30.37,10.0,North,5.8,-,N/A,,Mostly Cloudy,10,1997-02-08 22:45:00
+5:45 PM,28.4,26.6,93,30.40,3.0,North,5.8,-,N/A,Snow,Light Snow Showers,350,1997-02-08 23:45:00
+6:45 PM,28.4,24.8,86,30.40,8.0,NNE,5.8,-,N/A,,Mostly Cloudy,30,1997-02-09 00:45:00
+7:45 PM,26.6,24.8,93,30.40,10.0,NNE,6.9,-,N/A,,Mostly Cloudy,30,1997-02-09 01:45:00
+8:45 PM,24.8,24.8,100,30.40,10.0,NNW,4.6,-,N/A,,Scattered Clouds,340,1997-02-09 02:45:00
+10:00 PM,23.0,23.0,100,30.40,10.0,NNW,4.6,-,N/A,,Scattered Clouds,340,1997-02-09 04:00:00
+11:45 PM,-9999,-9999,N/A,30.40,10.0,WNW,4.6,-,N/A,,Mostly Cloudy,300,1997-02-09 05:45:00

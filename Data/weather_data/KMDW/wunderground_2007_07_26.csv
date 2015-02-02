@@ -1,0 +1,38 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:51 AM,70.0,64.0,81,29.95,9.0,South,8.1,-,N/A,,Overcast,180,2007-07-26 05:51:00
+1:51 AM,69.1,63.0,81,29.95,8.0,South,9.2,-,N/A,,Overcast,170,2007-07-26 06:51:00
+1:54 AM,69.8,62.6,78,29.97,8.0,South,12.7,-,N/A,Thunderstorm,Thunderstorm,170,2007-07-26 06:54:00
+2:51 AM,68.0,62.1,81,29.94,8.0,South,5.8,-,0.00,Thunderstorm,Thunderstorm,180,2007-07-26 07:51:00
+3:51 AM,68.0,61.0,78,29.94,7.0,South,15.0,-,N/A,Thunderstorm,Thunderstorm,170,2007-07-26 08:51:00
+4:01 AM,66.2,62.6,88,29.97,7.0,SE,13.8,-,N/A,Thunderstorm,Thunderstorm,130,2007-07-26 09:01:00
+4:13 AM,66.2,62.6,88,29.97,6.0,East,26.5,34.5,0.01,Rain-Thunderstorm,Light Thunderstorms and Rain,100,2007-07-26 09:13:00
+4:19 AM,66.2,62.6,88,29.98,2.0,East,31.1,38.0,0.07,Rain-Thunderstorm,Thunderstorms with Small Hail,100,2007-07-26 09:19:00
+4:24 AM,64.4,62.6,94,30.00,0.8,East,19.6,38.0,0.45,Rain-Thunderstorm,Heavy Thunderstorms and Rain,90,2007-07-26 09:24:00
+4:30 AM,64.4,64.4,100,30.01,1.2,East,16.1,29.9,0.70,Rain-Thunderstorm,Heavy Thunderstorms and Rain,90,2007-07-26 09:30:00
+4:36 AM,64.4,64.4,100,30.00,2.0,East,13.8,27.6,0.81,Rain-Thunderstorm,Thunderstorms and Rain,100,2007-07-26 09:36:00
+4:46 AM,64.4,64.4,100,29.99,4.0,SSE,8.1,-,0.86,Rain-Thunderstorm,Light Thunderstorms and Rain,150,2007-07-26 09:46:00
+4:51 AM,64.9,64.9,100,29.96,6.0,South,5.8,-,0.86,Rain-Thunderstorm,Light Thunderstorms and Rain,170,2007-07-26 09:51:00
+4:57 AM,64.4,64.4,100,29.98,8.0,SSW,6.9,-,0.00,,Overcast,200,2007-07-26 09:57:00
+5:22 AM,64.4,64.4,100,29.99,10.0,South,9.2,-,0.00,,Overcast,170,2007-07-26 10:22:00
+5:44 AM,66.2,64.4,94,30.03,10.0,East,13.8,20.7,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,90,2007-07-26 10:44:00
+5:51 AM,66.0,64.0,93,29.98,8.0,South,13.8,20.7,0.02,Rain-Thunderstorm,Light Thunderstorms and Rain,170,2007-07-26 10:51:00
+5:58 AM,66.2,64.4,94,30.01,8.0,SSE,13.8,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,160,2007-07-26 10:58:00
+6:04 AM,66.2,64.4,94,30.00,6.0,South,15.0,-,N/A,Rain,Light Rain,170,2007-07-26 11:04:00
+6:51 AM,66.0,64.9,96,29.97,6.0,SSE,10.4,-,N/A,,Overcast,160,2007-07-26 11:51:00
+7:51 AM,66.9,66.0,97,29.98,5.0,SW,8.1,-,N/A,,Overcast,220,2007-07-26 12:51:00
+8:51 AM,72.0,66.0,81,29.97,6.0,West,12.7,-,N/A,,Haze,260,2007-07-26 13:51:00
+9:51 AM,73.9,64.9,73,29.95,10.0,West,13.8,-,N/A,,Scattered Clouds,270,2007-07-26 14:51:00
+10:51 AM,77.0,63.0,62,29.93,10.0,West,19.6,24.2,N/A,,Scattered Clouds,280,2007-07-26 15:51:00
+11:51 AM,80.1,62.1,54,29.92,10.0,WNW,10.4,-,N/A,,Mostly Cloudy,290,2007-07-26 16:51:00
+12:51 PM,82.9,59.0,44,29.90,10.0,WNW,9.2,-,N/A,,Mostly Cloudy,290,2007-07-26 17:51:00
+1:51 PM,82.9,55.9,39,29.90,10.0,WNW,5.8,-,N/A,,Overcast,290,2007-07-26 18:51:00
+2:51 PM,78.1,64.9,64,29.91,10.0,SW,10.4,-,N/A,,Mostly Cloudy,230,2007-07-26 19:51:00
+3:51 PM,77.0,66.0,69,29.89,8.0,WSW,12.7,-,N/A,,Mostly Cloudy,240,2007-07-26 20:51:00
+4:51 PM,75.9,64.9,69,29.88,8.0,South,11.5,-,0.00,,Mostly Cloudy,180,2007-07-26 21:51:00
+5:51 PM,75.9,66.0,71,29.88,6.0,SSW,6.9,-,N/A,,Haze,210,2007-07-26 22:51:00
+6:51 PM,78.1,68.0,71,29.87,5.0,SW,9.2,-,N/A,,Haze,220,2007-07-26 23:51:00
+7:51 PM,78.1,69.1,74,29.86,4.0,South,6.9,-,N/A,,Haze,180,2007-07-27 00:51:00
+8:51 PM,78.1,69.1,74,29.85,8.0,South,8.1,-,N/A,,Overcast,190,2007-07-27 01:51:00
+9:51 PM,78.1,69.1,74,29.85,8.0,SSW,8.1,-,N/A,,Overcast,200,2007-07-27 02:51:00
+10:51 PM,78.1,68.0,71,29.84,8.0,SSW,9.2,-,N/A,,Overcast,210,2007-07-27 03:51:00
+11:51 PM,77.0,68.0,74,29.83,8.0,SW,6.9,-,N/A,,Overcast,220,2007-07-27 04:51:00

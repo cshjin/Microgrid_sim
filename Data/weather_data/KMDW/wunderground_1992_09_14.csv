@@ -1,0 +1,26 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,68.9,55.9,63,30.10,10.0,SSW,11.5,-,N/A,,Scattered Clouds,210,1992-09-14 05:00:00
+1:00 AM,68.9,56.8,65,30.10,10.0,SSW,12.7,-,N/A,,Scattered Clouds,210,1992-09-14 06:00:00
+2:00 AM,68.9,56.8,65,30.10,10.0,SSW,17.3,-,N/A,,Scattered Clouds,210,1992-09-14 07:00:00
+3:00 AM,66.9,56.8,70,30.09,10.0,SSW,15.0,-,N/A,,Scattered Clouds,210,1992-09-14 08:00:00
+5:00 AM,64.9,56.8,75,30.07,10.0,SSW,11.5,-,N/A,,Scattered Clouds,210,1992-09-14 10:00:00
+7:00 AM,63.9,56.8,78,30.08,10.0,SSW,9.2,-,N/A,,Scattered Clouds,200,1992-09-14 12:00:00
+8:00 AM,65.8,56.8,73,30.10,10.0,SSW,8.1,-,N/A,,Scattered Clouds,210,1992-09-14 13:00:00
+9:00 AM,70.0,57.9,65,30.12,10.0,SSW,9.2,-,N/A,,Scattered Clouds,210,1992-09-14 14:00:00
+10:00 AM,72.9,59.9,64,30.11,10.0,SSW,11.5,-,N/A,,Scattered Clouds,210,1992-09-14 15:00:00
+11:00 AM,77.0,61.9,59,30.11,10.0,SSW,13.8,-,N/A,,Mostly Cloudy,210,1992-09-14 16:00:00
+12:00 PM,79.9,63.0,56,30.10,10.0,SSW,17.3,-,N/A,,Mostly Cloudy,200,1992-09-14 17:00:00
+1:00 PM,82.9,64.9,54,30.10,10.0,SSW,16.1,-,N/A,,Mostly Cloudy,200,1992-09-14 18:00:00
+2:00 PM,82.9,65.8,56,30.09,10.0,SW,17.3,-,N/A,,Overcast,220,1992-09-14 19:00:00
+3:00 PM,72.9,68.0,85,30.11,2.0,WNW,17.3,-,0.10,Rain-Thunderstorm,Light Thunderstorms and Rain,290,1992-09-14 20:00:00
+3:05 PM,-9999,-9999,N/A,30.12,0.8,West,16.1,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,260,1992-09-14 20:05:00
+3:15 PM,-9999,-9999,N/A,30.09,3.0,SSW,13.8,-,N/A,Rain,Light Rain Showers,200,1992-09-14 20:15:00
+3:26 PM,-9999,-9999,N/A,30.07,5.0,SSW,11.5,-,N/A,Rain,Light Rain Showers,200,1992-09-14 20:26:00
+4:00 PM,72.9,70.9,93,30.04,7.0,South,12.7,-,0.60,,Drizzle,190,1992-09-14 21:00:00
+5:00 PM,74.8,70.9,87,30.04,7.0,South,12.7,-,N/A,,Overcast,190,1992-09-14 22:00:00
+6:00 PM,77.0,70.9,81,30.06,7.0,SSW,8.1,-,N/A,,Mostly Cloudy,210,1992-09-14 23:00:00
+7:00 PM,75.9,70.9,84,30.06,6.0,SW,5.8,-,N/A,,Mostly Cloudy,220,1992-09-15 00:00:00
+8:00 PM,73.9,70.9,90,30.07,6.0,SSW,5.8,-,N/A,,Mostly Cloudy,200,1992-09-15 01:00:00
+9:00 PM,74.8,70.9,87,30.08,7.0,South,5.8,-,N/A,,Overcast,190,1992-09-15 02:00:00
+10:00 PM,75.9,70.9,84,30.09,7.0,South,8.1,-,N/A,,Overcast,180,1992-09-15 03:00:00
+11:00 PM,74.8,66.9,76,30.09,7.0,SSW,9.2,-,N/A,,Overcast,210,1992-09-15 04:00:00

@@ -1,0 +1,25 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,18.1,8.2,65,30.26,10.0,West,20.7,-,N/A,,Overcast,260,1991-11-03 06:00:00
+1:00 AM,18.1,7.2,62,30.26,10.0,West,19.6,-,N/A,,Overcast,260,1991-11-03 07:00:00
+2:00 AM,17.2,8.2,68,30.25,10.0,West,18.4,-,N/A,,Overcast,260,1991-11-03 08:00:00
+3:00 AM,17.2,9.1,71,30.25,10.0,WSW,17.3,-,N/A,Snow,Light Snow Showers,250,1991-11-03 09:00:00
+4:00 AM,16.2,9.1,74,30.26,10.0,WSW,17.3,-,N/A,Snow,Light Snow Showers,250,1991-11-03 10:00:00
+5:00 AM,16.2,9.1,74,30.25,10.0,WSW,17.3,-,N/A,,Overcast,250,1991-11-03 11:00:00
+6:00 AM,15.3,9.1,77,30.25,10.0,WSW,20.7,-,N/A,,Mostly Cloudy,240,1991-11-03 12:00:00
+7:00 AM,15.3,9.1,77,30.27,10.0,West,23.0,-,N/A,,Mostly Cloudy,260,1991-11-03 13:00:00
+8:00 AM,16.2,10.2,77,30.28,5.0,WSW,20.7,-,N/A,Snow,Light Snow Showers,240,1991-11-03 14:00:00
+9:00 AM,18.1,11.1,74,30.29,5.0,WSW,17.3,28.8,N/A,Snow,Light Snow Showers,250,1991-11-03 15:00:00
+10:00 AM,20.1,9.1,62,30.29,10.0,WSW,23.0,-,N/A,,Mostly Cloudy,250,1991-11-03 16:00:00
+11:00 AM,21.2,8.2,57,30.29,15.0,West,20.7,28.8,N/A,,Mostly Cloudy,260,1991-11-03 17:00:00
+12:00 PM,22.1,9.1,58,30.28,20.0,WSW,23.0,31.1,N/A,,Mostly Cloudy,250,1991-11-03 18:00:00
+1:00 PM,23.2,9.1,55,30.28,20.0,WSW,17.3,26.5,N/A,,Mostly Cloudy,240,1991-11-03 19:00:00
+2:00 PM,23.2,9.1,55,30.28,20.0,WSW,17.3,28.8,N/A,,Overcast,250,1991-11-03 20:00:00
+3:00 PM,23.2,10.2,58,30.29,20.0,WSW,20.7,-,N/A,Snow,Light Snow Showers,250,1991-11-03 21:00:00
+4:00 PM,22.1,11.1,63,30.30,7.0,West,16.1,28.8,N/A,Snow,Light Snow Showers,260,1991-11-03 22:00:00
+5:00 PM,22.1,10.2,60,30.32,10.0,WSW,11.5,-,N/A,Snow,Light Snow Showers,240,1991-11-03 23:00:00
+6:00 PM,21.2,10.2,63,30.33,10.0,WSW,17.3,-,N/A,,Mostly Cloudy,240,1991-11-04 00:00:00
+7:00 PM,21.2,14.2,74,30.35,5.0,WSW,16.1,-,N/A,Snow,Light Snow Showers,250,1991-11-04 01:00:00
+8:00 PM,21.2,16.2,81,30.36,3.0,West,20.7,-,N/A,Snow,Light Snow Showers,260,1991-11-04 02:00:00
+9:00 PM,20.1,17.2,89,30.36,10.0,West,12.7,-,N/A,Snow,Light Snow Showers,270,1991-11-04 03:00:00
+10:00 PM,21.2,13.1,71,30.35,10.0,West,11.5,-,N/A,,Mostly Cloudy,270,1991-11-04 04:00:00
+11:00 PM,21.2,12.2,68,30.35,10.0,West,17.3,-,N/A,,Overcast,260,1991-11-04 05:00:00

@@ -1,0 +1,42 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:53 AM,66.9,62.1,84,29.91,10.0,NNE,4.6,-,N/A,Thunderstorm,Overcast,30,2004-07-06 05:53:00
+1:06 AM,66.2,62.6,88,29.95,1.5,SSW,11.5,25.3,0.20,Rain-Thunderstorm,Rain,210,2004-07-06 06:06:00
+1:11 AM,66.2,62.6,88,29.90,2.0,SE,10.4,25.3,0.33,Rain-Thunderstorm,Rain,140,2004-07-06 06:11:00
+1:18 AM,66.2,64.4,94,29.86,1.5,ESE,20.7,-,0.37,Rain-Thunderstorm,Thunderstorms and Rain,120,2004-07-06 06:18:00
+1:23 AM,66.2,64.4,94,29.85,2.0,East,15.0,-,0.37,Rain-Thunderstorm,Light Thunderstorms and Rain,100,2004-07-06 06:23:00
+1:28 AM,66.2,62.6,88,29.86,5.0,ESE,10.4,-,0.37,Rain-Thunderstorm,Light Thunderstorms and Rain,110,2004-07-06 06:28:00
+1:39 AM,66.2,62.6,88,29.90,10.0,SSW,8.1,-,0.37,Rain,Light Rain,210,2004-07-06 06:39:00
+1:53 AM,66.9,63.0,87,29.88,10.0,SW,8.1,-,0.37,,Overcast,220,2004-07-06 06:53:00
+2:53 AM,66.9,64.0,90,29.84,8.0,South,9.2,-,N/A,,Mostly Cloudy,190,2004-07-06 07:53:00
+3:53 AM,66.9,62.1,84,29.84,10.0,SSW,8.1,-,N/A,,Scattered Clouds,210,2004-07-06 08:53:00
+4:53 AM,66.0,62.1,87,29.84,10.0,SSW,9.2,-,N/A,,Scattered Clouds,200,2004-07-06 09:53:00
+5:53 AM,66.0,62.1,87,29.84,10.0,SSW,8.1,-,N/A,,Scattered Clouds,210,2004-07-06 10:53:00
+6:53 AM,68.0,63.0,84,29.86,10.0,SW,5.8,-,N/A,,Scattered Clouds,220,2004-07-06 11:53:00
+7:53 AM,71.1,64.0,78,29.86,10.0,SW,10.4,19.6,N/A,,Partly Cloudy,220,2004-07-06 12:53:00
+8:53 AM,73.9,63.0,68,29.86,10.0,WSW,20.7,25.3,N/A,,Partly Cloudy,250,2004-07-06 13:53:00
+9:53 AM,75.9,64.0,67,29.86,10.0,WSW,17.3,21.9,N/A,,Partly Cloudy,250,2004-07-06 14:53:00
+10:53 AM,79.0,63.0,58,29.86,10.0,WSW,19.6,28.8,N/A,,Scattered Clouds,240,2004-07-06 15:53:00
+11:53 AM,82.0,62.1,51,29.86,10.0,WSW,23.0,29.9,N/A,,Scattered Clouds,250,2004-07-06 16:53:00
+12:53 PM,82.9,64.0,53,29.81,10.0,WSW,15.0,20.7,N/A,,Scattered Clouds,240,2004-07-06 17:53:00
+1:53 PM,82.9,64.0,53,29.80,10.0,WSW,12.7,-,N/A,,Mostly Cloudy,240,2004-07-06 18:53:00
+2:53 PM,84.0,64.9,53,29.78,10.0,WSW,12.7,-,N/A,,Scattered Clouds,250,2004-07-06 19:53:00
+3:53 PM,84.9,66.9,55,29.77,10.0,West,13.8,18.4,N/A,,Scattered Clouds,260,2004-07-06 20:53:00
+4:21 PM,82.4,66.2,58,29.78,10.0,West,11.5,-,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,260,2004-07-06 21:21:00
+4:53 PM,75.0,66.0,73,29.77,10.0,SSW,16.1,-,0.01,Rain-Thunderstorm,Thunderstorms and Rain,200,2004-07-06 21:53:00
+5:02 PM,75.2,68.0,78,29.79,10.0,South,11.5,-,0.00,,Mostly Cloudy,190,2004-07-06 22:02:00
+5:53 PM,79.0,68.0,69,29.75,10.0,SSW,8.1,-,0.00,,Mostly Cloudy,200,2004-07-06 22:53:00
+6:26 PM,75.2,69.8,83,29.78,4.0,SW,4.6,-,0.07,Rain-Thunderstorm,Light Thunderstorms and Rain,230,2004-07-06 23:26:00
+6:29 PM,75.2,69.8,83,29.78,0.8,WNW,13.8,27.6,0.28,Rain-Thunderstorm,Heavy Thunderstorms and Rain,290,2004-07-06 23:29:00
+6:39 PM,71.6,64.4,78,29.77,1.0,South,10.4,26.5,0.58,Rain-Thunderstorm,Heavy Thunderstorms and Rain,190,2004-07-06 23:39:00
+6:53 PM,72.0,68.0,87,29.77,0.8,SW,9.2,20.7,0.97,Rain-Thunderstorm,Heavy Thunderstorms and Rain,220,2004-07-06 23:53:00
+7:02 PM,71.6,69.8,94,29.79,1.0,West,9.2,-,0.13,Rain-Thunderstorm,Thunderstorms and Rain,270,2004-07-07 00:02:00
+7:04 PM,71.6,69.8,94,29.79,1.2,West,12.7,-,0.14,Rain,Rain,270,2004-07-07 00:04:00
+7:10 PM,71.6,68.0,88,29.80,2.5,WSW,15.0,-,0.16,Rain,Rain,240,2004-07-07 00:10:00
+7:27 PM,71.6,66.2,83,29.79,6.0,West,11.5,-,0.20,Rain,Rain,270,2004-07-07 00:27:00
+7:46 PM,71.6,68.0,88,29.78,1.8,West,11.5,-,0.32,Rain,Rain,280,2004-07-07 00:46:00
+7:53 PM,71.1,66.9,87,29.75,3.0,WNW,10.4,-,0.35,Rain,Light Rain,290,2004-07-07 00:53:00
+8:27 PM,69.8,66.2,88,29.78,6.0,WSW,6.9,-,0.01,,Mostly Cloudy,250,2004-07-07 01:27:00
+8:53 PM,70.0,66.9,90,29.76,9.0,West,3.5,-,0.01,,Mostly Cloudy,260,2004-07-07 01:53:00
+9:53 PM,70.0,66.9,90,29.77,10.0,WSW,4.6,-,N/A,,Mostly Cloudy,250,2004-07-07 02:53:00
+10:53 PM,70.0,66.0,87,29.76,10.0,SW,4.6,-,N/A,,Mostly Cloudy,230,2004-07-07 03:53:00
+11:53 PM,69.1,66.0,90,29.76,9.0,SW,4.6,-,N/A,,Mostly Cloudy,220,2004-07-07 04:53:00

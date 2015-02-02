@@ -1,0 +1,26 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,70.9,57.9,63,30.08,15.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1993-06-17 05:00:00
+1:00 AM,70.9,59.0,66,30.09,15.0,SSW,6.9,-,N/A,,Mostly Cloudy,200,1993-06-17 06:00:00
+2:00 AM,70.0,59.0,68,30.10,15.0,SW,6.9,-,N/A,,Mostly Cloudy,220,1993-06-17 07:00:00
+3:00 AM,70.9,59.9,68,30.09,8.0,SSW,9.2,-,N/A,,Mostly Cloudy,210,1993-06-17 08:00:00
+4:00 AM,70.0,59.0,68,30.09,8.0,SSW,5.8,-,N/A,,Mostly Cloudy,210,1993-06-17 09:00:00
+5:00 AM,68.0,59.9,75,30.09,8.0,SSW,5.8,-,N/A,,Mostly Cloudy,210,1993-06-17 10:00:00
+6:00 AM,63.9,59.9,87,30.10,7.0,SSW,5.8,-,N/A,,Mostly Cloudy,210,1993-06-17 11:00:00
+7:00 AM,68.9,59.9,73,30.12,7.0,SSW,5.8,-,N/A,,Mostly Cloudy,200,1993-06-17 12:00:00
+8:00 AM,70.9,61.0,71,30.12,5.0,SSW,9.2,-,N/A,,Drizzle,210,1993-06-17 13:00:00
+9:00 AM,74.8,61.9,64,30.12,6.0,SSW,11.5,-,N/A,,Drizzle,210,1993-06-17 14:00:00
+10:00 AM,79.0,63.0,58,30.12,7.0,SSW,11.5,-,N/A,,Mostly Cloudy,210,1993-06-17 15:00:00
+11:00 AM,81.9,63.9,54,30.11,7.0,SSW,11.5,-,N/A,,Mostly Cloudy,210,1993-06-17 16:00:00
+12:00 PM,84.9,63.9,49,30.08,7.0,SSW,13.8,-,N/A,,Mostly Cloudy,210,1993-06-17 17:00:00
+1:00 PM,86.9,65.8,49,30.08,7.0,SSW,13.8,-,N/A,,Mostly Cloudy,210,1993-06-17 18:00:00
+2:00 PM,88.9,66.9,48,30.08,7.0,SW,13.8,-,N/A,,Mostly Cloudy,220,1993-06-17 19:00:00
+3:00 PM,90.0,66.9,46,30.05,7.0,SSW,9.2,-,N/A,,Mostly Cloudy,200,1993-06-17 20:00:00
+4:00 PM,-9999,-9999,N/A,30.03,90.0,SW,16.1,-,N/A,,Mostly Cloudy,220,1993-06-17 21:00:00
+5:00 PM,90.9,64.9,42,30.00,7.0,SSW,11.5,-,N/A,,Mostly Cloudy,210,1993-06-17 22:00:00
+6:00 PM,88.9,64.9,45,29.98,10.0,SW,11.5,-,N/A,,Mostly Cloudy,220,1993-06-17 23:00:00
+7:00 PM,88.9,64.9,45,29.99,10.0,SW,9.2,-,N/A,,Mostly Cloudy,220,1993-06-18 00:00:00
+8:00 PM,82.9,70.9,67,30.00,10.0,WSW,9.2,-,N/A,,Overcast,250,1993-06-18 01:00:00
+9:00 PM,72.9,63.9,73,30.04,2.0,SW,24.2,-,0.90,Rain-Thunderstorm,Thunderstorms and Rain,230,1993-06-18 02:00:00
+9:15 PM,-9999,-9999,N/A,30.04,7.0,SW,12.7,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,220,1993-06-18 02:15:00
+10:00 PM,74.8,68.9,82,30.08,7.0,WNW,13.8,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,290,1993-06-18 03:00:00
+11:00 PM,72.0,68.0,87,30.12,6.0,West,11.5,-,0.30,Rain-Thunderstorm,Light Thunderstorms and Rain,270,1993-06-18 04:00:00

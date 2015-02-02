@@ -1,0 +1,26 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,14.9,12.9,92,30.20,1.0,ENE,16.1,-,N/A,Fog-Snow,Light Snow Showers,60,1994-02-08 06:00:00
+1:00 AM,14.9,11.8,88,30.19,2.0,ENE,13.8,-,N/A,Snow,Light Snow Showers,60,1994-02-08 07:00:00
+2:00 AM,16.0,10.9,81,30.17,5.0,ENE,13.8,-,N/A,Snow,Light Snow Showers,60,1994-02-08 08:00:00
+3:00 AM,16.0,10.9,81,30.16,5.0,ENE,13.8,-,N/A,Snow,Light Snow Showers,60,1994-02-08 09:00:00
+4:00 AM,14.9,10.9,84,30.12,5.0,ENE,16.1,-,N/A,Snow,Light Snow Showers,60,1994-02-08 10:00:00
+5:00 AM,14.9,10.9,84,30.11,3.0,ENE,17.3,-,N/A,Snow,Light Snow Showers,60,1994-02-08 11:00:00
+6:00 AM,14.9,10.9,84,30.11,3.0,ENE,17.3,-,N/A,Snow,Light Snow Showers,60,1994-02-08 12:00:00
+7:25 AM,-9999,-9999,N/A,30.09,1.0,ENE,18.4,-,N/A,,Unknown,60,1994-02-08 13:25:00
+8:00 AM,12.9,9.9,88,30.09,5.5,ENE,16.1,-,N/A,Fog-Snow,Light Snow Showers,60,1994-02-08 14:00:00
+9:00 AM,11.8,9.0,88,30.05,10.5,ENE,17.3,-,N/A,Fog-Snow,Light Snow Showers,60,1994-02-08 15:00:00
+10:00 AM,11.8,7.9,84,30.01,1.0,ENE,17.3,-,N/A,Fog-Snow,Light Snow Showers,60,1994-02-08 16:00:00
+11:00 AM,11.8,7.0,81,30.01,3.0,ENE,20.7,-,N/A,Snow,Light Snow Showers,60,1994-02-08 17:00:00
+12:00 PM,12.9,7.9,80,29.99,2.0,ENE,13.8,-,N/A,Snow,Light Snow,60,1994-02-08 18:00:00
+1:00 PM,11.8,7.9,84,29.94,5.5,ENE,17.3,-,N/A,Snow,Light Snow Showers,60,1994-02-08 19:00:00
+2:00 PM,12.9,9.9,88,29.92,5.5,ENE,20.7,-,N/A,Snow,Light Snow Showers,60,1994-02-08 20:00:00
+3:00 PM,14.0,10.9,88,29.89,1.0,ENE,15.0,-,N/A,Snow,Light Snow Showers,60,1994-02-08 21:00:00
+4:00 PM,14.9,11.8,88,29.90,1.0,ENE,17.3,-,N/A,Snow,Light Snow,60,1994-02-08 22:00:00
+5:00 PM,14.0,10.9,88,29.89,1.0,ENE,13.8,-,0.10,Snow,Light Snow,60,1994-02-08 23:00:00
+6:00 PM,14.9,11.8,88,29.90,1.0,ENE,17.3,-,N/A,Snow,Light Snow Showers,60,1994-02-09 00:00:00
+7:00 PM,14.9,11.8,88,29.91,1.0,ENE,16.1,-,N/A,Snow,Light Snow Showers,60,1994-02-09 01:00:00
+8:00 PM,14.0,11.8,91,29.90,1.0,ENE,16.1,-,N/A,Snow,Light Snow,60,1994-02-09 02:00:00
+9:00 PM,12.9,10.9,92,29.93,1.0,ENE,10.4,-,N/A,Snow,Light Snow,60,1994-02-09 03:00:00
+10:00 PM,12.9,9.9,88,29.94,2.0,ENE,11.5,-,N/A,Snow,Light Snow Showers,60,1994-02-09 04:00:00
+10:05 PM,-9999,-9999,N/A,29.94,1.0,ENE,11.5,-,N/A,,Unknown,60,1994-02-09 04:05:00
+11:00 PM,11.8,9.0,88,29.94,1.0,ENE,11.5,-,N/A,Snow,Light Snow Showers,60,1994-02-09 05:00:00

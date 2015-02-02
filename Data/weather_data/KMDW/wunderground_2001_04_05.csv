@@ -1,0 +1,31 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:53 AM,41.0,33.1,73,30.28,10.0,ESE,6.9,-,N/A,,Scattered Clouds,110,2001-04-05 05:53:00
+1:53 AM,41.0,32.0,70,30.27,9.0,ESE,6.9,-,N/A,,Mostly Cloudy,120,2001-04-05 06:53:00
+2:53 AM,44.1,26.1,49,30.26,10.0,SE,9.2,-,N/A,,Mostly Cloudy,140,2001-04-05 07:53:00
+3:53 AM,44.1,26.1,49,30.24,10.0,SE,9.2,-,N/A,,Overcast,130,2001-04-05 08:53:00
+4:53 AM,44.1,27.0,51,30.23,10.0,SE,10.4,-,N/A,,Overcast,140,2001-04-05 09:53:00
+5:53 AM,44.1,27.0,51,30.24,10.0,ESE,6.9,-,N/A,,Overcast,120,2001-04-05 10:53:00
+6:53 AM,45.0,27.0,49,30.24,10.0,ESE,6.9,-,N/A,,Mostly Cloudy,120,2001-04-05 11:53:00
+7:53 AM,46.0,27.0,47,30.25,10.0,SE,9.2,-,N/A,,Overcast,140,2001-04-05 12:53:00
+8:53 AM,48.9,27.0,43,30.20,10.0,SSE,12.7,-,N/A,,Overcast,160,2001-04-05 13:53:00
+10:53 AM,57.0,30.0,36,30.17,10.0,ESE,9.2,-,N/A,,Overcast,110,2001-04-05 15:53:00
+11:53 AM,59.0,30.0,33,30.15,10.0,South,6.9,-,N/A,,Overcast,170,2001-04-05 16:53:00
+12:53 PM,63.0,30.0,29,30.11,10.0,SSE,12.7,-,N/A,,Overcast,160,2001-04-05 17:53:00
+1:53 PM,60.1,32.0,35,30.08,10.0,ESE,9.2,-,N/A,,Overcast,110,2001-04-05 18:53:00
+2:53 PM,60.1,32.0,35,30.04,9.0,ESE,8.1,-,N/A,,Overcast,110,2001-04-05 19:53:00
+3:53 PM,57.9,32.0,37,30.02,6.0,ENE,5.8,-,0.00,,Haze,60,2001-04-05 20:53:00
+4:53 PM,61.0,43.0,52,29.99,7.0,Calm,Calm,-,0.00,Rain,Light Rain,0,2001-04-05 21:53:00
+5:53 PM,63.0,43.0,48,29.92,10.0,SSE,8.1,-,0.01,,Overcast,150,2001-04-05 22:53:00
+6:23 PM,62.6,44.6,52,29.93,8.0,South,9.2,-,N/A,Thunderstorm,Thunderstorm,170,2001-04-05 23:23:00
+6:53 PM,57.0,46.9,69,30.02,9.0,NNW,13.8,-,0.01,Rain-Thunderstorm,Light Thunderstorms and Rain,340,2001-04-05 23:53:00
+7:16 PM,57.2,42.8,59,29.97,6.0,Calm,Calm,-,0.00,,Haze,0,2001-04-06 00:16:00
+7:40 PM,57.2,46.4,67,29.95,7.0,East,3.5,-,0.02,Rain-Thunderstorm,Light Thunderstorms and Rain,90,2001-04-06 00:40:00
+7:53 PM,57.0,46.0,67,29.94,7.0,ESE,9.2,-,0.02,Thunderstorm,Thunderstorm,120,2001-04-06 00:53:00
+8:35 PM,53.6,46.4,77,29.93,1.5,ESE,13.8,-,0.21,Rain-Thunderstorm,Heavy Thunderstorms and Rain,120,2001-04-06 01:35:00
+8:53 PM,53.1,48.0,83,29.94,7.0,SE,12.7,-,0.24,Rain-Thunderstorm,Light Thunderstorms and Rain,130,2001-04-06 01:53:00
+9:08 PM,51.8,48.2,88,29.91,7.0,SE,11.5,-,0.00,Rain,Light Rain,130,2001-04-06 02:08:00
+9:32 PM,53.6,48.2,82,29.93,2.0,SE,10.4,-,0.07,Rain-Thunderstorm,Light Thunderstorms and Rain,140,2001-04-06 02:32:00
+9:53 PM,52.0,50.0,93,29.91,5.0,ESE,9.2,-,0.12,Rain-Thunderstorm,Light Thunderstorms and Rain,110,2001-04-06 02:53:00
+10:15 PM,51.8,50.0,94,29.89,4.0,SE,11.5,-,0.00,,Overcast,130,2001-04-06 03:15:00
+10:53 PM,53.1,50.0,89,29.88,3.0,SE,8.1,-,0.00,,Overcast,130,2001-04-06 03:53:00
+11:53 PM,54.0,53.1,97,29.85,3.0,SSE,5.8,-,N/A,,Mostly Cloudy,160,2001-04-06 04:53:00

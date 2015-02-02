@@ -1,0 +1,24 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,56.8,45.0,64,30.18,30.0,NNE,8.1,-,N/A,,Scattered Clouds,30,1995-09-18 05:00:00
+1:00 AM,54.9,45.9,72,30.18,20.0,North,4.6,-,N/A,,Scattered Clouds,360,1995-09-18 06:00:00
+2:00 AM,52.9,45.9,77,30.17,30.0,NW,4.6,-,N/A,,Scattered Clouds,310,1995-09-18 07:00:00
+3:00 AM,52.9,45.9,77,30.16,30.0,North,3.5,-,N/A,,Scattered Clouds,360,1995-09-18 08:00:00
+4:00 AM,51.1,46.0,83,30.17,45.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1995-09-18 09:00:00
+5:00 AM,50.0,45.9,86,30.19,30.0,NW,6.9,-,N/A,,Scattered Clouds,310,1995-09-18 10:00:00
+6:00 AM,50.0,45.9,86,30.20,30.0,West,5.8,-,N/A,,Scattered Clouds,270,1995-09-18 11:00:00
+7:00 AM,50.9,46.9,86,30.22,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1995-09-18 12:00:00
+8:00 AM,54.9,47.8,77,30.24,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1995-09-18 13:00:00
+9:00 AM,59.0,43.0,55,30.25,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1995-09-18 14:00:00
+10:00 AM,61.9,43.0,50,30.26,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1995-09-18 15:00:00
+11:00 AM,63.9,43.0,47,30.28,10.0,NNW,4.6,-,N/A,,Mostly Cloudy,330,1995-09-18 16:00:00
+12:00 PM,65.8,43.0,43,30.27,10.0,Calm,Calm,-,N/A,,Overcast,0,1995-09-18 17:00:00
+1:00 PM,66.9,41.9,40,30.24,10.0,Calm,Calm,-,N/A,,Overcast,0,1995-09-18 18:00:00
+2:00 PM,66.9,39.9,37,30.20,10.0,SW,5.8,-,N/A,,Overcast,220,1995-09-18 19:00:00
+3:00 PM,68.9,43.0,39,30.17,10.0,NE,8.1,-,N/A,,Mostly Cloudy,40,1995-09-18 20:00:00
+4:00 PM,68.0,45.0,43,30.18,15.0,East,4.6,-,N/A,,Mostly Cloudy,90,1995-09-18 21:00:00
+5:00 PM,65.8,47.8,52,30.18,15.0,ENE,6.9,-,N/A,,Overcast,60,1995-09-18 22:00:00
+6:00 PM,63.9,48.9,58,30.16,15.0,NE,5.8,-,N/A,,Mostly Cloudy,40,1995-09-18 23:00:00
+7:00 PM,63.0,50.0,63,30.16,15.0,ENE,5.8,-,N/A,,Scattered Clouds,60,1995-09-19 00:00:00
+8:00 PM,61.9,50.0,65,30.16,20.0,ENE,8.1,-,N/A,,Scattered Clouds,60,1995-09-19 01:00:00
+9:00 PM,63.0,52.0,67,30.17,20.0,ENE,6.9,-,N/A,,Mostly Cloudy,60,1995-09-19 02:00:00
+10:00 PM,63.0,53.1,70,30.16,35.0,ENE,6.9,-,N/A,,Scattered Clouds,70,1995-09-19 03:00:00

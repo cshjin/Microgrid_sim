@@ -1,0 +1,42 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:40 AM,71.6,69.8,94,29.98,9.0,SSE,9.2,-,0.14,Rain,Light Rain,150,2007-08-23 05:40:00
+12:51 AM,71.1,69.1,93,29.95,10.0,SSE,6.9,-,0.15,Rain,Light Rain,150,2007-08-23 05:51:00
+1:51 AM,70.0,68.0,93,29.91,10.0,SSE,8.1,-,0.01,,Overcast,160,2007-08-23 06:51:00
+2:51 AM,71.1,68.0,90,29.88,10.0,South,3.5,-,N/A,,Overcast,170,2007-08-23 07:51:00
+3:07 AM,71.6,68.0,88,29.90,10.0,ESE,3.5,-,N/A,Thunderstorm,Thunderstorm,110,2007-08-23 08:07:00
+3:51 AM,71.1,68.0,90,29.92,8.0,Calm,Calm,-,0.05,Rain-Thunderstorm,Light Thunderstorms and Rain,0,2007-08-23 08:51:00
+4:51 AM,71.1,68.0,90,29.91,10.0,SSE,3.5,-,0.04,,Overcast,150,2007-08-23 09:51:00
+5:51 AM,71.1,69.1,93,29.89,10.0,SE,3.5,-,N/A,,Overcast,140,2007-08-23 10:51:00
+6:51 AM,71.1,68.0,90,29.90,10.0,SSE,6.9,-,N/A,,Mostly Cloudy,160,2007-08-23 11:51:00
+7:51 AM,72.0,69.1,91,29.90,10.0,South,6.9,-,N/A,,Scattered Clouds,170,2007-08-23 12:51:00
+8:51 AM,73.9,68.0,82,29.89,10.0,South,11.5,20.7,N/A,,Scattered Clouds,180,2007-08-23 13:51:00
+9:51 AM,77.0,69.1,76,29.88,10.0,South,10.4,16.1,N/A,,Scattered Clouds,190,2007-08-23 14:51:00
+10:51 AM,82.0,71.1,69,29.87,10.0,SSW,10.4,-,N/A,,Scattered Clouds,200,2007-08-23 15:51:00
+11:51 AM,84.9,72.0,65,29.84,10.0,SSW,15.0,23.0,N/A,,Scattered Clouds,210,2007-08-23 16:51:00
+12:51 PM,84.9,72.0,65,29.82,10.0,WSW,15.0,25.3,N/A,,Mostly Cloudy,250,2007-08-23 17:51:00
+1:51 PM,88.0,72.0,59,29.81,10.0,SW,12.7,23.0,N/A,,Mostly Cloudy,220,2007-08-23 18:51:00
+2:51 PM,88.0,71.1,57,29.79,10.0,WSW,17.3,26.5,N/A,,Mostly Cloudy,240,2007-08-23 19:51:00
+3:39 PM,80.6,69.8,70,29.93,1.0,WNW,26.5,55.2,0.04,Rain-Thunderstorm,Light Rain,290,2007-08-23 20:39:00
+3:45 PM,71.6,68.0,88,29.92,1.0,West,15.0,55.2,0.23,Rain-Thunderstorm,Heavy Thunderstorms and Rain,270,2007-08-23 20:45:00
+3:51 PM,69.8,66.2,88,29.88,1.8,WNW,12.7,21.9,0.39,Rain-Thunderstorm,Heavy Thunderstorms and Rain,300,2007-08-23 20:51:00
+3:54 PM,69.8,68.0,94,29.91,3.0,NW,13.8,21.9,0.03,Rain-Thunderstorm,Heavy Thunderstorms and Rain,310,2007-08-23 20:54:00
+4:03 PM,69.8,66.2,88,29.90,8.0,WSW,9.2,18.4,0.03,Rain-Thunderstorm,Light Thunderstorms and Rain,250,2007-08-23 21:03:00
+4:20 PM,71.6,68.0,88,29.89,10.0,South,9.2,-,0.03,Rain-Thunderstorm,Light Thunderstorms and Rain,190,2007-08-23 21:20:00
+4:51 PM,71.1,68.0,90,29.84,10.0,SW,4.6,-,0.08,Rain-Thunderstorm,Light Thunderstorms and Rain,230,2007-08-23 21:51:00
+5:02 PM,71.6,68.0,88,29.84,7.0,South,4.6,-,0.01,Rain,Light Rain,190,2007-08-23 22:02:00
+5:30 PM,71.6,68.0,88,29.85,10.0,East,5.8,-,0.02,,Mostly Cloudy,100,2007-08-23 22:30:00
+5:51 PM,73.0,69.1,87,29.83,10.0,NE,4.6,-,0.02,,Mostly Cloudy,50,2007-08-23 22:51:00
+6:36 PM,73.4,68.0,83,29.86,10.0,North,13.8,-,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,360,2007-08-23 23:36:00
+6:48 PM,71.6,68.0,88,29.86,2.0,NW,15.0,24.2,0.17,Rain-Thunderstorm,Light Thunderstorms and Rain,320,2007-08-23 23:48:00
+6:51 PM,71.1,69.1,93,29.86,2.0,WNW,15.0,27.6,0.23,Rain-Thunderstorm,Heavy Thunderstorms and Rain,290,2007-08-23 23:51:00
+6:56 PM,71.6,69.8,94,29.89,1.8,West,20.7,27.6,0.14,Rain-Thunderstorm,Heavy Thunderstorms and Rain,260,2007-08-23 23:56:00
+7:01 PM,71.6,69.8,94,29.89,0.5,WSW,19.6,32.2,0.44,Fog-Rain-Thunderstorm,Heavy Thunderstorms and Rain,250,2007-08-24 00:01:00
+7:06 PM,71.6,69.8,94,29.89,3.0,WSW,17.3,32.2,0.58,Rain-Thunderstorm,Heavy Thunderstorms and Rain,250,2007-08-24 00:06:00
+7:27 PM,69.8,69.8,100,29.90,7.0,SSW,12.7,21.9,0.81,Rain-Thunderstorm,Thunderstorms and Rain,210,2007-08-24 00:27:00
+7:51 PM,70.0,69.1,97,29.86,10.0,SSW,8.1,-,0.84,Rain-Thunderstorm,Light Thunderstorms and Rain,200,2007-08-24 00:51:00
+8:51 PM,70.0,66.9,90,29.86,8.0,South,8.1,-,0.11,Rain-Thunderstorm,Light Thunderstorms and Rain,170,2007-08-24 01:51:00
+9:35 PM,69.8,66.2,88,29.90,8.0,SSE,10.4,-,0.11,Rain-Thunderstorm,Heavy Thunderstorms and Rain,160,2007-08-24 02:35:00
+9:51 PM,70.0,69.1,97,29.86,10.0,South,8.1,-,0.11,Thunderstorm,Thunderstorm,180,2007-08-24 02:51:00
+10:12 PM,69.8,68.0,94,29.87,10.0,South,9.2,-,N/A,,Overcast,170,2007-08-24 03:12:00
+10:51 PM,71.1,69.1,93,29.86,10.0,South,11.5,-,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,190,2007-08-24 03:51:00
+11:51 PM,73.0,68.0,84,29.83,10.0,SW,9.2,-,0.03,Rain-Thunderstorm,Light Thunderstorms and Rain,220,2007-08-24 04:51:00

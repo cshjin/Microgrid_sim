@@ -1,0 +1,26 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,27.0,18.0,69,30.12,8.0,South,9.2,-,N/A,,Overcast,180,1996-01-11 06:00:00
+1:00 AM,27.0,18.0,69,30.09,8.0,South,9.2,-,N/A,,Overcast,180,1996-01-11 07:00:00
+2:00 AM,25.9,19.9,78,30.07,5.5,South,9.2,-,N/A,Snow,Light Snow Showers,180,1996-01-11 08:00:00
+3:00 AM,25.0,23.0,92,30.02,5.5,SSE,13.8,-,N/A,Snow,Light Snow Showers,160,1996-01-11 09:00:00
+4:00 AM,25.0,23.0,92,29.99,5.5,SSE,13.8,-,N/A,Fog-Snow,Light Snow Showers,160,1996-01-11 10:00:00
+5:00 AM,25.9,23.9,92,29.96,5.5,South,11.5,-,N/A,Fog-Snow,Snow Showers,180,1996-01-11 11:00:00
+6:00 AM,25.0,23.9,96,29.96,5.5,South,13.8,-,0.10,Fog-Snow,Light Snow Showers,170,1996-01-11 12:00:00
+7:00 AM,25.0,23.9,96,29.94,5.5,SE,8.1,-,N/A,Fog-Snow,Light Snow Showers,140,1996-01-11 13:00:00
+8:00 AM,25.9,23.9,92,29.93,2.8,SE,11.5,-,N/A,Fog-Snow,Light Snow Showers,140,1996-01-11 14:00:00
+9:00 AM,25.9,23.9,92,29.92,0.8,SSE,11.5,-,N/A,Snow,Light Snow,160,1996-01-11 15:00:00
+10:00 AM,25.9,23.9,92,29.92,1.0,SE,8.1,-,0.10,Fog-Snow,Snow Showers,140,1996-01-11 16:00:00
+11:00 AM,25.9,23.9,92,29.92,0.8,SE,9.2,-,N/A,Fog-Snow,Light Snow,140,1996-01-11 17:00:00
+11:02 AM,-9999,-9999,N/A,29.92,1.0,SE,9.2,-,N/A,Fog,Unknown,140,1996-01-11 17:02:00
+12:00 PM,27.0,23.9,88,29.88,1.0,SE,9.2,-,0.10,Fog-Snow,Snow Showers,130,1996-01-11 18:00:00
+1:00 PM,27.0,23.9,88,29.85,5.5,SE,8.1,-,N/A,Fog-Snow,Light Snow Showers,140,1996-01-11 19:00:00
+2:00 PM,27.9,25.0,89,29.83,5.5,SE,9.2,-,N/A,Fog-Snow,Light Snow Showers,140,1996-01-11 20:00:00
+3:00 PM,27.9,25.0,89,29.82,2.8,East,9.2,-,N/A,Fog-Snow,Light Snow,80,1996-01-11 21:00:00
+4:00 PM,25.9,23.9,92,29.83,10.5,East,9.2,-,N/A,Snow,Light Snow,80,1996-01-11 22:00:00
+5:00 PM,25.9,23.9,92,29.87,5.5,ENE,6.9,-,N/A,Snow,Light Snow,60,1996-01-11 23:00:00
+6:00 PM,25.9,25.0,96,29.88,2.0,ENE,8.1,-,N/A,Fog-Snow,Light Snow,70,1996-01-12 00:00:00
+7:00 PM,27.0,25.0,92,29.88,2.0,ENE,8.1,-,N/A,Fog-Snow,Light Snow,70,1996-01-12 01:00:00
+8:00 PM,25.9,23.9,92,29.88,5.0,East,8.1,-,N/A,Fog,Fog,80,1996-01-12 02:00:00
+9:00 PM,25.0,23.0,92,29.88,5.0,ENE,8.1,-,N/A,Fog,Fog,70,1996-01-12 03:00:00
+10:00 PM,25.0,23.0,92,29.89,5.0,ENE,5.8,-,N/A,Fog,Fog,60,1996-01-12 04:00:00
+11:00 PM,25.0,21.9,88,29.89,6.0,East,4.6,-,N/A,Fog,Fog,80,1996-01-12 05:00:00

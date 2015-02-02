@@ -1,0 +1,25 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,57.0,54.0,89,29.76,8.0,ENE,6.9,-,N/A,,Scattered Clouds,60,1992-06-25 05:00:00
+1:00 AM,57.0,54.0,89,29.78,8.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1992-06-25 06:00:00
+2:00 AM,55.9,55.0,97,29.78,8.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1992-06-25 07:00:00
+3:00 AM,-9999,-9999,N/A,29.77,8.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1992-06-25 08:00:00
+4:00 AM,55.9,55.0,97,29.78,6.0,Calm,Calm,-,N/A,Fog,Fog,0,1992-06-25 09:00:00
+5:00 AM,55.0,54.0,96,29.78,6.0,Calm,Calm,-,N/A,Fog,Fog,0,1992-06-25 10:00:00
+6:00 AM,55.0,32.0,42,29.78,6.0,Calm,Calm,-,N/A,Fog,Fog,0,1992-06-25 11:00:00
+7:00 AM,57.9,55.0,90,29.80,4.0,North,3.5,-,N/A,Fog,Fog,360,1992-06-25 12:00:00
+8:00 AM,60.1,55.9,86,29.82,4.0,Calm,Calm,-,N/A,Fog,Fog,0,1992-06-25 13:00:00
+9:00 AM,61.9,55.9,81,29.81,4.0,Calm,Calm,-,N/A,,Drizzle,0,1992-06-25 14:00:00
+10:00 AM,70.0,57.9,65,29.80,4.0,Calm,Calm,-,N/A,,Drizzle,0,1992-06-25 15:00:00
+11:00 AM,72.0,57.9,61,29.80,4.0,Calm,Calm,-,N/A,,Drizzle,0,1992-06-25 16:00:00
+12:00 PM,74.8,59.0,58,29.80,6.0,SW,9.2,-,N/A,,Drizzle,220,1992-06-25 17:00:00
+1:00 PM,75.9,59.9,57,29.75,10.0,WSW,17.3,-,N/A,,Mostly Cloudy,250,1992-06-25 18:00:00
+2:00 PM,77.9,61.0,56,29.77,10.0,West,11.5,-,N/A,,Mostly Cloudy,270,1992-06-25 19:00:00
+3:00 PM,77.9,61.9,58,29.77,10.0,SW,17.3,-,N/A,,Mostly Cloudy,220,1992-06-25 20:00:00
+4:00 PM,81.0,61.0,50,29.76,10.0,SW,15.0,-,N/A,,Scattered Clouds,220,1992-06-25 21:00:00
+5:00 PM,81.0,59.0,47,29.72,15.0,SW,17.3,-,N/A,,Scattered Clouds,230,1992-06-25 22:00:00
+6:00 PM,81.0,59.9,49,29.73,15.0,WSW,19.6,-,N/A,,Scattered Clouds,240,1992-06-25 23:00:00
+7:00 PM,79.9,55.9,44,29.73,20.0,West,13.8,25.3,N/A,,Scattered Clouds,270,1992-06-26 00:00:00
+8:00 PM,79.0,57.9,48,29.74,20.0,West,9.2,-,N/A,,Scattered Clouds,260,1992-06-26 01:00:00
+9:00 PM,70.9,61.9,73,29.76,15.0,ENE,9.2,-,N/A,,Scattered Clouds,70,1992-06-26 02:00:00
+10:00 PM,68.9,61.9,78,29.78,15.0,ESE,5.8,-,N/A,,Scattered Clouds,120,1992-06-26 03:00:00
+11:00 PM,70.9,61.9,73,29.78,15.0,NW,5.8,-,N/A,,Scattered Clouds,310,1992-06-26 04:00:00

@@ -1,0 +1,23 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+2:00 AM,25.9,21.9,85,29.84,7.0,SW,4.6,-,N/A,,Overcast,220,1993-12-22 08:00:00
+4:00 AM,27.9,25.0,89,29.82,6.0,Calm,Calm,-,N/A,Snow,Light Snow Showers,0,1993-12-22 10:00:00
+5:00 AM,27.9,25.0,89,29.82,6.0,Calm,Calm,-,N/A,Snow,Light Snow Showers,0,1993-12-22 11:00:00
+6:00 AM,28.9,25.0,85,29.82,6.0,WSW,6.9,-,N/A,Snow,Light Snow Showers,240,1993-12-22 12:00:00
+7:00 AM,28.9,25.0,85,29.83,5.0,West,11.5,-,N/A,Snow,Light Snow Showers,270,1993-12-22 13:00:00
+8:00 AM,28.9,25.9,88,29.84,3.0,West,8.1,-,N/A,Snow,Light Snow Showers,270,1993-12-22 14:00:00
+9:00 AM,28.9,25.0,85,29.86,3.0,West,11.5,-,0.10,Snow,Light Snow Showers,270,1993-12-22 15:00:00
+10:00 AM,27.9,23.9,85,29.89,3.0,WNW,9.2,-,N/A,Fog,Fog,300,1993-12-22 16:00:00
+11:00 AM,27.9,23.9,85,29.89,3.0,WNW,11.5,-,N/A,Snow,Light Snow Showers,300,1993-12-22 17:00:00
+12:00 PM,27.9,20.8,75,29.89,10.0,WNW,9.2,-,N/A,,Mostly Cloudy,300,1993-12-22 18:00:00
+1:00 PM,28.9,19.9,69,29.89,10.0,WNW,11.5,-,N/A,,Mostly Cloudy,290,1993-12-22 19:00:00
+2:00 PM,28.9,19.9,69,29.88,10.0,West,11.5,-,N/A,,Mostly Cloudy,280,1993-12-22 20:00:00
+3:00 PM,27.9,20.8,75,29.90,7.0,NW,11.5,-,N/A,Snow,Snow,310,1993-12-22 21:00:00
+3:25 PM,27.0,23.0,85,29.90,3.0,WNW,9.2,-,N/A,Snow,Light Snow Showers,290,1993-12-22 21:25:00
+4:00 PM,27.0,19.9,75,29.91,3.0,WNW,10.4,-,N/A,Snow,Light Snow Showers,290,1993-12-22 22:00:00
+5:00 PM,27.0,21.9,81,29.93,3.0,WNW,8.1,-,N/A,Snow,Light Snow Showers,290,1993-12-22 23:00:00
+6:00 PM,27.0,19.9,75,29.95,4.0,WNW,11.5,-,N/A,Snow,Light Snow Showers,290,1993-12-23 00:00:00
+7:00 PM,25.9,16.9,69,29.96,10.0,WNW,11.5,-,N/A,Snow,Light Snow,290,1993-12-23 01:00:00
+8:00 PM,25.0,16.0,69,29.98,10.0,West,11.5,-,N/A,,Mostly Cloudy,280,1993-12-23 02:00:00
+9:00 PM,23.9,14.9,69,29.99,10.0,West,11.5,-,N/A,,Mostly Cloudy,280,1993-12-23 03:00:00
+10:00 PM,23.0,14.9,71,30.00,10.0,West,11.5,-,N/A,,Mostly Cloudy,280,1993-12-23 04:00:00
+11:00 PM,23.0,16.0,74,30.01,10.0,West,11.5,-,N/A,,Mostly Cloudy,280,1993-12-23 05:00:00

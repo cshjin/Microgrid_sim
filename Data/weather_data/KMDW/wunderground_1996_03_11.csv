@@ -1,0 +1,19 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,30.9,23.9,75,30.62,10.0,South,9.2,-,N/A,,Scattered Clouds,190,1996-03-11 06:00:00
+2:00 AM,30.9,23.0,72,30.60,10.0,South,11.5,-,N/A,,Mostly Cloudy,190,1996-03-11 08:00:00
+4:00 AM,30.9,23.0,72,30.59,10.0,South,9.2,-,N/A,,Mostly Cloudy,190,1996-03-11 10:00:00
+5:00 AM,29.8,21.9,72,0.00,10.0,SSW,8.1,-,N/A,,Mostly Cloudy,200,1996-03-11 11:00:00
+6:00 AM,29.8,23.0,76,30.60,10.0,SSW,9.2,-,N/A,,Scattered Clouds,210,1996-03-11 12:00:00
+7:00 AM,30.9,23.0,72,30.60,8.0,SSW,8.1,-,N/A,,Clear,210,1996-03-11 13:00:00
+8:00 AM,32.0,23.0,69,30.59,8.0,SSW,9.2,-,N/A,,Clear,200,1996-03-11 14:00:00
+9:00 AM,34.9,23.9,64,30.57,10.0,SSW,12.7,-,N/A,,Scattered Clouds,210,1996-03-11 15:00:00
+10:00 AM,38.8,25.0,58,30.55,10.0,SSW,10.4,-,N/A,,Clear,200,1996-03-11 16:00:00
+3:00 PM,45.0,27.9,51,30.42,15.0,SSW,13.8,-,N/A,,Scattered Clouds,200,1996-03-11 21:00:00
+4:00 PM,45.0,27.9,51,30.40,15.0,South,13.8,-,N/A,,Scattered Clouds,190,1996-03-11 22:00:00
+5:00 PM,45.0,27.0,49,30.38,15.0,SSW,13.8,-,N/A,,Scattered Clouds,210,1996-03-11 23:00:00
+6:00 PM,43.0,27.0,53,30.37,15.0,SW,11.5,-,N/A,,Scattered Clouds,220,1996-03-12 00:00:00
+7:00 PM,41.9,27.9,58,30.36,10.0,SSW,8.1,-,N/A,,Mostly Cloudy,200,1996-03-12 01:00:00
+8:00 PM,39.9,27.9,62,30.36,10.0,SSW,9.2,-,N/A,,Scattered Clouds,200,1996-03-12 02:00:00
+9:00 PM,38.8,27.9,65,30.35,10.0,South,6.9,-,N/A,,Clear,180,1996-03-12 03:00:00
+10:00 PM,38.8,27.0,62,30.34,10.0,South,6.9,-,N/A,,Scattered Clouds,190,1996-03-12 04:00:00
+11:00 PM,37.9,27.0,65,30.32,20.0,South,5.8,-,N/A,,Scattered Clouds,180,1996-03-12 05:00:00

@@ -1,0 +1,37 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:53 AM,70.0,66.9,90,29.75,10.0,SSW,8.1,-,N/A,,Scattered Clouds,200,1999-06-01 05:53:00
+1:53 AM,70.0,66.9,90,29.74,8.0,SSW,8.1,-,N/A,,Clear,210,1999-06-01 06:53:00
+2:53 AM,68.0,66.9,96,29.75,6.0,SW,4.6,-,N/A,,Scattered Clouds,220,1999-06-01 07:53:00
+3:53 AM,68.0,66.0,93,29.74,5.0,SSW,6.9,-,N/A,,Scattered Clouds,200,1999-06-01 08:53:00
+4:53 AM,66.9,66.0,97,29.75,4.0,West,5.8,-,N/A,,Mostly Cloudy,260,1999-06-01 09:53:00
+5:53 AM,64.9,64.0,97,29.76,3.0,West,3.5,-,N/A,,Scattered Clouds,270,1999-06-01 10:53:00
+6:53 AM,68.0,66.0,93,29.76,3.0,South,3.5,-,N/A,,Scattered Clouds,180,1999-06-01 11:53:00
+7:53 AM,70.0,66.0,87,29.78,4.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1999-06-01 12:53:00
+8:53 AM,73.0,66.9,81,29.78,6.0,South,5.8,-,N/A,,Haze,190,1999-06-01 13:53:00
+9:53 AM,75.9,66.0,71,29.76,9.0,South,5.8,-,N/A,,Mostly Cloudy,180,1999-06-01 14:53:00
+10:53 AM,79.0,64.9,62,29.76,10.0,SW,5.8,-,N/A,,Mostly Cloudy,230,1999-06-01 15:53:00
+11:53 AM,75.0,66.0,73,29.77,7.0,East,9.2,-,N/A,,Mostly Cloudy,80,1999-06-01 16:53:00
+12:53 PM,73.0,64.0,73,29.77,7.0,ENE,8.1,-,N/A,,Mostly Cloudy,70,1999-06-01 17:53:00
+1:53 PM,73.0,63.0,71,29.77,9.0,East,9.2,-,N/A,,Mostly Cloudy,100,1999-06-01 18:53:00
+2:53 PM,69.1,60.1,73,29.77,7.0,East,9.2,-,N/A,,Overcast,80,1999-06-01 19:53:00
+3:53 PM,64.9,59.0,81,29.75,6.0,East,9.2,-,N/A,,Haze,80,1999-06-01 20:53:00
+4:53 PM,64.0,57.9,80,29.74,7.0,East,10.4,-,N/A,,Mostly Cloudy,100,1999-06-01 21:53:00
+5:53 PM,63.0,57.9,84,29.72,6.0,East,12.7,-,N/A,,Haze,80,1999-06-01 22:53:00
+6:11 PM,62.6,57.2,82,29.72,6.0,East,13.8,-,N/A,Thunderstorm,Thunderstorm,90,1999-06-01 23:11:00
+6:53 PM,61.0,59.0,93,29.70,4.0,East,11.5,-,0.01,,Mostly Cloudy,90,1999-06-01 23:53:00
+7:10 PM,60.8,57.2,88,29.70,4.0,East,12.7,-,N/A,,Mostly Cloudy,90,1999-06-02 00:10:00
+7:53 PM,60.1,57.9,93,29.70,5.0,ENE,8.1,-,N/A,,Mostly Cloudy,60,1999-06-02 00:53:00
+8:53 PM,62.1,59.0,90,29.73,3.0,West,16.1,23.0,0.05,Rain,Light Rain,270,1999-06-02 01:53:00
+8:56 PM,62.6,60.8,94,29.73,1.8,WNW,20.7,24.2,0.09,Rain,Light Rain,290,1999-06-02 01:56:00
+9:03 PM,62.6,62.6,100,29.76,1.0,NW,21.9,31.1,0.29,Rain-Thunderstorm,Heavy Thunderstorms and Rain,320,1999-06-02 02:03:00
+9:10 PM,60.8,60.8,100,29.74,0.8,North,16.1,-,0.61,Rain-Thunderstorm,Heavy Thunderstorms and Rain,350,1999-06-02 02:10:00
+9:16 PM,60.8,60.8,100,29.72,1.0,North,13.8,-,0.68,Rain-Thunderstorm,Heavy Thunderstorms and Rain,350,1999-06-02 02:16:00
+9:22 PM,60.8,60.8,100,29.73,3.0,North,12.7,-,0.71,Rain-Thunderstorm,Thunderstorms and Rain,350,1999-06-02 02:22:00
+9:34 PM,60.8,60.8,100,29.72,1.8,North,15.0,-,0.90,Rain-Thunderstorm,Heavy Thunderstorms and Rain,350,1999-06-02 02:34:00
+9:53 PM,61.0,60.1,97,29.73,2.0,Variable,4.6,-,1.09,Rain-Thunderstorm,Heavy Thunderstorms and Rain,0,1999-06-02 02:53:00
+9:55 PM,60.8,60.8,100,29.75,1.2,West,5.8,-,0.05,Rain-Thunderstorm,Heavy Thunderstorms and Rain,260,1999-06-02 02:55:00
+10:15 PM,60.8,60.8,100,29.74,3.0,North,4.6,-,0.19,Rain-Thunderstorm,Thunderstorms and Rain,360,1999-06-02 03:15:00
+10:53 PM,62.1,62.1,100,29.69,4.0,East,6.9,-,0.33,Rain-Thunderstorm,Thunderstorms and Rain,80,1999-06-02 03:53:00
+11:00 PM,62.6,62.6,100,29.71,4.0,ENE,4.6,-,0.03,Rain-Thunderstorm,Thunderstorms and Rain,70,1999-06-02 04:00:00
+11:43 PM,62.6,62.6,100,29.69,7.0,ESE,5.8,-,0.16,Rain-Thunderstorm,Light Thunderstorms and Rain,120,1999-06-02 04:43:00
+11:53 PM,63.0,62.1,97,29.68,9.0,SSE,8.1,-,0.16,Rain-Thunderstorm,Light Thunderstorms and Rain,150,1999-06-02 04:53:00

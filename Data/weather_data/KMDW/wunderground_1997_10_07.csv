@@ -1,0 +1,19 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+6:45 AM,64.4,57.2,77,30.12,8.0,SW,6.9,-,N/A,,Scattered Clouds,220,1997-10-07 11:45:00
+6:53 AM,66.2,57.2,73,30.12,10.0,SW,8.1,-,N/A,,Scattered Clouds,220,1997-10-07 11:53:00
+7:53 AM,66.0,57.9,75,30.11,7.0,SSW,5.8,-,N/A,,Scattered Clouds,210,1997-10-07 12:53:00
+8:53 AM,69.1,59.0,70,30.12,7.0,SW,8.1,-,N/A,,Scattered Clouds,220,1997-10-07 13:53:00
+9:53 AM,73.0,60.1,64,30.12,7.0,SSW,8.1,-,N/A,,Scattered Clouds,210,1997-10-07 14:53:00
+10:53 AM,75.9,61.0,60,30.11,8.0,SSW,9.2,-,N/A,,Scattered Clouds,200,1997-10-07 15:53:00
+11:53 AM,80.1,62.1,54,30.10,9.0,Variable,6.9,-,N/A,,Scattered Clouds,0,1997-10-07 16:53:00
+12:53 PM,82.0,62.1,51,30.09,10.0,SSW,9.2,-,N/A,,Scattered Clouds,200,1997-10-07 17:53:00
+1:53 PM,84.0,61.0,46,30.06,10.0,SSW,12.7,18.4,N/A,,Mostly Cloudy,210,1997-10-07 18:53:00
+2:53 PM,84.0,59.0,43,30.05,10.0,SW,9.2,-,N/A,,Mostly Cloudy,230,1997-10-07 19:53:00
+3:53 PM,84.0,57.9,41,30.05,10.0,South,9.2,-,N/A,,Mostly Cloudy,190,1997-10-07 20:53:00
+5:53 PM,82.0,57.9,44,30.05,10.0,South,6.9,-,N/A,,Mostly Cloudy,180,1997-10-07 22:53:00
+6:53 PM,79.0,57.9,48,30.06,10.0,South,5.8,-,N/A,,Scattered Clouds,170,1997-10-07 23:53:00
+7:53 PM,78.1,57.0,48,30.06,10.0,South,6.9,-,N/A,,Mostly Cloudy,170,1997-10-08 00:53:00
+8:53 PM,75.9,57.0,52,30.05,10.0,South,8.1,-,N/A,,Scattered Clouds,170,1997-10-08 01:53:00
+9:53 PM,73.9,57.0,55,30.06,10.0,South,9.2,-,N/A,,Mostly Cloudy,180,1997-10-08 02:53:00
+10:53 PM,73.0,57.0,57,30.07,10.0,South,10.4,-,N/A,,Mostly Cloudy,190,1997-10-08 03:53:00
+11:53 PM,73.0,55.9,55,30.06,10.0,South,10.4,-,N/A,,Overcast,190,1997-10-08 04:53:00

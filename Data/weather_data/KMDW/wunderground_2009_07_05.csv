@@ -1,0 +1,26 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:51 AM,63.0,61.0,93,29.94,1.2,ENE,3.5,-,N/A,,Scattered Clouds,60,2009-07-05 05:51:00
+1:51 AM,62.1,60.1,93,29.93,1.2,Calm,Calm,-,N/A,,Scattered Clouds,0,2009-07-05 06:51:00
+2:51 AM,62.1,60.1,93,29.93,2.0,North,3.5,-,N/A,,Partly Cloudy,360,2009-07-05 07:51:00
+3:51 AM,62.1,60.1,93,29.92,2.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2009-07-05 08:51:00
+4:51 AM,61.0,59.0,93,29.92,1.5,North,4.6,-,N/A,,Partly Cloudy,360,2009-07-05 09:51:00
+5:51 AM,61.0,60.1,97,29.94,1.2,Calm,Calm,-,N/A,,Partly Cloudy,0,2009-07-05 10:51:00
+6:51 AM,64.0,61.0,90,29.95,1.8,Calm,Calm,-,N/A,,Scattered Clouds,0,2009-07-05 11:51:00
+7:10 AM,64.4,60.8,88,29.96,3.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2009-07-05 12:10:00
+7:51 AM,66.9,62.1,84,29.95,4.0,Calm,Calm,-,N/A,,Haze,0,2009-07-05 12:51:00
+8:51 AM,70.0,62.1,76,29.95,10.0,NE,4.6,-,N/A,,Partly Cloudy,50,2009-07-05 13:51:00
+9:51 AM,72.0,60.1,66,29.93,10.0,SE,3.5,-,N/A,,Scattered Clouds,140,2009-07-05 14:51:00
+10:51 AM,75.0,59.0,57,29.93,10.0,Variable,4.6,-,N/A,,Scattered Clouds,0,2009-07-05 15:51:00
+11:51 AM,75.9,57.0,52,29.93,10.0,South,3.5,-,N/A,,Scattered Clouds,180,2009-07-05 16:51:00
+12:51 PM,78.1,57.0,48,29.91,10.0,ENE,3.5,-,N/A,,Scattered Clouds,70,2009-07-05 17:51:00
+1:51 PM,80.1,55.9,43,29.89,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,2009-07-05 18:51:00
+2:51 PM,80.1,55.0,42,29.87,10.0,Variable,4.6,-,N/A,,Scattered Clouds,0,2009-07-05 19:51:00
+3:51 PM,82.0,55.0,39,29.86,10.0,West,10.4,-,N/A,,Mostly Cloudy,280,2009-07-05 20:51:00
+4:51 PM,80.1,55.9,43,29.85,10.0,SW,6.9,-,N/A,,Mostly Cloudy,230,2009-07-05 21:51:00
+5:51 PM,79.0,61.0,54,29.86,10.0,North,4.6,-,0.02,,Mostly Cloudy,10,2009-07-05 22:51:00
+6:51 PM,73.0,62.1,68,29.86,10.0,Calm,Calm,-,0.01,,Mostly Cloudy,0,2009-07-05 23:51:00
+7:51 PM,73.0,64.0,73,29.86,10.0,ENE,4.6,-,N/A,,Mostly Cloudy,70,2009-07-06 00:51:00
+8:51 PM,72.0,61.0,68,29.86,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,2009-07-06 01:51:00
+9:51 PM,72.0,57.0,59,29.88,10.0,SSE,3.5,-,N/A,,Scattered Clouds,150,2009-07-06 02:51:00
+10:51 PM,70.0,57.9,65,29.88,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2009-07-06 03:51:00
+11:51 PM,68.0,60.1,76,29.88,10.0,Calm,Calm,-,N/A,,Clear,0,2009-07-06 04:51:00

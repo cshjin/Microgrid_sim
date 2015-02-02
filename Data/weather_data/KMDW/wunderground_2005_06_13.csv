@@ -1,0 +1,23 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:53 AM,72.0,64.0,76,29.75,10.0,East,6.9,-,N/A,,Mostly Cloudy,100,2005-06-13 05:53:00
+1:53 AM,73.0,64.0,73,29.74,10.0,Calm,Calm,-,N/A,,Overcast,0,2005-06-13 06:53:00
+2:53 AM,72.0,64.0,76,29.72,10.0,NNW,4.6,-,N/A,,Mostly Cloudy,330,2005-06-13 07:53:00
+3:53 AM,71.1,64.0,78,29.72,10.0,WNW,4.6,-,N/A,,Mostly Cloudy,300,2005-06-13 08:53:00
+4:53 AM,71.1,64.0,78,29.73,7.0,WNW,4.6,-,N/A,,Mostly Cloudy,290,2005-06-13 09:53:00
+5:53 AM,71.1,64.0,78,29.75,9.0,WNW,6.9,-,N/A,,Mostly Cloudy,300,2005-06-13 10:53:00
+6:53 AM,73.0,64.9,76,29.75,8.0,West,5.8,-,N/A,,Partly Cloudy,280,2005-06-13 11:53:00
+7:53 AM,75.0,64.9,71,29.76,8.0,WSW,8.1,-,N/A,,Partly Cloudy,240,2005-06-13 12:53:00
+8:53 AM,77.0,66.0,69,29.76,8.0,WSW,8.1,-,N/A,,Partly Cloudy,250,2005-06-13 13:53:00
+9:53 AM,79.0,66.0,64,29.74,8.0,West,5.8,-,N/A,,Partly Cloudy,270,2005-06-13 14:53:00
+10:53 AM,82.0,64.9,56,29.73,9.0,WSW,9.2,-,N/A,,Partly Cloudy,240,2005-06-13 15:53:00
+11:53 AM,84.0,64.9,53,29.72,9.0,Variable,4.6,-,N/A,,Scattered Clouds,0,2005-06-13 16:53:00
+12:53 PM,87.1,63.0,44,29.70,9.0,Variable,6.9,-,N/A,,Mostly Cloudy,0,2005-06-13 17:53:00
+1:53 PM,88.0,64.9,46,29.70,10.0,SSW,12.7,-,N/A,Thunderstorm,Mostly Cloudy,200,2005-06-13 18:53:00
+2:14 PM,87.8,66.2,49,29.72,10.0,South,17.3,21.9,N/A,,Mostly Cloudy,180,2005-06-13 19:14:00
+2:53 PM,86.0,64.0,48,29.68,10.0,South,15.0,-,N/A,,Mostly Cloudy,180,2005-06-13 19:53:00
+3:53 PM,87.1,64.9,48,29.67,10.0,South,10.4,-,N/A,,Mostly Cloudy,190,2005-06-13 20:53:00
+4:53 PM,90.0,59.0,35,29.66,10.0,WSW,15.0,-,N/A,,Scattered Clouds,240,2005-06-13 21:53:00
+5:53 PM,89.1,57.9,35,29.65,10.0,SSW,16.1,20.7,N/A,,Scattered Clouds,210,2005-06-13 22:53:00
+6:53 PM,88.0,60.1,39,29.66,10.0,SSW,15.0,18.4,N/A,,Scattered Clouds,210,2005-06-13 23:53:00
+10:53 PM,80.1,63.0,56,29.64,10.0,SSW,15.0,20.7,N/A,,Mostly Cloudy,200,2005-06-14 03:53:00
+11:53 PM,75.9,59.0,56,29.65,10.0,SSW,9.2,-,N/A,,Clear,210,2005-06-14 04:53:00

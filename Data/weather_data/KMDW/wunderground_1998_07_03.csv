@@ -1,0 +1,29 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:53 AM,75.0,60.1,60,30.03,10.0,SSW,4.6,-,N/A,,Mostly Cloudy,210,1998-07-03 05:53:00
+1:53 AM,73.0,59.0,61,30.03,10.0,SSW,6.9,-,N/A,,Scattered Clouds,210,1998-07-03 06:53:00
+2:53 AM,73.0,59.0,61,30.01,10.0,SSW,6.9,-,N/A,,Mostly Cloudy,200,1998-07-03 07:53:00
+3:53 AM,72.0,59.0,64,30.01,10.0,SSW,5.8,-,N/A,,Mostly Cloudy,210,1998-07-03 08:53:00
+4:53 AM,72.0,60.1,66,30.01,10.0,SSW,5.8,-,N/A,,Mostly Cloudy,210,1998-07-03 09:53:00
+5:53 AM,71.1,60.1,68,30.00,10.0,SSW,8.1,-,N/A,,Scattered Clouds,200,1998-07-03 10:53:00
+6:53 AM,72.0,59.0,64,30.01,10.0,SW,6.9,-,N/A,,Mostly Cloudy,220,1998-07-03 11:53:00
+7:53 AM,73.9,59.0,59,30.01,10.0,SSW,10.4,-,N/A,,Scattered Clouds,210,1998-07-03 12:53:00
+8:53 AM,78.1,59.0,52,30.02,10.0,SSW,10.4,-,N/A,,Mostly Cloudy,210,1998-07-03 13:53:00
+9:53 AM,80.1,62.1,54,30.00,10.0,SSW,11.5,-,N/A,,Mostly Cloudy,210,1998-07-03 14:53:00
+10:53 AM,81.0,64.0,56,30.01,10.0,SW,10.4,-,N/A,,Unknown,230,1998-07-03 15:53:00
+11:53 AM,84.0,66.9,56,30.00,10.0,SW,11.5,18.4,N/A,,Mostly Cloudy,230,1998-07-03 16:53:00
+12:53 PM,87.1,68.0,53,29.98,10.0,West,11.5,-,N/A,,Mostly Cloudy,270,1998-07-03 17:53:00
+1:53 PM,86.0,66.9,53,29.96,10.0,SW,9.2,-,N/A,,Mostly Cloudy,230,1998-07-03 18:53:00
+2:53 PM,89.1,68.0,50,29.94,10.0,WSW,10.4,-,N/A,,Mostly Cloudy,240,1998-07-03 19:53:00
+3:53 PM,87.1,66.0,49,29.91,10.0,SW,12.7,-,N/A,,Mostly Cloudy,220,1998-07-03 20:53:00
+4:53 PM,87.1,68.0,53,29.89,10.0,SSW,11.5,-,N/A,,Overcast,200,1998-07-03 21:53:00
+5:53 PM,86.0,69.1,57,29.87,10.0,SW,10.4,-,N/A,,Overcast,220,1998-07-03 22:53:00
+6:53 PM,84.0,71.1,65,29.86,10.0,SSW,8.1,-,0.00,,Overcast,210,1998-07-03 23:53:00
+7:14 PM,84.2,71.6,66,29.89,10.0,SSW,8.1,-,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,210,1998-07-04 00:14:00
+7:53 PM,81.0,75.0,82,29.85,5.0,SW,9.2,-,0.01,Rain-Thunderstorm,Light Thunderstorms and Rain,230,1998-07-04 00:53:00
+8:10 PM,75.2,75.2,100,29.92,1.8,NW,15.0,23.0,0.11,Rain-Thunderstorm,Light Thunderstorms and Rain,320,1998-07-04 01:10:00
+8:20 PM,73.4,71.6,94,29.93,2.0,NNW,24.2,31.1,0.32,Rain-Thunderstorm,Heavy Thunderstorms and Rain,340,1998-07-04 01:20:00
+8:32 PM,73.4,71.6,94,29.93,4.0,NNW,11.5,-,0.38,Rain-Thunderstorm,Thunderstorms and Rain,340,1998-07-04 01:32:00
+8:53 PM,73.9,72.0,93,29.90,8.0,NW,8.1,-,0.48,Rain-Thunderstorm,Light Thunderstorms and Rain,320,1998-07-04 01:53:00
+9:53 PM,72.0,71.1,97,29.92,5.0,West,6.9,-,0.08,Rain-Thunderstorm,Thunderstorms and Rain,280,1998-07-04 02:53:00
+10:53 PM,71.1,68.0,90,29.94,5.0,WNW,17.3,26.5,0.08,Rain-Thunderstorm,Thunderstorms and Rain,300,1998-07-04 03:53:00
+11:53 PM,70.0,68.0,93,29.91,5.0,WNW,5.8,-,0.14,Rain,Rain,290,1998-07-04 04:53:00

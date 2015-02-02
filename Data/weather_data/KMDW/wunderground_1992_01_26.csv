@@ -1,0 +1,22 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,-9999,-9999,N/A,30.32,8.0,West,5.8,-,N/A,,Overcast,270,1992-01-26 06:00:00
+2:00 AM,-9999,-9999,N/A,30.34,10.0,West,8.1,-,N/A,,Overcast,260,1992-01-26 08:00:00
+3:00 AM,-9999,-9999,N/A,30.35,10.0,WSW,9.2,-,N/A,,Overcast,250,1992-01-26 09:00:00
+6:00 AM,-9999,-9999,N/A,30.39,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1992-01-26 12:00:00
+7:00 AM,-9999,-9999,N/A,30.39,7.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1992-01-26 13:00:00
+8:00 AM,-9999,-9999,N/A,30.38,5.0,Calm,Calm,-,N/A,Fog,Fog,0,1992-01-26 14:00:00
+9:00 AM,-9999,-9999,N/A,30.40,5.0,Calm,Calm,-,N/A,Fog,Fog,0,1992-01-26 15:00:00
+10:00 AM,-9999,-9999,N/A,30.42,5.0,Calm,Calm,-,N/A,Fog,Fog,0,1992-01-26 16:00:00
+11:00 AM,-9999,-9999,N/A,30.41,7.0,Calm,Calm,-,N/A,,Overcast,0,1992-01-26 17:00:00
+12:00 PM,-9999,-9999,N/A,30.37,10.0,SSW,11.5,-,N/A,,Scattered Clouds,200,1992-01-26 18:00:00
+1:00 PM,-9999,-9999,N/A,30.35,10.0,SSW,13.8,-,N/A,,Scattered Clouds,200,1992-01-26 19:00:00
+2:00 PM,-9999,-9999,N/A,30.31,15.0,SSW,11.5,-,N/A,,Scattered Clouds,210,1992-01-26 20:00:00
+3:00 PM,-9999,-9999,N/A,30.29,15.0,SSW,11.5,-,N/A,,Scattered Clouds,200,1992-01-26 21:00:00
+4:00 PM,-9999,-9999,N/A,30.30,15.0,SSW,12.7,-,N/A,,Scattered Clouds,200,1992-01-26 22:00:00
+5:00 PM,-9999,-9999,N/A,30.28,15.0,South,11.5,-,N/A,,Scattered Clouds,190,1992-01-26 23:00:00
+6:00 PM,-9999,-9999,N/A,30.27,15.0,South,11.5,-,N/A,,Mostly Cloudy,180,1992-01-27 00:00:00
+7:00 PM,-9999,-9999,N/A,30.26,10.0,South,11.5,-,N/A,,Scattered Clouds,190,1992-01-27 01:00:00
+8:00 PM,-9999,-9999,N/A,30.27,10.0,South,8.1,-,N/A,,Mostly Cloudy,190,1992-01-27 02:00:00
+9:00 PM,-9999,-9999,N/A,30.22,15.0,South,11.5,-,N/A,,Scattered Clouds,190,1992-01-27 03:00:00
+10:00 PM,-9999,-9999,N/A,30.21,20.0,SSW,11.5,-,N/A,,Clear,210,1992-01-27 04:00:00
+11:00 PM,-9999,-9999,N/A,30.21,20.0,SSW,13.8,-,N/A,,Clear,210,1992-01-27 05:00:00

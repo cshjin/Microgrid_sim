@@ -1,0 +1,27 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,19.2,11.1,71,29.97,20.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1992-01-15 06:00:00
+1:00 AM,19.2,13.1,77,29.97,20.0,Calm,Calm,-,N/A,,Clear,0,1992-01-15 07:00:00
+2:00 AM,18.1,13.1,81,29.98,20.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1992-01-15 08:00:00
+3:00 AM,18.1,14.2,84,29.97,20.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1992-01-15 09:00:00
+4:00 AM,19.2,16.2,88,29.96,20.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1992-01-15 10:00:00
+5:00 AM,20.1,16.2,85,29.95,20.0,Calm,Calm,-,N/A,,Overcast,0,1992-01-15 11:00:00
+6:00 AM,21.2,16.2,81,29.94,10.0,Calm,Calm,-,N/A,Snow,Light Snow,0,1992-01-15 12:00:00
+7:00 AM,21.2,15.3,78,29.94,5.5,Calm,Calm,-,N/A,Fog-Snow,Light Snow Showers,0,1992-01-15 13:00:00
+8:00 AM,21.2,18.1,88,29.96,0.8,Calm,Calm,-,N/A,Fog-Snow,Light Snow Showers,0,1992-01-15 14:00:00
+8:25 AM,-9999,-9999,N/A,29.96,0.2,NNW,16.1,-,N/A,Fog,Unknown,340,1992-01-15 14:25:00
+9:00 AM,20.1,18.1,92,29.97,0.5,NW,11.5,-,N/A,Fog-Snow,Snow,310,1992-01-15 15:00:00
+10:00 AM,19.2,16.2,88,29.95,0.5,NNW,11.5,-,N/A,Fog-Snow,Snow,340,1992-01-15 16:00:00
+11:00 AM,18.1,14.2,84,29.95,1.0,NNW,11.5,-,N/A,Fog-Snow,Snow,330,1992-01-15 17:00:00
+11:30 AM,17.2,13.1,84,29.94,0.8,WNW,17.3,-,N/A,Fog-Snow,Snow,300,1992-01-15 17:30:00
+12:00 PM,16.2,12.2,84,29.94,1.0,NNW,15.0,26.5,N/A,Fog-Snow,Snow,340,1992-01-15 18:00:00
+1:00 PM,15.3,9.1,77,29.96,2.8,NNW,18.4,-,N/A,Fog-Snow,Snow,330,1992-01-15 19:00:00
+2:00 PM,13.1,8.2,81,29.99,5.5,NW,17.3,-,N/A,Fog-Snow,Snow,310,1992-01-15 20:00:00
+3:00 PM,12.2,2.1,64,30.03,20.0,WNW,17.3,-,N/A,,Scattered Clouds,300,1992-01-15 21:00:00
+4:00 PM,9.1,-0.8,64,30.07,20.0,WNW,17.3,-,N/A,,Scattered Clouds,300,1992-01-15 22:00:00
+5:00 PM,7.2,-2.7,64,30.10,20.0,WNW,23.0,-,N/A,,Scattered Clouds,300,1992-01-15 23:00:00
+6:00 PM,6.3,-5.8,58,30.13,20.0,WNW,18.4,-,N/A,,Scattered Clouds,300,1992-01-16 00:00:00
+7:00 PM,4.1,-5.8,64,30.15,10.0,WNW,18.4,-,N/A,,Scattered Clouds,290,1992-01-16 01:00:00
+8:00 PM,2.1,-6.9,66,30.17,10.0,WNW,17.3,-,N/A,,Scattered Clouds,300,1992-01-16 02:00:00
+9:00 PM,0.1,-8.9,66,30.18,10.0,WNW,17.3,-,N/A,,Scattered Clouds,300,1992-01-16 03:00:00
+10:00 PM,-0.8,-9.8,66,30.21,10.0,WNW,23.0,-,N/A,,Scattered Clouds,300,1992-01-16 04:00:00
+11:00 PM,-3.8,-11.7,69,30.23,20.0,WNW,19.6,-,N/A,,Clear,290,1992-01-16 05:00:00

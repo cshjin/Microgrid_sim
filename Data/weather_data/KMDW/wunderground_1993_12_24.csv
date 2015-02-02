@@ -1,0 +1,25 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,16.9,10.9,77,30.14,10.0,WSW,11.5,-,N/A,,Mostly Cloudy,240,1993-12-24 06:00:00
+1:00 AM,14.9,10.9,84,30.12,10.0,West,9.2,-,N/A,,Scattered Clouds,260,1993-12-24 07:00:00
+2:00 AM,14.9,10.9,84,30.18,10.0,West,9.2,-,N/A,,Scattered Clouds,260,1993-12-24 08:00:00
+4:00 AM,14.0,9.0,80,30.06,10.0,WSW,11.5,-,N/A,,Overcast,250,1993-12-24 10:00:00
+5:00 AM,14.9,9.9,80,30.05,10.0,WSW,11.5,-,N/A,,Overcast,250,1993-12-24 11:00:00
+6:00 AM,16.0,9.9,77,30.05,10.0,West,13.8,-,N/A,,Mostly Cloudy,260,1993-12-24 12:00:00
+7:00 AM,16.0,9.9,77,30.06,10.0,West,13.8,-,N/A,,Mostly Cloudy,260,1993-12-24 13:00:00
+8:00 AM,16.0,9.0,74,30.05,10.0,WSW,11.5,-,N/A,,Mostly Cloudy,250,1993-12-24 14:00:00
+9:00 AM,16.0,9.9,77,30.04,7.0,WSW,12.7,-,N/A,,Mostly Cloudy,250,1993-12-24 15:00:00
+10:00 AM,16.0,7.0,68,30.02,6.0,WSW,19.6,-,N/A,Snow,Light Snow Showers,240,1993-12-24 16:00:00
+11:00 AM,16.0,5.9,65,30.00,8.0,WSW,17.3,-,N/A,,Mostly Cloudy,250,1993-12-24 17:00:00
+12:00 PM,16.0,5.0,62,29.96,10.0,WSW,17.3,-,N/A,,Mostly Cloudy,250,1993-12-24 18:00:00
+1:00 PM,16.9,3.9,57,29.93,10.0,WSW,18.4,-,N/A,,Mostly Cloudy,240,1993-12-24 19:00:00
+2:00 PM,18.0,3.9,54,29.91,20.0,West,19.6,-,N/A,,Overcast,270,1993-12-24 20:00:00
+3:00 PM,18.0,3.9,54,29.90,15.0,SW,16.1,-,N/A,,Mostly Cloudy,230,1993-12-24 21:00:00
+4:00 PM,16.0,5.0,62,29.88,15.0,West,13.8,-,N/A,,Mostly Cloudy,270,1993-12-24 22:00:00
+5:00 PM,14.9,5.9,68,29.88,8.0,WSW,9.2,-,N/A,,Overcast,240,1993-12-24 23:00:00
+6:00 PM,14.0,7.9,77,29.87,10.0,WSW,8.1,-,N/A,,Mostly Cloudy,250,1993-12-25 00:00:00
+7:00 PM,12.9,7.9,80,29.85,10.0,SW,6.9,-,N/A,,Mostly Cloudy,230,1993-12-25 01:00:00
+8:00 PM,14.9,9.9,80,29.85,5.0,Calm,Calm,-,N/A,Snow,Light Snow Showers,0,1993-12-25 02:00:00
+9:00 PM,14.9,10.9,84,29.83,5.0,Calm,Calm,-,N/A,Snow,Light Snow Showers,0,1993-12-25 03:00:00
+10:00 PM,14.9,11.8,88,29.81,7.0,Calm,Calm,-,N/A,Snow,Light Snow Showers,0,1993-12-25 04:00:00
+11:00 PM,16.0,11.8,84,29.79,7.0,NE,6.9,-,N/A,Snow,Light Snow Showers,50,1993-12-25 05:00:00
+11:12 PM,-9999,-9999,N/A,29.78,10.5,ENE,4.6,-,N/A,,Unknown,60,1993-12-25 05:12:00

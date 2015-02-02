@@ -1,0 +1,23 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+1:00 AM,38.8,38.8,100,30.16,1.0,NNW,5.8,-,N/A,Fog,Light Drizzle,340,1994-12-06 07:00:00
+2:00 AM,37.9,37.9,100,30.20,1.0,NW,9.2,-,N/A,Fog,Light Drizzle,320,1994-12-06 08:00:00
+3:00 AM,37.9,37.9,100,30.19,1.0,NNW,6.9,-,N/A,Fog,Light Drizzle,340,1994-12-06 09:00:00
+4:00 AM,37.9,37.9,100,30.19,1.0,North,6.9,-,N/A,Fog,Light Drizzle,360,1994-12-06 10:00:00
+5:00 AM,37.9,37.9,100,30.22,1.0,North,9.2,-,N/A,Fog,Light Drizzle,350,1994-12-06 11:00:00
+6:00 AM,36.9,36.9,100,30.21,3.0,North,8.1,-,N/A,Fog,Fog,360,1994-12-06 12:00:00
+7:00 AM,36.9,36.9,100,30.21,2.0,North,11.5,-,N/A,Fog,Fog,350,1994-12-06 13:00:00
+8:00 AM,36.0,36.0,100,30.21,2.0,NNW,9.2,-,N/A,Fog,Light Drizzle,330,1994-12-06 14:00:00
+9:00 AM,34.0,32.0,92,30.22,3.0,NNW,11.5,-,N/A,Fog,Light Drizzle,340,1994-12-06 15:00:00
+10:00 AM,34.9,32.0,89,30.23,3.0,NNW,11.5,-,N/A,Fog,Light Drizzle,340,1994-12-06 16:00:00
+11:00 AM,36.0,32.0,86,30.22,5.5,North,8.1,-,N/A,Fog,Light Drizzle,360,1994-12-06 17:00:00
+12:00 PM,36.0,32.0,86,30.20,2.0,North,10.4,-,N/A,Fog,Light Drizzle,360,1994-12-06 18:00:00
+1:00 PM,36.9,32.0,83,30.18,3.0,NE,11.5,-,N/A,Fog,Light Drizzle,40,1994-12-06 19:00:00
+2:00 PM,36.9,32.0,83,30.18,3.0,NNE,15.0,-,0.10,Fog-Rain,Light Rain,30,1994-12-06 20:00:00
+3:00 PM,36.0,32.0,86,30.17,4.0,North,11.5,-,N/A,Fog-Rain,Light Rain,10,1994-12-06 21:00:00
+5:00 PM,36.0,32.0,86,30.14,4.0,NE,13.8,-,0.10,Fog-Rain,Light Rain,40,1994-12-06 23:00:00
+6:00 PM,34.9,32.0,89,30.13,4.0,NE,11.5,-,0.10,Rain-Snow,Light Rain,40,1994-12-07 00:00:00
+7:00 PM,34.9,32.0,89,30.10,3.0,NE,13.8,-,N/A,Fog-Rain,Light Freezing Rain,50,1994-12-07 01:00:00
+8:00 PM,34.0,32.0,92,30.09,3.0,NE,13.8,-,0.10,Snow,Light Snow Showers,50,1994-12-07 02:00:00
+9:00 PM,32.9,32.0,96,30.05,10.5,ENE,13.8,-,0.10,Fog-Snow,Light Snow Showers,70,1994-12-07 03:00:00
+10:00 PM,34.0,32.0,92,30.02,10.5,ENE,13.8,-,0.10,Fog-Snow,Light Snow Showers,70,1994-12-07 04:00:00
+11:00 PM,32.9,32.0,96,29.98,2.0,ENE,13.8,-,0.10,Fog-Rain,Light Rain Showers,70,1994-12-07 05:00:00

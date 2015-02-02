@@ -1,0 +1,27 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,74.8,63.0,66,29.85,10.0,SSW,6.9,-,N/A,,Mostly Cloudy,200,1993-06-28 05:00:00
+1:00 AM,73.9,64.9,73,29.84,10.0,SSW,5.8,-,N/A,,Mostly Cloudy,210,1993-06-28 06:00:00
+2:00 AM,72.0,65.8,81,29.81,10.0,Calm,Calm,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,0,1993-06-28 07:00:00
+3:00 AM,64.9,63.0,93,29.82,10.5,SSW,11.5,23.0,1.10,Rain-Thunderstorm,Thunderstorms and Rain,210,1993-06-28 08:00:00
+4:00 AM,63.9,63.0,97,29.83,15.0,Calm,Calm,-,0.30,Rain,Light Rain,0,1993-06-28 09:00:00
+5:00 AM,64.9,63.0,93,29.81,15.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1993-06-28 10:00:00
+5:15 AM,-9999,-9999,N/A,29.85,3.0,WSW,8.1,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,240,1993-06-28 10:15:00
+6:00 AM,64.9,63.9,96,29.83,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1993-06-28 11:00:00
+7:00 AM,64.9,61.9,90,29.88,10.0,North,10.4,-,N/A,,Overcast,360,1993-06-28 12:00:00
+8:00 AM,64.9,61.9,90,29.89,8.0,Calm,Calm,-,N/A,,Overcast,0,1993-06-28 13:00:00
+9:00 AM,66.9,63.0,87,29.88,8.0,North,5.8,-,N/A,,Overcast,360,1993-06-28 14:00:00
+10:00 AM,68.9,64.9,87,29.86,7.0,NNW,5.8,-,N/A,,Overcast,330,1993-06-28 15:00:00
+11:00 AM,70.9,64.9,81,29.90,10.0,Calm,Calm,-,N/A,,Overcast,0,1993-06-28 16:00:00
+11:05 AM,-9999,-9999,N/A,29.93,7.0,West,17.3,-,N/A,Rain,Light Rain Showers,270,1993-06-28 16:05:00
+12:00 PM,70.0,68.0,93,29.93,4.0,WNW,11.5,-,0.10,Rain,Light Rain Showers,300,1993-06-28 17:00:00
+1:00 PM,68.0,64.9,90,29.92,10.5,WSW,5.8,-,N/A,Fog-Rain,Light Rain Showers,250,1993-06-28 18:00:00
+2:00 PM,65.8,61.9,87,29.90,10.0,NE,5.8,-,0.10,,Overcast,50,1993-06-28 19:00:00
+2:15 PM,-9999,-9999,N/A,29.91,10.0,NNE,5.8,-,N/A,,Overcast,20,1993-06-28 19:15:00
+3:00 PM,64.9,56.8,75,29.92,10.0,NE,5.8,-,N/A,,Overcast,40,1993-06-28 20:00:00
+4:00 PM,64.9,54.0,68,29.91,15.0,ENE,6.9,-,N/A,,Overcast,60,1993-06-28 21:00:00
+5:00 PM,65.8,52.9,63,29.93,15.0,ENE,9.2,-,N/A,,Overcast,60,1993-06-28 22:00:00
+6:00 PM,65.8,50.9,58,29.93,15.0,NE,13.8,-,N/A,,Mostly Cloudy,40,1993-06-28 23:00:00
+7:00 PM,64.9,50.9,60,29.95,20.0,NE,5.8,-,N/A,,Overcast,40,1993-06-29 00:00:00
+8:00 PM,63.0,52.0,67,29.95,20.0,ENE,4.6,-,N/A,,Overcast,60,1993-06-29 01:00:00
+9:00 PM,61.9,48.9,62,29.97,15.0,NE,11.5,-,N/A,,Mostly Cloudy,50,1993-06-29 02:00:00
+10:00 PM,61.9,47.8,60,29.98,15.0,NNE,5.8,-,N/A,,Mostly Cloudy,20,1993-06-29 03:00:00

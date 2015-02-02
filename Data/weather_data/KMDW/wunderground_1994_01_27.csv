@@ -1,0 +1,26 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,18.9,16.9,92,30.19,2.0,ENE,17.3,-,0.10,Rain,Light Freezing Rain,60,1994-01-27 06:00:00
+1:00 AM,19.9,18.0,92,30.15,3.0,ENE,17.3,-,N/A,Fog,Fog,70,1994-01-27 07:00:00
+2:00 AM,21.9,19.9,92,30.12,2.0,ENE,17.3,-,N/A,Rain,Light Freezing Rain,60,1994-01-27 08:00:00
+3:00 AM,21.9,18.9,88,30.08,2.0,ENE,20.7,-,N/A,Rain,Light Freezing Rain,60,1994-01-27 09:00:00
+3:05 AM,-9999,-9999,N/A,30.06,1.0,ENE,20.7,-,N/A,Rain,Light Freezing Rain,60,1994-01-27 09:05:00
+4:00 AM,20.8,18.9,92,30.04,1.0,ENE,11.5,-,N/A,Rain,Light Freezing Rain,60,1994-01-27 10:00:00
+5:00 AM,21.9,19.9,92,30.00,5.5,ENE,11.5,-,0.10,Rain,Light Freezing Rain,60,1994-01-27 11:00:00
+6:00 AM,23.9,21.9,92,29.99,5.5,East,17.3,-,N/A,Rain,Light Freezing Rain,80,1994-01-27 12:00:00
+7:00 AM,27.0,23.9,88,29.99,2.0,East,6.9,-,N/A,Rain,Light Freezing Rain,80,1994-01-27 13:00:00
+8:00 AM,25.0,23.9,96,29.97,10.5,East,11.5,-,N/A,Fog,Fog,80,1994-01-27 14:00:00
+9:00 AM,27.0,25.0,92,29.97,2.8,SE,11.5,-,N/A,Fog,Light Freezing Drizzle,130,1994-01-27 15:00:00
+10:00 AM,27.9,25.9,92,29.94,5.5,ESE,11.5,-,0.10,Fog,Light Freezing Drizzle,120,1994-01-27 16:00:00
+11:00 AM,27.9,25.9,92,29.92,5.5,SE,13.8,-,N/A,Fog,Light Freezing Drizzle,130,1994-01-27 17:00:00
+1:00 PM,30.9,29.8,96,29.83,2.8,ESE,11.5,-,N/A,Fog,Fog,120,1994-01-27 19:00:00
+2:00 PM,30.9,29.8,96,29.81,2.8,ESE,11.5,-,N/A,Fog,Fog,120,1994-01-27 20:00:00
+3:00 PM,32.0,30.9,96,29.79,2.8,NNE,9.2,-,N/A,Fog,Fog,30,1994-01-27 21:00:00
+3:10 PM,-9999,-9999,N/A,0.00,0.5,NE,6.9,-,N/A,Fog,Fog,50,1994-01-27 21:10:00
+4:00 PM,32.0,32.0,100,29.76,0.5,NE,8.1,-,N/A,Fog,Fog,40,1994-01-27 22:00:00
+5:00 PM,32.0,30.9,96,29.74,0.8,ENE,8.1,-,N/A,Fog,Fog,60,1994-01-27 23:00:00
+6:00 PM,32.9,32.0,96,29.73,0.8,NE,6.9,-,N/A,Fog,Fog,50,1994-01-28 00:00:00
+7:00 PM,32.9,32.9,100,29.73,1.0,NE,4.6,-,0.10,Fog-Rain,Light Rain,50,1994-01-28 01:00:00
+8:00 PM,32.9,32.9,100,29.71,1.0,NE,5.8,-,0.10,Fog-Rain,Light Rain,50,1994-01-28 02:00:00
+9:00 PM,34.0,32.0,92,29.69,1.0,ENE,5.8,-,N/A,Fog-Rain,Light Rain,60,1994-01-28 03:00:00
+10:00 PM,34.0,32.0,92,29.68,1.0,Calm,Calm,-,N/A,Fog-Rain,Light Rain,0,1994-01-28 04:00:00
+11:00 PM,34.0,34.0,100,29.64,5.5,Calm,Calm,-,0.10,Fog-Rain,Light Rain Showers,0,1994-01-28 05:00:00
