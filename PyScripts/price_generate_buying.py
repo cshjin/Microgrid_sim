@@ -15,10 +15,10 @@
 #
 # ------------------------------------------------------------------------------
 
-# File:         generate_buying_price.py
+# File:         price_generate_buying.py
 # Author:       Hongwei Jin
 # Created:      01/21/2015
-# Modified:
+# Modified:     02/02/2015  : rename file
 
 from datetime import datetime, timedelta
 
