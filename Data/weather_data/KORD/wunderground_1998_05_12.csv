@@ -1,0 +1,25 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,48.9,48.0,97,29.83,7.0,Calm,Calm,-,N/A,,Clear,0,1998-05-12 05:56:00
+1:56 AM,51.1,48.9,92,29.83,9.0,Calm,Calm,-,N/A,,Clear,0,1998-05-12 06:56:00
+2:56 AM,51.1,48.9,92,29.83,9.0,Calm,Calm,-,N/A,,Partly Cloudy,0,1998-05-12 07:56:00
+3:56 AM,50.0,48.9,96,29.80,8.0,Calm,Calm,-,N/A,,Clear,0,1998-05-12 08:56:00
+4:56 AM,48.9,48.0,97,29.81,7.0,Calm,Calm,-,N/A,,Clear,0,1998-05-12 09:56:00
+5:56 AM,52.0,48.0,86,29.81,9.0,ESE,5.8,-,N/A,,Clear,110,1998-05-12 10:56:00
+6:56 AM,55.9,53.1,90,29.80,7.0,SE,8.1,-,N/A,,Clear,140,1998-05-12 11:56:00
+7:56 AM,63.0,52.0,67,29.81,10.0,SSE,11.5,-,N/A,,Mostly Cloudy,160,1998-05-12 12:56:00
+8:56 AM,68.0,53.1,59,29.81,10.0,South,11.5,-,N/A,,Mostly Cloudy,170,1998-05-12 13:56:00
+9:56 AM,70.0,53.1,55,29.80,10.0,SSE,12.7,-,N/A,,Overcast,160,1998-05-12 14:56:00
+11:56 AM,75.0,55.0,50,29.77,10.0,South,15.0,19.6,N/A,,Mostly Cloudy,170,1998-05-12 16:56:00
+12:56 PM,75.0,54.0,48,29.76,10.0,South,15.0,23.0,N/A,,Mostly Cloudy,190,1998-05-12 17:56:00
+1:56 PM,77.0,55.9,48,29.75,10.0,South,12.7,-,N/A,,Mostly Cloudy,180,1998-05-12 18:56:00
+2:56 PM,77.0,55.9,48,29.74,10.0,South,16.1,23.0,N/A,,Mostly Cloudy,180,1998-05-12 19:56:00
+3:56 PM,79.0,57.0,47,29.73,10.0,South,18.4,-,N/A,,Mostly Cloudy,170,1998-05-12 20:56:00
+4:56 PM,79.0,57.0,47,29.72,10.0,South,16.1,24.2,N/A,,Mostly Cloudy,190,1998-05-12 21:56:00
+5:56 PM,77.0,57.0,50,29.73,10.0,South,9.2,19.6,N/A,,Mostly Cloudy,180,1998-05-12 22:56:00
+6:56 PM,75.9,57.9,54,29.72,10.0,SSE,15.0,-,N/A,,Overcast,160,1998-05-12 23:56:00
+7:56 PM,75.0,57.9,55,29.74,10.0,South,8.1,-,N/A,,Overcast,180,1998-05-13 00:56:00
+8:56 PM,73.0,59.0,61,29.72,10.0,SSE,17.3,24.2,0.00,,Mostly Cloudy,160,1998-05-13 01:56:00
+9:20 PM,73.4,59.0,61,29.74,10.0,South,15.0,24.2,N/A,Thunderstorm,Thunderstorm,180,1998-05-13 02:20:00
+9:56 PM,71.1,61.0,70,29.74,9.0,South,16.1,23.0,N/A,Thunderstorm,Thunderstorm,170,1998-05-13 02:56:00
+10:56 PM,69.1,61.0,75,29.74,9.0,South,10.4,-,N/A,Thunderstorm,Thunderstorm,190,1998-05-13 03:56:00
+11:56 PM,66.9,61.0,81,29.75,8.0,Calm,Calm,-,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,0,1998-05-13 04:56:00

@@ -1,0 +1,31 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,77.0,55.0,47,30.06,8.0,SSE,9.2,-,N/A,,Overcast,160,1991-09-09 05:00:00
+1:00 AM,75.9,57.0,52,30.07,8.0,SSE,9.2,-,N/A,,Overcast,160,1991-09-09 06:00:00
+2:00 AM,75.9,60.1,58,30.07,8.0,South,12.7,-,N/A,,Mostly Cloudy,180,1991-09-09 07:00:00
+3:00 AM,75.9,60.1,58,30.07,8.0,South,10.4,-,N/A,,Overcast,190,1991-09-09 08:00:00
+4:00 AM,73.9,63.0,68,30.06,8.0,South,10.4,-,N/A,,Mostly Cloudy,180,1991-09-09 09:00:00
+5:00 AM,73.0,53.1,49,30.05,8.0,South,9.2,-,N/A,,Mostly Cloudy,180,1991-09-09 10:00:00
+6:00 AM,72.0,61.0,68,30.05,8.0,South,8.1,-,N/A,,Scattered Clouds,180,1991-09-09 11:00:00
+7:00 AM,72.0,64.9,78,30.05,5.0,South,9.2,-,N/A,,Drizzle,180,1991-09-09 12:00:00
+8:00 AM,73.0,64.9,76,30.04,5.0,South,11.5,-,N/A,,Drizzle,190,1991-09-09 13:00:00
+9:00 AM,77.0,70.0,79,30.03,7.0,South,12.7,-,N/A,,Clear,190,1991-09-09 14:00:00
+10:00 AM,81.0,71.1,72,30.04,9.0,SW,15.0,-,N/A,,Clear,220,1991-09-09 15:00:00
+11:00 AM,84.9,71.1,63,30.02,10.0,SSW,17.3,25.3,N/A,,Partly Cloudy,200,1991-09-09 16:00:00
+12:00 PM,87.1,69.1,55,30.01,10.0,SSW,16.1,-,N/A,,Mostly Cloudy,210,1991-09-09 17:00:00
+1:00 PM,89.1,71.1,55,30.00,15.0,SW,15.0,21.9,N/A,,Mostly Cloudy,220,1991-09-09 18:00:00
+2:00 PM,90.0,69.1,50,29.99,15.0,SW,13.8,23.0,N/A,,Scattered Clouds,220,1991-09-09 19:00:00
+3:00 PM,93.0,68.0,44,29.95,15.0,South,13.8,-,N/A,,Scattered Clouds,190,1991-09-09 20:00:00
+4:00 PM,93.0,68.0,44,29.95,15.0,SSW,16.1,-,N/A,,Scattered Clouds,210,1991-09-09 21:00:00
+5:00 PM,93.0,66.9,42,29.94,10.0,SW,15.0,-,N/A,,Scattered Clouds,220,1991-09-09 22:00:00
+6:00 PM,91.0,68.0,47,29.95,10.0,SW,18.4,24.2,N/A,,Scattered Clouds,230,1991-09-09 23:00:00
+7:00 PM,88.0,66.9,49,29.92,10.0,SW,13.8,-,N/A,,Mostly Cloudy,220,1991-09-10 00:00:00
+8:00 PM,87.1,66.9,51,29.94,8.0,WSW,10.4,-,N/A,,Mostly Cloudy,240,1991-09-10 01:00:00
+8:07 PM,-9999,-9999,N/A,29.95,7.0,SW,9.2,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,220,1991-09-10 01:07:00
+8:40 PM,-9999,-9999,N/A,29.97,4.0,WSW,12.7,-,N/A,Rain,Light Rain Showers,240,1991-09-10 01:40:00
+9:00 PM,75.0,66.0,73,29.96,4.0,SW,16.1,-,0.03,Rain,Light Rain Showers,220,1991-09-10 02:00:00
+9:13 PM,-9999,-9999,N/A,29.97,4.0,WSW,9.2,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,240,1991-09-10 02:13:00
+9:38 PM,-9999,-9999,N/A,29.98,4.0,WSW,15.0,-,N/A,Rain,Light Rain Showers,250,1991-09-10 02:38:00
+10:00 PM,73.0,68.0,84,29.95,5.0,SW,15.0,29.9,0.06,Rain,Light Rain Showers,230,1991-09-10 03:00:00
+10:21 PM,-9999,-9999,N/A,30.00,5.0,SW,20.7,31.1,N/A,Rain-Thunderstorm,Thunderstorms and Rain,230,1991-09-10 03:21:00
+11:00 PM,71.1,66.0,84,30.02,5.0,SW,16.1,-,0.05,Rain-Thunderstorm,Light Thunderstorms and Rain,230,1991-09-10 04:00:00
+11:32 PM,-9999,-9999,N/A,29.99,6.0,SSW,13.8,-,N/A,Rain,Light Rain Showers,200,1991-09-10 04:32:00

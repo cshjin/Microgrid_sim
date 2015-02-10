@@ -1,0 +1,39 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,68.0,50.0,52,30.03,15.0,South,11.5,-,N/A,,Mostly Cloudy,190,1995-05-23 05:00:00
+1:00 AM,68.0,51.1,55,30.02,15.0,South,13.8,-,N/A,,Unknown,190,1995-05-23 06:00:00
+2:00 AM,66.9,51.1,57,30.01,15.0,South,11.5,-,N/A,,Unknown,190,1995-05-23 07:00:00
+3:00 AM,66.9,53.1,61,30.00,15.0,SSW,13.8,-,N/A,,Unknown,200,1995-05-23 08:00:00
+4:00 AM,66.0,53.1,63,29.99,15.0,South,6.9,-,N/A,,Overcast,180,1995-05-23 09:00:00
+4:29 AM,-9999,-9999,N/A,30.00,8.0,South,4.6,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,180,1995-05-23 09:29:00
+5:00 AM,63.0,57.0,81,29.98,6.0,South,4.6,-,0.12,Rain-Thunderstorm,Thunderstorms and Rain,190,1995-05-23 10:00:00
+6:00 AM,61.0,59.0,93,30.02,8.0,NNW,5.8,-,0.04,Rain-Thunderstorm,Light Thunderstorms and Rain,340,1995-05-23 11:00:00
+7:00 AM,60.1,60.1,100,30.03,5.0,SSW,4.6,-,0.15,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,200,1995-05-23 12:00:00
+7:09 AM,-9999,-9999,N/A,30.03,5.2,South,5.8,-,N/A,Fog-Rain,Light Rain Showers,180,1995-05-23 12:09:00
+8:00 AM,61.0,60.1,97,30.01,5.2,South,11.5,-,0.31,Fog-Rain,Light Rain Showers,190,1995-05-23 13:00:00
+9:00 AM,63.0,62.1,97,29.99,5.2,SSW,13.8,-,0.16,Fog-Rain,Light Rain Showers,210,1995-05-23 14:00:00
+10:00 AM,63.0,63.0,100,29.99,10.5,SSW,12.7,-,0.09,Fog-Rain,Light Rain Showers,200,1995-05-23 15:00:00
+11:00 AM,63.0,62.1,97,29.99,10.5,South,13.8,-,0.07,Fog-Rain,Light Rain Showers,190,1995-05-23 16:00:00
+12:00 PM,63.0,62.1,97,29.99,2.0,South,8.1,-,0.06,Fog-Rain,Light Rain,190,1995-05-23 17:00:00
+12:01 PM,-9999,-9999,N/A,29.96,3.0,South,5.8,-,N/A,Fog-Rain,Light Rain Showers,180,1995-05-23 17:01:00
+1:00 PM,66.9,63.0,87,29.96,3.0,South,4.6,-,0.03,Fog,Fog,190,1995-05-23 18:00:00
+1:20 PM,-9999,-9999,N/A,29.96,2.0,South,6.9,-,N/A,Fog-Rain,Light Rain Showers,190,1995-05-23 18:20:00
+2:00 PM,66.9,64.9,93,29.96,2.0,SSW,8.1,-,0.03,Fog-Rain,Rain Showers,200,1995-05-23 19:00:00
+2:12 PM,-9999,-9999,N/A,29.96,2.0,SSW,9.2,-,N/A,Fog-Rain,Rain Showers,200,1995-05-23 19:12:00
+2:42 PM,-9999,-9999,N/A,29.94,3.0,South,8.1,-,N/A,Fog-Rain,Rain Showers,190,1995-05-23 19:42:00
+3:00 PM,66.9,64.9,93,29.94,3.0,South,8.1,-,0.06,Fog-Rain,Rain Showers,190,1995-05-23 20:00:00
+3:25 PM,-9999,-9999,N/A,29.93,3.0,South,8.1,-,N/A,Fog,Fog,180,1995-05-23 20:25:00
+4:00 PM,68.0,66.0,93,29.92,3.0,SSW,11.5,-,0.02,Fog-Rain,Light Rain Showers,200,1995-05-23 21:00:00
+4:25 PM,-9999,-9999,N/A,29.92,3.0,SW,10.4,-,N/A,Fog-Rain,Light Rain Showers,220,1995-05-23 21:25:00
+5:00 PM,68.0,66.0,93,29.91,4.0,SSW,8.1,-,0.02,Fog-Rain,Light Rain Showers,200,1995-05-23 22:00:00
+6:00 PM,64.9,64.0,97,29.94,5.5,NNW,16.1,-,0.06,Fog-Rain,Light Rain Showers,330,1995-05-23 23:00:00
+6:20 PM,-9999,-9999,N/A,29.96,4.0,NNE,11.5,-,N/A,Fog-Rain,Light Rain Showers,30,1995-05-23 23:20:00
+6:30 PM,-9999,-9999,N/A,29.97,4.0,NNE,11.5,-,N/A,Fog-Rain,Light Rain Showers,30,1995-05-23 23:30:00
+7:00 PM,55.9,55.0,97,29.99,4.0,NNE,11.5,-,0.01,Fog,Fog,20,1995-05-24 00:00:00
+7:04 PM,-9999,-9999,N/A,30.01,4.0,NNE,16.1,-,N/A,Fog,Fog,30,1995-05-24 00:04:00
+7:38 PM,-9999,-9999,N/A,30.01,4.0,NE,11.5,-,N/A,Fog,Fog,50,1995-05-24 00:38:00
+8:00 PM,53.1,51.1,93,30.00,4.0,NE,10.4,-,N/A,Fog,Fog,40,1995-05-24 01:00:00
+9:00 PM,52.0,51.1,97,30.02,7.0,NE,13.8,-,N/A,,Overcast,40,1995-05-24 02:00:00
+9:35 PM,-9999,-9999,N/A,30.02,7.0,NE,9.2,-,N/A,,Overcast,40,1995-05-24 02:35:00
+10:00 PM,51.1,48.0,89,30.01,7.0,NE,16.1,-,N/A,,Overcast,40,1995-05-24 03:00:00
+11:00 PM,51.1,48.9,92,30.00,7.0,NE,11.5,-,N/A,,Overcast,50,1995-05-24 04:00:00
+11:37 PM,-9999,-9999,N/A,29.98,7.0,NE,9.2,-,N/A,,Overcast,50,1995-05-24 04:37:00

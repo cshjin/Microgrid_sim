@@ -1,0 +1,29 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,75.0,60.1,60,30.04,10.0,SSW,11.5,-,N/A,,Mostly Cloudy,200,1994-08-01 05:00:00
+1:00 AM,73.9,60.1,62,30.04,10.0,SSW,20.7,-,N/A,,Scattered Clouds,210,1994-08-01 06:00:00
+2:00 AM,73.0,60.1,64,30.03,10.0,SSW,13.8,-,N/A,,Scattered Clouds,210,1994-08-01 07:00:00
+3:00 AM,72.0,60.1,66,30.03,10.0,SW,12.7,-,N/A,,Scattered Clouds,220,1994-08-01 08:00:00
+4:00 AM,71.1,60.1,68,30.02,10.0,SW,11.5,-,N/A,,Mostly Cloudy,220,1994-08-01 09:00:00
+5:00 AM,71.1,59.0,66,30.01,10.0,SW,11.5,-,N/A,,Scattered Clouds,220,1994-08-01 10:00:00
+6:00 AM,71.1,60.1,68,30.03,10.0,SSW,11.5,-,N/A,,Mostly Cloudy,200,1994-08-01 11:00:00
+7:00 AM,71.1,60.1,68,30.04,10.0,SSW,11.5,-,N/A,,Mostly Cloudy,210,1994-08-01 12:00:00
+8:00 AM,68.0,64.0,87,30.06,7.0,SSW,5.8,-,0.07,,Overcast,210,1994-08-01 13:00:00
+9:00 AM,70.0,64.9,84,30.05,7.0,SSW,9.2,-,0.02,,Mostly Cloudy,210,1994-08-01 14:00:00
+10:00 AM,73.9,66.0,76,30.04,6.0,SSW,12.7,-,N/A,,Drizzle,200,1994-08-01 15:00:00
+11:00 AM,78.1,66.9,68,30.02,5.0,SSW,11.5,-,N/A,,Drizzle,210,1994-08-01 16:00:00
+12:00 PM,82.9,66.9,58,30.02,6.0,SSW,15.0,-,N/A,,Drizzle,210,1994-08-01 17:00:00
+1:00 PM,84.9,68.0,57,30.02,7.0,WSW,18.4,-,N/A,,Mostly Cloudy,240,1994-08-01 18:00:00
+2:00 PM,84.0,68.0,58,30.01,7.0,SW,13.8,-,N/A,,Overcast,220,1994-08-01 19:00:00
+3:00 PM,84.9,69.1,59,30.00,7.0,WSW,11.5,-,N/A,,Mostly Cloudy,240,1994-08-01 20:00:00
+4:00 PM,82.9,68.0,60,30.00,7.0,WSW,13.8,-,N/A,,Mostly Cloudy,240,1994-08-01 21:00:00
+5:00 PM,84.9,70.0,61,29.98,7.0,WSW,11.5,-,N/A,,Mostly Cloudy,250,1994-08-01 22:00:00
+6:00 PM,86.0,66.0,51,29.99,7.0,WNW,5.8,-,N/A,,Overcast,300,1994-08-01 23:00:00
+6:14 PM,-9999,-9999,N/A,30.01,7.0,NNE,21.9,-,N/A,,Overcast,20,1994-08-01 23:14:00
+6:25 PM,-9999,-9999,N/A,30.02,7.0,NE,21.9,26.5,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,40,1994-08-01 23:25:00
+7:00 PM,73.9,69.1,85,30.03,7.0,SSE,6.9,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,150,1994-08-02 00:00:00
+7:22 PM,-9999,-9999,N/A,30.04,5.0,ESE,10.4,-,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,110,1994-08-02 00:22:00
+8:00 PM,70.0,64.9,84,30.04,6.0,South,13.8,-,0.03,Fog-Rain,Light Rain Showers,190,1994-08-02 01:00:00
+9:00 PM,69.1,64.9,87,30.04,7.0,WNW,11.5,-,N/A,,Overcast,300,1994-08-02 02:00:00
+9:33 PM,-9999,-9999,N/A,30.09,7.0,NNE,9.2,-,N/A,,Overcast,30,1994-08-02 02:33:00
+10:00 PM,-9999,-9999,N/A,30.09,6.0,WSW,5.8,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,240,1994-08-02 03:00:00
+11:00 PM,71.1,68.0,90,30.06,5.0,NE,6.9,-,0.02,Fog-Rain,Light Rain Showers,50,1994-08-02 04:00:00

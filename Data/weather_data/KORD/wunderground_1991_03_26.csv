@@ -1,0 +1,30 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,57.0,43.0,59,29.91,10.0,SSE,9.2,-,N/A,,Mostly Cloudy,160,1991-03-26 06:00:00
+1:00 AM,59.0,43.0,55,29.87,10.0,South,15.0,-,N/A,,Overcast,170,1991-03-26 07:00:00
+2:00 AM,59.0,44.1,58,29.84,10.0,South,13.8,-,N/A,Rain,Light Rain Showers,170,1991-03-26 08:00:00
+3:00 AM,57.9,44.1,60,29.80,10.0,SSE,15.0,-,0.01,,Overcast,150,1991-03-26 09:00:00
+4:00 AM,57.9,44.1,60,29.79,8.0,South,18.4,-,0.03,Rain,Light Rain Showers,180,1991-03-26 10:00:00
+4:16 AM,-9999,-9999,N/A,29.83,7.0,South,12.7,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,190,1991-03-26 10:16:00
+5:00 AM,53.1,48.9,86,29.83,6.0,SSE,8.1,-,0.16,Rain-Thunderstorm,Light Thunderstorms and Rain,150,1991-03-26 11:00:00
+5:21 AM,-9999,-9999,N/A,29.85,7.0,ESE,6.9,-,N/A,Rain,Rain Showers,110,1991-03-26 11:21:00
+5:37 AM,-9999,-9999,N/A,29.85,6.0,ENE,5.8,-,N/A,Rain,Light Rain,60,1991-03-26 11:37:00
+6:00 AM,52.0,50.0,93,29.85,4.0,East,5.8,-,0.03,Fog-Rain,Light Rain,90,1991-03-26 12:00:00
+6:16 AM,-9999,-9999,N/A,29.83,3.0,East,10.4,-,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,90,1991-03-26 12:16:00
+6:38 AM,-9999,-9999,N/A,29.82,3.0,East,10.4,-,N/A,Fog-Rain,Light Rain Showers,100,1991-03-26 12:38:00
+7:00 AM,53.1,52.0,96,29.82,3.0,ESE,11.5,-,0.15,Fog-Rain,Light Rain Showers,110,1991-03-26 13:00:00
+8:00 AM,55.0,54.0,96,29.81,4.0,ESE,10.4,-,0.02,Fog,Fog,110,1991-03-26 14:00:00
+9:00 AM,57.0,54.0,89,29.78,7.0,SSE,16.1,25.3,N/A,,Overcast,160,1991-03-26 15:00:00
+10:00 AM,60.1,53.1,78,29.77,10.0,South,19.6,25.3,N/A,,Mostly Cloudy,170,1991-03-26 16:00:00
+11:00 AM,63.0,53.1,70,29.73,10.0,South,15.0,24.2,N/A,,Partly Cloudy,180,1991-03-26 17:00:00
+12:00 PM,66.0,55.0,68,29.70,10.0,South,16.1,-,N/A,,Scattered Clouds,170,1991-03-26 18:00:00
+1:00 PM,69.1,57.0,65,29.68,10.0,South,16.1,-,N/A,,Scattered Clouds,180,1991-03-26 19:00:00
+2:00 PM,71.1,59.0,66,29.65,10.0,South,17.3,-,N/A,,Scattered Clouds,190,1991-03-26 20:00:00
+3:00 PM,73.0,61.0,66,29.63,10.0,South,11.5,-,N/A,,Scattered Clouds,180,1991-03-26 21:00:00
+4:00 PM,73.9,62.1,66,29.62,8.0,SSW,13.8,-,N/A,,Overcast,200,1991-03-26 22:00:00
+5:00 PM,73.9,63.0,68,29.61,8.0,South,20.7,-,N/A,,Overcast,180,1991-03-26 23:00:00
+6:00 PM,72.0,64.0,76,29.61,6.0,South,18.4,-,N/A,,Drizzle,180,1991-03-27 00:00:00
+7:00 PM,71.1,64.9,81,29.58,5.0,South,15.0,-,N/A,,Drizzle,180,1991-03-27 01:00:00
+8:00 PM,70.0,64.9,84,29.55,5.0,South,17.3,-,N/A,,Drizzle,190,1991-03-27 02:00:00
+9:00 PM,70.0,63.0,78,29.56,6.0,SSW,11.5,-,N/A,,Drizzle,200,1991-03-27 03:00:00
+10:00 PM,71.1,63.0,75,29.55,8.0,South,17.3,-,N/A,,Overcast,190,1991-03-27 04:00:00
+11:00 PM,70.0,63.0,78,29.55,7.0,SSW,17.3,-,N/A,,Overcast,210,1991-03-27 05:00:00

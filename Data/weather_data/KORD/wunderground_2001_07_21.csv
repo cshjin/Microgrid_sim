@@ -1,0 +1,27 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,75.9,73.9,94,29.93,6.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,2001-07-21 05:56:00
+1:56 AM,77.0,73.9,90,29.92,5.0,SW,3.5,-,N/A,,Mostly Cloudy,230,2001-07-21 06:56:00
+2:56 AM,80.1,73.9,81,29.93,8.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,2001-07-21 07:56:00
+3:56 AM,78.1,75.0,90,29.92,9.0,SW,3.5,-,N/A,,Mostly Cloudy,230,2001-07-21 08:56:00
+4:56 AM,78.1,75.0,90,29.91,9.0,SW,4.6,-,0.00,Rain,Light Rain,230,2001-07-21 09:56:00
+5:56 AM,78.1,75.0,90,29.91,7.0,SW,3.5,-,0.00,,Overcast,230,2001-07-21 10:56:00
+6:56 AM,78.1,75.0,90,29.91,9.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,2001-07-21 11:56:00
+7:56 AM,80.1,75.0,85,29.92,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,2001-07-21 12:56:00
+8:56 AM,81.0,75.9,85,29.91,9.0,SW,6.9,-,N/A,,Clear,230,2001-07-21 13:56:00
+9:56 AM,84.0,75.9,76,29.91,10.0,West,9.2,-,N/A,,Mostly Cloudy,270,2001-07-21 14:56:00
+10:15 AM,84.2,75.2,74,29.93,9.0,WSW,6.9,-,N/A,,Scattered Clouds,250,2001-07-21 15:15:00
+10:56 AM,86.0,73.9,67,29.90,10.0,SSW,8.1,-,N/A,,Mostly Cloudy,210,2001-07-21 15:56:00
+11:56 AM,88.0,72.0,59,29.88,10.0,SW,10.4,-,N/A,,Scattered Clouds,230,2001-07-21 16:56:00
+12:56 PM,90.0,72.0,55,29.88,10.0,Variable,5.8,-,N/A,,Scattered Clouds,0,2001-07-21 17:56:00
+1:56 PM,91.0,73.0,55,29.86,10.0,WNW,9.2,-,N/A,,Scattered Clouds,290,2001-07-21 18:56:00
+2:56 PM,91.0,73.0,55,29.85,10.0,NW,9.2,-,N/A,,Mostly Cloudy,310,2001-07-21 19:56:00
+3:56 PM,90.0,73.0,57,29.83,10.0,NW,5.8,-,0.00,,Mostly Cloudy,310,2001-07-21 20:56:00
+4:56 PM,91.9,72.0,52,29.81,10.0,Variable,5.8,-,N/A,,Mostly Cloudy,0,2001-07-21 21:56:00
+5:56 PM,88.0,72.0,59,29.81,10.0,ENE,11.5,21.9,N/A,,Mostly Cloudy,70,2001-07-21 22:56:00
+6:56 PM,86.0,73.0,65,29.82,10.0,SE,13.8,-,N/A,Thunderstorm,Thunderstorm,130,2001-07-21 23:56:00
+7:56 PM,79.0,75.0,88,29.84,10.0,South,6.9,-,N/A,Thunderstorm,Thunderstorm,190,2001-07-22 00:56:00
+8:56 PM,75.0,70.0,84,29.85,10.0,WSW,6.9,-,N/A,Thunderstorm,Thunderstorm,250,2001-07-22 01:56:00
+9:31 PM,75.2,69.8,83,29.87,10.0,West,9.2,-,N/A,,Mostly Cloudy,270,2001-07-22 02:31:00
+9:56 PM,77.0,72.0,84,29.85,10.0,WNW,6.9,-,N/A,,Mostly Cloudy,290,2001-07-22 02:56:00
+10:56 PM,75.0,71.1,87,29.87,10.0,South,4.6,-,N/A,,Scattered Clouds,170,2001-07-22 03:56:00
+11:56 PM,73.0,71.1,93,29.87,10.0,SW,4.6,-,N/A,,Partly Cloudy,230,2001-07-22 04:56:00

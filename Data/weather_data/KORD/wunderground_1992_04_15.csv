@@ -1,0 +1,32 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,42.1,32.0,67,30.24,10.0,ENE,8.1,-,N/A,,Scattered Clouds,70,1992-04-15 05:00:00
+1:00 AM,41.0,32.0,70,30.23,10.0,East,10.4,-,N/A,,Scattered Clouds,90,1992-04-15 06:00:00
+2:00 AM,42.1,32.0,67,30.22,10.0,East,10.4,-,N/A,,Scattered Clouds,90,1992-04-15 07:00:00
+3:00 AM,42.1,33.1,70,30.19,8.0,East,11.5,-,N/A,,Mostly Cloudy,90,1992-04-15 08:00:00
+4:00 AM,42.1,34.0,73,30.17,10.0,ESE,12.7,-,N/A,,Mostly Cloudy,110,1992-04-15 09:00:00
+5:00 AM,42.1,34.0,73,30.18,10.0,ESE,12.7,-,N/A,,Mostly Cloudy,120,1992-04-15 10:00:00
+6:00 AM,43.0,33.1,68,30.18,10.0,ESE,12.7,-,N/A,,Overcast,110,1992-04-15 11:00:00
+7:00 AM,44.1,32.0,63,30.18,5.0,ESE,11.5,-,N/A,,Drizzle,110,1992-04-15 12:00:00
+7:07 AM,-9999,-9999,N/A,30.25,3.0,NNW,16.1,23.0,N/A,Thunderstorm,Unknown,340,1992-04-15 12:07:00
+7:27 AM,-9999,-9999,N/A,30.27,2.0,North,17.3,27.6,N/A,Rain-Thunderstorm,Thunderstorms and Rain,350,1992-04-15 12:27:00
+8:00 AM,39.9,36.0,86,30.25,2.0,East,13.8,-,0.17,Fog-Rain-Thunderstorm,Thunderstorms and Rain,90,1992-04-15 13:00:00
+8:19 AM,-9999,-9999,N/A,30.13,2.0,ESE,17.3,-,N/A,Fog-Rain,Light Rain Showers,120,1992-04-15 13:19:00
+9:00 AM,39.9,37.0,89,30.20,4.0,East,11.5,-,0.10,Fog-Rain,Light Rain Showers,100,1992-04-15 14:00:00
+10:00 AM,43.0,39.0,86,30.18,4.0,ESE,9.2,-,0.03,Fog-Rain,Light Rain Showers,110,1992-04-15 15:00:00
+11:00 AM,45.0,39.9,82,30.17,5.0,SE,9.2,-,N/A,Fog,Fog,130,1992-04-15 16:00:00
+12:00 PM,50.0,44.1,80,30.15,5.0,SSE,8.1,-,N/A,Fog,Fog,160,1992-04-15 17:00:00
+1:00 PM,53.1,45.0,74,30.13,5.0,SE,5.8,-,N/A,,Drizzle,140,1992-04-15 18:00:00
+2:00 PM,55.9,46.9,72,30.11,5.0,SSE,10.4,-,N/A,,Drizzle,150,1992-04-15 19:00:00
+3:00 PM,53.1,44.1,71,30.09,5.0,East,11.5,-,N/A,,Drizzle,90,1992-04-15 20:00:00
+4:00 PM,53.1,45.0,74,30.04,5.0,SE,9.2,-,N/A,,Drizzle,130,1992-04-15 21:00:00
+5:00 PM,55.9,46.0,69,30.02,5.0,ESE,9.2,-,N/A,,Drizzle,110,1992-04-15 22:00:00
+6:00 PM,57.0,48.0,72,30.01,5.0,ESE,10.4,-,N/A,,Drizzle,120,1992-04-15 23:00:00
+7:00 PM,57.0,48.9,74,29.98,5.0,ESE,9.2,-,N/A,,Drizzle,110,1992-04-16 00:00:00
+7:40 PM,-9999,-9999,N/A,29.95,5.0,SSE,9.2,-,N/A,Thunderstorm,Unknown,150,1992-04-16 00:40:00
+8:00 PM,55.0,46.9,74,29.96,5.0,North,4.6,-,0.09,Rain-Thunderstorm,Light Thunderstorms and Rain,350,1992-04-16 01:00:00
+8:12 PM,-9999,-9999,N/A,29.95,6.0,ESE,12.7,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,120,1992-04-16 01:12:00
+9:00 PM,54.0,53.1,97,29.98,4.0,South,6.9,-,0.21,Fog-Rain-Thunderstorm,Thunderstorms and Rain,170,1992-04-16 02:00:00
+9:12 PM,-9999,-9999,N/A,29.97,5.0,ESE,9.2,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,120,1992-04-16 02:12:00
+9:32 PM,-9999,-9999,N/A,29.95,5.0,SSE,10.4,-,N/A,Fog-Rain,Light Rain Showers,150,1992-04-16 02:32:00
+10:00 PM,55.0,54.0,96,29.95,5.0,SSE,11.5,-,0.09,Fog-Rain,Light Rain Showers,150,1992-04-16 03:00:00
+11:00 PM,55.0,53.1,93,29.96,4.0,South,9.2,-,0.02,Fog-Rain,Light Rain,180,1992-04-16 04:00:00

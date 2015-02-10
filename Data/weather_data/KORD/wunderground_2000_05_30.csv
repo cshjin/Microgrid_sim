@@ -1,0 +1,31 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,55.0,48.0,77,29.99,10.0,East,4.6,-,N/A,,Scattered Clouds,80,2000-05-30 05:56:00
+1:56 AM,52.0,48.9,89,29.99,10.0,East,3.5,-,N/A,,Scattered Clouds,90,2000-05-30 06:56:00
+2:56 AM,52.0,48.9,89,29.97,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,2000-05-30 07:56:00
+3:56 AM,51.1,48.9,92,29.96,10.0,SE,3.5,-,N/A,,Partly Cloudy,130,2000-05-30 08:56:00
+4:56 AM,52.0,50.0,93,29.96,10.0,SSE,8.1,-,N/A,,Scattered Clouds,150,2000-05-30 09:56:00
+5:56 AM,55.9,53.1,90,29.96,10.0,SSE,6.9,-,N/A,,Scattered Clouds,150,2000-05-30 10:56:00
+6:56 AM,57.9,54.0,87,29.94,7.0,SSE,10.4,-,N/A,,Partly Cloudy,160,2000-05-30 11:56:00
+7:56 AM,60.1,55.0,83,29.95,10.0,SSE,8.1,-,N/A,,Overcast,150,2000-05-30 12:56:00
+8:56 AM,62.1,55.0,78,29.95,10.0,SSE,12.7,-,N/A,,Overcast,150,2000-05-30 13:56:00
+9:56 AM,63.0,57.0,81,29.95,10.0,SSE,10.4,-,N/A,,Overcast,160,2000-05-30 14:56:00
+10:44 AM,64.4,57.2,77,29.94,10.0,South,13.8,17.3,N/A,,Overcast,170,2000-05-30 15:44:00
+10:56 AM,64.9,57.0,75,29.91,10.0,South,15.0,20.7,N/A,,Overcast,170,2000-05-30 15:56:00
+11:16 AM,64.4,57.2,77,29.91,10.0,South,11.5,-,N/A,,Overcast,180,2000-05-30 16:16:00
+11:47 AM,64.4,57.2,77,29.94,10.0,SSW,9.2,-,N/A,Thunderstorm,Thunderstorm,200,2000-05-30 16:47:00
+11:56 AM,64.9,57.2,76,29.95,6.0,South,12.7,18.4,0.02,Rain-Thunderstorm,Light Thunderstorms and Rain,170,2000-05-30 16:56:00
+12:17 PM,64.4,60.8,88,29.87,8.0,SSE,16.1,-,0.01,Rain,Light Rain,150,2000-05-30 17:17:00
+12:40 PM,66.2,60.8,83,29.99,8.0,Variable,5.8,-,0.01,Thunderstorm,Thunderstorm,0,2000-05-30 17:40:00
+12:56 PM,66.0,62.1,87,29.95,6.0,SSE,8.1,-,0.01,Rain-Thunderstorm,Light Thunderstorms and Rain,160,2000-05-30 17:56:00
+1:20 PM,66.2,62.6,88,29.92,7.0,SSE,10.4,-,0.00,,Mostly Cloudy,150,2000-05-30 18:20:00
+1:56 PM,66.9,63.0,87,29.94,7.0,South,11.5,-,0.00,,Mostly Cloudy,180,2000-05-30 18:56:00
+2:56 PM,71.1,64.9,81,29.90,7.0,South,15.0,-,N/A,,Mostly Cloudy,180,2000-05-30 19:56:00
+3:56 PM,73.9,64.9,73,29.89,10.0,South,11.5,-,N/A,,Mostly Cloudy,170,2000-05-30 20:56:00
+4:56 PM,75.0,66.9,76,29.88,10.0,South,15.0,-,N/A,,Mostly Cloudy,180,2000-05-30 21:56:00
+5:56 PM,79.0,68.0,69,29.86,10.0,South,16.1,-,N/A,,Scattered Clouds,190,2000-05-30 22:56:00
+6:56 PM,80.1,69.1,69,29.86,10.0,South,6.9,-,N/A,,Scattered Clouds,170,2000-05-30 23:56:00
+7:56 PM,77.0,70.0,79,29.87,9.0,SSE,5.8,-,N/A,,Scattered Clouds,160,2000-05-31 00:56:00
+8:56 PM,78.1,70.0,76,29.89,9.0,Calm,Calm,-,0.00,,Mostly Cloudy,0,2000-05-31 01:56:00
+9:56 PM,75.0,69.1,82,29.88,10.0,South,8.1,-,N/A,,Scattered Clouds,180,2000-05-31 02:56:00
+10:56 PM,75.9,66.9,74,29.90,10.0,South,9.2,-,N/A,,Scattered Clouds,180,2000-05-31 03:56:00
+11:56 PM,75.0,66.9,76,29.91,10.0,South,10.4,-,N/A,,Scattered Clouds,190,2000-05-31 04:56:00

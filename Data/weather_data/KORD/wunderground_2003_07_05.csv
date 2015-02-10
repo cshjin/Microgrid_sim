@@ -1,0 +1,40 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,73.0,68.0,84,29.83,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,2003-07-05 05:56:00
+1:56 AM,73.9,69.1,85,29.83,8.0,Calm,Calm,-,N/A,,Scattered Clouds,0,2003-07-05 06:56:00
+2:56 AM,73.9,69.1,85,29.82,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,2003-07-05 07:56:00
+3:13 AM,73.4,69.8,88,29.85,7.0,Calm,Calm,-,N/A,Thunderstorm,Thunderstorm,0,2003-07-05 08:13:00
+3:56 AM,73.9,70.0,87,29.84,4.0,SSE,9.2,-,0.12,Rain-Thunderstorm,Light Thunderstorms and Rain,160,2003-07-05 08:56:00
+4:04 AM,73.4,69.8,88,29.87,5.0,Variable,3.5,-,0.06,Rain-Thunderstorm,Thunderstorms and Rain,0,2003-07-05 09:04:00
+4:35 AM,71.6,68.0,88,29.85,10.0,SSW,3.5,-,0.12,Thunderstorm,Thunderstorm,200,2003-07-05 09:35:00
+4:45 AM,71.6,68.0,88,29.84,10.0,Calm,Calm,-,0.12,,Scattered Clouds,0,2003-07-05 09:45:00
+4:56 AM,72.0,66.9,84,29.83,10.0,Calm,Calm,-,0.12,,Mostly Cloudy,0,2003-07-05 09:56:00
+5:04 AM,69.8,68.0,94,29.86,10.0,SW,3.5,-,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,220,2003-07-05 10:04:00
+5:31 AM,69.8,69.8,100,29.92,1.8,WNW,23.0,47.2,0.23,Rain-Thunderstorm,Heavy Thunderstorms and Rain,300,2003-07-05 10:31:00
+5:38 AM,69.8,66.2,88,29.93,2.0,NNW,19.6,29.9,0.27,Rain-Thunderstorm,Heavy Thunderstorms and Rain,330,2003-07-05 10:38:00
+5:41 AM,69.8,66.2,88,29.93,5.0,NNW,19.6,27.6,0.28,Rain-Thunderstorm,Thunderstorms and Rain,330,2003-07-05 10:41:00
+5:49 AM,69.8,66.2,88,29.92,10.0,NNW,16.1,-,0.28,Rain-Thunderstorm,Light Thunderstorms and Rain,340,2003-07-05 10:49:00
+5:56 AM,69.1,66.0,90,29.89,10.0,North,12.7,-,0.28,Rain-Thunderstorm,Light Thunderstorms and Rain,360,2003-07-05 10:56:00
+6:15 AM,69.8,64.4,83,29.90,10.0,Calm,Calm,-,0.02,Rain,Light Rain,0,2003-07-05 11:15:00
+6:56 AM,68.0,66.0,93,29.90,10.0,South,10.4,-,0.02,,Overcast,170,2003-07-05 11:56:00
+7:29 AM,69.8,66.2,88,29.91,10.0,South,8.1,-,N/A,,Mostly Cloudy,180,2003-07-05 12:29:00
+7:56 AM,69.1,66.9,93,29.89,10.0,South,5.8,-,N/A,,Mostly Cloudy,180,2003-07-05 12:56:00
+8:56 AM,73.0,68.0,84,29.90,10.0,SSE,9.2,-,N/A,,Scattered Clouds,160,2003-07-05 13:56:00
+9:19 AM,73.4,68.0,83,29.93,10.0,South,12.7,-,N/A,,Mostly Cloudy,170,2003-07-05 14:19:00
+9:32 AM,75.2,68.0,78,29.93,10.0,South,12.7,-,N/A,,Mostly Cloudy,170,2003-07-05 14:32:00
+9:48 AM,75.2,68.0,78,29.92,10.0,SSW,10.4,-,N/A,,Scattered Clouds,200,2003-07-05 14:48:00
+9:56 AM,75.9,68.0,76,29.91,10.0,South,9.2,-,N/A,,Scattered Clouds,190,2003-07-05 14:56:00
+10:56 AM,78.1,68.0,71,29.92,10.0,WSW,6.9,-,N/A,,Mostly Cloudy,240,2003-07-05 15:56:00
+11:30 AM,78.8,69.8,74,29.93,10.0,WSW,8.1,-,N/A,,Mostly Cloudy,240,2003-07-05 16:30:00
+11:56 AM,81.0,70.0,69,29.92,10.0,SSW,8.1,-,N/A,,Mostly Cloudy,210,2003-07-05 16:56:00
+12:56 PM,82.9,66.0,56,29.91,10.0,SW,10.4,-,N/A,,Mostly Cloudy,220,2003-07-05 17:56:00
+1:56 PM,84.9,64.9,51,29.91,10.0,West,8.1,-,N/A,,Mostly Cloudy,260,2003-07-05 18:56:00
+2:56 PM,86.0,64.9,49,29.90,10.0,West,5.8,-,N/A,,Mostly Cloudy,280,2003-07-05 19:56:00
+3:56 PM,86.0,64.9,49,29.89,10.0,West,6.9,-,N/A,,Scattered Clouds,280,2003-07-05 20:56:00
+4:56 PM,86.0,64.9,49,29.88,10.0,WSW,9.2,-,N/A,,Mostly Cloudy,250,2003-07-05 21:56:00
+5:56 PM,86.0,64.9,49,29.88,10.0,WNW,8.1,-,N/A,,Scattered Clouds,300,2003-07-05 22:56:00
+6:56 PM,86.0,64.9,49,29.88,10.0,Variable,4.6,-,N/A,,Scattered Clouds,0,2003-07-05 23:56:00
+7:56 PM,82.0,66.0,58,29.88,10.0,East,8.1,-,N/A,,Partly Cloudy,80,2003-07-06 00:56:00
+8:56 PM,79.0,63.0,58,29.90,10.0,East,8.1,-,N/A,,Scattered Clouds,100,2003-07-06 01:56:00
+9:56 PM,78.1,61.0,56,29.91,10.0,East,5.8,-,N/A,,Partly Cloudy,100,2003-07-06 02:56:00
+10:56 PM,75.0,63.0,66,29.91,10.0,SE,6.9,-,N/A,,Scattered Clouds,140,2003-07-06 03:56:00
+11:56 PM,73.0,64.9,76,29.91,10.0,SE,6.9,-,N/A,,Scattered Clouds,140,2003-07-06 04:56:00

@@ -1,0 +1,25 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,75.0,59.0,57,30.00,10.0,NW,9.2,-,N/A,,Scattered Clouds,310,1998-06-22 05:56:00
+1:56 AM,72.0,60.1,66,30.00,10.0,NW,6.9,-,N/A,,Scattered Clouds,310,1998-06-22 06:56:00
+2:56 AM,70.0,60.1,71,30.00,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1998-06-22 07:56:00
+3:56 AM,64.0,60.1,87,30.01,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1998-06-22 08:56:00
+4:56 AM,62.1,59.0,90,30.01,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,1998-06-22 09:56:00
+5:56 AM,64.9,60.1,84,30.04,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,1998-06-22 10:56:00
+6:56 AM,71.1,64.0,78,30.05,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,1998-06-22 11:56:00
+7:56 AM,75.9,61.0,60,30.06,10.0,SE,5.8,-,N/A,,Scattered Clouds,140,1998-06-22 12:56:00
+8:56 AM,77.0,60.1,56,30.07,10.0,South,5.8,-,N/A,,Mostly Cloudy,190,1998-06-22 13:56:00
+9:56 AM,80.1,59.0,48,30.07,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1998-06-22 14:56:00
+10:56 AM,82.0,60.1,47,30.08,10.0,South,6.9,-,N/A,,Mostly Cloudy,180,1998-06-22 15:56:00
+11:56 AM,82.9,60.1,46,30.07,10.0,South,11.5,-,N/A,,Overcast,190,1998-06-22 16:56:00
+12:56 PM,84.9,60.1,43,30.01,10.0,SSE,9.2,-,N/A,,Mostly Cloudy,150,1998-06-22 17:56:00
+1:56 PM,84.9,61.0,44,29.98,10.0,South,9.2,-,N/A,,Overcast,190,1998-06-22 18:56:00
+2:56 PM,82.9,60.1,46,29.93,10.0,East,15.0,-,N/A,,Overcast,100,1998-06-22 19:56:00
+3:56 PM,82.0,60.1,47,29.94,10.0,ENE,8.1,-,N/A,,Overcast,70,1998-06-22 20:56:00
+4:56 PM,81.0,61.0,50,29.96,10.0,East,10.4,-,N/A,,Overcast,80,1998-06-22 21:56:00
+5:56 PM,77.0,62.1,60,29.96,10.0,ENE,10.4,-,0.00,,Overcast,60,1998-06-22 22:56:00
+6:56 PM,75.9,63.0,64,29.95,10.0,Variable,6.9,-,N/A,,Scattered Clouds,0,1998-06-22 23:56:00
+7:56 PM,75.9,64.0,67,29.96,10.0,East,5.8,-,N/A,,Mostly Cloudy,90,1998-06-23 00:56:00
+8:56 PM,73.0,66.0,79,29.97,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1998-06-23 01:56:00
+9:56 PM,75.0,64.9,71,29.98,10.0,Calm,Calm,-,N/A,,Overcast,0,1998-06-23 02:56:00
+10:56 PM,70.0,66.0,87,29.98,10.0,South,3.5,-,N/A,,Scattered Clouds,180,1998-06-23 03:56:00
+11:56 PM,69.1,66.0,90,29.97,10.0,West,4.6,-,N/A,,Scattered Clouds,270,1998-06-23 04:56:00

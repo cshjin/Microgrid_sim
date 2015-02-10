@@ -1,0 +1,39 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,48.0,32.0,54,29.65,10.0,South,23.0,33.4,N/A,,Mostly Cloudy,190,1995-11-10 06:00:00
+1:00 AM,46.9,30.9,54,29.64,10.0,SSW,18.4,27.6,N/A,,Scattered Clouds,200,1995-11-10 07:00:00
+2:00 AM,48.9,30.9,50,29.63,10.0,SSW,20.7,32.2,N/A,,Scattered Clouds,200,1995-11-10 08:00:00
+3:00 AM,50.0,32.0,50,29.63,10.0,SSW,20.7,29.9,N/A,,Mostly Cloudy,200,1995-11-10 09:00:00
+4:00 AM,52.0,32.0,47,29.63,10.0,SSW,19.6,28.8,N/A,,Mostly Cloudy,200,1995-11-10 10:00:00
+5:00 AM,52.0,32.0,47,29.64,10.0,SSW,23.0,34.5,N/A,,Mostly Cloudy,210,1995-11-10 11:00:00
+6:00 AM,53.1,32.0,45,29.63,10.0,SSW,18.4,26.5,N/A,,Mostly Cloudy,210,1995-11-10 12:00:00
+7:00 AM,54.0,32.0,43,29.65,15.0,SSW,18.4,-,N/A,,Overcast,210,1995-11-10 13:00:00
+8:00 AM,55.0,32.0,42,29.65,15.0,SSW,23.0,26.5,N/A,,Overcast,200,1995-11-10 14:00:00
+9:00 AM,53.1,32.0,45,29.64,8.0,South,20.7,26.5,0.01,,Overcast,190,1995-11-10 15:00:00
+9:34 AM,-9999,-9999,N/A,29.62,4.0,South,9.2,-,N/A,Rain,Light Rain,180,1995-11-10 15:34:00
+9:56 AM,-9999,-9999,N/A,29.67,5.5,West,10.4,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,260,1995-11-10 15:56:00
+10:00 AM,52.0,32.0,47,29.63,5.0,SSW,6.9,-,0.22,Rain,Light Rain,200,1995-11-10 16:00:00
+10:18 AM,-9999,-9999,N/A,29.66,5.5,West,6.9,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,280,1995-11-10 16:18:00
+11:00 AM,51.1,50.0,96,29.67,5.5,SSW,5.8,-,0.47,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,200,1995-11-10 17:00:00
+11:12 AM,-9999,-9999,N/A,29.65,5.5,SW,6.9,-,N/A,Fog-Rain,Light Rain Showers,220,1995-11-10 17:12:00
+11:27 AM,-9999,-9999,N/A,29.65,5.5,SW,8.1,-,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,220,1995-11-10 17:27:00
+12:00 PM,51.1,48.9,92,29.65,3.2,WSW,9.2,-,0.28,Fog-Rain-Thunderstorm,Heavy Thunderstorms and Rain,240,1995-11-10 18:00:00
+1:00 PM,51.1,48.9,92,29.63,3.2,SSW,4.6,-,0.10,Fog-Rain-Thunderstorm,Thunderstorms and Rain,210,1995-11-10 19:00:00
+1:18 PM,-9999,-9999,N/A,29.63,3.0,South,3.5,-,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,190,1995-11-10 19:18:00
+1:36 PM,-9999,-9999,N/A,29.63,2.0,SSE,9.2,-,N/A,Fog-Rain,Light Rain Showers,160,1995-11-10 19:36:00
+2:00 PM,51.1,48.9,92,29.63,5.5,SE,6.9,-,0.08,Fog-Rain,Rain Showers,140,1995-11-10 20:00:00
+2:21 PM,-9999,-9999,N/A,29.63,5.5,SSE,5.8,-,N/A,Fog-Rain,Light Rain Showers,160,1995-11-10 20:21:00
+3:00 PM,51.1,48.9,92,29.63,5.5,Calm,Calm,-,0.12,Fog-Rain,Rain Showers,0,1995-11-10 21:00:00
+3:13 PM,-9999,-9999,N/A,29.63,5.5,Calm,Calm,-,N/A,Fog-Rain,Rain Showers,0,1995-11-10 21:13:00
+4:00 PM,46.0,43.0,89,29.65,5.5,NE,18.4,-,0.11,Fog-Rain,Light Rain Showers,40,1995-11-10 22:00:00
+4:38 PM,-9999,-9999,N/A,29.64,5.5,NE,18.4,-,N/A,Fog-Rain,Rain Showers,40,1995-11-10 22:38:00
+5:00 PM,41.0,39.0,93,29.65,2.0,NE,19.6,-,0.11,Fog-Rain,Rain Showers,40,1995-11-10 23:00:00
+6:00 PM,39.9,37.9,93,29.63,2.0,NE,17.3,-,0.20,Fog-Rain,Rain Showers,40,1995-11-11 00:00:00
+7:00 PM,39.9,36.0,86,29.62,2.0,NNE,19.6,-,0.14,Fog-Rain,Rain,20,1995-11-11 01:00:00
+7:07 PM,-9999,-9999,N/A,29.60,3.0,NNE,19.6,-,N/A,Fog-Rain,Rain,30,1995-11-11 01:07:00
+8:00 PM,39.9,35.1,83,29.58,3.0,NNE,17.3,24.2,0.12,Fog-Rain,Rain,30,1995-11-11 02:00:00
+9:00 PM,39.9,37.9,93,29.57,3.0,NNE,21.9,-,0.11,Fog-Rain,Rain,30,1995-11-11 03:00:00
+9:15 PM,-9999,-9999,N/A,29.59,2.0,North,19.6,24.2,N/A,Fog-Rain,Rain,360,1995-11-11 03:15:00
+10:00 PM,37.9,36.0,93,29.60,4.0,North,20.7,-,0.16,Fog-Rain,Rain,360,1995-11-11 04:00:00
+11:00 PM,37.9,36.0,93,29.61,7.0,North,17.3,24.2,0.10,Rain,Light Rain,350,1995-11-11 05:00:00
+11:09 PM,-9999,-9999,N/A,29.59,7.0,North,18.4,26.5,N/A,Rain,Light Rain,360,1995-11-11 05:09:00
+11:17 PM,-9999,-9999,N/A,29.59,5.0,North,18.4,26.5,N/A,Fog-Rain,Light Rain,360,1995-11-11 05:17:00

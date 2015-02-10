@@ -1,0 +1,38 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,57.0,39.0,51,29.76,8.0,SSE,13.8,-,N/A,,Overcast,150,1992-10-14 05:00:00
+1:00 AM,57.0,39.0,51,29.72,8.0,South,15.0,-,N/A,Rain,Light Rain,170,1992-10-14 06:00:00
+2:00 AM,55.9,39.9,55,29.69,8.0,SSE,8.1,-,N/A,,Mostly Cloudy,160,1992-10-14 07:00:00
+3:00 AM,55.0,42.1,62,29.67,8.0,South,5.8,-,N/A,,Mostly Cloudy,170,1992-10-14 08:00:00
+4:00 AM,52.0,43.0,71,29.67,8.0,West,4.6,-,N/A,,Clear,280,1992-10-14 09:00:00
+5:00 AM,53.1,46.0,77,29.71,8.0,South,5.8,-,N/A,,Partly Cloudy,190,1992-10-14 10:00:00
+6:00 AM,55.9,50.0,80,29.73,10.0,SW,9.2,-,N/A,,Partly Cloudy,220,1992-10-14 11:00:00
+7:00 AM,57.0,50.0,77,29.76,10.0,West,11.5,-,N/A,,Overcast,260,1992-10-14 12:00:00
+8:00 AM,55.9,50.0,80,29.81,10.0,West,8.1,-,N/A,,Overcast,270,1992-10-14 13:00:00
+9:00 AM,57.0,50.0,77,29.81,10.0,West,5.8,-,N/A,,Overcast,270,1992-10-14 14:00:00
+10:00 AM,59.0,48.9,69,29.86,10.0,NW,5.8,-,N/A,,Overcast,310,1992-10-14 15:00:00
+11:00 AM,61.0,48.0,62,29.88,10.0,WNW,6.9,-,N/A,,Overcast,290,1992-10-14 16:00:00
+12:00 PM,63.0,48.0,58,29.88,10.0,NNE,5.8,-,N/A,,Overcast,30,1992-10-14 17:00:00
+1:00 PM,63.0,48.9,60,29.86,10.0,NNE,9.2,-,N/A,,Overcast,20,1992-10-14 18:00:00
+2:00 PM,62.1,48.9,62,29.90,10.0,North,9.2,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,350,1992-10-14 19:00:00
+2:15 PM,-9999,-9999,N/A,29.88,7.0,NNE,11.5,19.6,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,30,1992-10-14 19:15:00
+2:34 PM,-9999,-9999,N/A,29.94,6.0,NNE,13.8,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,20,1992-10-14 19:34:00
+3:00 PM,57.0,53.1,87,29.94,7.0,NNE,13.8,-,0.08,Rain-Thunderstorm,Light Thunderstorms and Rain,30,1992-10-14 20:00:00
+3:16 PM,-9999,-9999,N/A,29.91,7.0,NE,15.0,-,N/A,,Overcast,50,1992-10-14 20:16:00
+3:27 PM,-9999,-9999,N/A,29.91,7.0,NNE,15.0,21.9,N/A,Thunderstorm,Thunderstorm,30,1992-10-14 20:27:00
+3:33 PM,-9999,-9999,N/A,29.91,4.0,NNE,16.1,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,30,1992-10-14 20:33:00
+4:00 PM,55.0,53.1,93,29.93,4.0,NE,13.8,-,0.02,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,50,1992-10-14 21:00:00
+4:28 PM,-9999,-9999,N/A,29.91,4.0,NE,15.0,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,40,1992-10-14 21:28:00
+5:00 PM,53.1,51.1,93,29.92,4.0,NNE,13.8,-,0.05,Fog-Rain,Light Rain,30,1992-10-14 22:00:00
+6:00 PM,54.0,51.1,90,29.93,5.0,North,15.0,-,N/A,Fog,Fog,10,1992-10-14 23:00:00
+7:00 PM,53.1,50.0,89,29.92,7.0,NNE,17.3,-,N/A,,Overcast,20,1992-10-15 00:00:00
+7:34 PM,-9999,-9999,N/A,29.95,5.0,North,17.3,-,N/A,Rain,Light Rain,360,1992-10-15 00:34:00
+8:00 PM,50.0,46.9,89,29.96,7.0,NNE,15.0,-,0.05,Rain,Light Rain,20,1992-10-15 01:00:00
+8:28 PM,-9999,-9999,N/A,29.94,7.0,NE,18.4,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,40,1992-10-15 01:28:00
+8:59 PM,-9999,-9999,N/A,29.95,4.0,NNE,15.0,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,20,1992-10-15 01:59:00
+9:00 PM,48.0,46.0,93,29.95,4.0,NNE,16.1,-,0.18,Fog-Rain-Thunderstorm,Thunderstorms and Rain,30,1992-10-15 02:00:00
+9:19 PM,-9999,-9999,N/A,29.96,4.0,NNE,13.8,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,20,1992-10-15 02:19:00
+9:35 PM,-9999,-9999,N/A,29.97,7.0,NNE,15.0,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,20,1992-10-15 02:35:00
+10:00 PM,50.0,48.0,93,29.99,8.0,North,16.1,-,0.09,Rain-Thunderstorm,Light Thunderstorms and Rain,10,1992-10-15 03:00:00
+10:20 PM,-9999,-9999,N/A,30.00,4.0,NNE,17.3,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,30,1992-10-15 03:20:00
+11:00 PM,50.0,48.9,96,29.97,5.0,NNE,17.3,-,0.04,Fog-Rain,Light Rain Showers,30,1992-10-15 04:00:00
+11:33 PM,-9999,-9999,N/A,29.94,7.0,NE,11.5,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,40,1992-10-15 04:33:00

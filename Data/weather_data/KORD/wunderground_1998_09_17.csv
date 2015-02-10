@@ -1,0 +1,25 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,66.9,64.9,93,30.11,8.0,Variable,4.6,-,N/A,,Mostly Cloudy,0,1998-09-17 05:56:00
+1:56 AM,64.9,64.0,97,30.10,7.0,North,3.5,-,N/A,,Scattered Clouds,360,1998-09-17 06:56:00
+2:56 AM,64.9,64.0,97,30.10,6.0,North,4.6,-,N/A,,Scattered Clouds,360,1998-09-17 07:56:00
+3:56 AM,64.9,64.0,97,30.10,5.0,North,5.8,-,N/A,,Mostly Cloudy,360,1998-09-17 08:56:00
+4:56 AM,64.9,64.0,97,30.10,10.0,North,4.6,-,N/A,,Mostly Cloudy,10,1998-09-17 09:56:00
+6:56 AM,64.0,63.0,96,30.11,2.0,NNE,4.6,-,N/A,,Scattered Clouds,20,1998-09-17 11:56:00
+7:29 AM,64.4,62.6,94,30.11,3.0,NNE,6.9,-,N/A,,Scattered Clouds,20,1998-09-17 12:29:00
+7:56 AM,66.9,64.0,90,30.11,3.0,NE,8.1,-,N/A,,Scattered Clouds,40,1998-09-17 12:56:00
+8:56 AM,70.0,62.1,76,30.12,10.0,ENE,8.1,-,N/A,,Scattered Clouds,60,1998-09-17 13:56:00
+9:56 AM,73.0,61.0,66,30.12,10.0,ENE,6.9,21.9,N/A,,Scattered Clouds,70,1998-09-17 14:56:00
+10:56 AM,75.0,59.0,57,30.12,10.0,NE,8.1,-,N/A,,Scattered Clouds,40,1998-09-17 15:56:00
+11:56 AM,73.9,55.9,53,30.11,10.0,East,8.1,17.3,N/A,,Scattered Clouds,80,1998-09-17 16:56:00
+12:56 PM,75.9,57.0,52,30.10,10.0,East,6.9,17.3,N/A,,Scattered Clouds,80,1998-09-17 17:56:00
+1:56 PM,75.9,55.0,48,30.09,10.0,ENE,9.2,20.7,N/A,,Scattered Clouds,60,1998-09-17 18:56:00
+2:56 PM,73.9,53.1,48,30.07,10.0,ENE,9.2,-,N/A,,Mostly Cloudy,70,1998-09-17 19:56:00
+3:56 PM,73.9,52.0,46,30.06,10.0,Variable,6.9,16.1,N/A,,Mostly Cloudy,0,1998-09-17 20:56:00
+4:56 PM,73.9,50.0,43,30.05,10.0,NE,5.8,-,N/A,,Mostly Cloudy,40,1998-09-17 21:56:00
+5:56 PM,73.0,52.0,48,30.05,10.0,ENE,5.8,-,N/A,,Scattered Clouds,60,1998-09-17 22:56:00
+6:56 PM,70.0,54.0,57,30.05,10.0,ENE,8.1,-,N/A,,Scattered Clouds,70,1998-09-17 23:56:00
+7:56 PM,68.0,57.0,68,30.06,10.0,Variable,4.6,-,N/A,,Scattered Clouds,0,1998-09-18 00:56:00
+8:56 PM,68.0,57.0,68,30.06,10.0,Variable,4.6,-,N/A,,Partly Cloudy,0,1998-09-18 01:56:00
+9:56 PM,66.0,57.0,73,30.06,10.0,ENE,3.5,-,N/A,,Clear,70,1998-09-18 02:56:00
+10:56 PM,64.9,57.0,75,30.06,10.0,ENE,4.6,-,N/A,,Clear,70,1998-09-18 03:56:00
+11:56 PM,59.0,57.0,93,30.06,10.0,Calm,Calm,-,N/A,,Clear,0,1998-09-18 04:56:00

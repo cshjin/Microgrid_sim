@@ -1,0 +1,24 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,46.0,39.0,76,30.40,10.0,South,6.9,-,N/A,,Partly Cloudy,170,1996-10-05 05:56:00
+1:56 AM,46.0,39.0,76,30.40,10.0,SSE,6.9,-,N/A,,Partly Cloudy,160,1996-10-05 06:56:00
+2:56 AM,45.0,39.0,80,30.39,10.0,SSE,6.9,-,N/A,,Partly Cloudy,160,1996-10-05 07:56:00
+3:56 AM,43.0,37.9,82,30.39,10.0,South,5.8,-,N/A,,Partly Cloudy,180,1996-10-05 08:56:00
+4:56 AM,43.0,37.9,82,30.39,10.0,SSE,5.8,-,N/A,,Partly Cloudy,160,1996-10-05 09:56:00
+5:56 AM,41.0,37.9,89,30.40,10.0,SSE,3.5,-,N/A,,Scattered Clouds,160,1996-10-05 10:56:00
+6:56 AM,39.0,37.0,93,30.40,10.0,SSE,4.6,-,N/A,,Scattered Clouds,150,1996-10-05 11:56:00
+7:56 AM,44.1,41.0,89,30.42,10.0,SSE,3.5,-,N/A,,Mostly Cloudy,160,1996-10-05 12:56:00
+8:56 AM,48.9,41.0,74,30.42,10.0,SSE,5.8,-,N/A,,Scattered Clouds,160,1996-10-05 13:56:00
+9:56 AM,54.0,42.1,64,30.42,10.0,South,6.9,-,N/A,,Scattered Clouds,180,1996-10-05 14:56:00
+10:56 AM,57.0,43.0,59,30.39,10.0,South,8.1,-,N/A,,Scattered Clouds,180,1996-10-05 15:56:00
+11:56 AM,61.0,45.0,56,30.37,10.0,South,8.1,-,N/A,,Partly Cloudy,190,1996-10-05 16:56:00
+12:56 PM,64.0,44.1,48,30.34,10.0,South,6.9,-,N/A,,Partly Cloudy,190,1996-10-05 17:56:00
+2:56 PM,68.0,44.1,42,30.30,10.0,SSE,8.1,-,N/A,,Scattered Clouds,160,1996-10-05 19:56:00
+3:56 PM,68.0,45.0,43,30.28,10.0,South,12.7,-,N/A,,Clear,170,1996-10-05 20:56:00
+4:56 PM,66.9,44.1,44,30.27,10.0,South,9.2,-,N/A,,Scattered Clouds,170,1996-10-05 21:56:00
+5:56 PM,63.0,45.0,52,30.27,10.0,South,6.9,-,N/A,,Scattered Clouds,170,1996-10-05 22:56:00
+6:56 PM,57.9,50.0,75,30.27,10.0,ESE,6.9,-,N/A,,Scattered Clouds,120,1996-10-05 23:56:00
+7:56 PM,54.0,48.9,83,30.27,10.0,SSE,8.1,-,N/A,,Partly Cloudy,150,1996-10-06 00:56:00
+8:56 PM,53.1,46.0,77,30.26,10.0,SSE,8.1,-,N/A,,Partly Cloudy,160,1996-10-06 01:56:00
+9:56 PM,53.1,44.1,71,30.25,10.0,South,8.1,-,N/A,,Partly Cloudy,170,1996-10-06 02:56:00
+10:56 PM,52.0,43.0,71,30.25,10.0,South,6.9,-,N/A,,Partly Cloudy,170,1996-10-06 03:56:00
+11:56 PM,51.1,43.0,74,30.25,10.0,South,5.8,-,N/A,,Scattered Clouds,170,1996-10-06 04:56:00

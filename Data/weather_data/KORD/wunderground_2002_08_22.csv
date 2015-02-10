@@ -1,0 +1,52 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,81.0,75.0,82,29.93,7.0,SSW,17.3,-,0.00,Rain,Light Rain,210,2002-08-22 05:56:00
+1:20 AM,80.6,75.2,84,29.94,7.0,WNW,20.7,25.3,0.01,Rain-Thunderstorm,Light Thunderstorms and Rain,300,2002-08-22 06:20:00
+1:33 AM,71.6,71.6,100,29.99,3.0,NW,23.0,34.5,0.24,Rain-Thunderstorm,Heavy Thunderstorms and Rain,310,2002-08-22 06:33:00
+1:35 AM,71.6,71.6,100,29.99,2.0,WNW,21.9,34.5,0.26,Rain-Thunderstorm,Heavy Thunderstorms and Rain,300,2002-08-22 06:35:00
+1:56 AM,71.1,71.1,100,29.99,2.0,West,11.5,-,0.62,Rain-Thunderstorm,Heavy Thunderstorms and Rain,270,2002-08-22 06:56:00
+2:49 AM,69.8,69.8,100,30.00,1.2,NNW,12.7,-,1.20,Rain-Thunderstorm,Heavy Thunderstorms and Rain,340,2002-08-22 07:49:00
+2:56 AM,70.0,70.0,100,29.98,1.2,NNW,10.4,-,1.35,Rain-Thunderstorm,Heavy Thunderstorms and Rain,330,2002-08-22 07:56:00
+3:41 AM,71.6,71.6,100,29.99,2.0,Calm,Calm,-,0.82,Rain-Thunderstorm,Heavy Thunderstorms and Rain,0,2002-08-22 08:41:00
+3:56 AM,71.1,71.1,100,29.98,1.0,Calm,Calm,-,1.14,Rain-Thunderstorm,Heavy Thunderstorms and Rain,0,2002-08-22 08:56:00
+4:20 AM,71.6,71.6,100,29.99,2.0,West,5.8,-,0.16,Rain-Thunderstorm,Heavy Thunderstorms and Rain,270,2002-08-22 09:20:00
+4:56 AM,71.1,71.1,100,29.96,2.0,SE,3.5,-,0.23,Thunderstorm,Overcast,130,2002-08-22 09:56:00
+5:01 AM,71.6,71.6,100,29.98,3.0,SE,4.6,-,0.02,Thunderstorm,Overcast,140,2002-08-22 10:01:00
+5:26 AM,71.6,71.6,100,29.98,5.0,South,5.8,-,0.08,,Overcast,180,2002-08-22 10:26:00
+5:41 AM,71.6,71.6,100,29.98,6.0,South,6.9,-,0.09,Rain,Light Rain,190,2002-08-22 10:41:00
+5:56 AM,71.1,71.1,100,29.98,2.0,South,8.1,-,0.23,Rain-Thunderstorm,Heavy Thunderstorms and Rain,190,2002-08-22 10:56:00
+6:21 AM,69.8,69.8,100,29.99,4.0,WSW,6.9,-,0.16,Rain-Thunderstorm,Light Thunderstorms and Rain,240,2002-08-22 11:21:00
+6:28 AM,69.8,69.8,100,30.01,6.0,WSW,9.2,-,0.17,Rain,Light Rain,240,2002-08-22 11:28:00
+6:56 AM,70.0,70.0,100,30.00,10.0,SW,5.8,-,0.21,Rain,Light Rain,220,2002-08-22 11:56:00
+7:18 AM,69.8,69.8,100,30.01,10.0,West,3.5,-,0.00,Thunderstorm,Overcast,270,2002-08-22 12:18:00
+7:23 AM,69.8,69.8,100,30.02,2.0,West,4.6,-,0.03,Rain-Thunderstorm,Thunderstorms and Rain,260,2002-08-22 12:23:00
+7:28 AM,69.8,69.8,100,30.02,0.8,West,5.8,-,0.12,Rain-Thunderstorm,Heavy Thunderstorms and Rain,280,2002-08-22 12:28:00
+7:38 AM,69.8,69.8,100,30.04,0.8,NW,11.5,-,0.31,Rain-Thunderstorm,Heavy Thunderstorms and Rain,310,2002-08-22 12:38:00
+7:56 AM,69.1,69.1,100,30.01,1.0,South,5.8,-,0.49,Rain-Thunderstorm,Thunderstorms and Rain,180,2002-08-22 12:56:00
+7:58 AM,69.8,69.8,100,30.02,2.0,South,4.6,-,0.00,Rain-Thunderstorm,Thunderstorms and Rain,180,2002-08-22 12:58:00
+8:07 AM,69.8,69.8,100,30.03,3.0,Calm,Calm,-,0.03,Rain-Thunderstorm,Thunderstorms and Rain,0,2002-08-22 13:07:00
+8:16 AM,69.8,69.8,100,30.04,5.0,SW,4.6,-,0.04,Rain,Light Rain,230,2002-08-22 13:16:00
+8:38 AM,69.8,69.8,100,30.02,3.0,SSW,3.5,-,0.10,Rain,Light Rain,210,2002-08-22 13:38:00
+8:56 AM,69.1,69.1,100,29.99,10.0,SSE,5.8,-,0.11,Rain,Light Rain,160,2002-08-22 13:56:00
+9:38 AM,69.8,69.8,100,30.02,8.0,Calm,Calm,-,0.01,Rain,Light Rain,0,2002-08-22 14:38:00
+9:56 AM,70.0,70.0,100,30.00,6.0,SSE,5.8,-,0.04,Rain,Light Rain,160,2002-08-22 14:56:00
+10:30 AM,71.6,71.6,100,30.03,6.0,WNW,6.9,-,0.01,Rain,Light Rain,290,2002-08-22 15:30:00
+10:37 AM,71.6,71.6,100,30.04,5.0,West,4.6,-,0.02,Rain,Light Rain,280,2002-08-22 15:37:00
+10:56 AM,71.1,71.1,100,30.02,8.0,WSW,4.6,-,0.02,Rain,Light Rain,250,2002-08-22 15:56:00
+11:56 AM,73.9,73.0,97,30.04,10.0,West,8.1,-,0.00,,Overcast,260,2002-08-22 16:56:00
+12:56 PM,75.0,72.0,90,30.03,10.0,Calm,Calm,-,N/A,,Overcast,0,2002-08-22 17:56:00
+1:56 PM,77.0,73.0,88,30.03,10.0,Calm,Calm,-,N/A,,Overcast,0,2002-08-22 18:56:00
+2:56 PM,77.0,72.0,84,30.03,10.0,NE,3.5,-,N/A,,Overcast,40,2002-08-22 19:56:00
+3:56 PM,72.0,71.1,97,30.03,10.0,NE,10.4,-,0.01,Rain,Light Rain,50,2002-08-22 20:56:00
+4:10 PM,71.6,69.8,94,30.03,10.0,NE,10.4,-,N/A,,Mostly Cloudy,50,2002-08-22 21:10:00
+4:33 PM,71.6,69.8,94,30.03,10.0,NNE,9.2,-,N/A,,Overcast,30,2002-08-22 21:33:00
+4:56 PM,71.1,69.1,93,30.03,10.0,NE,10.4,18.4,N/A,,Overcast,40,2002-08-22 21:56:00
+5:56 PM,70.0,68.0,93,30.02,10.0,NE,6.9,19.6,N/A,,Mostly Cloudy,40,2002-08-22 22:56:00
+6:56 PM,71.1,69.1,93,30.03,10.0,NE,8.1,16.1,N/A,,Mostly Cloudy,40,2002-08-22 23:56:00
+7:56 PM,69.1,68.0,96,30.04,10.0,NE,8.1,-,N/A,,Overcast,50,2002-08-23 00:56:00
+8:13 PM,68.0,68.0,100,30.05,9.0,ENE,8.1,-,N/A,,Overcast,60,2002-08-23 01:13:00
+8:56 PM,68.0,68.0,100,30.06,5.0,NE,11.5,-,N/A,,Overcast,40,2002-08-23 01:56:00
+9:00 PM,68.0,68.0,100,30.07,1.0,NE,10.4,-,N/A,,Overcast,40,2002-08-23 02:00:00
+9:13 PM,66.2,66.2,100,30.07,1.0,NE,9.2,-,N/A,,Overcast,40,2002-08-23 02:13:00
+9:56 PM,66.9,66.9,100,30.07,3.0,NNE,8.1,-,N/A,,Overcast,30,2002-08-23 02:56:00
+10:56 PM,68.0,68.0,100,30.06,4.0,NE,9.2,-,N/A,,Overcast,40,2002-08-23 03:56:00
+11:56 PM,66.9,66.9,100,30.05,2.5,Variable,6.9,-,N/A,,Overcast,0,2002-08-23 04:56:00

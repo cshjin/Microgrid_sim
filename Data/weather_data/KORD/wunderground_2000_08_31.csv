@@ -1,0 +1,7 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+6:56 PM,84.9,68.0,57,29.91,10.0,South,5.8,-,N/A,,Partly Cloudy,180,2000-08-31 23:56:00
+7:56 PM,81.0,66.9,62,29.91,10.0,South,5.8,-,N/A,,Partly Cloudy,180,2000-09-01 00:56:00
+8:56 PM,80.1,66.9,64,29.92,10.0,South,5.8,-,N/A,,Partly Cloudy,170,2000-09-01 01:56:00
+9:56 PM,79.0,66.9,66,29.93,10.0,South,5.8,-,N/A,,Clear,180,2000-09-01 02:56:00
+10:56 PM,77.0,66.9,71,29.94,10.0,South,6.9,-,N/A,,Clear,180,2000-09-01 03:56:00
+11:56 PM,75.0,66.9,76,29.95,10.0,South,5.8,-,N/A,,Clear,170,2000-09-01 04:56:00

@@ -1,0 +1,38 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,51.1,39.9,66,30.01,10.0,ENE,4.6,-,N/A,,Overcast,60,1995-04-26 05:00:00
+1:00 AM,48.9,43.0,80,30.01,10.0,North,4.6,-,0.01,Rain,Light Rain Showers,350,1995-04-26 06:00:00
+2:00 AM,48.9,46.0,90,30.00,8.0,NE,4.6,-,0.01,Rain,Light Rain Showers,40,1995-04-26 07:00:00
+3:00 AM,48.0,46.0,93,29.97,10.0,SE,6.9,-,N/A,,Overcast,130,1995-04-26 08:00:00
+4:00 AM,48.0,46.0,93,29.97,8.0,NNW,8.1,-,N/A,Rain,Light Rain Showers,330,1995-04-26 09:00:00
+5:00 AM,48.0,46.9,96,29.97,8.0,NNE,4.6,-,0.01,Rain,Light Rain Showers,20,1995-04-26 10:00:00
+6:00 AM,46.9,46.0,97,29.96,6.0,Calm,Calm,-,N/A,Fog-Rain,Light Rain Showers,0,1995-04-26 11:00:00
+7:00 AM,50.0,44.1,80,29.95,8.0,South,8.1,-,0.01,,Mostly Cloudy,180,1995-04-26 12:00:00
+8:00 AM,52.0,44.1,74,29.96,8.0,SSW,8.1,-,N/A,,Overcast,200,1995-04-26 13:00:00
+9:00 AM,53.1,44.1,71,29.97,15.0,SW,11.5,-,N/A,,Overcast,230,1995-04-26 14:00:00
+10:00 AM,51.1,46.9,86,29.97,5.0,SW,6.9,-,0.05,Fog-Rain,Light Rain Showers,230,1995-04-26 15:00:00
+11:00 AM,51.1,48.9,92,29.96,5.0,SSW,4.6,-,0.08,Fog-Rain,Light Rain,210,1995-04-26 16:00:00
+11:06 AM,-9999,-9999,N/A,29.95,5.0,SSW,4.6,-,N/A,Fog-Rain,Light Rain,210,1995-04-26 16:06:00
+11:32 AM,-9999,-9999,N/A,29.94,5.0,SSW,5.8,-,N/A,Fog-Rain,Light Rain,200,1995-04-26 16:32:00
+12:00 PM,51.1,48.9,92,29.95,3.0,South,4.6,-,0.10,Fog-Rain,Light Rain,190,1995-04-26 17:00:00
+1:00 PM,51.1,50.0,96,29.93,3.0,South,5.8,-,0.10,Fog-Rain,Light Rain,190,1995-04-26 18:00:00
+2:00 PM,52.0,51.1,97,29.92,4.0,South,8.1,-,0.06,Fog-Rain,Light Rain,190,1995-04-26 19:00:00
+2:05 PM,-9999,-9999,N/A,29.91,4.0,South,8.1,-,N/A,Fog-Rain,Light Rain,190,1995-04-26 19:05:00
+3:00 PM,53.1,51.1,93,29.90,2.0,South,9.2,-,0.10,Fog-Rain,Light Rain,180,1995-04-26 20:00:00
+3:27 PM,-9999,-9999,N/A,29.87,2.0,SSW,5.8,-,N/A,Fog-Rain,Light Rain,200,1995-04-26 20:27:00
+4:00 PM,52.0,51.1,97,29.87,2.0,SSE,3.5,-,0.16,Fog-Rain,Rain,150,1995-04-26 21:00:00
+5:00 PM,53.1,52.0,96,29.87,2.0,Calm,Calm,-,0.15,Fog-Rain,Light Rain,0,1995-04-26 22:00:00
+5:09 PM,-9999,-9999,N/A,29.86,5.5,Calm,Calm,-,N/A,Fog-Rain,Light Rain,0,1995-04-26 22:09:00
+6:00 PM,53.1,53.1,100,29.87,5.5,Calm,Calm,-,0.07,Fog-Rain,Light Rain,0,1995-04-26 23:00:00
+6:32 PM,-9999,-9999,N/A,29.83,5.5,ENE,11.5,-,N/A,Fog-Rain,Heavy Rain,60,1995-04-26 23:32:00
+6:40 PM,-9999,-9999,N/A,29.83,3.0,NE,12.7,-,N/A,Fog-Rain,Light Rain Showers,50,1995-04-26 23:40:00
+7:00 PM,50.0,50.0,100,29.84,3.0,NE,11.5,-,0.13,Fog-Rain,Light Rain Showers,50,1995-04-27 00:00:00
+7:17 PM,-9999,-9999,N/A,29.82,2.0,NE,9.2,-,N/A,Fog-Rain,Light Rain Showers,50,1995-04-27 00:17:00
+8:00 PM,51.1,50.0,96,29.83,2.0,ENE,3.5,-,0.10,Fog-Rain,Light Rain Showers,70,1995-04-27 01:00:00
+8:25 PM,-9999,-9999,N/A,29.80,2.0,ENE,10.4,-,N/A,Fog-Rain,Light Rain,70,1995-04-27 01:25:00
+9:00 PM,50.0,48.9,96,29.78,3.0,East,11.5,-,0.14,Fog-Rain,Light Rain,80,1995-04-27 02:00:00
+10:00 PM,50.0,50.0,100,29.79,3.0,NNW,9.2,-,0.20,Fog-Rain,Rain,340,1995-04-27 03:00:00
+10:21 PM,-9999,-9999,N/A,29.77,3.0,North,8.1,-,N/A,Fog-Rain,Light Rain,360,1995-04-27 03:21:00
+10:38 PM,-9999,-9999,N/A,29.76,5.0,North,6.9,-,N/A,Fog-Rain,Light Rain,360,1995-04-27 03:38:00
+11:00 PM,48.9,48.9,100,29.77,5.0,North,6.9,-,0.11,Fog-Rain,Light Rain,10,1995-04-27 04:00:00
+11:25 PM,-9999,-9999,N/A,29.73,5.0,Calm,Calm,-,N/A,Fog-Rain,Light Rain,0,1995-04-27 04:25:00
+11:39 PM,-9999,-9999,N/A,29.73,4.0,NNE,4.6,-,N/A,Fog,Fog,30,1995-04-27 04:39:00

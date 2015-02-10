@@ -1,0 +1,25 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,64.9,62.1,90,30.07,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2005-09-09 05:56:00
+1:56 AM,63.0,62.1,97,30.07,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2005-09-09 06:56:00
+2:56 AM,63.0,62.1,97,30.06,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2005-09-09 07:56:00
+3:56 AM,63.0,61.0,93,30.06,10.0,Calm,Calm,-,N/A,,Clear,0,2005-09-09 08:56:00
+4:56 AM,63.0,61.0,93,30.07,8.0,North,4.6,-,N/A,,Clear,10,2005-09-09 09:56:00
+5:56 AM,62.1,60.1,93,30.09,10.0,NNW,3.5,-,N/A,,Scattered Clouds,330,2005-09-09 10:56:00
+6:56 AM,64.9,62.1,90,30.09,10.0,NNE,5.8,-,N/A,,Scattered Clouds,20,2005-09-09 11:56:00
+7:56 AM,68.0,62.1,81,30.10,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2005-09-09 12:56:00
+8:56 AM,73.0,64.0,73,30.11,10.0,East,4.6,-,N/A,,Partly Cloudy,90,2005-09-09 13:56:00
+9:56 AM,75.9,63.0,64,30.11,8.0,East,4.6,-,N/A,,Partly Cloudy,100,2005-09-09 14:56:00
+10:56 AM,79.0,63.0,58,30.11,8.0,Variable,4.6,-,N/A,,Partly Cloudy,0,2005-09-09 15:56:00
+11:56 AM,82.0,63.0,52,30.10,10.0,ENE,8.1,-,N/A,,Partly Cloudy,60,2005-09-09 16:56:00
+12:56 PM,82.0,63.0,52,30.08,8.0,Variable,6.9,-,N/A,,Partly Cloudy,0,2005-09-09 17:56:00
+1:56 PM,84.0,60.1,44,30.07,8.0,East,8.1,-,N/A,,Partly Cloudy,100,2005-09-09 18:56:00
+2:56 PM,86.0,59.0,40,30.05,8.0,SE,8.1,-,N/A,,Partly Cloudy,130,2005-09-09 19:56:00
+3:56 PM,84.9,59.0,41,30.04,10.0,East,9.2,-,N/A,,Partly Cloudy,80,2005-09-09 20:56:00
+4:56 PM,84.0,61.0,46,30.04,10.0,East,13.8,-,N/A,,Partly Cloudy,80,2005-09-09 21:56:00
+5:56 PM,81.0,63.0,54,30.04,9.0,East,12.7,-,N/A,,Partly Cloudy,100,2005-09-09 22:56:00
+6:56 PM,79.0,64.0,60,30.06,8.0,East,9.2,-,N/A,,Scattered Clouds,90,2005-09-09 23:56:00
+7:56 PM,77.0,64.9,66,30.07,9.0,East,9.2,-,N/A,,Scattered Clouds,100,2005-09-10 00:56:00
+8:56 PM,75.9,66.0,71,30.08,8.0,ESE,6.9,-,N/A,,Scattered Clouds,110,2005-09-10 01:56:00
+9:56 PM,75.0,66.0,73,30.08,7.0,East,6.9,-,N/A,,Scattered Clouds,100,2005-09-10 02:56:00
+10:56 PM,72.0,66.0,81,30.09,6.0,SE,6.9,-,N/A,,Haze,130,2005-09-10 03:56:00
+11:56 PM,72.0,64.9,78,30.09,7.0,SE,8.1,-,N/A,,Partly Cloudy,130,2005-09-10 04:56:00

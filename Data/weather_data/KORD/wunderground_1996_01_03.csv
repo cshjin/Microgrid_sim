@@ -1,0 +1,28 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,21.9,9.0,58,29.90,15.0,NNE,17.3,-,N/A,,Scattered Clouds,30,1996-01-03 06:00:00
+1:00 AM,21.9,9.0,58,29.90,15.0,NE,18.4,-,N/A,,Overcast,40,1996-01-03 07:00:00
+2:00 AM,21.9,10.0,60,29.91,15.0,NE,20.7,-,N/A,,Overcast,40,1996-01-03 08:00:00
+3:00 AM,23.0,12.0,63,29.88,10.0,NE,15.0,-,N/A,Snow,Light Snow Showers,40,1996-01-03 09:00:00
+4:00 AM,21.9,15.1,75,29.89,6.0,NE,13.8,-,N/A,Snow,Light Snow Showers,40,1996-01-03 10:00:00
+5:00 AM,19.0,16.0,88,29.91,7.0,North,12.7,-,N/A,Snow,Light Snow Showers,360,1996-01-03 11:00:00
+6:00 AM,19.0,16.0,88,29.93,6.0,NNW,11.5,-,N/A,Snow,Light Snow Showers,340,1996-01-03 12:00:00
+7:00 AM,17.1,14.0,88,29.96,5.0,NNW,12.7,-,N/A,Fog-Snow,Light Snow Showers,330,1996-01-03 13:00:00
+8:00 AM,15.1,12.0,88,29.96,7.0,NNW,10.4,-,N/A,Snow,Light Snow Showers,330,1996-01-03 14:00:00
+9:00 AM,16.0,12.0,84,29.97,15.0,NNW,11.5,-,N/A,,Scattered Clouds,330,1996-01-03 15:00:00
+10:00 AM,19.0,12.9,77,29.97,15.0,NNW,9.2,-,N/A,,Clear,330,1996-01-03 16:00:00
+11:00 AM,21.9,15.1,75,29.96,15.0,NNW,6.9,-,N/A,,Clear,340,1996-01-03 17:00:00
+12:00 PM,25.0,16.9,71,29.93,15.0,NNW,8.1,-,N/A,,Mostly Cloudy,340,1996-01-03 18:00:00
+1:00 PM,27.0,17.1,66,29.92,15.0,North,9.2,-,N/A,,Mostly Cloudy,350,1996-01-03 19:00:00
+1:12 PM,-9999,-9999,N/A,29.89,10.0,North,10.4,-,N/A,,Unknown,360,1996-01-03 19:12:00
+2:00 PM,26.1,16.0,66,29.91,15.0,North,6.9,-,N/A,,Mostly Cloudy,360,1996-01-03 20:00:00
+3:00 PM,26.1,15.1,63,29.91,15.0,NNW,4.6,-,N/A,Snow,Light Snow Showers,340,1996-01-03 21:00:00
+4:00 PM,25.0,17.1,72,29.92,15.0,North,9.2,-,N/A,Snow,Light Snow Showers,360,1996-01-03 22:00:00
+5:00 PM,24.1,19.0,81,29.94,3.0,NNE,4.6,-,N/A,Snow,Light Snow Showers,20,1996-01-03 23:00:00
+5:39 PM,-9999,-9999,N/A,29.92,8.0,North,4.6,-,N/A,,Unknown,360,1996-01-03 23:39:00
+6:00 PM,24.1,19.0,81,29.96,10.0,NE,5.8,-,N/A,Snow,Light Snow Showers,40,1996-01-04 00:00:00
+6:20 PM,-9999,-9999,N/A,29.92,10.0,NNE,8.1,-,N/A,,Unknown,30,1996-01-04 00:20:00
+7:00 PM,23.0,19.0,85,29.96,10.0,North,5.8,-,N/A,Snow,Light Snow Showers,10,1996-01-04 01:00:00
+8:00 PM,19.9,17.1,89,29.97,10.0,NNW,5.8,-,N/A,,Mostly Cloudy,330,1996-01-04 02:00:00
+9:00 PM,21.0,18.0,88,29.99,10.0,NNE,5.8,-,N/A,,Mostly Cloudy,20,1996-01-04 03:00:00
+10:00 PM,19.9,17.1,89,29.98,15.0,North,4.6,-,N/A,,Mostly Cloudy,10,1996-01-04 04:00:00
+11:00 PM,19.0,15.1,85,29.99,15.0,NNE,4.6,-,N/A,,Mostly Cloudy,20,1996-01-04 05:00:00

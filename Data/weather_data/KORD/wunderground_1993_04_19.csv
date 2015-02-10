@@ -1,0 +1,44 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,55.9,46.9,72,29.81,10.0,SSW,11.5,-,N/A,,Mostly Cloudy,210,1993-04-19 05:00:00
+1:00 AM,55.0,46.9,74,29.80,10.0,South,11.5,-,N/A,,Mostly Cloudy,190,1993-04-19 06:00:00
+2:00 AM,54.0,46.9,77,29.78,10.0,South,8.1,-,N/A,,Mostly Cloudy,170,1993-04-19 07:00:00
+3:00 AM,53.1,46.0,77,29.77,10.0,South,10.4,-,N/A,,Mostly Cloudy,180,1993-04-19 08:00:00
+4:00 AM,53.1,46.0,77,29.74,10.0,South,9.2,-,N/A,,Mostly Cloudy,180,1993-04-19 09:00:00
+5:00 AM,51.1,46.0,83,29.73,10.0,SE,4.6,-,N/A,,Mostly Cloudy,140,1993-04-19 10:00:00
+6:00 AM,51.1,46.9,86,29.72,10.0,SSE,9.2,-,N/A,,Mostly Cloudy,150,1993-04-19 11:00:00
+7:00 AM,52.0,46.0,80,29.71,10.0,SE,11.5,-,N/A,,Mostly Cloudy,140,1993-04-19 12:00:00
+8:00 AM,52.0,46.9,83,29.72,10.0,SSE,12.7,-,N/A,,Overcast,150,1993-04-19 13:00:00
+9:00 AM,55.0,48.9,80,29.71,10.0,SSE,11.5,-,N/A,,Overcast,150,1993-04-19 14:00:00
+10:00 AM,55.9,48.9,77,29.70,10.0,ESE,10.4,-,N/A,,Overcast,110,1993-04-19 15:00:00
+10:01 AM,-9999,-9999,N/A,29.69,7.0,SSE,10.4,-,N/A,,Overcast,160,1993-04-19 15:01:00
+10:08 AM,-9999,-9999,N/A,29.69,7.0,South,10.4,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,180,1993-04-19 15:08:00
+10:29 AM,-9999,-9999,N/A,29.69,2.0,SSE,10.4,-,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,160,1993-04-19 15:29:00
+11:00 AM,53.1,52.0,96,29.70,2.0,SSE,10.4,-,0.23,Fog-Rain-Thunderstorm,Thunderstorms and Rain,160,1993-04-19 16:00:00
+11:12 AM,-9999,-9999,N/A,29.67,2.0,SSE,12.7,-,N/A,Fog-Rain,Light Rain Showers,160,1993-04-19 16:12:00
+11:26 AM,-9999,-9999,N/A,29.66,3.0,SSE,13.8,-,N/A,Fog-Rain,Light Rain,160,1993-04-19 16:26:00
+12:00 PM,54.0,53.1,97,29.67,3.0,SE,13.8,-,0.07,Fog-Rain,Light Rain,140,1993-04-19 17:00:00
+12:12 PM,-9999,-9999,N/A,29.63,10.5,ESE,13.8,-,N/A,Fog-Rain,Light Rain,120,1993-04-19 17:12:00
+1:00 PM,55.0,53.1,93,29.60,10.5,ESE,17.3,-,0.13,Fog-Rain,Light Rain,110,1993-04-19 18:00:00
+1:13 PM,-9999,-9999,N/A,29.60,10.5,ESE,17.3,-,N/A,Fog-Rain,Light Rain,110,1993-04-19 18:13:00
+1:37 PM,-9999,-9999,N/A,29.59,5.5,ESE,16.1,-,N/A,Fog-Rain,Light Rain,110,1993-04-19 18:37:00
+2:00 PM,53.1,52.0,96,29.60,5.5,East,12.7,-,0.02,Fog-Rain,Light Rain,100,1993-04-19 19:00:00
+2:24 PM,-9999,-9999,N/A,29.55,5.5,East,13.8,-,N/A,Fog-Rain,Light Rain,100,1993-04-19 19:24:00
+3:00 PM,53.1,53.1,100,29.55,5.5,SE,11.5,-,0.01,Fog-Rain,Light Rain,130,1993-04-19 20:00:00
+3:17 PM,-9999,-9999,N/A,29.54,5.5,SE,11.5,-,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,130,1993-04-19 20:17:00
+3:42 PM,-9999,-9999,N/A,29.51,5.5,SE,13.8,-,N/A,Fog-Rain,Light Rain Showers,140,1993-04-19 20:42:00
+4:00 PM,54.0,54.0,100,29.51,5.5,SE,11.5,-,0.23,Fog-Rain,Light Rain Showers,140,1993-04-19 21:00:00
+4:01 PM,-9999,-9999,N/A,29.50,5.5,SE,15.0,-,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,140,1993-04-19 21:01:00
+4:24 PM,-9999,-9999,N/A,29.48,5.5,ESE,15.0,-,N/A,Fog-Rain,Light Rain Showers,120,1993-04-19 21:24:00
+4:37 PM,-9999,-9999,N/A,29.47,4.0,ESE,15.0,-,N/A,Fog,Light Drizzle,120,1993-04-19 21:37:00
+5:00 PM,54.0,54.0,100,29.48,4.0,ESE,12.7,-,0.22,Fog,Light Drizzle,120,1993-04-19 22:00:00
+6:00 PM,55.9,54.0,93,29.46,4.0,SE,11.5,-,N/A,Fog-Rain,Light Rain Showers,140,1993-04-19 23:00:00
+7:00 PM,59.0,55.0,87,29.46,4.0,South,11.5,-,N/A,Fog,Fog,180,1993-04-20 00:00:00
+8:00 PM,59.0,55.9,90,29.46,4.0,SW,8.1,-,0.08,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,220,1993-04-20 01:00:00
+8:17 PM,-9999,-9999,N/A,29.45,4.0,SW,5.8,-,N/A,Fog-Rain,Rain Showers,230,1993-04-20 01:17:00
+8:55 PM,-9999,-9999,N/A,29.48,3.0,North,9.2,-,N/A,Fog-Rain,Light Rain Showers,350,1993-04-20 01:55:00
+9:00 PM,52.0,52.0,100,29.48,4.0,NNW,11.5,-,0.12,Fog-Rain,Light Rain Showers,340,1993-04-20 02:00:00
+9:20 PM,-9999,-9999,N/A,29.48,3.0,North,10.4,-,N/A,Fog-Rain,Light Rain,350,1993-04-20 02:20:00
+10:00 PM,48.0,46.9,96,29.48,3.0,North,11.5,-,0.01,Fog-Rain,Light Rain,10,1993-04-20 03:00:00
+10:12 PM,-9999,-9999,N/A,29.47,3.0,NNE,15.0,-,N/A,Fog-Rain,Light Rain,20,1993-04-20 03:12:00
+10:31 PM,-9999,-9999,N/A,29.46,2.0,NNE,13.8,-,N/A,Fog-Rain,Light Rain,20,1993-04-20 03:31:00
+11:00 PM,45.0,45.0,100,29.45,2.0,North,13.8,-,0.01,Fog-Rain,Light Rain,10,1993-04-20 04:00:00

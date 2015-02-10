@@ -1,0 +1,35 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,80.1,64.0,58,29.89,7.0,SSE,17.3,-,N/A,,Mostly Cloudy,160,1992-06-17 05:00:00
+1:00 AM,79.0,64.9,62,29.85,7.0,South,18.4,-,N/A,,Mostly Cloudy,170,1992-06-17 06:00:00
+2:00 AM,79.0,66.9,66,29.82,7.0,SSE,19.6,-,N/A,,Partly Cloudy,160,1992-06-17 07:00:00
+3:00 AM,79.0,68.0,69,29.83,7.0,SSE,17.3,-,N/A,,Partly Cloudy,160,1992-06-17 08:00:00
+4:00 AM,78.1,69.1,74,29.81,7.0,South,18.4,-,N/A,,Partly Cloudy,170,1992-06-17 09:00:00
+5:00 AM,78.1,70.0,76,29.78,7.0,South,13.8,-,N/A,,Scattered Clouds,170,1992-06-17 10:00:00
+6:00 AM,78.1,71.1,79,29.75,7.0,South,16.1,-,N/A,,Mostly Cloudy,180,1992-06-17 11:00:00
+7:00 AM,79.0,71.1,77,29.73,8.0,South,19.6,27.6,N/A,,Overcast,180,1992-06-17 12:00:00
+8:00 AM,80.1,71.1,74,29.72,8.0,South,18.4,27.6,N/A,,Overcast,190,1992-06-17 13:00:00
+9:00 AM,82.0,72.0,71,29.71,8.0,SSW,18.4,26.5,N/A,,Overcast,200,1992-06-17 14:00:00
+10:00 AM,82.9,72.0,69,29.68,8.0,South,21.9,32.2,N/A,,Overcast,180,1992-06-17 15:00:00
+10:55 AM,-9999,-9999,N/A,29.68,8.0,SSW,23.0,32.2,N/A,Thunderstorm,Thunderstorm,200,1992-06-17 15:55:00
+11:00 AM,84.9,71.1,63,29.66,8.0,SSW,23.0,31.1,N/A,,Overcast,200,1992-06-17 16:00:00
+11:19 AM,-9999,-9999,N/A,29.66,10.0,SSW,19.6,27.6,N/A,Rain,Light Rain,200,1992-06-17 16:19:00
+11:33 AM,-9999,-9999,N/A,29.68,10.0,South,18.4,25.3,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,190,1992-06-17 16:33:00
+12:00 PM,80.1,73.0,79,29.65,7.0,SSW,17.3,25.3,0.08,Rain-Thunderstorm,Light Thunderstorms and Rain,210,1992-06-17 17:00:00
+1:00 PM,82.9,73.0,72,29.61,8.0,South,17.3,23.0,0.01,Rain,Light Rain,190,1992-06-17 18:00:00
+2:00 PM,82.9,73.0,72,29.59,8.0,SSW,16.1,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,200,1992-06-17 19:00:00
+2:24 PM,-9999,-9999,N/A,29.58,7.0,SSW,15.0,25.3,N/A,Rain-Thunderstorm,Thunderstorms and Rain,200,1992-06-17 19:24:00
+2:40 PM,-9999,-9999,N/A,29.58,10.0,SSW,15.0,-,N/A,Rain,Light Rain Showers,210,1992-06-17 19:40:00
+3:00 PM,78.1,75.0,90,29.57,10.0,SSW,16.1,-,0.33,,Overcast,200,1992-06-17 20:00:00
+3:04 PM,-9999,-9999,N/A,29.58,7.0,SSW,20.7,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,200,1992-06-17 20:04:00
+3:10 PM,-9999,-9999,N/A,29.64,3.0,West,28.8,44.9,N/A,Rain-Thunderstorm,Thunderstorms and Rain,260,1992-06-17 20:10:00
+3:20 PM,-9999,-9999,N/A,29.64,0.8,West,26.5,44.9,N/A,Rain-Thunderstorm,Thunderstorms and Rain,270,1992-06-17 20:20:00
+3:34 PM,-9999,-9999,N/A,29.70,0.8,WSW,36.8,57.5,N/A,Rain-Thunderstorm,Thunderstorms and Rain,250,1992-06-17 20:34:00
+4:00 PM,66.0,64.9,96,29.62,5.0,SSW,17.3,27.6,0.80,Rain-Thunderstorm,Light Thunderstorms and Rain,210,1992-06-17 21:00:00
+4:17 PM,-9999,-9999,N/A,29.62,10.0,SW,13.8,-,N/A,Rain,Light Rain Showers,220,1992-06-17 21:17:00
+5:00 PM,71.1,63.0,75,29.59,15.0,South,10.4,-,N/A,,Overcast,190,1992-06-17 22:00:00
+6:00 PM,71.1,60.1,68,29.59,15.0,South,15.0,-,N/A,,Overcast,190,1992-06-17 23:00:00
+7:00 PM,77.0,69.1,76,29.64,15.0,South,17.3,-,N/A,,Mostly Cloudy,180,1992-06-18 00:00:00
+8:00 PM,75.0,66.9,76,29.64,15.0,South,13.8,-,N/A,,Scattered Clouds,190,1992-06-18 01:00:00
+9:00 PM,73.9,66.0,76,29.64,15.0,SW,10.4,-,N/A,,Partly Cloudy,230,1992-06-18 02:00:00
+10:00 PM,75.0,61.0,62,29.66,10.0,WSW,11.5,-,N/A,,Scattered Clouds,250,1992-06-18 03:00:00
+11:00 PM,73.0,57.9,59,29.68,15.0,West,9.2,-,N/A,,Partly Cloudy,270,1992-06-18 04:00:00

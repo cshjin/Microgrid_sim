@@ -1,0 +1,43 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,27.0,27.0,100,30.07,4.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1998-02-09 06:56:00
+1:56 AM,26.1,24.1,92,30.09,4.0,West,4.6,-,N/A,,Scattered Clouds,260,1998-02-09 07:56:00
+2:31 AM,26.6,24.8,93,30.07,4.0,WSW,4.6,-,N/A,,Scattered Clouds,240,1998-02-09 08:31:00
+2:37 AM,26.6,24.8,93,30.07,4.0,WSW,3.5,-,N/A,,Mostly Cloudy,240,1998-02-09 08:37:00
+2:56 AM,28.0,27.0,96,30.09,4.0,SW,4.6,-,N/A,,Overcast,230,1998-02-09 08:56:00
+3:03 AM,28.4,28.4,100,30.07,4.0,SW,3.5,-,N/A,,Overcast,230,1998-02-09 09:03:00
+3:38 AM,30.2,28.4,93,30.06,2.0,SW,4.6,-,N/A,,Overcast,220,1998-02-09 09:38:00
+3:41 AM,28.4,28.4,100,30.06,0.8,SW,4.6,-,N/A,,Overcast,220,1998-02-09 09:41:00
+3:44 AM,28.4,28.4,100,30.06,0.5,SSW,4.6,-,N/A,Fog,Light Freezing Fog,210,1998-02-09 09:44:00
+3:47 AM,28.4,28.4,100,30.07,0.2,Variable,3.5,-,N/A,Fog,Light Freezing Fog,0,1998-02-09 09:47:00
+3:56 AM,28.9,28.0,96,30.09,0.2,SSW,4.6,-,N/A,Fog,Light Freezing Fog,210,1998-02-09 09:56:00
+4:56 AM,28.9,28.0,96,30.10,0.2,SW,3.5,-,N/A,Fog,Light Freezing Fog,220,1998-02-09 10:56:00
+5:56 AM,28.9,28.0,96,30.10,0.2,Calm,Calm,-,N/A,Fog,Light Freezing Fog,0,1998-02-09 11:56:00
+6:56 AM,28.0,28.0,100,30.10,0.2,South,4.6,-,N/A,Fog,Light Freezing Fog,170,1998-02-09 12:56:00
+7:56 AM,28.0,28.0,100,30.12,0.2,SSW,3.5,-,N/A,Fog,Light Freezing Fog,200,1998-02-09 13:56:00
+8:56 AM,27.0,27.0,100,30.13,0.2,Calm,Calm,-,N/A,Fog,Light Freezing Fog,0,1998-02-09 14:56:00
+9:10 AM,28.4,28.4,100,30.10,0.2,Variable,3.5,-,N/A,Fog,Light Freezing Fog,0,1998-02-09 15:10:00
+9:25 AM,28.4,28.4,100,30.10,0.2,Variable,3.5,-,N/A,Fog,Light Freezing Fog,0,1998-02-09 15:25:00
+9:38 AM,28.4,28.4,100,30.10,0.5,SSE,4.6,-,N/A,Fog,Light Freezing Fog,160,1998-02-09 15:38:00
+9:56 AM,28.9,28.0,96,30.13,0.5,South,4.6,-,N/A,Fog,Light Freezing Fog,180,1998-02-09 15:56:00
+10:07 AM,28.4,28.4,100,30.10,0.5,Variable,3.5,-,N/A,Fog,Light Freezing Fog,0,1998-02-09 16:07:00
+10:14 AM,28.4,28.4,100,30.10,0.5,Variable,3.5,-,N/A,Fog,Light Freezing Fog,0,1998-02-09 16:14:00
+10:27 AM,30.2,30.2,100,30.10,1.2,West,5.8,-,N/A,,Overcast,260,1998-02-09 16:27:00
+11:11 AM,32.0,30.2,93,30.09,3.0,Variable,4.6,-,N/A,,Mostly Cloudy,0,1998-02-09 17:11:00
+11:56 AM,34.0,30.9,89,30.10,4.0,Variable,3.5,-,N/A,,Scattered Clouds,0,1998-02-09 17:56:00
+12:56 PM,42.1,30.9,65,30.07,6.0,SSW,5.8,-,N/A,,Haze,210,1998-02-09 18:56:00
+1:56 PM,44.1,30.9,60,30.06,8.0,Variable,3.5,-,N/A,,Partly Cloudy,0,1998-02-09 19:56:00
+2:56 PM,45.0,30.9,58,30.06,8.0,Variable,4.6,-,N/A,,Partly Cloudy,0,1998-02-09 20:56:00
+3:56 PM,46.0,30.9,56,30.06,9.0,Variable,4.6,-,N/A,,Partly Cloudy,0,1998-02-09 21:56:00
+4:56 PM,44.1,28.9,55,30.07,10.0,SSW,3.5,-,N/A,,Partly Cloudy,200,1998-02-09 22:56:00
+5:56 PM,37.9,30.9,76,30.10,5.0,ENE,5.8,-,N/A,,Haze,60,1998-02-09 23:56:00
+6:56 PM,34.0,30.0,85,30.10,4.0,ENE,5.8,-,N/A,,Partly Cloudy,60,1998-02-10 00:56:00
+7:56 PM,30.9,28.0,89,30.11,3.0,NE,5.8,-,N/A,,Partly Cloudy,50,1998-02-10 01:56:00
+8:16 PM,30.2,28.4,93,30.08,2.0,NE,6.9,-,N/A,,Scattered Clouds,50,1998-02-10 02:16:00
+8:27 PM,30.2,28.4,93,30.08,0.5,ENE,4.6,-,N/A,Fog,Light Freezing Fog,60,1998-02-10 02:27:00
+8:56 PM,30.0,28.0,92,30.11,0.2,ENE,5.8,-,N/A,Fog,Light Freezing Fog,60,1998-02-10 02:56:00
+9:56 PM,30.0,28.9,96,30.11,0.2,ENE,5.8,-,N/A,Fog,Light Freezing Fog,60,1998-02-10 03:56:00
+10:44 PM,30.2,28.4,93,30.08,0.5,ENE,5.8,-,N/A,Fog,Light Freezing Fog,70,1998-02-10 04:44:00
+10:47 PM,30.2,28.4,93,30.08,0.2,ENE,4.6,-,N/A,Fog,Light Freezing Fog,60,1998-02-10 04:47:00
+10:56 PM,30.0,28.9,96,30.10,0.2,ENE,5.8,-,N/A,Fog,Light Freezing Fog,70,1998-02-10 04:56:00
+11:08 PM,30.2,30.2,100,30.08,0.2,ENE,5.8,-,N/A,Fog,Light Freezing Fog,60,1998-02-10 05:08:00
+11:56 PM,30.0,28.0,92,30.10,0.2,ENE,4.6,-,N/A,Fog,Light Freezing Fog,60,1998-02-10 05:56:00

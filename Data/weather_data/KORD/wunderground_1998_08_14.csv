@@ -1,0 +1,27 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,64.0,61.0,90,30.04,10.0,Calm,Calm,-,N/A,,Clear,0,1998-08-14 05:56:00
+1:56 AM,66.9,62.1,84,30.02,9.0,WSW,4.6,-,N/A,,Scattered Clouds,240,1998-08-14 06:56:00
+2:56 AM,64.0,62.1,93,30.01,9.0,SW,3.5,-,N/A,,Scattered Clouds,220,1998-08-14 07:56:00
+3:56 AM,62.1,62.1,100,30.00,8.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1998-08-14 08:56:00
+4:56 AM,62.1,61.0,96,29.99,7.0,Calm,Calm,-,N/A,,Partly Cloudy,0,1998-08-14 09:56:00
+5:56 AM,61.0,60.1,97,29.99,5.0,Calm,Calm,-,N/A,,Clear,0,1998-08-14 10:56:00
+6:56 AM,61.0,61.0,100,29.99,7.0,SW,10.4,-,N/A,,Partly Cloudy,230,1998-08-14 11:56:00
+7:56 AM,69.1,63.0,81,29.99,7.0,WSW,3.5,-,N/A,,Partly Cloudy,250,1998-08-14 12:56:00
+8:56 AM,73.0,64.0,73,29.98,8.0,Variable,3.5,-,N/A,,Clear,0,1998-08-14 13:56:00
+9:56 AM,75.0,64.9,71,29.97,8.0,WSW,5.8,-,N/A,,Clear,250,1998-08-14 14:56:00
+10:56 AM,77.0,64.9,66,29.96,9.0,WNW,6.9,-,N/A,,Scattered Clouds,290,1998-08-14 15:56:00
+11:56 AM,81.0,63.0,54,29.94,10.0,West,8.1,-,N/A,,Scattered Clouds,270,1998-08-14 16:56:00
+12:56 PM,80.1,63.0,56,29.92,10.0,West,8.1,-,N/A,,Scattered Clouds,280,1998-08-14 17:56:00
+1:56 PM,82.0,63.0,52,29.90,10.0,WSW,8.1,-,N/A,,Mostly Cloudy,250,1998-08-14 18:56:00
+2:56 PM,81.0,64.9,58,29.89,10.0,WSW,10.4,-,N/A,,Mostly Cloudy,250,1998-08-14 19:56:00
+3:56 PM,82.0,64.9,56,29.87,10.0,West,8.1,-,N/A,,Mostly Cloudy,260,1998-08-14 20:56:00
+4:56 PM,82.0,64.9,56,29.86,10.0,WNW,10.4,-,N/A,,Mostly Cloudy,300,1998-08-14 21:56:00
+5:56 PM,81.0,66.9,62,29.86,10.0,West,11.5,16.1,N/A,,Scattered Clouds,260,1998-08-14 22:56:00
+6:56 PM,79.0,68.0,69,29.87,10.0,West,9.2,-,N/A,,Mostly Cloudy,260,1998-08-14 23:56:00
+7:56 PM,77.0,68.0,74,29.88,7.0,WSW,4.6,-,N/A,,Scattered Clouds,240,1998-08-15 00:56:00
+8:56 PM,75.0,69.1,82,29.88,8.0,SW,3.5,-,N/A,,Mostly Cloudy,230,1998-08-15 01:56:00
+9:42 PM,69.8,66.2,88,29.90,6.0,East,8.1,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,80,1998-08-15 02:42:00
+9:56 PM,69.1,66.0,90,29.89,6.0,East,9.2,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,100,1998-08-15 02:56:00
+10:22 PM,68.0,66.2,94,29.89,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1998-08-15 03:22:00
+10:56 PM,66.0,66.0,100,29.88,10.0,WSW,3.5,-,N/A,,Mostly Cloudy,240,1998-08-15 03:56:00
+11:56 PM,66.0,64.9,96,29.87,10.0,WSW,3.5,-,N/A,,Mostly Cloudy,250,1998-08-15 04:56:00

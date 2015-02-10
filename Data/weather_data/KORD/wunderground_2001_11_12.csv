@@ -1,0 +1,25 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,35.1,32.0,89,30.44,10.0,SSW,3.5,-,N/A,,Clear,200,2001-11-12 06:56:00
+1:56 AM,32.0,30.0,92,30.45,10.0,Calm,Calm,-,N/A,,Clear,0,2001-11-12 07:56:00
+2:56 AM,33.1,30.0,89,30.45,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2001-11-12 08:56:00
+3:56 AM,32.0,30.0,92,30.45,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2001-11-12 09:56:00
+4:56 AM,30.0,28.0,92,30.46,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2001-11-12 10:56:00
+5:56 AM,28.0,26.1,92,30.46,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2001-11-12 11:56:00
+6:56 AM,30.9,28.9,92,30.47,8.0,Calm,Calm,-,N/A,,Scattered Clouds,0,2001-11-12 12:56:00
+7:56 AM,37.9,33.1,83,30.48,10.0,SSW,6.9,-,N/A,,Scattered Clouds,200,2001-11-12 13:56:00
+8:56 AM,44.1,35.1,71,30.48,10.0,SSW,9.2,-,N/A,,Scattered Clouds,200,2001-11-12 14:56:00
+9:56 AM,48.0,35.1,61,30.48,10.0,SSW,10.4,-,N/A,,Scattered Clouds,210,2001-11-12 15:56:00
+10:56 AM,50.0,35.1,57,30.47,10.0,SSW,11.5,-,N/A,,Mostly Cloudy,200,2001-11-12 16:56:00
+11:56 AM,53.1,36.0,52,30.43,10.0,South,10.4,-,N/A,,Mostly Cloudy,190,2001-11-12 17:56:00
+12:56 PM,54.0,36.0,51,30.41,10.0,South,9.2,-,N/A,,Mostly Cloudy,190,2001-11-12 18:56:00
+1:56 PM,55.0,34.0,45,30.39,10.0,South,10.4,16.1,N/A,,Mostly Cloudy,170,2001-11-12 19:56:00
+2:56 PM,55.9,35.1,45,30.38,10.0,South,9.2,-,N/A,,Mostly Cloudy,170,2001-11-12 20:56:00
+3:56 PM,54.0,34.0,47,30.37,10.0,South,9.2,-,N/A,,Scattered Clouds,180,2001-11-12 21:56:00
+4:56 PM,48.9,34.0,56,30.37,10.0,South,6.9,-,N/A,,Scattered Clouds,180,2001-11-12 22:56:00
+5:56 PM,44.1,33.1,65,30.38,10.0,SSE,6.9,-,N/A,,Scattered Clouds,160,2001-11-12 23:56:00
+6:56 PM,45.0,33.1,63,30.37,10.0,South,6.9,-,N/A,,Partly Cloudy,180,2001-11-13 00:56:00
+7:56 PM,44.1,32.0,63,30.36,10.0,South,5.8,-,N/A,,Partly Cloudy,180,2001-11-13 01:56:00
+8:56 PM,43.0,32.0,65,30.36,10.0,South,6.9,-,N/A,,Partly Cloudy,180,2001-11-13 02:56:00
+9:56 PM,45.0,30.9,58,30.35,10.0,South,6.9,-,N/A,,Partly Cloudy,190,2001-11-13 03:56:00
+10:56 PM,41.0,30.0,65,30.34,10.0,South,8.1,-,N/A,,Partly Cloudy,180,2001-11-13 04:56:00
+11:56 PM,42.1,30.0,62,30.33,10.0,South,6.9,-,N/A,,Partly Cloudy,180,2001-11-13 05:56:00

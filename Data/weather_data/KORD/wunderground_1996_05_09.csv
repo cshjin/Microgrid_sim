@@ -1,0 +1,47 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,48.9,48.0,97,30.01,5.0,NE,8.1,-,N/A,Fog,Fog,50,1996-05-09 05:00:00
+12:20 AM,47.8,47.8,100,30.02,0.2,ENE,4.6,-,N/A,Fog,Fog,60,1996-05-09 05:20:00
+1:00 AM,48.0,48.0,100,30.03,0.2,NE,8.1,-,N/A,Fog,Fog,50,1996-05-09 06:00:00
+2:00 AM,46.9,46.9,100,30.02,0.2,NE,4.6,-,N/A,Fog,Fog,50,1996-05-09 07:00:00
+3:00 AM,46.9,46.9,100,30.01,0.2,East,4.6,-,N/A,Fog,Fog,80,1996-05-09 08:00:00
+3:07 AM,-9999,-9999,N/A,30.02,0.2,ENE,5.8,-,N/A,Fog-Thunderstorm,Unknown,70,1996-05-09 08:07:00
+3:45 AM,47.8,47.8,100,30.03,1.0,East,6.9,-,N/A,Fog-Rain-Thunderstorm,Heavy Thunderstorms and Rain,90,1996-05-09 08:45:00
+4:00 AM,48.0,48.0,100,30.01,3.0,NNE,6.9,-,0.22,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,30,1996-05-09 09:00:00
+4:41 AM,-9999,-9999,N/A,29.96,3.0,NE,11.5,-,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,50,1996-05-09 09:41:00
+5:00 AM,48.0,48.0,100,30.00,0.8,NNE,4.6,-,N/A,Fog-Rain,Light Rain,30,1996-05-09 10:00:00
+5:32 AM,-9999,-9999,N/A,30.01,5.5,SSE,4.6,-,N/A,Fog-Rain,Light Rain,160,1996-05-09 10:32:00
+6:00 AM,50.0,50.0,100,30.00,5.5,North,5.8,-,0.02,Fog-Rain,Light Rain,350,1996-05-09 11:00:00
+6:03 AM,-9999,-9999,N/A,0.00,5.5,North,-9999.0,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,0,1996-05-09 11:03:00
+6:18 AM,-9999,-9999,N/A,0.00,5.5,North,-9999.0,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,0,1996-05-09 11:18:00
+6:28 AM,-9999,-9999,N/A,30.07,0.5,NNW,6.9,-,N/A,Fog-Rain-Thunderstorm,Heavy Thunderstorms and Rain,330,1996-05-09 11:28:00
+6:47 AM,-9999,-9999,N/A,29.98,0.5,East,16.1,-,N/A,Fog-Rain,Light Rain,80,1996-05-09 11:47:00
+7:00 AM,51.1,51.1,100,30.00,0.5,ESE,13.8,-,N/A,,Scattered Clouds,110,1996-05-09 12:00:00
+7:04 AM,-9999,-9999,N/A,29.96,5.5,SE,9.2,-,N/A,Fog-Rain,Light Rain,130,1996-05-09 12:04:00
+8:00 AM,54.0,54.0,100,30.01,5.5,SE,9.2,-,N/A,Fog,Fog,140,1996-05-09 13:00:00
+9:00 AM,55.9,55.9,100,29.99,5.5,SSE,12.7,-,N/A,Fog,Fog,150,1996-05-09 14:00:00
+10:00 AM,59.0,59.0,100,29.99,5.5,SSW,6.9,-,N/A,Fog,Fog,210,1996-05-09 15:00:00
+10:23 AM,-9999,-9999,N/A,29.99,2.0,South,5.8,-,N/A,Fog,Fog,190,1996-05-09 15:23:00
+10:45 AM,61.9,61.0,97,30.00,10.5,South,5.8,-,N/A,Fog,Fog,180,1996-05-09 15:45:00
+11:00 AM,63.0,62.1,97,30.00,3.0,West,4.6,-,N/A,Fog,Fog,270,1996-05-09 16:00:00
+12:00 PM,64.9,63.0,93,30.00,3.0,Calm,Calm,-,0.01,Fog-Rain,Light Rain,0,1996-05-09 17:00:00
+1:00 PM,69.1,64.0,84,30.00,7.0,SW,4.6,-,N/A,,Mostly Cloudy,220,1996-05-09 18:00:00
+2:00 PM,68.0,64.9,90,30.04,4.0,West,9.2,-,0.04,Fog-Rain,Light Rain,280,1996-05-09 19:00:00
+2:40 PM,-9999,-9999,N/A,30.00,4.0,Calm,Calm,-,N/A,Fog-Rain,Light Rain,0,1996-05-09 19:40:00
+3:00 PM,66.9,64.9,93,29.98,4.0,Calm,Calm,-,0.12,Fog-Rain,Light Rain,0,1996-05-09 20:00:00
+3:21 PM,-9999,-9999,N/A,29.94,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1996-05-09 20:21:00
+4:00 PM,66.0,64.9,96,29.96,5.0,ENE,10.4,-,N/A,Fog,Fog,70,1996-05-09 21:00:00
+5:00 PM,55.9,55.0,97,29.97,3.0,NE,9.2,-,N/A,Fog,Fog,50,1996-05-09 22:00:00
+5:03 PM,-9999,-9999,N/A,29.99,10.5,NNE,6.9,-,N/A,Fog,Fog,30,1996-05-09 22:03:00
+6:00 PM,55.0,54.0,96,30.02,10.5,NNE,6.9,-,N/A,Fog,Fog,30,1996-05-09 23:00:00
+6:24 PM,-9999,-9999,N/A,30.03,5.5,NNE,8.1,-,N/A,Fog,Fog,30,1996-05-09 23:24:00
+6:37 PM,-9999,-9999,N/A,30.03,0.5,North,6.9,-,N/A,Fog,Fog,10,1996-05-09 23:37:00
+7:00 PM,55.0,54.0,96,30.01,0.5,NE,8.1,-,N/A,Fog,Fog,50,1996-05-10 00:00:00
+7:27 PM,-9999,-9999,N/A,29.99,3.0,NE,10.4,-,N/A,Fog,Fog,50,1996-05-10 00:27:00
+8:00 PM,55.0,54.0,96,29.99,10.5,NE,6.9,-,N/A,Fog,Fog,50,1996-05-10 01:00:00
+8:24 PM,-9999,-9999,N/A,0.00,10.5,North,-9999.0,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,0,1996-05-10 01:24:00
+9:00 PM,54.0,54.0,100,29.99,3.0,SE,3.5,-,0.43,Fog-Rain-Thunderstorm,Thunderstorms and Rain,130,1996-05-10 02:00:00
+9:30 PM,54.0,54.0,100,29.98,1.0,ESE,15.0,-,N/A,Fog-Rain-Hail-Thunderstorm,Heavy Thunderstorms and Rain,120,1996-05-10 02:30:00
+9:36 PM,-9999,-9999,N/A,29.99,2.0,ENE,6.9,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,70,1996-05-10 02:36:00
+10:00 PM,55.9,55.9,100,29.97,5.0,NE,3.5,-,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,40,1996-05-10 03:00:00
+10:04 PM,-9999,-9999,N/A,30.01,10.0,NNE,13.8,24.2,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,20,1996-05-10 03:04:00
+11:47 PM,-9999,-9999,N/A,29.98,7.0,NE,8.1,-,N/A,Rain,Light Rain,50,1996-05-10 04:47:00

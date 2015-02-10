@@ -1,0 +1,25 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,66.0,61.0,84,30.05,10.0,NE,4.6,-,N/A,,Clear,50,2003-08-10 05:56:00
+1:56 AM,63.0,61.0,93,30.05,10.0,Calm,Calm,-,N/A,,Clear,0,2003-08-10 06:56:00
+2:56 AM,62.1,60.1,93,30.05,10.0,WNW,3.5,-,N/A,,Clear,290,2003-08-10 07:56:00
+3:56 AM,63.0,60.1,90,30.06,10.0,NNW,3.5,-,N/A,,Partly Cloudy,330,2003-08-10 08:56:00
+4:56 AM,62.1,59.0,90,30.06,10.0,Calm,Calm,-,N/A,,Clear,0,2003-08-10 09:56:00
+5:56 AM,62.1,59.0,90,30.08,10.0,NNW,4.6,-,N/A,,Partly Cloudy,330,2003-08-10 10:56:00
+6:56 AM,64.9,59.0,81,30.11,10.0,NNW,3.5,-,N/A,,Partly Cloudy,330,2003-08-10 11:56:00
+7:56 AM,68.0,60.1,76,30.11,10.0,North,5.8,-,N/A,,Partly Cloudy,360,2003-08-10 12:56:00
+8:56 AM,72.0,60.1,66,30.09,10.0,North,4.6,-,N/A,,Partly Cloudy,350,2003-08-10 13:56:00
+9:56 AM,75.0,61.0,62,30.09,10.0,Variable,4.6,-,N/A,,Partly Cloudy,0,2003-08-10 14:56:00
+10:56 AM,77.0,61.0,58,30.09,10.0,Variable,5.8,-,N/A,,Partly Cloudy,0,2003-08-10 15:56:00
+11:56 AM,78.1,60.1,54,30.08,10.0,Variable,4.6,-,N/A,,Mostly Cloudy,0,2003-08-10 16:56:00
+12:56 PM,80.1,57.9,47,30.06,10.0,NW,6.9,18.4,N/A,,Partly Cloudy,320,2003-08-10 17:56:00
+1:56 PM,82.9,57.0,41,30.04,10.0,NNE,4.6,-,N/A,,Scattered Clouds,20,2003-08-10 18:56:00
+2:56 PM,82.0,57.9,44,30.03,10.0,NNE,9.2,-,N/A,,Mostly Cloudy,30,2003-08-10 19:56:00
+3:56 PM,82.9,57.0,41,30.00,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,2003-08-10 20:56:00
+4:56 PM,82.9,57.0,41,29.99,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,2003-08-10 21:56:00
+5:56 PM,82.0,57.9,44,29.98,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,2003-08-10 22:56:00
+6:56 PM,80.1,57.9,47,29.98,10.0,ESE,5.8,-,N/A,,Scattered Clouds,110,2003-08-10 23:56:00
+7:56 PM,75.0,59.0,57,29.99,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,2003-08-11 00:56:00
+8:56 PM,78.1,57.0,48,30.01,10.0,East,3.5,-,N/A,,Mostly Cloudy,90,2003-08-11 01:56:00
+9:56 PM,68.0,60.1,76,30.01,10.0,Calm,Calm,-,N/A,,Clear,0,2003-08-11 02:56:00
+10:56 PM,66.0,61.0,84,30.01,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2003-08-11 03:56:00
+11:56 PM,66.0,61.0,84,30.02,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,2003-08-11 04:56:00

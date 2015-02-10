@@ -1,0 +1,30 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,62.1,57.9,86,30.13,10.0,SSE,6.9,-,N/A,,Partly Cloudy,160,2001-09-06 05:56:00
+1:56 AM,63.0,55.9,78,30.12,10.0,SSE,6.9,-,N/A,,Partly Cloudy,150,2001-09-06 06:56:00
+2:56 AM,62.1,55.0,78,30.12,10.0,SSE,6.9,-,N/A,,Partly Cloudy,160,2001-09-06 07:56:00
+3:56 AM,61.0,55.0,81,30.11,10.0,South,6.9,-,N/A,,Partly Cloudy,170,2001-09-06 08:56:00
+4:56 AM,62.1,55.9,80,30.11,10.0,South,6.9,-,N/A,,Scattered Clouds,170,2001-09-06 09:56:00
+5:56 AM,62.1,55.9,80,30.11,10.0,South,6.9,-,N/A,,Mostly Cloudy,170,2001-09-06 10:56:00
+6:56 AM,63.0,57.0,81,30.12,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,2001-09-06 11:56:00
+7:56 AM,64.9,57.9,78,30.11,10.0,South,5.8,-,N/A,,Mostly Cloudy,170,2001-09-06 12:56:00
+8:56 AM,71.1,61.0,70,30.09,10.0,South,9.2,-,N/A,,Mostly Cloudy,180,2001-09-06 13:56:00
+9:56 AM,73.0,62.1,68,30.09,10.0,South,9.2,-,N/A,,Mostly Cloudy,180,2001-09-06 14:56:00
+10:56 AM,77.0,64.0,64,30.07,10.0,SSE,8.1,-,N/A,,Mostly Cloudy,150,2001-09-06 15:56:00
+11:56 AM,80.1,66.0,62,30.05,9.0,South,9.2,-,N/A,,Mostly Cloudy,170,2001-09-06 16:56:00
+12:56 PM,82.0,66.9,60,30.01,7.0,South,10.4,-,N/A,,Scattered Clouds,170,2001-09-06 17:56:00
+1:56 PM,84.0,66.9,56,29.99,9.0,South,11.5,-,N/A,,Mostly Cloudy,180,2001-09-06 18:56:00
+2:56 PM,84.0,66.9,56,29.94,9.0,South,13.8,-,N/A,,Mostly Cloudy,180,2001-09-06 19:56:00
+3:56 PM,84.0,68.0,58,29.91,9.0,SSE,17.3,-,N/A,,Mostly Cloudy,160,2001-09-06 20:56:00
+4:56 PM,82.0,68.0,62,29.90,8.0,South,11.5,21.9,N/A,,Mostly Cloudy,180,2001-09-06 21:56:00
+5:56 PM,81.0,66.9,62,29.88,8.0,SSE,15.0,-,N/A,,Overcast,160,2001-09-06 22:56:00
+6:56 PM,81.0,66.0,60,29.87,8.0,SSE,12.7,-,N/A,,Overcast,160,2001-09-06 23:56:00
+7:03 PM,80.6,66.2,61,29.88,8.0,SSE,15.0,-,N/A,Thunderstorm,Overcast,160,2001-09-07 00:03:00
+7:56 PM,73.0,66.0,79,29.91,5.0,SW,16.1,48.3,0.04,Rain-Thunderstorm,Light Thunderstorms and Rain,230,2001-09-07 00:56:00
+8:30 PM,69.8,69.8,100,29.94,1.5,South,11.5,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,190,2001-09-07 01:30:00
+8:37 PM,71.6,69.8,94,29.91,1.5,South,6.9,-,N/A,Rain-Thunderstorm,Heavy Thunderstorms and Rain,180,2001-09-07 01:37:00
+8:56 PM,70.0,68.0,93,29.90,9.0,Calm,Calm,-,0.84,Rain-Thunderstorm,Light Thunderstorms and Rain,0,2001-09-07 01:56:00
+9:17 PM,69.8,68.0,94,29.92,8.0,SE,5.8,-,0.00,Rain,Light Rain,140,2001-09-07 02:17:00
+9:34 PM,71.6,69.8,94,29.92,5.0,SSE,11.5,-,0.03,Rain-Thunderstorm,Light Thunderstorms and Rain,160,2001-09-07 02:34:00
+9:56 PM,71.1,69.1,93,29.88,5.0,SSE,13.8,-,0.06,Rain,Light Rain,150,2001-09-07 02:56:00
+10:56 PM,69.1,66.9,93,29.87,10.0,South,9.2,-,0.00,,Overcast,170,2001-09-07 03:56:00
+11:56 PM,70.0,68.0,93,29.86,6.0,South,9.2,-,N/A,,Overcast,170,2001-09-07 04:56:00

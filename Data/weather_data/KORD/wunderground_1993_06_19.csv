@@ -1,0 +1,45 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,55.0,55.0,100,30.13,3.0,WNW,15.0,-,0.30,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,300,1993-06-19 05:00:00
+12:22 AM,-9999,-9999,N/A,30.13,3.0,NNE,9.2,-,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,20,1993-06-19 05:22:00
+12:33 AM,-9999,-9999,N/A,30.12,3.0,ENE,10.4,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,70,1993-06-19 05:33:00
+1:00 AM,57.9,57.9,100,30.10,3.0,ENE,5.8,-,0.84,Fog-Rain-Thunderstorm,Heavy Thunderstorms and Rain,60,1993-06-19 06:00:00
+2:00 AM,59.0,59.0,100,30.10,3.0,ESE,6.9,-,0.21,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,120,1993-06-19 07:00:00
+2:12 AM,-9999,-9999,N/A,30.09,3.0,SE,10.4,-,N/A,Fog-Rain,Light Rain Showers,140,1993-06-19 07:12:00
+2:39 AM,-9999,-9999,N/A,30.08,3.0,ESE,9.2,-,N/A,Fog-Rain,Light Rain Showers,120,1993-06-19 07:39:00
+3:00 AM,60.1,60.1,100,30.04,3.0,ESE,6.9,-,0.25,Fog-Rain,Light Rain,120,1993-06-19 08:00:00
+4:00 AM,62.1,62.1,100,30.03,3.0,Calm,Calm,-,0.02,Fog,Fog,0,1993-06-19 09:00:00
+4:13 AM,-9999,-9999,N/A,30.04,3.0,SE,4.6,-,N/A,Fog,Fog,140,1993-06-19 09:13:00
+4:25 AM,-9999,-9999,N/A,30.04,3.0,SE,4.6,-,N/A,Fog,Fog,130,1993-06-19 09:25:00
+5:00 AM,63.0,63.0,100,30.03,3.0,SSE,6.9,-,0.03,Fog-Rain,Light Rain Showers,160,1993-06-19 10:00:00
+5:23 AM,-9999,-9999,N/A,30.05,2.0,WNW,3.5,-,N/A,Fog-Rain,Light Rain Showers,300,1993-06-19 10:23:00
+6:00 AM,64.0,64.0,100,30.04,2.0,SSE,5.8,-,0.04,Fog-Rain,Light Rain Showers,150,1993-06-19 11:00:00
+7:00 AM,66.9,66.9,100,30.06,2.0,SE,6.9,-,N/A,Fog-Rain,Light Rain Showers,140,1993-06-19 12:00:00
+8:00 AM,66.9,66.9,100,30.09,2.0,Calm,Calm,-,N/A,Fog,Fog,0,1993-06-19 13:00:00
+8:18 AM,-9999,-9999,N/A,30.08,2.0,South,6.9,-,N/A,Fog,Fog,170,1993-06-19 13:18:00
+9:00 AM,71.1,70.0,96,30.08,2.0,SSW,5.8,-,N/A,Fog,Fog,200,1993-06-19 14:00:00
+9:04 AM,-9999,-9999,N/A,30.08,2.0,SW,5.8,-,N/A,Fog,Fog,220,1993-06-19 14:04:00
+9:29 AM,-9999,-9999,N/A,30.08,4.0,SW,10.4,-,N/A,Fog,Fog,230,1993-06-19 14:29:00
+10:00 AM,75.0,72.0,90,30.07,4.0,SSW,9.2,-,N/A,Fog,Fog,210,1993-06-19 15:00:00
+11:00 AM,79.0,73.0,82,30.06,7.0,SSW,10.4,-,N/A,,Overcast,200,1993-06-19 16:00:00
+12:00 PM,80.1,72.0,76,30.05,8.0,SSW,11.5,-,N/A,,Overcast,210,1993-06-19 17:00:00
+1:00 PM,79.0,71.1,77,30.04,8.0,SW,13.8,-,N/A,,Overcast,230,1993-06-19 18:00:00
+2:00 PM,82.0,71.1,69,30.01,8.0,SW,9.2,-,N/A,,Overcast,220,1993-06-19 19:00:00
+3:00 PM,82.9,71.1,67,29.99,8.0,SSW,16.1,-,N/A,,Mostly Cloudy,200,1993-06-19 20:00:00
+4:00 PM,82.9,71.1,67,29.96,8.0,SSW,17.3,-,N/A,,Mostly Cloudy,210,1993-06-19 21:00:00
+5:00 PM,82.0,71.1,69,29.94,8.0,SSW,15.0,-,N/A,,Mostly Cloudy,200,1993-06-19 22:00:00
+6:00 PM,81.0,71.1,72,29.93,8.0,SSW,12.7,-,N/A,,Overcast,200,1993-06-19 23:00:00
+6:24 PM,-9999,-9999,N/A,29.93,7.0,South,12.7,-,N/A,Thunderstorm,Thunderstorm,190,1993-06-19 23:24:00
+6:38 PM,-9999,-9999,N/A,29.99,4.0,SW,23.0,39.1,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,220,1993-06-19 23:38:00
+7:00 PM,70.0,68.0,93,29.96,2.0,SW,16.1,26.5,0.15,Rain-Thunderstorm,Thunderstorms and Rain,220,1993-06-20 00:00:00
+7:01 PM,-9999,-9999,N/A,29.95,4.0,SW,15.0,24.2,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,220,1993-06-20 00:01:00
+7:17 PM,-9999,-9999,N/A,29.95,4.0,SSW,16.1,24.2,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,210,1993-06-20 00:17:00
+7:30 PM,-9999,-9999,N/A,29.95,7.0,SSW,15.0,-,N/A,Rain,Light Rain,210,1993-06-20 00:30:00
+8:00 PM,69.1,68.0,96,29.96,7.0,South,16.1,-,0.08,Rain,Light Rain,190,1993-06-20 01:00:00
+8:09 PM,-9999,-9999,N/A,29.96,5.0,South,12.7,-,N/A,Fog-Rain,Light Rain,170,1993-06-20 01:09:00
+8:38 PM,-9999,-9999,N/A,29.95,7.0,South,12.7,-,N/A,,Overcast,170,1993-06-20 01:38:00
+9:00 PM,69.1,68.0,96,29.95,7.0,South,12.7,-,0.04,,Overcast,170,1993-06-20 02:00:00
+9:04 PM,-9999,-9999,N/A,29.95,8.0,South,12.7,-,N/A,,Overcast,180,1993-06-20 02:04:00
+9:18 PM,-9999,-9999,N/A,29.95,8.0,South,13.8,-,N/A,,Overcast,170,1993-06-20 02:18:00
+10:00 PM,69.1,69.1,100,29.91,7.0,South,10.4,-,N/A,,Overcast,180,1993-06-20 03:00:00
+10:17 PM,-9999,-9999,N/A,29.92,7.0,South,13.8,-,N/A,,Overcast,180,1993-06-20 03:17:00
+11:00 PM,69.1,69.1,100,29.92,9.0,South,11.5,-,N/A,,Overcast,190,1993-06-20 04:00:00

@@ -1,0 +1,29 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,75.9,73.0,91,29.96,10.0,East,4.6,-,N/A,,Mostly Cloudy,80,1995-08-16 05:00:00
+1:00 AM,77.0,73.0,88,29.95,10.0,East,4.6,-,N/A,,Mostly Cloudy,80,1995-08-16 06:00:00
+2:00 AM,75.9,73.0,91,29.94,7.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1995-08-16 07:00:00
+3:00 AM,78.1,75.0,90,29.94,5.0,SE,4.6,-,N/A,Fog,Fog,140,1995-08-16 08:00:00
+4:00 AM,79.0,75.0,88,29.94,5.0,South,5.8,-,N/A,Fog,Fog,190,1995-08-16 09:00:00
+5:00 AM,78.1,75.0,90,29.94,5.0,South,4.6,-,N/A,Fog,Fog,180,1995-08-16 10:00:00
+6:00 AM,77.0,75.0,94,29.95,3.0,Calm,Calm,-,N/A,Fog,Fog,0,1995-08-16 11:00:00
+7:00 AM,77.0,75.0,94,29.95,3.0,Calm,Calm,-,N/A,Fog,Fog,0,1995-08-16 12:00:00
+8:00 AM,81.0,77.0,88,29.96,3.0,ESE,5.8,-,N/A,Fog,Fog,110,1995-08-16 13:00:00
+9:00 AM,84.0,75.9,76,29.97,3.0,Calm,Calm,-,N/A,,Drizzle,0,1995-08-16 14:00:00
+10:00 AM,86.0,75.9,72,29.96,5.0,South,8.1,-,N/A,,Drizzle,180,1995-08-16 15:00:00
+11:00 AM,87.1,75.9,69,29.96,6.0,SW,8.1,-,N/A,,Drizzle,230,1995-08-16 16:00:00
+12:00 PM,90.0,77.0,65,29.95,6.0,SSE,4.6,-,N/A,,Drizzle,150,1995-08-16 17:00:00
+1:00 PM,91.0,75.0,59,29.94,8.0,WNW,5.8,-,N/A,,Mostly Cloudy,290,1995-08-16 18:00:00
+2:00 PM,93.0,75.0,56,29.93,8.0,WSW,5.8,-,N/A,,Mostly Cloudy,240,1995-08-16 19:00:00
+2:13 PM,-9999,-9999,N/A,29.94,8.0,SE,15.0,-,N/A,Thunderstorm,Thunderstorm,140,1995-08-16 19:13:00
+2:57 PM,-9999,-9999,N/A,29.95,3.0,SSE,18.4,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,160,1995-08-16 19:57:00
+3:00 PM,78.1,73.9,87,29.95,0.5,SSE,23.0,-,1.08,Rain-Thunderstorm,Thunderstorms and Rain,160,1995-08-16 20:00:00
+3:40 PM,-9999,-9999,N/A,29.98,7.0,SW,13.8,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,220,1995-08-16 20:40:00
+4:00 PM,75.0,72.0,90,29.96,7.0,SW,9.2,-,0.12,Rain-Thunderstorm,Light Thunderstorms and Rain,220,1995-08-16 21:00:00
+4:33 PM,-9999,-9999,N/A,29.94,7.0,SE,6.9,-,N/A,,Overcast,140,1995-08-16 21:33:00
+5:00 PM,77.0,73.0,88,29.93,10.0,SSE,5.8,-,N/A,,Overcast,150,1995-08-16 22:00:00
+6:00 PM,77.0,73.0,88,29.93,10.0,SE,5.8,-,N/A,,Mostly Cloudy,140,1995-08-16 23:00:00
+7:00 PM,80.1,73.0,79,29.92,10.0,South,9.2,-,N/A,,Mostly Cloudy,170,1995-08-17 00:00:00
+8:00 PM,79.0,72.0,79,29.92,10.0,SSE,6.9,-,N/A,,Mostly Cloudy,160,1995-08-17 01:00:00
+9:00 PM,77.0,73.0,88,29.94,7.0,SE,8.1,-,N/A,Rain,Light Rain Showers,130,1995-08-17 02:00:00
+10:00 PM,77.0,73.0,88,29.92,7.0,SE,8.1,-,N/A,,Mostly Cloudy,140,1995-08-17 03:00:00
+11:00 PM,77.0,73.0,88,29.92,7.0,South,6.9,-,N/A,,Mostly Cloudy,180,1995-08-17 04:00:00

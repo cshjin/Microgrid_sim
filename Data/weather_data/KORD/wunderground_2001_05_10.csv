@@ -1,0 +1,28 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,66.9,43.0,42,30.00,10.0,SSW,11.5,-,N/A,,Mostly Cloudy,200,2001-05-10 05:56:00
+1:56 AM,66.0,43.0,43,29.99,10.0,SSW,10.4,-,N/A,,Overcast,200,2001-05-10 06:56:00
+2:56 AM,66.9,44.1,44,29.98,8.0,SSW,12.7,-,N/A,,Overcast,210,2001-05-10 07:56:00
+3:56 AM,68.0,44.1,42,29.97,10.0,South,12.7,20.7,N/A,,Partly Cloudy,190,2001-05-10 08:56:00
+4:56 AM,66.0,48.0,52,30.02,10.0,WNW,17.3,23.0,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,290,2001-05-10 09:56:00
+5:39 AM,57.2,55.4,94,29.98,6.0,Calm,Calm,-,0.07,Rain,Light Rain,0,2001-05-10 10:39:00
+5:56 AM,59.0,55.0,87,29.99,10.0,Variable,4.6,-,0.07,Rain,Light Rain,0,2001-05-10 10:56:00
+6:56 AM,61.0,55.0,81,29.95,10.0,South,11.5,-,0.00,,Overcast,190,2001-05-10 11:56:00
+7:56 AM,63.0,53.1,70,29.94,10.0,SSW,10.4,-,N/A,,Mostly Cloudy,200,2001-05-10 12:56:00
+8:56 AM,66.9,53.1,61,29.95,10.0,SSW,12.7,-,N/A,,Mostly Cloudy,210,2001-05-10 13:56:00
+9:56 AM,72.0,55.9,57,29.94,10.0,SSW,12.7,18.4,N/A,,Mostly Cloudy,210,2001-05-10 14:56:00
+10:56 AM,73.9,57.0,55,29.93,10.0,SW,9.2,20.7,N/A,,Mostly Cloudy,220,2001-05-10 15:56:00
+11:56 AM,79.0,59.0,50,29.91,10.0,South,17.3,-,N/A,,Mostly Cloudy,190,2001-05-10 16:56:00
+12:56 PM,79.0,57.0,47,29.89,10.0,SSW,12.7,23.0,N/A,,Mostly Cloudy,210,2001-05-10 17:56:00
+1:56 PM,80.1,57.0,45,29.87,10.0,SW,11.5,25.3,N/A,,Mostly Cloudy,230,2001-05-10 18:56:00
+2:56 PM,81.0,53.1,38,29.86,10.0,SW,13.8,21.9,N/A,,Overcast,230,2001-05-10 19:56:00
+3:56 PM,78.1,59.0,52,29.84,10.0,West,13.8,-,N/A,,Overcast,280,2001-05-10 20:56:00
+4:13 PM,77.0,60.8,57,29.87,10.0,SW,9.2,19.6,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,220,2001-05-10 21:13:00
+4:35 PM,68.0,60.8,78,29.88,7.0,South,9.2,26.5,0.02,Rain-Thunderstorm,Light Thunderstorms and Rain,190,2001-05-10 21:35:00
+4:56 PM,66.0,60.1,81,29.90,3.0,WSW,15.0,26.5,0.03,Rain-Thunderstorm,Thunderstorms and Rain,250,2001-05-10 21:56:00
+5:56 PM,69.1,62.1,78,29.86,10.0,SE,10.4,-,0.12,,Mostly Cloudy,140,2001-05-10 22:56:00
+6:56 PM,68.0,61.0,78,29.85,10.0,South,8.1,-,N/A,,Mostly Cloudy,170,2001-05-10 23:56:00
+7:56 PM,64.9,60.1,84,29.85,10.0,South,6.9,-,N/A,,Mostly Cloudy,170,2001-05-11 00:56:00
+8:56 PM,66.9,60.1,79,29.84,10.0,South,8.1,-,N/A,,Overcast,180,2001-05-11 01:56:00
+9:56 PM,66.9,59.0,76,29.82,10.0,South,8.1,-,N/A,,Mostly Cloudy,180,2001-05-11 02:56:00
+10:56 PM,66.9,59.0,76,29.78,8.0,South,10.4,-,N/A,Thunderstorm,Thunderstorm,170,2001-05-11 03:56:00
+11:56 PM,64.9,62.1,90,29.81,8.0,NNW,17.3,20.7,0.01,Rain-Thunderstorm,Light Thunderstorms and Rain,330,2001-05-11 04:56:00

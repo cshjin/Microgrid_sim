@@ -1,0 +1,36 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,66.9,66.0,97,29.74,6.0,SSE,9.2,-,N/A,Fog,Fog,160,1993-06-08 05:00:00
+1:00 AM,66.9,66.0,97,29.69,6.0,SSE,9.2,-,N/A,Fog,Fog,150,1993-06-08 06:00:00
+1:41 AM,-9999,-9999,N/A,29.70,6.0,SSW,10.4,-,N/A,Fog-Thunderstorm,Unknown,210,1993-06-08 06:41:00
+2:00 AM,71.1,66.9,87,29.73,5.0,West,25.3,40.3,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,270,1993-06-08 07:00:00
+2:14 AM,-9999,-9999,N/A,29.76,5.0,WNW,13.8,29.9,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,300,1993-06-08 07:14:00
+3:00 AM,66.0,64.9,96,29.77,5.0,West,11.5,-,0.08,Fog-Rain-Thunderstorm,Thunderstorms and Rain,270,1993-06-08 08:00:00
+4:00 AM,64.0,64.0,100,29.74,8.0,SSW,4.6,-,0.05,Rain,Light Rain Showers,210,1993-06-08 09:00:00
+5:00 AM,64.0,64.0,100,29.77,8.0,SSW,5.8,-,0.02,Rain,Light Rain Showers,210,1993-06-08 10:00:00
+5:37 AM,-9999,-9999,N/A,29.74,8.0,South,10.4,-,N/A,Rain,Light Rain Showers,190,1993-06-08 10:37:00
+6:00 AM,64.0,64.0,100,29.75,7.0,SSW,8.1,-,0.03,Rain,Light Rain Showers,200,1993-06-08 11:00:00
+7:00 AM,64.0,64.0,100,29.77,5.0,SW,8.1,-,0.03,Fog-Rain,Light Rain Showers,230,1993-06-08 12:00:00
+8:00 AM,64.9,64.9,100,29.75,6.0,South,16.1,-,0.09,Fog-Rain,Light Rain,180,1993-06-08 13:00:00
+8:23 AM,-9999,-9999,N/A,29.83,3.0,SSW,9.2,-,N/A,Fog-Rain,Light Rain Showers,210,1993-06-08 13:23:00
+8:30 AM,-9999,-9999,N/A,29.82,0.5,South,13.8,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,190,1993-06-08 13:30:00
+8:33 AM,-9999,-9999,N/A,29.81,2.0,South,11.5,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,180,1993-06-08 13:33:00
+9:00 AM,64.9,64.9,100,29.78,7.0,South,8.1,-,0.30,Rain-Thunderstorm,Light Thunderstorms and Rain,180,1993-06-08 14:00:00
+9:03 AM,-9999,-9999,N/A,29.77,8.0,Calm,Calm,-,N/A,,Overcast,0,1993-06-08 14:03:00
+10:00 AM,68.0,66.0,93,29.74,8.0,SE,10.4,-,0.02,,Overcast,140,1993-06-08 15:00:00
+11:00 AM,66.9,66.9,100,29.75,5.0,SSE,15.0,-,0.17,Fog-Rain,Light Rain Showers,160,1993-06-08 16:00:00
+11:30 AM,-9999,-9999,N/A,29.81,3.0,SSW,9.2,-,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,210,1993-06-08 16:30:00
+12:00 PM,66.0,66.0,100,29.75,2.0,ESE,6.9,-,0.08,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,120,1993-06-08 17:00:00
+12:02 PM,-9999,-9999,N/A,29.75,2.0,East,5.8,-,N/A,Fog-Rain,Light Rain Showers,90,1993-06-08 17:02:00
+1:00 PM,66.9,66.9,100,29.75,3.0,SE,11.5,-,0.05,Fog-Rain,Light Rain Showers,130,1993-06-08 18:00:00
+1:38 PM,-9999,-9999,N/A,29.76,4.0,SE,13.8,-,N/A,Fog,Fog,140,1993-06-08 18:38:00
+2:00 PM,73.0,70.0,90,29.74,5.0,SSE,15.0,-,N/A,Fog,Fog,150,1993-06-08 19:00:00
+3:00 PM,78.1,71.1,79,29.70,7.0,SE,10.4,-,N/A,,Overcast,140,1993-06-08 20:00:00
+4:00 PM,80.1,71.1,74,29.68,10.0,ESE,13.8,-,N/A,,Mostly Cloudy,120,1993-06-08 21:00:00
+5:00 PM,80.1,72.0,76,29.63,10.0,SE,13.8,-,N/A,,Scattered Clouds,130,1993-06-08 22:00:00
+6:00 PM,79.0,73.0,82,29.60,10.0,SE,10.4,-,N/A,,Mostly Cloudy,140,1993-06-08 23:00:00
+7:00 PM,73.9,68.0,82,29.60,7.0,SSE,12.7,-,N/A,Rain,Light Rain Showers,150,1993-06-09 00:00:00
+7:13 PM,-9999,-9999,N/A,29.63,5.0,South,29.9,55.2,N/A,Rain,Light Rain Showers,190,1993-06-09 00:13:00
+8:00 PM,68.0,64.9,90,29.59,7.0,South,21.9,-,0.07,Rain,Light Rain Showers,190,1993-06-09 01:00:00
+9:00 PM,66.9,66.0,97,29.64,7.0,WNW,10.4,-,0.02,,Overcast,290,1993-06-09 02:00:00
+10:00 PM,66.9,64.9,93,29.70,7.0,South,5.8,-,N/A,,Overcast,180,1993-06-09 03:00:00
+11:00 PM,68.0,64.9,90,29.70,7.0,South,11.5,-,N/A,Rain,Light Rain Showers,180,1993-06-09 04:00:00

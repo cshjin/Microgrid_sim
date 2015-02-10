@@ -1,0 +1,34 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,54.0,28.0,37,30.37,10.0,East,8.1,-,N/A,,Mostly Cloudy,100,2002-05-11 05:56:00
+1:56 AM,52.0,33.1,49,30.36,10.0,SE,6.9,-,N/A,,Overcast,140,2002-05-11 06:56:00
+2:56 AM,55.0,28.9,37,30.35,10.0,East,6.9,-,N/A,,Overcast,100,2002-05-11 07:56:00
+3:56 AM,53.1,30.0,41,30.35,7.0,ESE,8.1,-,N/A,,Mostly Cloudy,110,2002-05-11 08:56:00
+4:56 AM,55.0,30.0,38,30.33,7.0,ESE,12.7,-,N/A,,Overcast,120,2002-05-11 09:56:00
+5:56 AM,55.0,30.0,38,30.33,7.0,SE,12.7,-,N/A,,Overcast,130,2002-05-11 10:56:00
+6:56 AM,55.9,30.0,37,30.35,7.0,SE,12.7,-,N/A,,Overcast,130,2002-05-11 11:56:00
+7:56 AM,55.9,30.0,37,30.35,10.0,SE,10.4,-,N/A,,Overcast,140,2002-05-11 12:56:00
+8:56 AM,55.9,28.0,34,30.33,10.0,SE,21.9,-,N/A,,Mostly Cloudy,140,2002-05-11 13:56:00
+9:56 AM,55.0,30.9,40,30.31,10.0,SE,11.5,-,N/A,,Overcast,140,2002-05-11 14:56:00
+10:56 AM,48.9,41.0,74,30.32,4.0,ESE,19.6,-,0.13,Rain,Rain,120,2002-05-11 15:56:00
+11:56 AM,46.9,43.0,86,30.32,3.0,East,12.7,-,0.17,Rain,Heavy Rain,80,2002-05-11 16:56:00
+12:56 PM,46.0,44.1,93,30.27,3.0,East,17.3,25.3,0.26,Rain,Heavy Rain,90,2002-05-11 17:56:00
+1:56 PM,45.0,42.1,90,30.27,9.0,East,13.8,-,0.12,Rain,Light Rain,90,2002-05-11 18:56:00
+2:22 PM,44.6,42.8,93,30.23,3.0,East,18.4,-,0.06,Rain,Light Rain,100,2002-05-11 19:22:00
+2:56 PM,45.0,44.1,97,30.24,3.0,East,18.4,23.0,0.14,Rain,Heavy Rain,100,2002-05-11 19:56:00
+3:24 PM,44.6,44.6,100,30.20,4.0,East,13.8,-,0.05,Rain,Light Rain,90,2002-05-11 20:24:00
+3:56 PM,45.0,44.1,97,30.20,10.0,East,15.0,-,0.05,,Overcast,90,2002-05-11 20:56:00
+4:18 PM,44.6,44.6,100,30.18,9.0,East,13.8,-,0.00,Rain,Light Rain,100,2002-05-11 21:18:00
+4:56 PM,45.0,45.0,100,30.17,3.0,East,11.5,-,0.01,Rain,Light Rain,80,2002-05-11 21:56:00
+5:56 PM,46.0,45.0,96,30.12,10.0,East,13.8,-,0.01,,Overcast,90,2002-05-11 22:56:00
+6:56 PM,46.0,45.0,96,30.09,10.0,East,11.5,-,0.00,,Overcast,80,2002-05-11 23:56:00
+7:56 PM,46.0,45.0,96,30.06,10.0,East,13.8,-,0.00,Rain,Light Rain,80,2002-05-12 00:56:00
+8:37 PM,44.6,44.6,100,30.06,3.0,ENE,11.5,20.7,0.08,Rain-Thunderstorm,Heavy Rain,70,2002-05-12 01:37:00
+8:56 PM,45.0,45.0,100,30.04,4.0,East,13.8,25.3,0.12,Rain,Light Rain,80,2002-05-12 01:56:00
+9:16 PM,44.6,44.6,100,30.04,3.0,East,10.4,-,0.09,Rain-Thunderstorm,Light Thunderstorms and Rain,80,2002-05-12 02:16:00
+9:24 PM,44.6,44.6,100,30.02,2.0,East,11.5,-,0.21,Rain-Thunderstorm,Heavy Thunderstorms and Rain,80,2002-05-12 02:24:00
+9:31 PM,44.6,44.6,100,30.02,3.0,East,13.8,-,0.22,Rain-Thunderstorm,Thunderstorms and Rain,90,2002-05-12 02:31:00
+9:56 PM,45.0,45.0,100,30.00,3.0,ENE,13.8,-,0.28,Rain-Thunderstorm,Heavy Thunderstorms and Rain,60,2002-05-12 02:56:00
+10:07 PM,44.6,44.6,100,30.02,2.0,ENE,12.7,-,0.18,Rain-Thunderstorm,Heavy Thunderstorms and Rain,70,2002-05-12 03:07:00
+10:22 PM,44.6,44.6,100,30.02,3.0,ENE,9.2,-,0.32,Rain-Thunderstorm,Light Thunderstorms and Rain,60,2002-05-12 03:22:00
+10:56 PM,46.0,46.0,100,29.99,4.0,ENE,9.2,-,0.41,Rain-Thunderstorm,Light Thunderstorms and Rain,70,2002-05-12 03:56:00
+11:56 PM,46.0,46.0,100,30.00,3.0,East,5.8,-,0.32,Rain-Thunderstorm,Thunderstorms and Rain,100,2002-05-12 04:56:00

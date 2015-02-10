@@ -1,0 +1,49 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,19.9,18.0,92,30.22,7.0,East,19.6,-,0.04,Snow,Light Snow,80,1994-01-27 06:00:00
+1:00 AM,21.0,18.0,88,30.19,3.0,East,17.3,-,N/A,Snow,Light Snow,100,1994-01-27 07:00:00
+1:11 AM,-9999,-9999,N/A,30.14,3.0,East,17.3,-,N/A,,Ice Pellets,100,1994-01-27 07:11:00
+2:00 AM,21.9,21.0,96,30.16,3.0,East,16.1,-,N/A,,Ice Pellets,80,1994-01-27 08:00:00
+2:09 AM,-9999,-9999,N/A,30.13,3.0,East,16.1,-,N/A,,Light Freezing Drizzle,90,1994-01-27 08:09:00
+2:36 AM,-9999,-9999,N/A,30.10,2.0,East,21.9,-,N/A,,Light Freezing Drizzle,90,1994-01-27 08:36:00
+3:00 AM,24.1,21.9,91,30.11,2.0,East,13.8,-,0.01,,Light Freezing Drizzle,90,1994-01-27 09:00:00
+3:20 AM,-9999,-9999,N/A,30.07,0.8,East,13.8,-,N/A,,Light Freezing Drizzle,100,1994-01-27 09:20:00
+4:00 AM,23.0,21.0,92,30.07,0.8,East,12.7,-,0.06,,Light Freezing Drizzle,90,1994-01-27 10:00:00
+4:10 AM,-9999,-9999,N/A,30.03,10.5,East,12.7,-,N/A,,Light Freezing Drizzle,100,1994-01-27 10:10:00
+4:31 AM,-9999,-9999,N/A,30.03,1.0,East,11.5,-,N/A,Fog,Light Freezing Drizzle,100,1994-01-27 10:31:00
+5:00 AM,24.1,21.9,91,30.05,1.0,East,13.8,-,0.06,Fog,Light Freezing Drizzle,100,1994-01-27 11:00:00
+6:00 AM,25.0,24.1,96,30.03,1.0,East,11.5,-,0.06,Fog,Light Freezing Drizzle,90,1994-01-27 12:00:00
+6:06 AM,-9999,-9999,N/A,30.00,4.0,East,11.5,-,N/A,Fog,Light Freezing Drizzle,90,1994-01-27 12:06:00
+6:20 AM,-9999,-9999,N/A,30.01,4.0,East,10.4,-,N/A,Fog,Light Freezing Drizzle,100,1994-01-27 12:20:00
+7:00 AM,26.1,25.0,96,30.03,4.0,ESE,12.7,-,0.03,Fog,Light Freezing Drizzle,110,1994-01-27 13:00:00
+7:21 AM,-9999,-9999,N/A,30.00,4.0,East,12.7,-,N/A,Fog,Light Freezing Drizzle,100,1994-01-27 13:21:00
+8:00 AM,26.1,25.0,96,30.01,4.0,ESE,11.5,-,0.02,Fog,Light Freezing Drizzle,110,1994-01-27 14:00:00
+8:22 AM,-9999,-9999,N/A,29.99,5.5,ESE,10.4,-,N/A,Fog,Light Freezing Drizzle,110,1994-01-27 14:22:00
+8:32 AM,-9999,-9999,N/A,29.99,1.0,ESE,11.5,-,N/A,Fog,Light Freezing Drizzle,110,1994-01-27 14:32:00
+8:44 AM,-9999,-9999,N/A,29.98,1.0,East,8.1,-,N/A,Fog-Rain,Light Freezing Rain,100,1994-01-27 14:44:00
+9:00 AM,27.0,26.1,96,30.01,1.0,East,9.2,-,N/A,Fog-Rain,Light Freezing Rain,100,1994-01-27 15:00:00
+9:16 AM,-9999,-9999,N/A,29.96,2.0,East,8.1,-,N/A,Fog-Rain,Light Freezing Rain,100,1994-01-27 15:16:00
+10:00 AM,28.0,27.0,96,29.99,2.0,ESE,3.5,-,N/A,Fog-Rain,Light Freezing Rain,110,1994-01-27 16:00:00
+11:00 AM,28.9,27.0,92,29.97,2.0,East,3.5,-,N/A,Fog-Rain,Light Freezing Rain,100,1994-01-27 17:00:00
+11:07 AM,-9999,-9999,N/A,29.92,1.0,East,4.6,-,N/A,Fog-Rain,Light Freezing Rain,90,1994-01-27 17:07:00
+12:00 PM,30.0,28.9,96,29.91,1.0,East,3.5,-,0.05,Fog-Rain,Light Freezing Rain,90,1994-01-27 18:00:00
+12:09 PM,-9999,-9999,N/A,29.87,2.0,East,3.5,-,N/A,Fog-Rain,Light Freezing Rain,100,1994-01-27 18:09:00
+12:42 PM,-9999,-9999,N/A,29.85,1.0,East,3.5,-,N/A,Fog-Rain,Light Freezing Rain,90,1994-01-27 18:42:00
+1:00 PM,30.9,30.0,96,29.88,1.0,East,4.6,-,0.01,Fog-Rain,Light Freezing Rain,80,1994-01-27 19:00:00
+2:00 PM,30.9,30.0,96,29.85,1.0,NNE,5.8,-,0.01,Fog-Rain,Light Freezing Rain,30,1994-01-27 20:00:00
+3:00 PM,30.9,30.9,100,29.83,1.0,NE,4.6,-,0.02,Fog-Rain,Light Freezing Rain,40,1994-01-27 21:00:00
+3:05 PM,-9999,-9999,N/A,29.79,0.5,ENE,6.9,-,N/A,Fog,Light Freezing Drizzle,60,1994-01-27 21:05:00
+3:20 PM,-9999,-9999,N/A,29.78,0.4,ENE,5.8,-,N/A,Fog,Light Freezing Drizzle,60,1994-01-27 21:20:00
+4:00 PM,30.9,30.9,100,29.79,0.4,ENE,9.2,-,0.01,Fog,Light Freezing Drizzle,60,1994-01-27 22:00:00
+4:20 PM,-9999,-9999,N/A,29.75,0.8,ENE,8.1,-,N/A,Fog,Light Freezing Drizzle,70,1994-01-27 22:20:00
+5:00 PM,32.0,30.9,96,29.78,5.5,NE,4.6,-,0.01,Fog,Light Freezing Drizzle,50,1994-01-27 23:00:00
+6:00 PM,33.1,32.0,96,29.78,0.5,ENE,5.8,-,N/A,Fog,Light Freezing Drizzle,60,1994-01-28 00:00:00
+6:20 PM,-9999,-9999,N/A,29.75,0.8,ENE,3.5,-,N/A,Fog,Light Drizzle,60,1994-01-28 00:20:00
+7:00 PM,33.1,33.1,100,29.78,0.8,Calm,Calm,-,0.07,Fog-Rain,Light Rain,0,1994-01-28 01:00:00
+8:00 PM,33.1,33.1,100,29.73,3.0,NE,6.9,-,0.04,Fog,Fog,40,1994-01-28 02:00:00
+8:25 PM,-9999,-9999,N/A,29.71,1.0,NE,8.1,-,N/A,Fog,Fog,40,1994-01-28 02:25:00
+8:44 PM,-9999,-9999,N/A,29.70,0.5,NE,8.1,-,N/A,Fog,Light Drizzle,40,1994-01-28 02:44:00
+9:00 PM,33.1,33.1,100,29.73,0.5,NE,8.1,-,0.03,Fog,Light Drizzle,50,1994-01-28 03:00:00
+9:11 PM,-9999,-9999,N/A,29.70,3.0,North,5.8,-,N/A,Fog-Rain,Light Rain,10,1994-01-28 03:11:00
+10:00 PM,33.1,33.1,100,29.72,3.0,NNE,6.9,-,0.05,Fog-Rain,Light Rain,20,1994-01-28 04:00:00
+11:00 PM,33.1,33.1,100,29.68,3.0,NNE,8.1,-,0.06,Fog-Rain,Light Rain,30,1994-01-28 05:00:00
+11:01 PM,-9999,-9999,N/A,29.64,0.5,NNE,8.1,-,N/A,Fog-Rain,Light Rain,20,1994-01-28 05:01:00

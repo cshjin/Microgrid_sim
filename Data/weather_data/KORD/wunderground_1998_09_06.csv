@@ -1,0 +1,23 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,77.0,69.1,76,29.96,7.0,SW,6.9,-,N/A,,Scattered Clouds,230,1998-09-06 05:56:00
+1:56 AM,77.0,69.1,76,29.96,8.0,WSW,6.9,-,N/A,,Scattered Clouds,240,1998-09-06 06:56:00
+2:56 AM,75.9,69.1,79,29.95,8.0,SW,6.9,-,N/A,,Mostly Cloudy,230,1998-09-06 07:56:00
+4:56 AM,72.0,66.9,84,29.95,8.0,WSW,3.5,-,N/A,,Mostly Cloudy,250,1998-09-06 09:56:00
+5:56 AM,72.0,66.0,81,29.96,7.0,WSW,4.6,-,N/A,,Mostly Cloudy,250,1998-09-06 10:56:00
+6:56 AM,70.0,66.0,87,29.97,7.0,WSW,5.8,-,N/A,,Scattered Clouds,240,1998-09-06 11:56:00
+7:56 AM,73.0,68.0,84,29.97,7.0,WSW,5.8,-,N/A,,Scattered Clouds,240,1998-09-06 12:56:00
+8:56 AM,77.0,69.1,76,29.96,7.0,WSW,9.2,-,N/A,,Partly Cloudy,240,1998-09-06 13:56:00
+9:56 AM,81.0,71.1,72,29.95,9.0,WSW,8.1,-,N/A,,Clear,250,1998-09-06 14:56:00
+10:56 AM,84.0,73.0,69,29.94,9.0,WSW,8.1,-,N/A,,Partly Cloudy,240,1998-09-06 15:56:00
+12:56 PM,89.1,73.0,59,29.91,9.0,WSW,10.4,-,N/A,,Partly Cloudy,240,1998-09-06 17:56:00
+1:56 PM,90.0,73.9,59,29.90,9.0,West,6.9,-,N/A,,Partly Cloudy,260,1998-09-06 18:56:00
+2:56 PM,91.0,73.9,57,29.87,9.0,Variable,6.9,-,N/A,,Partly Cloudy,0,1998-09-06 19:56:00
+3:56 PM,91.0,72.0,53,29.86,9.0,West,6.9,-,N/A,,Scattered Clouds,260,1998-09-06 20:56:00
+4:56 PM,89.1,73.0,59,29.87,9.0,West,9.2,-,N/A,,Scattered Clouds,260,1998-09-06 21:56:00
+5:56 PM,88.0,73.0,61,29.86,9.0,West,5.8,-,N/A,,Mostly Cloudy,270,1998-09-06 22:56:00
+6:56 PM,84.9,73.9,69,29.84,9.0,WSW,5.8,-,N/A,,Mostly Cloudy,250,1998-09-06 23:56:00
+7:56 PM,82.0,73.9,76,29.82,9.0,SW,5.8,-,N/A,,Mostly Cloudy,220,1998-09-07 00:56:00
+8:56 PM,82.0,73.9,76,29.83,10.0,WSW,6.9,-,N/A,,Mostly Cloudy,240,1998-09-07 01:56:00
+9:56 PM,82.9,72.0,69,29.84,10.0,WSW,15.0,26.5,N/A,,Overcast,250,1998-09-07 02:56:00
+10:56 PM,79.0,64.0,60,29.85,10.0,Variable,5.8,-,N/A,,Mostly Cloudy,0,1998-09-07 03:56:00
+11:09 PM,78.8,62.6,57,29.88,8.0,WNW,8.1,-,N/A,Thunderstorm,Thunderstorm,290,1998-09-07 04:09:00

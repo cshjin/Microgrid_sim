@@ -1,0 +1,37 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,77.0,70.0,79,29.88,8.0,ESE,4.6,-,N/A,,Overcast,110,2005-08-20 05:56:00
+1:21 AM,77.0,69.8,78,29.88,9.0,East,4.6,-,N/A,Thunderstorm,Thunderstorm,100,2005-08-20 06:21:00
+1:56 AM,75.0,71.1,87,29.89,3.0,SW,6.9,-,0.01,Rain-Thunderstorm,Thunderstorms and Rain,220,2005-08-20 06:56:00
+2:07 AM,75.2,71.6,89,29.91,2.0,SW,17.3,21.9,0.19,Rain-Thunderstorm,Heavy Thunderstorms and Rain,230,2005-08-20 07:07:00
+2:31 AM,69.8,68.0,94,29.90,5.0,Calm,Calm,-,0.75,Rain-Thunderstorm,Light Thunderstorms and Rain,0,2005-08-20 07:31:00
+2:46 AM,71.6,68.0,88,29.98,4.0,West,16.1,25.3,0.77,Rain-Thunderstorm,Light Thunderstorms and Rain,260,2005-08-20 07:46:00
+2:49 AM,71.6,69.8,94,29.97,2.0,West,12.7,25.3,0.85,Rain-Thunderstorm,Heavy Thunderstorms and Rain,260,2005-08-20 07:49:00
+2:56 AM,70.0,69.1,97,29.93,1.2,WNW,8.1,-,1.03,Rain-Thunderstorm,Heavy Thunderstorms and Rain,300,2005-08-20 07:56:00
+3:08 AM,71.6,69.8,94,29.92,3.0,Calm,Calm,-,0.07,Rain-Thunderstorm,Light Thunderstorms and Rain,0,2005-08-20 08:08:00
+3:28 AM,69.8,69.8,100,29.89,7.0,SE,8.1,-,0.07,Rain-Thunderstorm,Light Thunderstorms and Rain,140,2005-08-20 08:28:00
+3:44 AM,69.8,69.8,100,29.91,10.0,South,4.6,-,0.07,Rain,Light Rain,180,2005-08-20 08:44:00
+3:56 AM,70.0,69.1,97,29.91,10.0,SSW,3.5,-,0.08,Rain,Light Rain,200,2005-08-20 08:56:00
+4:56 AM,71.1,70.0,96,29.89,6.0,Calm,Calm,-,0.14,Rain,Light Rain,0,2005-08-20 09:56:00
+5:56 AM,72.0,70.0,93,29.89,10.0,SSW,5.8,-,0.04,Rain,Light Rain,200,2005-08-20 10:56:00
+6:56 AM,72.0,71.1,97,29.91,5.0,South,6.9,-,0.03,Rain,Light Rain,170,2005-08-20 11:56:00
+7:09 AM,71.6,71.6,100,29.92,5.0,South,6.9,-,0.01,Rain,Light Rain,190,2005-08-20 12:09:00
+7:31 AM,71.6,71.6,100,29.89,10.0,South,8.1,-,0.02,Rain,Light Rain,180,2005-08-20 12:31:00
+7:56 AM,73.0,71.1,93,29.88,10.0,South,8.1,-,0.02,,Mostly Cloudy,190,2005-08-20 12:56:00
+8:56 AM,73.9,71.1,91,29.90,10.0,WSW,8.1,-,N/A,,Mostly Cloudy,240,2005-08-20 13:56:00
+9:56 AM,75.9,72.0,87,29.89,10.0,SW,8.1,-,N/A,,Mostly Cloudy,230,2005-08-20 14:56:00
+10:56 AM,78.1,72.0,81,29.92,10.0,WSW,11.5,-,N/A,,Mostly Cloudy,250,2005-08-20 15:56:00
+11:08 AM,77.0,71.6,83,29.94,10.0,WSW,12.7,-,N/A,,Mostly Cloudy,250,2005-08-20 16:08:00
+11:56 AM,79.0,71.1,77,29.94,10.0,West,11.5,-,N/A,,Mostly Cloudy,260,2005-08-20 16:56:00
+12:56 PM,82.0,70.0,67,29.92,10.0,West,11.5,-,N/A,,Mostly Cloudy,270,2005-08-20 17:56:00
+1:56 PM,82.0,70.0,67,29.92,10.0,WNW,10.4,-,N/A,,Mostly Cloudy,290,2005-08-20 18:56:00
+2:11 PM,82.4,69.8,66,29.93,10.0,West,13.8,-,N/A,,Mostly Cloudy,280,2005-08-20 19:11:00
+2:56 PM,84.0,70.0,63,29.91,10.0,West,11.5,-,N/A,,Mostly Cloudy,280,2005-08-20 19:56:00
+3:56 PM,84.9,68.0,57,29.90,10.0,West,11.5,-,N/A,,Mostly Cloudy,280,2005-08-20 20:56:00
+4:56 PM,84.0,66.0,55,29.91,10.0,WNW,17.3,23.0,N/A,,Mostly Cloudy,290,2005-08-20 21:56:00
+5:56 PM,82.9,64.0,53,29.92,10.0,WNW,11.5,21.9,N/A,,Mostly Cloudy,290,2005-08-20 22:56:00
+6:56 PM,82.0,64.9,56,29.93,10.0,West,11.5,-,N/A,,Mostly Cloudy,280,2005-08-20 23:56:00
+7:56 PM,80.1,64.0,58,29.95,10.0,West,6.9,-,N/A,,Mostly Cloudy,280,2005-08-21 00:56:00
+8:56 PM,78.1,64.9,64,29.99,10.0,West,4.6,-,N/A,,Mostly Cloudy,270,2005-08-21 01:56:00
+9:56 PM,75.9,62.1,62,30.00,10.0,WNW,9.2,-,N/A,,Mostly Cloudy,300,2005-08-21 02:56:00
+10:56 PM,73.0,62.1,68,30.00,10.0,West,6.9,-,N/A,,Mostly Cloudy,280,2005-08-21 03:56:00
+11:56 PM,72.0,60.1,66,30.01,10.0,WNW,8.1,-,N/A,,Scattered Clouds,290,2005-08-21 04:56:00

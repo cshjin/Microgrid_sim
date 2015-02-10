@@ -1,0 +1,40 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,75.0,70.0,84,29.91,8.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1997-07-18 05:56:00
+1:56 AM,77.0,70.0,79,29.90,8.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1997-07-18 06:56:00
+2:56 AM,73.9,70.0,87,29.90,6.0,WNW,3.5,-,N/A,,Mostly Cloudy,290,1997-07-18 07:56:00
+3:56 AM,75.0,70.0,84,29.91,6.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1997-07-18 08:56:00
+4:56 AM,73.9,70.0,87,29.89,6.0,WSW,3.5,-,N/A,,Scattered Clouds,250,1997-07-18 09:56:00
+5:56 AM,73.9,70.0,87,29.91,7.0,WSW,4.6,-,N/A,,Scattered Clouds,250,1997-07-18 10:56:00
+6:56 AM,75.9,71.1,85,29.92,5.0,WSW,4.6,-,N/A,,Haze,240,1997-07-18 11:56:00
+7:56 AM,75.9,57.0,52,29.93,6.0,WNW,6.9,-,0.01,Rain-Thunderstorm,Light Thunderstorms and Rain,300,1997-07-18 12:56:00
+8:20 AM,75.2,60.8,61,29.93,10.0,Variable,3.5,-,0.01,,Mostly Cloudy,0,1997-07-18 13:20:00
+8:56 AM,79.0,71.6,78,29.92,10.0,West,4.6,-,0.01,,Scattered Clouds,260,1997-07-18 13:56:00
+9:56 AM,82.0,69.4,65,29.93,10.0,West,5.8,-,N/A,,Scattered Clouds,260,1997-07-18 14:56:00
+10:56 AM,86.0,70.2,59,29.92,10.0,SSW,5.8,-,N/A,,Mostly Cloudy,210,1997-07-18 15:56:00
+11:56 AM,88.0,73.6,62,29.90,10.0,SW,5.8,-,N/A,,Mostly Cloudy,220,1997-07-18 16:56:00
+12:56 PM,88.0,73.2,61,29.89,10.0,WSW,6.9,-,N/A,,Mostly Cloudy,250,1997-07-18 17:56:00
+1:06 PM,87.8,73.4,62,29.91,10.0,WSW,3.5,-,N/A,Thunderstorm,Thunderstorm,250,1997-07-18 18:06:00
+1:24 PM,87.8,73.4,62,29.90,10.0,East,8.1,-,N/A,,Overcast,90,1997-07-18 18:24:00
+1:56 PM,86.0,73.6,66,29.87,10.0,East,13.8,-,0.00,Rain,Light Rain,100,1997-07-18 18:56:00
+2:20 PM,84.2,73.4,70,29.87,8.0,ENE,11.5,-,0.00,Thunderstorm,Thunderstorm,60,1997-07-18 19:20:00
+2:56 PM,79.0,71.4,78,29.88,10.0,Calm,Calm,-,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,0,1997-07-18 19:56:00
+3:07 PM,78.8,71.6,78,29.92,1.2,WSW,9.2,23.0,0.13,Rain-Thunderstorm,Light Thunderstorms and Rain,240,1997-07-18 20:07:00
+3:13 PM,78.8,71.6,78,29.92,1.0,SSE,6.9,23.0,0.28,Rain-Thunderstorm,Heavy Thunderstorms and Rain,150,1997-07-18 20:13:00
+3:21 PM,73.4,71.6,94,29.91,1.0,Variable,4.6,-,0.36,Rain-Thunderstorm,Heavy Thunderstorms and Rain,0,1997-07-18 20:21:00
+3:27 PM,73.4,71.6,94,29.92,0.5,North,36.8,40.3,0.80,Fog-Rain-Thunderstorm,Heavy Thunderstorms and Rain,10,1997-07-18 20:27:00
+3:31 PM,71.6,71.6,100,29.93,0.2,North,16.1,40.3,1.17,Fog-Rain-Thunderstorm,Heavy Thunderstorms and Rain,10,1997-07-18 20:31:00
+3:45 PM,71.6,71.6,100,29.96,0.8,WNW,12.7,-,1.63,Rain-Thunderstorm,Heavy Thunderstorms and Rain,300,1997-07-18 20:45:00
+3:56 PM,71.1,71.1,100,29.97,1.0,NW,5.8,-,1.75,Rain-Thunderstorm,Heavy Thunderstorms and Rain,310,1997-07-18 20:56:00
+4:00 PM,71.6,71.6,100,29.99,2.0,NW,4.6,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,310,1997-07-18 21:00:00
+4:10 PM,71.6,71.6,100,29.97,4.0,SE,3.5,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,130,1997-07-18 21:10:00
+4:41 PM,71.6,69.8,94,29.93,4.0,NE,10.4,-,N/A,Rain,Rain,40,1997-07-18 21:41:00
+4:56 PM,70.0,69.6,99,29.91,6.0,NE,9.2,20.7,N/A,Rain,Rain,40,1997-07-18 21:56:00
+5:05 PM,69.8,66.2,88,29.91,6.0,ENE,12.7,21.9,0.02,Rain-Thunderstorm,Thunderstorms and Rain,70,1997-07-18 22:05:00
+5:46 PM,69.8,69.8,100,29.90,9.0,SW,8.1,-,0.09,Rain,Light Rain,230,1997-07-18 22:46:00
+5:56 PM,70.0,69.1,97,29.89,10.0,WSW,6.9,-,0.09,Rain,Light Rain,240,1997-07-18 22:56:00
+6:56 PM,71.1,69.1,93,29.90,10.0,Calm,Calm,-,0.00,,Overcast,0,1997-07-18 23:56:00
+7:56 PM,72.0,70.3,95,29.93,10.0,West,5.8,-,N/A,,Overcast,280,1997-07-19 00:56:00
+8:56 PM,71.1,69.3,94,29.93,10.0,NW,3.5,-,N/A,,Mostly Cloudy,320,1997-07-19 01:56:00
+9:56 PM,71.1,69.3,94,29.94,10.0,NNE,4.6,-,N/A,,Mostly Cloudy,20,1997-07-19 02:56:00
+10:56 PM,71.1,68.9,93,29.96,10.0,North,8.1,-,0.00,,Scattered Clouds,10,1997-07-19 03:56:00
+11:56 PM,71.1,68.0,90,29.96,9.0,NNE,6.9,-,N/A,,Mostly Cloudy,30,1997-07-19 04:56:00

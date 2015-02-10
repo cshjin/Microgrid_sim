@@ -1,0 +1,35 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:51 AM,63.0,57.0,81,29.62,10.0,South,10.4,-,N/A,,Overcast,190,2008-05-02 05:51:00
+1:51 AM,63.0,57.0,81,29.61,10.0,South,10.4,-,N/A,,Mostly Cloudy,190,2008-05-02 06:51:00
+2:51 AM,64.0,57.9,80,29.59,10.0,SSW,9.2,-,N/A,,Overcast,200,2008-05-02 07:51:00
+3:51 AM,64.0,57.9,80,29.58,10.0,South,8.1,-,N/A,,Overcast,180,2008-05-02 08:51:00
+4:51 AM,62.1,57.0,84,29.59,10.0,SSE,5.8,-,N/A,,Overcast,160,2008-05-02 09:51:00
+5:51 AM,62.1,57.0,84,29.58,10.0,South,11.5,-,N/A,,Overcast,180,2008-05-02 10:51:00
+6:51 AM,64.0,57.0,78,29.60,10.0,South,11.5,-,N/A,,Mostly Cloudy,180,2008-05-02 11:51:00
+7:51 AM,64.4,57.2,77,29.58,10.0,South,11.5,-,N/A,,Overcast,170,2008-05-02 12:51:00
+8:51 AM,64.9,57.0,75,29.57,10.0,South,15.0,-,0.00,Rain,Light Rain,180,2008-05-02 13:51:00
+9:39 AM,64.4,59.0,83,29.54,10.0,South,12.7,-,0.01,Rain-Thunderstorm,Light Thunderstorms and Rain,170,2008-05-02 14:39:00
+9:51 AM,63.0,59.0,87,29.54,4.0,South,23.0,31.1,0.04,Rain-Thunderstorm,Thunderstorms and Rain,180,2008-05-02 14:51:00
+9:58 AM,62.6,60.8,94,29.54,3.0,South,13.8,31.1,0.42,Rain-Thunderstorm,Heavy Thunderstorms and Rain,170,2008-05-02 14:58:00
+10:07 AM,62.6,60.8,94,29.54,2.0,SSE,9.2,-,0.55,Rain-Thunderstorm,Heavy Thunderstorms and Rain,160,2008-05-02 15:07:00
+10:30 AM,62.6,60.8,94,29.55,1.5,South,15.0,-,0.79,Rain-Thunderstorm,Heavy Thunderstorms and Rain,190,2008-05-02 15:30:00
+10:44 AM,62.6,60.8,94,29.54,2.0,South,17.3,25.3,1.06,Rain-Thunderstorm,Heavy Thunderstorms and Rain,190,2008-05-02 15:44:00
+10:51 AM,63.0,61.0,93,29.53,2.0,South,18.4,25.3,1.09,Rain-Thunderstorm,Thunderstorms and Rain,180,2008-05-02 15:51:00
+11:04 AM,62.6,60.8,94,29.52,3.0,South,20.7,29.9,0.04,Rain-Thunderstorm,Thunderstorms and Rain,170,2008-05-02 16:04:00
+11:16 AM,62.6,60.8,94,29.51,10.0,South,18.4,24.2,0.04,Rain,Light Rain,190,2008-05-02 16:16:00
+11:51 AM,64.0,61.0,90,29.50,10.0,South,15.0,23.0,0.05,,Overcast,180,2008-05-02 16:51:00
+12:34 PM,66.2,62.6,88,29.46,9.0,South,19.6,31.1,N/A,,Overcast,170,2008-05-02 17:34:00
+12:51 PM,68.0,62.1,81,29.44,9.0,South,19.6,24.2,N/A,,Overcast,180,2008-05-02 17:51:00
+12:58 PM,66.2,62.6,88,29.45,9.0,South,16.1,26.5,N/A,,Overcast,180,2008-05-02 17:58:00
+1:51 PM,72.0,63.0,73,29.43,10.0,South,15.0,-,N/A,,Mostly Cloudy,180,2008-05-02 18:51:00
+1:59 PM,71.6,62.6,73,29.44,10.0,South,18.4,24.2,N/A,,Mostly Cloudy,180,2008-05-02 18:59:00
+2:51 PM,73.9,57.0,55,29.44,10.0,SSW,19.6,33.4,N/A,,Mostly Cloudy,210,2008-05-02 19:51:00
+3:51 PM,70.0,57.0,63,29.44,10.0,South,28.8,39.1,N/A,,Overcast,190,2008-05-02 20:51:00
+4:51 PM,70.0,57.9,65,29.44,10.0,SSW,24.2,34.5,N/A,,Mostly Cloudy,200,2008-05-02 21:51:00
+5:51 PM,70.0,55.9,61,29.44,10.0,SSW,18.4,35.7,N/A,,Mostly Cloudy,210,2008-05-02 22:51:00
+6:51 PM,68.0,55.9,65,29.44,8.0,South,23.0,27.6,0.00,Rain,Light Rain,190,2008-05-02 23:51:00
+7:51 PM,63.0,55.0,75,29.47,10.0,SW,11.5,20.7,0.10,,Mostly Cloudy,220,2008-05-03 00:51:00
+8:51 PM,64.0,48.0,56,29.51,10.0,WSW,19.6,28.8,N/A,,Scattered Clouds,250,2008-05-03 01:51:00
+9:51 PM,61.0,44.1,54,29.56,10.0,WSW,15.0,26.5,N/A,,Scattered Clouds,250,2008-05-03 02:51:00
+10:51 PM,57.9,43.0,58,29.55,10.0,WSW,12.7,-,N/A,,Clear,250,2008-05-03 03:51:00
+11:51 PM,55.0,43.0,64,29.54,10.0,SSW,6.9,-,N/A,,Clear,200,2008-05-03 04:51:00

@@ -1,0 +1,25 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,73.9,66.9,79,29.99,10.0,SSW,4.6,-,N/A,,Mostly Cloudy,210,2002-08-11 05:56:00
+1:56 AM,73.0,66.9,81,29.99,10.0,SW,3.5,-,N/A,,Scattered Clouds,230,2002-08-11 06:56:00
+2:56 AM,72.0,66.9,84,29.99,8.0,SW,3.5,-,N/A,,Scattered Clouds,220,2002-08-11 07:56:00
+3:56 AM,71.1,66.9,87,29.99,7.0,Calm,Calm,-,N/A,,Scattered Clouds,0,2002-08-11 08:56:00
+4:56 AM,70.0,66.9,90,29.99,7.0,Calm,Calm,-,N/A,,Scattered Clouds,0,2002-08-11 09:56:00
+5:56 AM,66.9,66.0,97,30.01,6.0,Calm,Calm,-,N/A,,Clear,0,2002-08-11 10:56:00
+6:56 AM,71.1,66.9,87,30.01,5.0,Calm,Calm,-,N/A,,Clear,0,2002-08-11 11:56:00
+7:56 AM,75.0,68.0,79,30.02,6.0,SSW,4.6,-,N/A,,Haze,200,2002-08-11 12:56:00
+8:56 AM,79.0,68.0,69,30.03,8.0,WSW,8.1,-,N/A,,Partly Cloudy,240,2002-08-11 13:56:00
+9:56 AM,84.0,68.0,58,30.03,9.0,West,8.1,-,N/A,,Scattered Clouds,270,2002-08-11 14:56:00
+10:56 AM,86.0,66.9,53,30.02,10.0,West,8.1,-,N/A,,Scattered Clouds,270,2002-08-11 15:56:00
+11:56 AM,88.0,66.0,48,30.01,10.0,Variable,4.6,-,N/A,,Scattered Clouds,0,2002-08-11 16:56:00
+12:56 PM,90.0,66.0,45,30.01,10.0,SW,8.1,-,N/A,,Scattered Clouds,230,2002-08-11 17:56:00
+1:56 PM,91.9,61.0,35,30.00,10.0,West,10.4,-,N/A,,Scattered Clouds,260,2002-08-11 18:56:00
+2:56 PM,93.0,60.1,33,29.98,10.0,Variable,3.5,18.4,N/A,,Scattered Clouds,0,2002-08-11 19:56:00
+3:56 PM,91.0,64.9,42,29.98,10.0,SSW,9.2,18.4,N/A,,Mostly Cloudy,210,2002-08-11 20:56:00
+4:56 PM,91.0,64.9,42,29.96,10.0,SSW,9.2,-,N/A,,Mostly Cloudy,210,2002-08-11 21:56:00
+5:56 PM,87.1,71.1,59,29.95,9.0,SSW,17.3,21.9,N/A,,Scattered Clouds,210,2002-08-11 22:56:00
+6:56 PM,84.9,68.0,57,29.94,10.0,SSW,9.2,-,N/A,,Scattered Clouds,210,2002-08-11 23:56:00
+7:56 PM,82.0,66.0,58,29.96,10.0,SSW,9.2,-,N/A,,Mostly Cloudy,210,2002-08-12 00:56:00
+8:56 PM,79.0,70.0,74,29.98,10.0,South,6.9,-,N/A,,Mostly Cloudy,190,2002-08-12 01:56:00
+9:56 PM,79.0,73.9,84,29.97,8.0,South,9.2,-,N/A,,Scattered Clouds,190,2002-08-12 02:56:00
+10:56 PM,77.0,72.0,84,29.98,8.0,South,9.2,-,N/A,,Scattered Clouds,190,2002-08-12 03:56:00
+11:56 PM,75.9,71.1,85,29.99,10.0,SSW,9.2,-,N/A,,Clear,210,2002-08-12 04:56:00

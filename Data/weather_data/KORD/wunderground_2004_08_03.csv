@@ -1,0 +1,32 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,66.9,64.9,93,29.89,10.0,Calm,Calm,-,N/A,,Clear,0,2004-08-03 05:56:00
+1:56 AM,70.0,66.9,90,29.88,10.0,Calm,Calm,-,N/A,,Clear,0,2004-08-03 06:56:00
+2:56 AM,69.1,66.9,93,29.89,10.0,WSW,3.5,-,N/A,,Partly Cloudy,250,2004-08-03 07:56:00
+3:56 AM,70.0,66.0,87,29.90,10.0,West,3.5,-,N/A,,Clear,270,2004-08-03 08:56:00
+4:56 AM,70.0,66.0,87,29.89,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2004-08-03 09:56:00
+5:56 AM,66.9,66.0,97,29.89,8.0,WSW,3.5,-,N/A,,Scattered Clouds,250,2004-08-03 10:56:00
+6:56 AM,71.1,68.0,90,29.90,8.0,WSW,3.5,-,N/A,,Scattered Clouds,250,2004-08-03 11:56:00
+7:56 AM,75.0,66.9,76,29.92,9.0,West,6.9,-,N/A,,Scattered Clouds,260,2004-08-03 12:56:00
+8:56 AM,80.1,66.9,64,29.93,10.0,West,6.9,-,N/A,,Scattered Clouds,270,2004-08-03 13:56:00
+9:56 AM,82.9,68.0,60,29.93,10.0,WNW,6.9,-,N/A,,Scattered Clouds,290,2004-08-03 14:56:00
+10:56 AM,82.9,68.0,60,29.92,10.0,NW,8.1,-,N/A,,Mostly Cloudy,320,2004-08-03 15:56:00
+11:56 AM,84.0,68.0,58,29.91,10.0,NNW,5.8,-,N/A,,Mostly Cloudy,330,2004-08-03 16:56:00
+12:56 PM,86.0,68.0,55,29.88,10.0,Variable,4.6,-,N/A,,Mostly Cloudy,0,2004-08-03 17:56:00
+1:56 PM,88.0,66.9,49,29.86,10.0,Variable,4.6,-,N/A,,Scattered Clouds,0,2004-08-03 18:56:00
+2:56 PM,87.1,70.0,57,29.86,10.0,ENE,11.5,-,N/A,,Scattered Clouds,70,2004-08-03 19:56:00
+3:56 PM,84.9,70.0,61,29.86,10.0,East,11.5,-,N/A,,Mostly Cloudy,90,2004-08-03 20:56:00
+4:56 PM,84.0,70.0,63,29.85,10.0,East,11.5,-,N/A,,Mostly Cloudy,80,2004-08-03 21:56:00
+5:56 PM,82.9,69.1,63,29.83,10.0,East,11.5,-,N/A,,Scattered Clouds,90,2004-08-03 22:56:00
+6:56 PM,81.0,68.0,65,29.83,10.0,East,12.7,-,N/A,,Mostly Cloudy,90,2004-08-03 23:56:00
+7:56 PM,80.1,66.9,64,29.82,10.0,East,11.5,-,N/A,,Overcast,90,2004-08-04 00:56:00
+8:56 PM,79.0,66.9,66,29.81,10.0,East,10.4,-,N/A,,Overcast,90,2004-08-04 01:56:00
+9:56 PM,79.0,66.9,66,29.80,10.0,NNE,9.2,-,0.00,Rain-Thunderstorm,Light Rain,30,2004-08-04 02:56:00
+10:22 PM,73.4,71.6,94,29.89,0.5,SW,32.2,42.6,0.11,Fog-Rain-Thunderstorm,Heavy Thunderstorms and Rain,220,2004-08-04 03:22:00
+10:28 PM,68.0,66.2,94,29.84,0.8,WSW,12.7,42.6,0.60,Fog-Rain-Thunderstorm,Heavy Thunderstorms and Rain,240,2004-08-04 03:28:00
+10:35 PM,68.0,66.2,94,29.83,1.0,SW,8.1,-,0.75,Rain-Thunderstorm,Heavy Thunderstorms and Rain,230,2004-08-04 03:35:00
+10:42 PM,68.0,66.2,94,29.83,1.8,SW,4.6,-,0.82,Rain-Thunderstorm,Heavy Thunderstorms and Rain,230,2004-08-04 03:42:00
+10:46 PM,68.0,66.2,94,29.83,2.0,Variable,3.5,-,0.84,Rain-Thunderstorm,Heavy Thunderstorms and Rain,0,2004-08-04 03:46:00
+10:56 PM,68.0,66.9,96,29.82,4.0,Variable,3.5,-,0.89,Rain-Thunderstorm,Thunderstorms and Rain,0,2004-08-04 03:56:00
+11:06 PM,66.2,66.2,100,29.81,2.5,South,3.5,-,0.08,Rain-Thunderstorm,Thunderstorms and Rain,190,2004-08-04 04:06:00
+11:19 PM,68.0,66.2,94,29.83,3.0,West,6.9,-,0.15,Rain-Thunderstorm,Thunderstorms and Rain,260,2004-08-04 04:19:00
+11:56 PM,68.0,66.9,96,29.81,10.0,NNW,9.2,-,0.26,Rain-Thunderstorm,Thunderstorms and Rain,340,2004-08-04 04:56:00

@@ -1,0 +1,37 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,61.0,48.0,62,29.86,10.0,NW,12.7,-,N/A,,Clear,320,1999-04-08 05:56:00
+1:56 AM,60.1,46.0,60,29.87,10.0,NNW,9.2,-,N/A,,Clear,330,1999-04-08 06:56:00
+2:56 AM,57.0,46.0,67,29.88,10.0,WNW,9.2,-,N/A,,Clear,300,1999-04-08 07:56:00
+3:56 AM,53.1,45.0,74,29.87,10.0,NNW,10.4,19.6,N/A,,Clear,330,1999-04-08 08:56:00
+4:56 AM,54.0,45.0,72,29.88,10.0,NNW,9.2,-,N/A,,Clear,330,1999-04-08 09:56:00
+5:56 AM,50.0,42.1,74,29.91,10.0,NNW,6.9,-,N/A,,Clear,330,1999-04-08 10:56:00
+6:56 AM,52.0,43.0,71,29.93,10.0,NNW,6.9,-,N/A,,Clear,330,1999-04-08 11:56:00
+7:56 AM,57.0,41.0,55,29.93,10.0,North,8.1,-,N/A,,Partly Cloudy,360,1999-04-08 12:56:00
+8:56 AM,60.1,39.9,47,29.90,10.0,NE,8.1,-,N/A,,Partly Cloudy,40,1999-04-08 13:56:00
+9:56 AM,63.0,37.0,38,29.91,10.0,East,8.1,17.3,N/A,,Scattered Clouds,90,1999-04-08 14:56:00
+10:56 AM,62.1,37.9,41,29.90,10.0,NE,11.5,-,N/A,,Mostly Cloudy,50,1999-04-08 15:56:00
+11:56 AM,60.1,39.9,47,29.91,10.0,ENE,12.7,-,N/A,,Mostly Cloudy,60,1999-04-08 16:56:00
+12:56 PM,57.9,42.1,56,29.87,10.0,ENE,12.7,20.7,N/A,,Mostly Cloudy,70,1999-04-08 17:56:00
+1:56 PM,55.0,43.0,64,29.87,10.0,ENE,10.4,-,N/A,,Overcast,60,1999-04-08 18:56:00
+2:56 PM,55.0,44.1,67,29.81,10.0,ENE,12.7,-,N/A,,Overcast,60,1999-04-08 19:56:00
+3:56 PM,53.1,41.0,64,29.76,10.0,NE,15.0,-,N/A,,Overcast,40,1999-04-08 20:56:00
+4:56 PM,48.0,42.1,80,29.70,10.0,NE,16.1,-,0.00,Rain,Light Rain,40,1999-04-08 21:56:00
+5:56 PM,48.0,44.1,86,29.73,4.0,ENE,10.4,16.1,0.05,Rain,Rain,70,1999-04-08 22:56:00
+6:56 PM,48.0,45.0,89,29.67,4.0,North,11.5,-,0.03,Rain,Light Rain,10,1999-04-08 23:56:00
+7:24 PM,46.4,44.6,93,29.65,9.0,ENE,11.5,19.6,0.01,Rain,Light Rain,60,1999-04-09 00:24:00
+7:30 PM,46.4,44.6,93,29.63,10.0,NE,15.0,-,0.01,Rain-Thunderstorm,Light Thunderstorms and Rain,50,1999-04-09 00:30:00
+7:56 PM,48.0,44.1,86,29.63,10.0,NE,11.5,21.9,0.02,Rain-Thunderstorm,Light Thunderstorms and Rain,50,1999-04-09 00:56:00
+8:07 PM,48.2,44.6,87,29.62,10.0,NE,11.5,20.7,0.00,,Overcast,50,1999-04-09 01:07:00
+8:56 PM,48.9,45.0,86,29.56,10.0,ENE,20.7,-,0.02,,Overcast,60,1999-04-09 01:56:00
+9:48 PM,51.8,44.6,76,29.51,10.0,ENE,17.3,26.5,0.01,Rain-Thunderstorm,Light Thunderstorms and Rain,60,1999-04-09 02:48:00
+9:56 PM,52.0,46.0,80,29.51,10.0,ENE,15.0,25.3,0.02,Rain-Thunderstorm,Light Thunderstorms and Rain,60,1999-04-09 02:56:00
+10:30 PM,51.8,46.4,82,29.51,2.0,Variable,5.8,18.4,0.22,Rain-Thunderstorm,Heavy Thunderstorms and Rain,0,1999-04-09 03:30:00
+10:36 PM,51.8,46.4,82,29.50,1.5,ENE,10.4,18.4,0.31,Rain-Thunderstorm,Heavy Thunderstorms and Rain,70,1999-04-09 03:36:00
+10:49 PM,50.0,48.2,94,29.49,2.0,ENE,13.8,23.0,0.45,Rain-Thunderstorm,Heavy Thunderstorms and Rain,60,1999-04-09 03:49:00
+10:56 PM,51.1,48.9,92,29.49,2.5,NE,11.5,23.0,0.50,Rain-Thunderstorm,Heavy Thunderstorms and Rain,50,1999-04-09 03:56:00
+11:06 PM,51.8,48.2,88,29.47,5.0,NE,9.2,17.3,0.03,Rain-Thunderstorm,Thunderstorms and Rain,50,1999-04-09 04:06:00
+11:16 PM,51.8,48.2,88,29.46,2.5,ENE,15.0,24.2,0.14,Rain-Thunderstorm,Heavy Thunderstorms and Rain,60,1999-04-09 04:16:00
+11:33 PM,51.8,50.0,94,29.44,3.0,NNE,15.0,-,0.25,Rain-Thunderstorm,Heavy Thunderstorms and Rain,30,1999-04-09 04:33:00
+11:38 PM,51.8,50.0,94,29.43,4.0,NNE,12.7,-,0.28,Rain,Heavy Rain,30,1999-04-09 04:38:00
+11:42 PM,50.0,48.2,94,29.43,4.0,NNE,12.7,-,0.29,Rain-Thunderstorm,Heavy Thunderstorms and Rain,30,1999-04-09 04:42:00
+11:56 PM,50.0,48.9,96,29.41,2.0,NE,11.5,-,0.42,Rain-Thunderstorm,Heavy Thunderstorms and Rain,50,1999-04-09 04:56:00

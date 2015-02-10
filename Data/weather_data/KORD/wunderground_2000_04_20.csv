@@ -1,0 +1,40 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:07 AM,51.8,48.2,88,29.78,3.0,ENE,11.5,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,60,2000-04-20 05:07:00
+12:56 AM,50.0,48.9,96,29.77,3.0,ENE,11.5,-,0.01,Thunderstorm,Overcast,60,2000-04-20 05:56:00
+1:56 AM,50.0,48.9,96,29.73,3.0,ENE,11.5,-,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,70,2000-04-20 06:56:00
+2:56 AM,50.0,50.0,100,29.67,3.0,East,8.1,-,0.01,Thunderstorm,Overcast,80,2000-04-20 07:56:00
+3:43 AM,51.8,50.0,94,29.63,3.0,ENE,10.4,-,N/A,Thunderstorm,Overcast,70,2000-04-20 08:43:00
+3:56 AM,50.0,50.0,100,29.64,3.0,NNE,9.2,-,0.07,Thunderstorm,Overcast,30,2000-04-20 08:56:00
+4:56 AM,50.0,48.9,96,29.70,3.0,North,13.8,-,0.19,Rain-Thunderstorm,Light Thunderstorms and Rain,360,2000-04-20 09:56:00
+5:56 AM,50.0,48.9,96,29.61,4.0,East,19.6,28.8,0.05,Rain-Thunderstorm,Light Thunderstorms and Rain,100,2000-04-20 10:56:00
+6:56 AM,50.0,50.0,100,29.60,3.0,East,11.5,-,0.01,Rain,Light Rain,90,2000-04-20 11:56:00
+7:56 AM,51.1,50.0,96,29.57,4.0,East,10.4,-,0.00,Rain,Light Rain,80,2000-04-20 12:56:00
+8:03 AM,51.8,50.0,94,29.56,2.0,East,8.1,-,N/A,Rain,Light Rain,90,2000-04-20 13:03:00
+8:15 AM,51.8,51.8,100,29.58,2.0,ENE,4.6,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,70,2000-04-20 13:15:00
+8:46 AM,-9999,-9999,N/A,-9999,0.8,East,13.8,-,N/A,Rain-Thunderstorm,Heavy Thunderstorms and Rain,80,2000-04-20 13:46:00
+8:56 AM,51.8,51.8,100,29.56,1.0,East,12.7,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,100,2000-04-20 13:56:00
+9:16 AM,53.6,-9999,N/A,-9999,0.5,SW,8.1,-,N/A,Fog-Rain-Thunderstorm,Heavy Thunderstorms and Rain,220,2000-04-20 14:16:00
+9:46 AM,-9999,-9999,N/A,-9999,1.0,SSW,8.1,-,N/A,Rain,Heavy Rain,200,2000-04-20 14:46:00
+10:09 AM,-9999,-9999,N/A,-9999,2.0,North,12.7,26.5,N/A,Rain,Light Rain,10,2000-04-20 15:09:00
+10:21 AM,53.6,53.6,100,29.47,3.0,North,10.4,-,N/A,,Mostly Cloudy,360,2000-04-20 15:21:00
+10:56 AM,57.0,55.0,93,29.49,6.0,East,8.1,-,0.02,,Mostly Cloudy,90,2000-04-20 15:56:00
+11:56 AM,55.0,54.0,96,29.53,4.0,ESE,10.4,-,0.01,Rain,Light Rain,120,2000-04-20 16:56:00
+12:18 PM,55.4,53.6,94,29.48,2.5,East,13.8,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,100,2000-04-20 17:18:00
+12:56 PM,55.9,54.0,93,29.43,3.0,East,20.7,27.6,0.07,Rain-Thunderstorm,Thunderstorms and Rain,100,2000-04-20 17:56:00
+1:56 PM,60.1,55.9,86,29.42,7.0,East,8.1,-,0.00,,Mostly Cloudy,90,2000-04-20 18:56:00
+2:56 PM,63.0,57.9,84,29.41,9.0,ESE,16.1,-,0.01,,Mostly Cloudy,120,2000-04-20 19:56:00
+3:34 PM,64.4,57.2,77,29.39,9.0,SE,18.4,-,N/A,,Mostly Cloudy,140,2000-04-20 20:34:00
+3:56 PM,64.0,57.9,80,29.38,10.0,SE,16.1,-,N/A,,Mostly Cloudy,140,2000-04-20 20:56:00
+4:56 PM,64.0,57.0,78,29.37,10.0,South,13.8,-,N/A,,Overcast,170,2000-04-20 21:56:00
+5:13 PM,55.4,50.0,82,29.41,10.0,West,19.6,29.9,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,260,2000-04-20 22:13:00
+5:25 PM,53.6,50.0,88,29.42,6.0,WSW,17.3,32.2,N/A,Rain-Thunderstorm,Thunderstorms and Rain,250,2000-04-20 22:25:00
+5:56 PM,51.1,48.9,92,29.43,5.0,WSW,16.1,21.9,0.14,Rain,Light Rain,250,2000-04-20 22:56:00
+6:11 PM,51.8,48.2,88,29.42,7.0,West,15.0,-,0.01,Rain,Light Rain,260,2000-04-20 23:11:00
+6:56 PM,52.0,48.9,89,29.45,10.0,SW,8.1,-,0.02,,Overcast,230,2000-04-20 23:56:00
+7:44 PM,51.8,48.2,88,29.44,10.0,SW,6.9,-,0.00,,Overcast,230,2000-04-21 00:44:00
+7:56 PM,51.1,46.9,86,29.45,10.0,WSW,6.9,-,0.01,,Mostly Cloudy,240,2000-04-21 00:56:00
+8:34 PM,51.8,48.2,88,29.45,10.0,WNW,5.8,-,0.00,Rain,Light Rain,290,2000-04-21 01:34:00
+8:56 PM,51.1,48.0,89,29.46,6.0,WNW,4.6,-,0.02,Rain,Light Rain,300,2000-04-21 01:56:00
+9:56 PM,46.9,46.0,97,29.49,10.0,North,10.4,-,0.01,Rain,Light Rain,10,2000-04-21 02:56:00
+10:56 PM,46.0,45.0,96,29.50,10.0,North,13.8,-,0.00,Rain,Light Rain,10,2000-04-21 03:56:00
+11:56 PM,44.1,43.0,96,29.51,7.0,North,16.1,20.7,0.02,Rain,Rain,360,2000-04-21 04:56:00

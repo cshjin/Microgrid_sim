@@ -1,0 +1,50 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,50.0,41.0,71,30.07,10.0,NNE,8.1,-,N/A,,Overcast,30,1991-05-05 05:00:00
+1:00 AM,51.1,42.1,71,30.01,10.0,NE,10.4,-,N/A,,Overcast,50,1991-05-05 06:00:00
+2:00 AM,52.0,43.0,71,30.01,10.0,NE,11.5,-,N/A,,Overcast,50,1991-05-05 07:00:00
+3:00 AM,52.0,41.0,66,29.99,10.0,ENE,13.8,-,N/A,,Overcast,70,1991-05-05 08:00:00
+4:00 AM,53.1,39.9,61,29.97,10.0,East,13.8,-,N/A,,Overcast,80,1991-05-05 09:00:00
+4:23 AM,-9999,-9999,N/A,29.96,10.0,East,9.2,-,N/A,Rain,Light Rain Showers,100,1991-05-05 09:23:00
+5:00 AM,51.1,46.0,83,29.96,7.0,ENE,16.1,-,0.13,Rain-Thunderstorm,Thunderstorms and Rain,70,1991-05-05 10:00:00
+5:29 AM,-9999,-9999,N/A,29.94,7.0,East,13.8,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,80,1991-05-05 10:29:00
+6:00 AM,48.0,46.0,93,29.93,5.0,SSE,11.5,-,0.20,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,160,1991-05-05 11:00:00
+6:22 AM,-9999,-9999,N/A,29.92,10.5,ESE,13.8,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,120,1991-05-05 11:22:00
+6:57 AM,-9999,-9999,N/A,29.86,4.0,East,16.1,-,N/A,Fog-Rain,Light Rain Showers,80,1991-05-05 11:57:00
+7:00 AM,48.0,46.0,93,29.87,10.5,East,19.6,-,0.20,Fog-Rain,Light Rain Showers,80,1991-05-05 12:00:00
+7:07 AM,-9999,-9999,N/A,29.85,4.0,East,20.7,-,N/A,Fog-Rain,Light Rain Showers,80,1991-05-05 12:07:00
+7:20 AM,-9999,-9999,N/A,29.87,4.0,East,20.7,-,N/A,Fog-Rain,Light Rain Showers,100,1991-05-05 12:20:00
+7:30 AM,-9999,-9999,N/A,29.87,4.0,East,18.4,-,N/A,Fog-Rain,Light Rain,90,1991-05-05 12:30:00
+8:00 AM,48.9,46.9,93,29.86,4.0,East,19.6,-,0.03,Fog-Rain,Light Rain,90,1991-05-05 13:00:00
+8:14 AM,-9999,-9999,N/A,29.84,3.0,East,18.4,-,N/A,Fog,Fog,90,1991-05-05 13:14:00
+8:58 AM,-9999,-9999,N/A,29.82,4.0,East,15.0,-,N/A,Fog,Fog,90,1991-05-05 13:58:00
+9:00 AM,48.9,48.0,97,29.83,3.0,East,17.3,-,N/A,Fog,Fog,90,1991-05-05 14:00:00
+9:27 AM,-9999,-9999,N/A,29.81,7.0,East,20.7,-,N/A,,Overcast,100,1991-05-05 14:27:00
+10:00 AM,50.0,46.0,86,29.80,7.0,ESE,19.6,-,N/A,,Overcast,110,1991-05-05 15:00:00
+11:00 AM,50.0,46.0,86,29.80,7.0,SW,6.9,-,N/A,,Overcast,230,1991-05-05 16:00:00
+11:11 AM,-9999,-9999,N/A,29.79,2.0,East,12.7,-,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,80,1991-05-05 16:11:00
+11:15 AM,-9999,-9999,N/A,29.79,5.5,East,13.8,-,N/A,Fog-Rain-Thunderstorm,Light Thunderstorms and Rain,90,1991-05-05 16:15:00
+11:29 AM,-9999,-9999,N/A,29.77,0.8,ENE,12.7,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,70,1991-05-05 16:29:00
+11:33 AM,-9999,-9999,N/A,29.76,0.8,ENE,11.5,-,N/A,Fog-Rain-Thunderstorm,Thunderstorms and Rain,70,1991-05-05 16:33:00
+12:00 PM,50.0,48.0,93,29.75,5.5,ENE,10.4,-,0.45,Fog-Rain,Light Rain,70,1991-05-05 17:00:00
+12:11 PM,-9999,-9999,N/A,29.73,10.5,ENE,10.4,-,N/A,Fog-Rain,Light Rain,70,1991-05-05 17:11:00
+12:34 PM,-9999,-9999,N/A,29.72,2.0,East,5.8,-,N/A,Fog-Rain,Light Rain,90,1991-05-05 17:34:00
+1:00 PM,51.1,48.9,92,29.73,10.5,East,4.6,-,0.02,Fog-Rain,Light Rain,100,1991-05-05 18:00:00
+1:11 PM,-9999,-9999,N/A,29.71,10.5,SSE,4.6,-,N/A,Fog-Rain,Light Rain,160,1991-05-05 18:11:00
+1:30 PM,-9999,-9999,N/A,29.71,10.5,SSE,3.5,-,N/A,Fog,Fog,160,1991-05-05 18:30:00
+2:00 PM,54.0,51.1,90,29.71,10.5,South,4.6,-,N/A,Fog,Fog,170,1991-05-05 19:00:00
+3:00 PM,57.9,54.0,87,29.69,10.5,South,3.5,-,N/A,Fog,Fog,180,1991-05-05 20:00:00
+4:00 PM,62.1,57.0,84,29.68,3.0,SW,9.2,-,N/A,Fog,Fog,220,1991-05-05 21:00:00
+4:14 PM,-9999,-9999,N/A,29.67,4.0,SW,9.2,-,N/A,Fog,Fog,220,1991-05-05 21:14:00
+4:28 PM,-9999,-9999,N/A,29.65,7.0,South,8.1,-,N/A,,Mostly Cloudy,190,1991-05-05 21:28:00
+5:00 PM,66.9,59.0,76,29.64,10.0,South,6.9,-,N/A,,Mostly Cloudy,170,1991-05-05 22:00:00
+5:20 PM,-9999,-9999,N/A,29.64,8.0,South,5.8,-,N/A,,Overcast,170,1991-05-05 22:20:00
+6:00 PM,64.0,59.0,84,29.63,8.0,South,12.7,-,0.10,Rain,Light Rain Showers,190,1991-05-05 23:00:00
+6:12 PM,-9999,-9999,N/A,29.64,3.0,SW,13.8,29.9,N/A,Rain-Thunderstorm,Thunderstorms and Rain,230,1991-05-05 23:12:00
+6:20 PM,-9999,-9999,N/A,29.64,8.0,SW,11.5,-,N/A,Rain-Thunderstorm,Thunderstorms and Rain,230,1991-05-05 23:20:00
+7:00 PM,60.1,55.9,86,29.66,8.0,WSW,9.2,-,0.16,,Overcast,240,1991-05-06 00:00:00
+7:19 PM,-9999,-9999,N/A,29.65,8.0,West,4.6,-,N/A,Rain,Light Rain Showers,270,1991-05-06 00:19:00
+8:00 PM,59.0,54.0,83,29.67,8.0,West,18.4,28.8,N/A,,Mostly Cloudy,260,1991-05-06 01:00:00
+9:00 PM,55.0,50.0,83,29.71,8.0,WSW,19.6,28.8,N/A,,Mostly Cloudy,240,1991-05-06 02:00:00
+9:17 PM,-9999,-9999,N/A,29.72,8.0,WSW,20.7,33.4,N/A,,Overcast,240,1991-05-06 02:17:00
+10:00 PM,50.0,48.0,93,29.74,6.0,WSW,16.1,-,N/A,Fog,Fog,250,1991-05-06 03:00:00
+11:00 PM,48.0,44.1,86,29.75,6.0,West,17.3,29.9,N/A,Fog,Light Drizzle,260,1991-05-06 04:00:00

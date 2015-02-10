@@ -1,0 +1,29 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:51 AM,79.0,63.0,58,29.92,10.0,South,11.5,19.6,N/A,,Mostly Cloudy,190,2010-07-06 05:51:00
+1:51 AM,77.0,63.0,62,29.91,10.0,SSW,11.5,-,N/A,,Clear,200,2010-07-06 06:51:00
+2:51 AM,77.0,64.0,64,29.91,10.0,South,11.5,-,N/A,,Partly Cloudy,190,2010-07-06 07:51:00
+3:51 AM,75.9,64.0,67,29.92,10.0,South,9.2,-,N/A,,Mostly Cloudy,190,2010-07-06 08:51:00
+4:51 AM,75.9,64.0,67,29.92,10.0,SSW,9.2,-,N/A,,Scattered Clouds,200,2010-07-06 09:51:00
+5:51 AM,77.0,64.9,66,29.92,10.0,SSW,12.7,-,N/A,,Partly Cloudy,200,2010-07-06 10:51:00
+6:51 AM,77.0,64.9,66,29.95,10.0,SSW,16.1,19.6,N/A,,Mostly Cloudy,210,2010-07-06 11:51:00
+7:51 AM,77.0,66.9,71,29.96,10.0,SSW,10.4,-,N/A,,Mostly Cloudy,210,2010-07-06 12:51:00
+8:51 AM,81.0,66.9,62,29.96,10.0,SW,11.5,-,N/A,,Scattered Clouds,220,2010-07-06 13:51:00
+9:51 AM,82.9,70.0,65,29.96,10.0,WSW,9.2,18.4,N/A,,Scattered Clouds,240,2010-07-06 14:51:00
+10:51 AM,84.0,70.0,63,29.97,10.0,SW,9.2,-,N/A,,Scattered Clouds,220,2010-07-06 15:51:00
+11:51 AM,86.0,71.1,61,29.96,10.0,SW,9.2,19.6,N/A,,Scattered Clouds,230,2010-07-06 16:51:00
+12:51 PM,88.0,71.1,57,29.96,10.0,SSW,11.5,18.4,N/A,,Scattered Clouds,200,2010-07-06 17:51:00
+1:51 PM,88.0,70.0,55,29.96,10.0,SW,12.7,19.6,N/A,,Mostly Cloudy,220,2010-07-06 18:51:00
+2:51 PM,88.0,70.0,55,29.97,10.0,SW,15.0,18.4,N/A,,Mostly Cloudy,220,2010-07-06 19:51:00
+3:51 PM,89.1,70.0,53,29.98,10.0,SW,10.4,-,N/A,,Mostly Cloudy,230,2010-07-06 20:51:00
+4:51 PM,89.1,70.0,53,29.96,10.0,WSW,9.2,-,N/A,,Scattered Clouds,240,2010-07-06 21:51:00
+5:51 PM,89.1,70.0,53,29.95,10.0,WSW,5.8,-,N/A,,Scattered Clouds,240,2010-07-06 22:51:00
+6:51 PM,86.0,70.0,59,29.97,10.0,West,6.9,-,N/A,Thunderstorm,Thunderstorm,280,2010-07-06 23:51:00
+7:17 PM,75.2,71.6,89,30.02,8.0,SSW,23.0,35.7,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,210,2010-07-07 00:17:00
+7:30 PM,73.4,69.8,88,30.03,3.0,SW,17.3,25.3,0.04,Rain-Thunderstorm,Thunderstorms and Rain,220,2010-07-07 00:30:00
+7:47 PM,73.4,71.6,94,30.02,10.0,West,8.1,-,0.25,Rain-Thunderstorm,Light Thunderstorms and Rain,280,2010-07-07 00:47:00
+7:51 PM,73.9,71.1,91,30.01,10.0,NW,3.5,-,0.29,Rain-Thunderstorm,Light Thunderstorms and Rain,310,2010-07-07 00:51:00
+8:04 PM,73.4,71.6,94,30.02,10.0,SW,4.6,-,0.07,Rain,Light Rain,230,2010-07-07 01:04:00
+8:51 PM,75.0,72.0,90,30.04,10.0,SSW,11.5,-,0.07,,Overcast,210,2010-07-07 01:51:00
+9:51 PM,73.9,71.1,91,30.02,10.0,SSW,3.5,-,0.01,Rain,Light Rain,200,2010-07-07 02:51:00
+10:51 PM,73.9,71.1,91,30.02,10.0,South,3.5,-,0.00,,Mostly Cloudy,190,2010-07-07 03:51:00
+11:51 PM,73.9,72.0,93,30.03,10.0,SSW,3.5,-,N/A,,Mostly Cloudy,210,2010-07-07 04:51:00

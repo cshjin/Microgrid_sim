@@ -1,0 +1,25 @@
+TimeCST,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,27.0,25.0,92,30.20,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2000-03-03 06:56:00
+1:56 AM,26.1,25.0,96,30.20,10.0,Calm,Calm,-,N/A,,Clear,0,2000-03-03 07:56:00
+2:56 AM,27.0,25.0,92,30.19,9.0,WNW,3.5,-,N/A,,Partly Cloudy,300,2000-03-03 08:56:00
+3:56 AM,26.1,24.1,92,30.19,8.0,NNW,4.6,-,N/A,,Clear,340,2000-03-03 09:56:00
+4:56 AM,27.0,25.0,92,30.18,8.0,North,3.5,-,N/A,,Partly Cloudy,360,2000-03-03 10:56:00
+5:56 AM,26.1,24.1,92,30.18,7.0,North,6.9,-,N/A,,Clear,10,2000-03-03 11:56:00
+6:56 AM,26.1,25.0,96,30.20,8.0,NNW,3.5,-,N/A,,Scattered Clouds,340,2000-03-03 12:56:00
+7:56 AM,30.9,28.9,92,30.21,8.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,2000-03-03 13:56:00
+8:56 AM,35.1,30.0,82,30.18,10.0,Variable,5.8,-,N/A,,Mostly Cloudy,0,2000-03-03 14:56:00
+9:56 AM,39.9,27.0,60,30.16,10.0,ENE,9.2,-,N/A,,Mostly Cloudy,60,2000-03-03 15:56:00
+10:56 AM,42.1,25.0,51,30.16,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,2000-03-03 16:56:00
+11:56 AM,44.1,24.1,45,30.13,10.0,East,5.8,-,N/A,,Mostly Cloudy,80,2000-03-03 17:56:00
+12:56 PM,46.0,24.1,42,30.09,10.0,Variable,3.5,-,N/A,,Mostly Cloudy,0,2000-03-03 18:56:00
+1:56 PM,46.9,21.9,37,30.06,10.0,Variable,3.5,-,N/A,,Scattered Clouds,0,2000-03-03 19:56:00
+2:56 PM,46.0,23.0,40,30.04,10.0,East,8.1,-,N/A,,Scattered Clouds,90,2000-03-03 20:56:00
+3:56 PM,46.0,23.0,40,30.02,10.0,East,9.2,19.6,N/A,,Scattered Clouds,90,2000-03-03 21:56:00
+4:56 PM,44.1,23.0,43,30.01,10.0,East,8.1,-,N/A,,Partly Cloudy,90,2000-03-03 22:56:00
+5:56 PM,39.9,21.9,49,30.01,10.0,East,8.1,-,N/A,,Partly Cloudy,80,2000-03-03 23:56:00
+6:56 PM,37.0,21.0,52,30.02,10.0,Variable,4.6,-,N/A,,Partly Cloudy,0,2000-03-04 00:56:00
+7:56 PM,37.0,21.9,54,30.01,10.0,Variable,3.5,-,N/A,,Clear,0,2000-03-04 01:56:00
+8:56 PM,33.1,21.9,64,30.00,10.0,Calm,Calm,-,N/A,,Clear,0,2000-03-04 02:56:00
+9:56 PM,28.9,21.9,75,30.00,10.0,Calm,Calm,-,N/A,,Partly Cloudy,0,2000-03-04 03:56:00
+10:56 PM,30.9,21.9,69,29.99,10.0,SW,3.5,-,N/A,,Partly Cloudy,220,2000-03-04 04:56:00
+11:56 PM,32.0,21.9,66,29.99,10.0,West,3.5,-,N/A,,Clear,260,2000-03-04 05:56:00

@@ -1,0 +1,25 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,69.1,64.9,87,29.99,8.0,North,3.5,-,N/A,,Scattered Clouds,360,1998-07-09 05:56:00
+1:56 AM,69.1,64.9,87,29.99,8.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1998-07-09 06:56:00
+2:56 AM,66.9,64.9,93,29.99,7.0,Variable,3.5,-,N/A,,Clear,0,1998-07-09 07:56:00
+3:56 AM,66.0,64.9,96,30.00,5.0,Calm,Calm,-,N/A,,Overcast,0,1998-07-09 08:56:00
+4:56 AM,66.9,64.9,93,30.00,8.0,Calm,Calm,-,N/A,,Overcast,0,1998-07-09 09:56:00
+5:56 AM,66.9,64.0,90,30.00,8.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1998-07-09 10:56:00
+6:56 AM,71.1,63.0,75,30.01,10.0,Variable,4.6,-,N/A,,Mostly Cloudy,0,1998-07-09 11:56:00
+7:56 AM,73.0,61.0,66,30.02,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1998-07-09 12:56:00
+8:56 AM,75.0,61.0,62,30.02,10.0,NE,5.8,-,N/A,,Mostly Cloudy,50,1998-07-09 13:56:00
+9:56 AM,75.9,63.0,64,30.02,10.0,Variable,5.8,-,N/A,,Overcast,0,1998-07-09 14:56:00
+10:56 AM,77.0,64.0,64,30.03,10.0,East,6.9,-,N/A,,Scattered Clouds,80,1998-07-09 15:56:00
+11:56 AM,79.0,64.0,60,30.03,10.0,Variable,4.6,-,N/A,,Mostly Cloudy,0,1998-07-09 16:56:00
+12:56 PM,79.0,64.0,60,30.03,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1998-07-09 17:56:00
+1:56 PM,82.0,66.0,58,30.01,10.0,Variable,3.5,-,N/A,,Mostly Cloudy,0,1998-07-09 18:56:00
+2:56 PM,82.0,64.9,56,29.99,10.0,Calm,Calm,-,N/A,,Scattered Clouds,0,1998-07-09 19:56:00
+3:56 PM,82.9,66.0,56,29.97,10.0,East,8.1,17.3,N/A,,Scattered Clouds,90,1998-07-09 20:56:00
+4:56 PM,81.0,66.0,60,29.97,10.0,East,9.2,-,N/A,,Mostly Cloudy,100,1998-07-09 21:56:00
+5:56 PM,80.1,64.9,60,29.96,10.0,East,6.9,-,N/A,,Scattered Clouds,100,1998-07-09 22:56:00
+6:56 PM,80.1,64.9,60,29.96,10.0,ENE,6.9,-,N/A,,Scattered Clouds,70,1998-07-09 23:56:00
+7:56 PM,78.1,64.0,62,29.98,10.0,Variable,6.9,-,N/A,,Scattered Clouds,0,1998-07-10 00:56:00
+8:56 PM,77.0,64.0,64,29.99,10.0,Variable,4.6,-,N/A,,Scattered Clouds,0,1998-07-10 01:56:00
+9:56 PM,75.0,64.0,69,30.00,10.0,ENE,3.5,-,N/A,,Partly Cloudy,70,1998-07-10 02:56:00
+10:56 PM,75.9,63.0,64,30.01,10.0,East,3.5,-,N/A,,Clear,90,1998-07-10 03:56:00
+11:56 PM,66.9,64.0,90,30.02,6.0,Calm,Calm,-,N/A,,Mist,0,1998-07-10 04:56:00

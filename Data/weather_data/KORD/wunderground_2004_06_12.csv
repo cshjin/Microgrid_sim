@@ -1,0 +1,32 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:24 AM,66.2,64.4,94,29.89,7.0,ESE,15.0,-,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,120,2004-06-12 05:24:00
+12:56 AM,66.0,64.0,93,29.86,6.0,SE,13.8,-,0.01,Rain-Thunderstorm,Light Thunderstorms and Rain,140,2004-06-12 05:56:00
+1:23 AM,64.4,62.6,94,29.93,6.0,NNW,3.5,-,0.02,Rain-Thunderstorm,Light Thunderstorms and Rain,340,2004-06-12 06:23:00
+1:46 AM,64.4,64.4,100,29.93,5.0,East,9.2,-,0.08,Rain-Thunderstorm,Thunderstorms and Rain,80,2004-06-12 06:46:00
+1:56 AM,64.9,62.8,93,29.90,5.0,East,15.0,-,0.15,Rain-Thunderstorm,Thunderstorms and Rain,90,2004-06-12 06:56:00
+2:28 AM,62.6,60.8,94,29.87,8.0,ENE,13.8,-,0.01,Rain,Light Rain,70,2004-06-12 07:28:00
+2:56 AM,62.1,61.0,96,29.89,5.0,East,13.8,-,0.04,Rain-Thunderstorm,Light Thunderstorms and Rain,100,2004-06-12 07:56:00
+3:11 AM,62.6,60.8,94,29.89,6.0,SE,15.0,-,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,130,2004-06-12 08:11:00
+3:34 AM,62.6,60.8,94,29.90,8.0,ESE,15.0,-,0.00,Rain,Light Rain,110,2004-06-12 08:34:00
+3:56 AM,62.1,61.0,96,29.88,8.0,NNE,11.5,-,0.02,Rain,Light Rain,20,2004-06-12 08:56:00
+4:32 AM,60.8,60.8,100,29.91,8.0,ESE,10.4,-,0.00,Rain,Light Rain,120,2004-06-12 09:32:00
+4:56 AM,61.0,60.1,97,29.91,8.0,SSE,12.7,-,0.00,,Overcast,150,2004-06-12 09:56:00
+5:56 AM,62.1,61.0,96,29.89,10.0,SE,10.4,-,N/A,,Mostly Cloudy,140,2004-06-12 10:56:00
+6:56 AM,64.0,63.0,96,29.89,10.0,South,8.1,-,N/A,,Mostly Cloudy,170,2004-06-12 11:56:00
+7:56 AM,66.0,63.0,90,29.90,10.0,South,10.4,-,N/A,,Mostly Cloudy,180,2004-06-12 12:56:00
+8:56 AM,70.0,64.9,84,29.90,10.0,South,9.2,-,N/A,,Scattered Clouds,190,2004-06-12 13:56:00
+9:56 AM,73.9,66.9,79,29.90,10.0,South,6.9,-,N/A,,Scattered Clouds,180,2004-06-12 14:56:00
+10:56 AM,75.0,66.9,76,29.91,10.0,West,5.8,-,N/A,,Mostly Cloudy,260,2004-06-12 15:56:00
+11:56 AM,77.0,68.0,74,29.91,10.0,West,5.8,-,N/A,,Mostly Cloudy,260,2004-06-12 16:56:00
+12:56 PM,78.1,68.0,71,29.91,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,2004-06-12 17:56:00
+1:56 PM,77.0,66.9,71,29.91,10.0,NE,8.1,-,N/A,,Mostly Cloudy,50,2004-06-12 18:56:00
+2:56 PM,77.0,66.9,71,29.91,10.0,ENE,9.2,-,N/A,,Mostly Cloudy,60,2004-06-12 19:56:00
+3:56 PM,75.9,66.0,71,29.89,10.0,NE,11.5,18.4,N/A,,Scattered Clouds,50,2004-06-12 20:56:00
+4:56 PM,75.9,66.0,71,29.90,10.0,ENE,8.1,-,N/A,,Clear,70,2004-06-12 21:56:00
+5:56 PM,75.9,66.0,71,29.91,10.0,East,9.2,-,N/A,,Clear,90,2004-06-12 22:56:00
+6:56 PM,75.0,66.0,73,29.91,10.0,East,8.1,-,N/A,,Partly Cloudy,100,2004-06-12 23:56:00
+7:56 PM,73.9,64.9,73,29.90,10.0,ENE,5.8,-,N/A,,Scattered Clouds,70,2004-06-13 00:56:00
+8:56 PM,72.0,64.9,78,29.90,10.0,East,6.9,-,N/A,,Scattered Clouds,90,2004-06-13 01:56:00
+9:56 PM,70.0,64.9,84,29.91,10.0,East,6.9,-,N/A,,Scattered Clouds,90,2004-06-13 02:56:00
+10:56 PM,68.0,64.0,87,29.91,10.0,ENE,4.6,-,N/A,,Mostly Cloudy,60,2004-06-13 03:56:00
+11:56 PM,68.0,64.0,87,29.90,10.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,2004-06-13 04:56:00

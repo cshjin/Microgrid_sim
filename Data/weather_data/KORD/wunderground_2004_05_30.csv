@@ -1,0 +1,44 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:56 AM,59.0,50.0,72,29.83,10.0,East,5.8,-,N/A,,Mostly Cloudy,100,2004-05-30 05:56:00
+1:56 AM,57.9,51.1,78,29.80,10.0,East,6.9,-,N/A,,Overcast,90,2004-05-30 06:56:00
+2:56 AM,57.9,52.0,81,29.76,10.0,East,8.1,-,N/A,,Overcast,90,2004-05-30 07:56:00
+3:56 AM,59.0,53.1,81,29.75,10.0,East,8.1,-,N/A,,Overcast,100,2004-05-30 08:56:00
+4:56 AM,60.1,54.0,80,29.74,10.0,East,9.2,-,N/A,,Overcast,100,2004-05-30 09:56:00
+5:56 AM,60.1,54.0,80,29.73,10.0,East,8.1,-,N/A,,Overcast,100,2004-05-30 10:56:00
+6:56 AM,62.1,57.9,86,29.71,6.0,ESE,11.5,-,0.00,Rain-Thunderstorm,Light Thunderstorms and Rain,120,2004-05-30 11:56:00
+7:18 AM,62.6,59.0,88,29.70,6.0,ESE,10.4,-,0.00,Rain,Light Rain,120,2004-05-30 12:18:00
+7:56 AM,64.0,59.0,84,29.68,7.0,ESE,11.5,-,0.00,,Overcast,120,2004-05-30 12:56:00
+8:56 AM,66.0,61.0,84,29.65,7.0,ESE,13.8,-,N/A,,Overcast,120,2004-05-30 13:56:00
+9:56 AM,66.0,60.1,81,29.62,7.0,ESE,12.7,-,N/A,Thunderstorm,Thunderstorm,110,2004-05-30 14:56:00
+10:35 AM,64.4,62.6,94,29.62,4.0,East,4.6,-,0.08,Rain-Thunderstorm,Thunderstorms and Rain,100,2004-05-30 15:35:00
+10:56 AM,64.0,62.1,93,29.60,4.0,ENE,5.8,-,0.10,Rain-Thunderstorm,Light Thunderstorms and Rain,70,2004-05-30 15:56:00
+11:02 AM,62.6,60.8,94,29.62,1.8,ENE,8.1,-,0.11,Rain-Thunderstorm,Light Thunderstorms and Rain,60,2004-05-30 16:02:00
+11:04 AM,62.6,60.8,94,29.62,0.8,ENE,10.4,-,0.21,Rain-Thunderstorm,Heavy Thunderstorms and Rain,60,2004-05-30 16:04:00
+11:20 AM,62.6,62.6,100,29.62,1.5,WNW,12.7,-,0.33,Rain-Thunderstorm,Heavy Thunderstorms and Rain,300,2004-05-30 16:20:00
+11:28 AM,62.6,62.6,100,29.68,0.8,WNW,11.5,23.0,0.64,Rain-Thunderstorm,Heavy Thunderstorms and Rain,300,2004-05-30 16:28:00
+11:42 AM,62.6,62.6,100,29.64,1.5,North,4.6,-,0.81,Rain-Thunderstorm,Thunderstorms and Rain,10,2004-05-30 16:42:00
+11:46 AM,64.4,62.6,94,29.64,2.5,NE,4.6,-,0.82,Rain-Thunderstorm,Thunderstorms and Rain,50,2004-05-30 16:46:00
+11:56 AM,63.0,63.0,100,29.63,2.5,Variable,5.8,-,0.91,Rain-Thunderstorm,Thunderstorms and Rain,0,2004-05-30 16:56:00
+12:15 PM,62.6,62.6,100,29.61,3.0,East,10.4,-,0.02,Rain-Thunderstorm,Light Thunderstorms and Rain,90,2004-05-30 17:15:00
+12:32 PM,62.6,62.6,100,29.58,3.0,East,11.5,-,0.04,Rain-Thunderstorm,Light Thunderstorms and Rain,100,2004-05-30 17:32:00
+12:56 PM,64.0,63.0,96,29.55,4.0,East,12.7,-,0.11,Rain-Thunderstorm,Light Thunderstorms and Rain,100,2004-05-30 17:56:00
+1:17 PM,64.4,64.4,100,29.55,10.0,SSE,11.5,-,0.00,Thunderstorm,Thunderstorm,150,2004-05-30 18:17:00
+1:40 PM,64.4,64.4,100,29.56,10.0,SE,6.9,-,0.01,,Overcast,140,2004-05-30 18:40:00
+1:56 PM,64.9,64.0,97,29.57,10.0,SSE,8.1,-,0.01,,Overcast,150,2004-05-30 18:56:00
+2:56 PM,68.0,64.9,90,29.58,10.0,SE,17.3,21.9,N/A,,Overcast,140,2004-05-30 19:56:00
+3:56 PM,72.0,66.9,84,29.54,10.0,SE,13.8,-,N/A,,Mostly Cloudy,140,2004-05-30 20:56:00
+4:56 PM,73.9,68.0,82,29.51,10.0,SSE,15.0,-,N/A,,Scattered Clouds,150,2004-05-30 21:56:00
+5:56 PM,73.0,68.0,84,29.48,10.0,SE,12.7,-,N/A,,Mostly Cloudy,140,2004-05-30 22:56:00
+6:56 PM,71.1,66.9,87,29.48,8.0,SE,15.0,-,N/A,,Overcast,130,2004-05-30 23:56:00
+7:01 PM,71.6,66.2,83,29.49,8.0,SE,11.5,-,N/A,Thunderstorm,Overcast,130,2004-05-31 00:01:00
+7:16 PM,69.8,66.2,88,29.51,5.0,West,17.3,23.0,0.03,Rain-Thunderstorm,Thunderstorms and Rain,260,2004-05-31 00:16:00
+7:24 PM,64.4,62.6,94,29.56,2.5,WSW,27.6,38.0,0.13,Rain-Thunderstorm,Heavy Thunderstorms and Rain,250,2004-05-31 00:24:00
+7:35 PM,64.4,62.6,94,29.54,2.0,West,23.0,27.6,0.29,Rain-Thunderstorm,Heavy Thunderstorms and Rain,280,2004-05-31 00:35:00
+7:44 PM,64.4,62.6,94,29.54,4.0,West,16.1,21.9,0.33,Rain-Thunderstorm,Thunderstorms and Rain,280,2004-05-31 00:44:00
+7:56 PM,64.0,62.1,93,29.55,6.0,West,8.1,-,0.27,Rain-Thunderstorm,Thunderstorms and Rain,270,2004-05-31 00:56:00
+8:56 PM,64.0,63.0,96,29.50,10.0,ESE,11.5,-,0.18,Rain,Light Rain,120,2004-05-31 01:56:00
+9:56 PM,63.0,62.1,97,29.46,10.0,SE,11.5,-,N/A,,Mostly Cloudy,140,2004-05-31 02:56:00
+10:32 PM,62.6,62.6,100,29.46,10.0,SSE,9.2,-,N/A,,Overcast,160,2004-05-31 03:32:00
+10:56 PM,63.0,62.1,97,29.47,8.0,SSE,8.1,-,N/A,,Mostly Cloudy,160,2004-05-31 03:56:00
+11:25 PM,62.6,62.6,100,29.46,8.0,SSE,6.9,-,N/A,,Overcast,160,2004-05-31 04:25:00
+11:56 PM,62.1,62.1,100,29.46,6.0,SSW,4.6,-,N/A,,Mostly Cloudy,210,2004-05-31 04:56:00

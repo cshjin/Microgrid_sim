@@ -1,0 +1,26 @@
+TimeCDT,TemperatureF,Dew PointF,Humidity,Sea Level PressureIn,VisibilityMPH,Wind Direction,Wind SpeedMPH,Gust SpeedMPH,PrecipitationIn,Events,Conditions,WindDirDegrees,DateUTC
+12:00 AM,72.0,62.1,71,29.80,15.0,Calm,Calm,-,N/A,,Mostly Cloudy,0,1995-07-23 05:00:00
+1:00 AM,69.1,63.0,81,29.79,15.0,WSW,5.8,-,N/A,,Mostly Cloudy,240,1995-07-23 06:00:00
+2:00 AM,69.1,64.0,84,29.78,15.0,WSW,4.6,-,N/A,,Mostly Cloudy,250,1995-07-23 07:00:00
+3:00 AM,69.1,62.1,78,29.79,15.0,WSW,6.9,-,N/A,,Scattered Clouds,250,1995-07-23 08:00:00
+4:00 AM,68.0,63.0,84,29.79,15.0,West,5.8,-,N/A,,Scattered Clouds,270,1995-07-23 09:00:00
+5:00 AM,66.9,62.1,84,29.80,15.0,WNW,5.8,-,N/A,,Clear,290,1995-07-23 10:00:00
+6:00 AM,66.9,63.0,87,29.81,15.0,NNE,6.9,-,N/A,,Mostly Cloudy,30,1995-07-23 11:00:00
+7:00 AM,70.0,64.0,81,29.82,15.0,North,4.6,-,N/A,,Mostly Cloudy,350,1995-07-23 12:00:00
+8:00 AM,73.9,64.0,71,29.83,15.0,WNW,4.6,-,N/A,,Scattered Clouds,300,1995-07-23 13:00:00
+9:00 AM,79.0,64.9,62,29.84,15.0,North,3.5,-,N/A,,Partly Cloudy,360,1995-07-23 14:00:00
+10:00 AM,81.0,66.0,60,29.85,15.0,WNW,6.9,-,N/A,,Mostly Cloudy,290,1995-07-23 15:00:00
+11:00 AM,82.9,64.9,54,29.85,15.0,NNE,6.9,-,N/A,,Mostly Cloudy,20,1995-07-23 16:00:00
+12:00 PM,84.0,64.9,53,29.85,15.0,NE,6.9,-,N/A,,Mostly Cloudy,50,1995-07-23 17:00:00
+1:00 PM,82.0,64.9,56,29.87,15.0,South,6.9,-,N/A,,Mostly Cloudy,190,1995-07-23 18:00:00
+2:00 PM,82.9,66.9,58,29.83,15.0,ENE,8.1,-,N/A,,Scattered Clouds,70,1995-07-23 19:00:00
+3:00 PM,84.9,68.0,57,29.82,15.0,NE,10.4,-,N/A,,Scattered Clouds,40,1995-07-23 20:00:00
+4:00 PM,82.0,66.9,60,29.80,15.0,SE,8.1,-,N/A,,Scattered Clouds,130,1995-07-23 21:00:00
+5:00 PM,82.9,68.0,60,29.80,15.0,SSE,11.5,-,N/A,,Scattered Clouds,150,1995-07-23 22:00:00
+6:00 PM,81.0,66.9,62,29.80,15.0,ENE,9.2,-,N/A,,Mostly Cloudy,70,1995-07-23 23:00:00
+7:00 PM,79.0,66.9,66,29.80,15.0,ENE,9.2,-,N/A,,Mostly Cloudy,70,1995-07-24 00:00:00
+8:00 PM,79.0,66.0,64,29.82,15.0,East,9.2,-,N/A,,Mostly Cloudy,90,1995-07-24 01:00:00
+9:00 PM,75.9,66.0,71,29.84,15.0,ESE,8.1,-,N/A,,Mostly Cloudy,120,1995-07-24 02:00:00
+9:02 PM,-9999,-9999,N/A,29.85,15.0,ESE,6.9,-,N/A,Thunderstorm,Thunderstorm,120,1995-07-24 02:02:00
+10:00 PM,73.9,64.9,73,29.85,15.0,ESE,4.6,-,N/A,Rain-Thunderstorm,Light Thunderstorms and Rain,120,1995-07-24 03:00:00
+11:00 PM,72.0,68.0,87,29.84,15.0,NNW,3.5,-,N/A,Rain,Light Rain Showers,340,1995-07-24 04:00:00
