@@ -18,3 +18,4 @@ LaTeX/*.out
 LaTeX/*.toc
 LaTeX/
 References/*
+Logs/*
