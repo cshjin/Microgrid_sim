@@ -92,13 +92,18 @@ def merge_files():
                 for line in infile:
                     outfile.write(line)
 
+
 def remove_lines():
     work_folder = os.path.join(CURRENT_FOLDER, "..\\Data\\weather_data")
-    with open(os.path.join(work_folder, "merged_history_KORD.csv")) as infile:
-        infile.next()
-        for line in infile:
-            if not line[0].isdigit():
-                print line
+    with open(os.path.join(work_folder, "filtered_merged_history_KMDW.csv"), "w") as outfile:
+        with open(os.path.join(work_folder, "merged_history_KMDW.csv")) as infile:
+            outfile.write(infile.next())
+            for line in infile:
+                if line[0].isdigit():
+                    outfile.write(line)
+
+
+
 def main():
     """ file function interface
     """
