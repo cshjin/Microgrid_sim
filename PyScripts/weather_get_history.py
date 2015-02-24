@@ -79,6 +79,9 @@ def get_history_using_HTTP():
 
 
 def merge_files():
+    """
+    Merge daily historical weather data into a single one. CSV format.
+    """
     # abs path of data folder
     work_folder = os.path.join(CURRENT_FOLDER, "..\\Data\\weather_data\\KORD")
     file_list = os.listdir(work_folder)
@@ -94,6 +97,12 @@ def merge_files():
 
 
 def remove_lines():
+    """
+    Remove those lines which have no weather recorded. 
+
+    Note: It may results in the majority rule. When filling with minutes data, 
+        whose missing values may considered as incorrectly.
+    """
     work_folder = os.path.join(CURRENT_FOLDER, "..\\Data\\weather_data")
     with open(os.path.join(work_folder, "filtered_merged_history_KMDW.csv"), "w") as outfile:
         with open(os.path.join(work_folder, "merged_history_KMDW.csv")) as infile:
@@ -103,9 +112,14 @@ def remove_lines():
                     outfile.write(line)
 
 
-
 def main():
-    """ file function interface
+    """ 
+    File function interface
+    1. Download weather data
+    2. Merge into a single file
+    3. Remove invalid lines in history file
+
+    This process will end with a single file with every daily weather records and removing all its invalid data.
     """
     # get_history_using_HTTP()
     # merge_files()
