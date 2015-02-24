@@ -1,0 +1,50 @@
+Blowing Snow
+Clear
+Drizzle
+Fog
+Freezing Rain
+Haze
+Heavy Ice Pellets
+Heavy Rain
+Heavy Snow
+Heavy Thunderstorms and Rain
+Heavy Thunderstorms and Snow
+Heavy Thunderstorms with Hail
+Ice Crystals
+Ice Pellets
+Light Blowing Snow
+Light Drizzle
+Light Freezing Drizzle
+Light Freezing Fog
+Light Freezing Rain
+Light Ice Pellets
+Light Mist
+Light Rain
+Light Rain Showers
+Light Snow
+Light Snow Showers
+Light Thunderstorms and Rain
+Light Thunderstorms and Snow
+Mist
+Mostly Cloudy
+Overcast
+Partly Cloudy
+Patches of Fog
+Rain
+Rain Showers
+Sand
+Scattered Clouds
+Shallow Fog
+Small Hail
+Smoke
+Snow
+Snow Showers
+Squalls
+Thunderstorm
+Thunderstorms and Ice Pellets
+Thunderstorms and Rain
+Thunderstorms and Snow
+Thunderstorms with Hail
+Thunderstorms with Small Hail
+Unknown
+Volcanic Ash
