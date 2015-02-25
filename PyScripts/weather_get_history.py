@@ -35,6 +35,7 @@ import tempfile
 from pylab import plotfile, show, gca
 import matplotlib.cbook as cbook
 from collections import defaultdict, Counter
+import shutil
 
 START_DATE = datetime.strptime("1991-01-01", "%Y-%m-%d")
 END_DATE = datetime.strptime("2011-01-01", "%Y-%m-%d")
@@ -112,18 +113,41 @@ def remove_lines():
                     outfile.write(line)
 
 
+def remove_duplicated_lines():
+    """
+    Remove duplicated lines in .csv file and 
+    """
+
+    work_folder = os.path.join(CURRENT_FOLDER, "..\\Data\\weather_data")
+    unique_lines = []
+    # compare line be line
+    with open(os.path.join(work_folder, "tempfile.csv"), "w") as outfile:
+        with open(os.path.join(work_folder, "filtered_merged_history_KMDW.csv")) as infile:
+            for line in infile:
+                if line not in unique_lines:
+                    outfile.write(line)
+                    unique_lines.append(line)
+    # replace files
+    shutil.copyfile(os.path.join(work_folder, 'tempfile.csv'), os.path.join(
+        work_folder, "filtered_merged_history_KMDW.csv"))
+    # remove temp file
+    os.remove(os.path.join(work_folder, "tempfile.csv"))
+
+
 def main():
     """ 
     File function interface
     1. Download weather data
     2. Merge into a single file
     3. Remove invalid lines in history file
+    4. Remove duplicated lines
 
     This process will end with a single file with every daily weather records and removing all its invalid data.
     """
     # get_history_using_HTTP()
     # merge_files()
-    remove_lines()
+    # remove_lines()
+    remove_duplicated_lines()
 
 if __name__ == '__main__':
     main()
