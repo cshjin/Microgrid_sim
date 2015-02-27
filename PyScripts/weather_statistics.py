@@ -16,6 +16,7 @@ DATA_FOLDER = os.path.join(CURRENT_FOLDER, "..", "Data\\weather_data")
 
 _columns = defaultdict(list)
 
+
 def desired_hours():
     start_date = datetime.strptime("1991-01-01", "%Y-%m-%d")
     end_date = datetime.strptime("2011-01-01", "%Y-%m-%d")
@@ -41,12 +42,13 @@ def filtered_hours():
 
 
 def get_weather_list():
-    conds = sorted(list(set(_columns.get("Conditions")))) 
+    conds = sorted(list(set(_columns.get("Conditions"))))
     weather_dic = {}
     with open(os.path.join(DATA_FOLDER, "weather_conditions.txt"), "w") as outfile:
-        for i in range(1, len(conds)+1):
-            outfile.write(str(i)+", "+conds[i-1]+"\n")
+        for i in range(1, len(conds) + 1):
+            outfile.write(str(i) + ", " + conds[i - 1] + "\n")
     return conds
+
 
 def count_weathers():
     with open(os.path.join(DATA_FOLDER, "filtered_merged_history_KMDW.csv")) as infile:
@@ -65,6 +67,7 @@ def majority_rule():
 def gap_interplation():
     pass
 
+
 def read_data():
     """
     Read all columns to dictionary in a inner varaiable _columns, sorted with keys
@@ -76,6 +79,7 @@ def read_data():
                 _columns[k].append(v)  # append the value into the appropriate list
     # sorted _columns by keys
     sorted(_columns, key=_columns.get)
+
 
 def time_gap_stat():
     """ 
@@ -89,17 +93,26 @@ def time_gap_stat():
         diff = datetime.strptime(timestampts[i + 1].strip(), "%Y-%m-%d %H:%M:%S") - datetime.strptime(
             timestampts[i].strip(), "%Y-%m-%d %H:%M:%S")
         diffs.append(diff.total_seconds() / 60)
-        # if diff.total_seconds() < 0:
-        #   print timestampts[i], diff.total_seconds()
     dic = dict(Counter(diffs))
+    # TODO: modify date type
     return sorted(dic.items())
-    # return dic
-    # return sorted(Counter(diffs))
+
+
+def add_cindex_column():
+    """
+    Add a new column to weather data which is the index of weather conditions, starting from 1...
+    """
+    unique_list = sorted(list(set(_columns.get("Conditions"))))
+    _columns["cindex"] = []
+    for con in _columns.get("Conditions"):
+        _columns["cindex"].append(unique_list.index(con) + 1)
+
 
 def main():
-    
     read_data()
-    print time_gap_stat()
+
+    # print time_gap_stat()
+    add_cindex_column()
     # conds = get_weather_list()
     # print conds
     # print len(conds)
@@ -114,10 +127,9 @@ def main():
     # f = filtered_hours()
     # print "--------------------------------------------------------------------"
     # print "There are {} days has no hourly records.".format(r - f)
-    
+
     # print sorted(_columns.keys())
-    
-    
+
     pass
 
 if __name__ == '__main__':
