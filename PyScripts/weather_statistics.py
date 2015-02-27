@@ -103,16 +103,37 @@ def add_cindex_column():
     Add a new column to weather data which is the index of weather conditions, starting from 1...
     """
     unique_list = sorted(list(set(_columns.get("Conditions"))))
-    _columns["cindex"] = []
+    _columns["Cindex"] = []
     for con in _columns.get("Conditions"):
-        _columns["cindex"].append(unique_list.index(con) + 1)
+        _columns["Cindex"].append(unique_list.index(con) + 1)
+    with open("_temp.txt", "w") as outfile:
+        for index in _columns["Cindex"]:
+            outfile.write(str(index) + "\n")
+    pass
+
+def update_csv_file():
+    """
+    Remove unsed columns in csv file and add new column Cindex
+
+    TimeCST  Conditions DateUTC Cindex
+
+    """
+    add_cindex_column()
+    with open(os.path.join(DATA_FOLDER, "reduced_history_KMDW.csv"), "w") as outfile:
+        outfile.write("TimeCST,Conditions,DateUTC,Cindex" + "\n")
+        for i in range(len(_columns["TimeCST"])):
+            outfile.write(_columns["TimeCST"][i] + "," + _columns["DateUTC"][i] + "," +
+                          _columns["Conditions"][i] + "," + str(_columns["Cindex"][i]) + "\n")
+    pass
 
 
 def main():
     read_data()
 
     # print time_gap_stat()
-    add_cindex_column()
+    update_csv_file()
+    
+
     # conds = get_weather_list()
     # print conds
     # print len(conds)
