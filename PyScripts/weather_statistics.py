@@ -10,6 +10,7 @@ import os
 from datetime import datetime, timedelta
 from collections import defaultdict, Counter, OrderedDict
 import csv
+import itertools
 
 CURRENT_FOLDER = os.path.dirname(os.path.realpath(__file__))
 DATA_FOLDER = os.path.join(CURRENT_FOLDER, "..", "Data\\weather_data")
@@ -68,11 +69,11 @@ def gap_interplation():
     pass
 
 
-def read_data():
+def read_data(filename):
     """
     Read all columns to dictionary in a inner varaiable _columns, sorted with keys
     """
-    with open(os.path.join(DATA_FOLDER, 'filtered_merged_history_KMDW.csv')) as infile:
+    with open(os.path.join(DATA_FOLDER, filename)) as infile:
         reader = csv.DictReader(infile)  # read rows into a dictionary format
         for row in reader:  # read a row as {column1: value1, column2: value2,...}
             for (k, v) in row.items():  # go over each column name and value
@@ -126,12 +127,36 @@ def update_csv_file():
                           _columns["Conditions"][i] + "," + str(_columns["Cindex"][i]) + "\n")
     pass
 
+def transition_matrix(lst):
+    """
+    Count on 
+    """
+    conds_unique = sorted(list(set(lst)))
+    # initial the possible outcomes from condition to condition
+    conds_pairs = list(itertools.product(conds_unique, repeat=2))
+    dic = dict((pair, 0.) for pair in conds_pairs)
+    # count consecutive weather conditions
+    for i in range(len(lst) - 1):
+        if (lst[i], lst[i + 1]) in dic:
+            dic[(lst[i], lst[i + 1])] += 1
+    dic = OrderedDict(sorted(dic.items()))
+    with open(os.path.join(DATA_FOLDER, "majority_matrix_prob.csv"), "w") as outfile:
+        for i in conds_unique:
+            row_sum = 0
+            for j in conds_unique:
+                row_sum += dic.get((i,j), 0)
+            for j in conds_unique:
+                outfile.write(str(dic.get((i,j), 0)/row_sum)+",")
+            outfile.write("\n")
 
+    return dic    
 def main():
-    read_data()
+    filename = "reduced_history_KMDW.csv"
+    read_data(filename)
+    transition_matrix(map(int, _columns['Cindex']))
 
     # print time_gap_stat()
-    update_csv_file()
+    # update_csv_file()
     
 
     # conds = get_weather_list()
