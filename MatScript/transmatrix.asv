@@ -1,0 +1,6 @@
+trans = load('..\\Data\\weather_data\\majority_matrix.csv');
+spy(trans);
+figure(gcf);
+
+figure(2);
+trans_prob = load('..\\Data\\weather_data\\majority_matrix.csv');
