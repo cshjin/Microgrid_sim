@@ -19,3 +19,5 @@ LaTeX/*.toc
 LaTeX/
 References/*
 Logs/*
+**/_test.*
+**/_temp.*
