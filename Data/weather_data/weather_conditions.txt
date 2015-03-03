@@ -1,0 +1,50 @@
+1, Blowing Snow
+2, Clear
+3, Drizzle
+4, Fog
+5, Freezing Rain
+6, Haze
+7, Heavy Ice Pellets
+8, Heavy Rain
+9, Heavy Snow
+10, Heavy Thunderstorms and Rain
+11, Heavy Thunderstorms and Snow
+12, Heavy Thunderstorms with Hail
+13, Ice Crystals
+14, Ice Pellets
+15, Light Blowing Snow
+16, Light Drizzle
+17, Light Freezing Drizzle
+18, Light Freezing Fog
+19, Light Freezing Rain
+20, Light Ice Pellets
+21, Light Mist
+22, Light Rain
+23, Light Rain Showers
+24, Light Snow
+25, Light Snow Showers
+26, Light Thunderstorms and Rain
+27, Light Thunderstorms and Snow
+28, Mist
+29, Mostly Cloudy
+30, Overcast
+31, Partly Cloudy
+32, Patches of Fog
+33, Rain
+34, Rain Showers
+35, Sand
+36, Scattered Clouds
+37, Shallow Fog
+38, Small Hail
+39, Smoke
+40, Snow
+41, Snow Showers
+42, Squalls
+43, Thunderstorm
+44, Thunderstorms and Ice Pellets
+45, Thunderstorms and Rain
+46, Thunderstorms and Snow
+47, Thunderstorms with Hail
+48, Thunderstorms with Small Hail
+49, Unknown
+50, Volcanic Ash
