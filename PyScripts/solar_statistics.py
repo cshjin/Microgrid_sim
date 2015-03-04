@@ -60,6 +60,27 @@ def group_conditions():
         for key in group:
             outfile.write(key+":"+str(group[key])+"\n")
 
+def transition_matrix(cindex):
+    """
+    Count on transition matrix based on consecutive conditions
+    """
+    conds_unique = sorted(list(set(cindex)))
+    # initial the possible outcomes from condition to condition
+    conds_pairs = list(itertools.product(conds_unique, repeat=2))
+    dic = dict((pair, 0.) for pair in conds_pairs)
+    # count consecutive weather conditions
+    for i in range(len(cindex) - 1):
+        if (cindex[i], cindex[i + 1]) in dic:
+            dic[(cindex[i], cindex[i + 1])] += 1
+    dic = OrderedDict(sorted(dic.items()))
+    with open(os.path.join(DATA_FOLDER, "majority_matrix_prob.csv"), "w") as outfile:
+        for i in conds_unique:
+            row_sum = 0
+            for j in conds_unique:
+                row_sum += dic.get((i, j), 0)
+            for j in conds_unique:
+                outfile.write(str(dic.get((i, j), 0) / row_sum) + ",")
+            outfile.write("\n")
 
 def main():
     """
@@ -69,7 +90,10 @@ def main():
     #----------------------------------------
     # reduce_solar_csv()
     #----------------------------------------
-    group_conditions()
+    # group_conditions()
+    #----------------------------------------
+    transition_matrix(_COLUMNS["CCindex"])
+
     pass
 
 if __name__ == '__main__':
