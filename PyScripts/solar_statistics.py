@@ -44,18 +44,38 @@ def reduce_solar_csv():
                 _COLUMNS["Cindex"][i] + "," +
                 _COLUMNS["CCindex"][i] + "\n")
 
+def group_conditions():
+    """
+    List group of conditions
+    """
+    length = len(_COLUMNS['CCindex'])
+    group = {}
+    for i in range(1, 9):
+        group[str(i)] = []
+    for i in range(length):
+        if _COLUMNS["Conditions"][i] not in group[_COLUMNS["CCindex"][i]]:
+            group[_COLUMNS["CCindex"][i]].append(_COLUMNS["Conditions"][i])
+    
+    with open(os.path.join(DATA_FOLDER, "clustered_conditions.txt"), "w") as outfile:
+        for key in group:
+            outfile.write(key+":"+str(group[key])+"\n")
+
 
 def main():
     """
     Process start here
     """
     read_data(DATA_FOLDER, FILENAME)
-    reduce_solar_csv()
+    #----------------------------------------
+    # reduce_solar_csv()
+    #----------------------------------------
+    group_conditions()
     pass
 
 if __name__ == '__main__':
     CURRENT_FOLDER = os.path.dirname(os.path.realpath(__file__))
     DATA_FOLDER = os.path.join(CURRENT_FOLDER, "..", "Data\\solar_data")
-    FILENAME = "total_20_years_solar_with_weather (backup).csv"
+    # FILENAME = "total_20_years_solar_with_weather (backup).csv"
+    FILENAME = "reduce_20_years_solar_with_weathear.csv"
     _COLUMNS = defaultdict(list)
     main()
