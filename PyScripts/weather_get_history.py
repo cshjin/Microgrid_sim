@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # ------------------------------------------------------------------------------
 # This is simple function to get the weather data from weather underground,
 #   and it will get the weather from 1991-01-01 to 2010-12-31 with totally

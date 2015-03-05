@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # ------------------------------------------------------------------------------
 # This is a file to generate hourly electricity price base on the reference:
 #   http://tcipg.mste.illinois.edu/sites/default/files/files/applets/tou_lessons.pdf

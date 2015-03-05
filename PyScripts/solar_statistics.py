@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # ------------------------------------------------------------------------------
 # A statistical model of solar radiations
 # ------------------------------------------------------------------------------
@@ -79,7 +80,7 @@ def transition_matrix(cindex):
             for j in conds_unique:
                 row_sum += dic.get((i, j), 0)
             for j in conds_unique:
-                outfile.write(str(dic.get((i, j), 0) / row_sum) + ",")
+                outfile.write(str(round(dic.get((i, j), 0) / row_sum,4)) + ",")
             outfile.write("\n")
 
 def main():
