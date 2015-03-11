@@ -1,0 +1,1 @@
+* state sequence is a sample from 2010. (both in 42 scenarios or 8 scenarios)
