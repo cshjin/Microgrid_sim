@@ -7,6 +7,7 @@ option solver_msg 0;
 # option cplex_options 'sensitivity';
 option precision 4;
 include mg.mod;
+
  
 read {t in Time} ResourcesSeq[t] < ResourcesSeq.txt;
 read {t in Time} DemandSeq[t] < Demand.txt;
@@ -19,7 +20,10 @@ for {t in Time} {
     let Resources := ResourcesSeq[t];
     let SellingPrice := Selling[t];
     let BuyingPrice := Buying[t];
-    solve;
+    # silent mode in windows
+    solve > NUL;
+    # silent mode in linux
+    # solve > /dev/null;
     # Simple dicision of battery reserve
     let InitBattery := InitBatterySeq[t];
     # let Cost[t] := _obj[1];
