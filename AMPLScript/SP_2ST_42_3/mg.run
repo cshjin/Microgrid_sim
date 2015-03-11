@@ -1,0 +1,59 @@
+#----------------------------------------
+# FARMAR RUN COMMEND
+#----------------------------------------
+
+reset;
+option solver cplex;
+option presolve 1;
+option solver_msg 0;
+# option cplex_options 'sensitivity';
+option precision 4;
+#option show_stats 1;
+include mg.mod;
+include mg.dat;
+
+#read {t in Time} WindSpeed[t] < WindSpeed.txt;
+#read {t in Time} CoolingDegreeHours[t] < CoolingDegreeHours.txt;
+#read {t in Time} HeatDegreeHours[t] < HeatDegreeHours.txt;
+#read {t in Time} CloudOvercastPercentage[t] < CloudOvercastPercentage.txt;
+#read {t in Time} SolarRadi[t] < SolarRadi.txt;
+read {t in Time} StateSequence[t] < StateSequence.txt;
+read {t in Time} Buying[t] < BuyingPrice.txt;
+read {t in Time} Selling[t] < SellingPrice.txt;
+read {t in Time} DemandSeq[t] < Demand.txt;
+read {t in Time} ResourcesSeq[t] < ResourcesSeq.txt;
+read {i in 1..42, j in 1..42} Prob[i,j]< dist.txt;
+
+## one approach
+for { t in 1..SIZE-1} {
+	let Demand := DemandSeq[t];
+	let Resources := ResourcesSeq[t];
+	# change probability of each stage
+	let {i in 1..42} P[i]:=Prob[StateSequence[t], i];
+
+	let BuyingPrice := Buying[t];
+	let SellingPrice := Selling[t];
+	let BuyingPrice_stage := Buying[t+1 mod SIZE];
+	let SellingPrice_stage := Selling[t+1 mod SIZE];
+	let Demand_stage := DemandSeq[t+1 mod SIZE];
+	#let Resources_stage[1] := ResourcesSeq[t+1 mod SIZE];
+	#let Resources_stage[2] := ResourcesSeq[t+1 mod SIZE]/2;
+	#let Resources_stage[3] := ResourcesSeq[t+1 mod SIZE]/4;
+	# TODO: Update ResourceSeq
+	let {i in 1..42} Resources_stage[i] := ResourcesSeq[t+1 mod SIZE];
+	
+	# silent mode in windows
+    solve > NUL;
+    # silent mode in linux
+    # solve > /dev/null;
+	print TransitionPrice * (amount['BC']+amount['BG']
+		+amount['GB']+amount['RB']) +
+	ReservePrice * (InitBattery-amount['BC'] - amount['BG']
+		+amount['GB']+amount['RB']) +
+	BuyingPrice * (amount['GB'] + amount['GC']) -
+	SellingPrice * (amount['BG'] + amount['RG']) > mg.out;
+	# display _objname, _obj > mg.out;
+	let InitBattery := InitBattery 
+						+ amount['GB'] + amount['RB'] 
+						- amount['BG'] - amount['BC'];
+}
