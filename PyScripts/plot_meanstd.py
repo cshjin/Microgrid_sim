@@ -23,7 +23,8 @@ def main():
     plt.title('Ava. Re. Dif. of 42 Scenarios')
     plt.xlabel('Avg. Relative Difference')
     plt.savefig(os.path.join(CURRENT_FOLDER, "..\\Figures\\means.png"))
-
+    plt.show()
+    
 if __name__ == '__main__':
     CURRENT_FOLDER = os.path.dirname(os.path.realpath(__file__))
     main()
