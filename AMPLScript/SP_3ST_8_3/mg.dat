@@ -1,0 +1,9 @@
+######################## data ########################
+data;
+set Directions:= BC BG GB GC RB RC RG;
+set Scenarios := 1 2 3 4 5 6 7 8;
+param SIZE:=8759;
+param InitBattery:= 500;
+param BatteryCapacity := 1000;
+param TransitionPrice := 0.002;
+param ReservePrice := 0.001;
