@@ -1,0 +1,48 @@
+#----------------------------------------
+# FARMAR RUN COMMEND
+#----------------------------------------
+
+reset;
+option solver cplex;
+option presolve 1;
+# option cplex_options 'sensitivity';
+option precision 4;
+#option show_stats 1;
+include mg.mod;
+include mg.dat;
+
+read {t in Time} StateSequence[t] < StateSequence.txt;
+read {t in Time} Buying[t] < BuyingPrice.txt;
+read {t in Time} Selling[t] < SellingPrice.txt;
+read {t in Time} DemandSeq[t] < Demand.txt;
+read {t in Time} ResourcesSeq[t] < ResourcesSeq.txt;
+read {i in 1..8, j in 1..8} Prob[i,j] < dist.txt;
+
+## one approach
+for { t in 1..SIZE-1} {
+    let Demand := DemandSeq[t];
+    let Resources := ResourcesSeq[t];
+    # change probability of each stage
+    let {i in 1..8} P[i]:=Prob[StateSequence[t], i];
+
+    let BuyingPrice := Buying[t];
+    let SellingPrice := Selling[t];
+    let BuyingPrice_stage := Buying[t+1 mod SIZE];
+    let SellingPrice_stage := Selling[t+1 mod SIZE];
+    let Demand_stage := DemandSeq[t+1 mod SIZE];
+    # TODO: Update ResourceSeq
+    let {i in 1..8} Resources_stage[i] := ResourcesSeq[t+1 mod SIZE];
+    
+    print t > mg.out;
+    solve;
+    display TransitionPrice * (amount['BC']+amount['BG']
+        +amount['GB']+amount['RB']) +
+    ReservePrice * (InitBattery-amount['BC'] - amount['BG']
+        +amount['GB']+amount['RB']) +
+    BuyingPrice * (amount['GB'] + amount['GC']) -
+    SellingPrice * (amount['BG'] + amount['RG']) > mg.out;
+    display _objname, _obj > mg.out;
+    let InitBattery := InitBattery 
+                        + amount['GB'] + amount['RB'] 
+                        - amount['BG'] - amount['BC'];
+}
