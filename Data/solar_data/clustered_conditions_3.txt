@@ -1,0 +1,3 @@
+1: ['Overcast', 'Unknown', 'Snow', 'Snow Showers', 'Light Snow Showers', 'Freezing Rain', 'Fog', 'Light Snow', 'Light Drizzle', 'Light Rain', 'Light Blowing Snow', 'Rain', 'Light Rain Showers', 'Thunderstorms and Rain', 'Light Thunderstorms and Rain', 'Rain Showers', 'Thunderstorm', 'Light Freezing Rain', 'Light Freezing Drizzle', 'Heavy Snow', 'Mist', 'Light Mist', 'Blowing Snow', 'Heavy Thunderstorms and Rain', 'Heavy Rain', 'Ice Pellets', 'Light Ice Pellets', 'Light Freezing Fog', 'Small Hail', 'Sand']
+2: ['Clear', 'Scattered Clouds', 'Mostly Cloudy', 'Drizzle', 'Smoke', 'Partly Cloudy', 'Haze']
+3: ['Ice Crystals', 'Thunderstorms and Snow', 'Patches of Fog', 'Volcanic Ash', 'Light Thunderstorms and Snow']
