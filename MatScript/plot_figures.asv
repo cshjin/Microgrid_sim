@@ -1,0 +1,9 @@
+% -------------------------------------------------------------------------
+% Plot ideal solar radiation and real radiation
+% -------------------------------------------------------------------------
+
+plot(ideal_solar(1:168), 'g.-');
+hold on;
+plot(real_solar(1:168), 'r.-');
+title('Compare of Ideal and Real PV Value');
+ya
