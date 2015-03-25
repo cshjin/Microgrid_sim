@@ -1,0 +1,80 @@
+#----------------------------------------
+# FARMAR RUN COMMEND
+#----------------------------------------
+
+reset;
+
+option solver cplex;
+option presolve 1;
+option solver_msg 0;
+# option cplex_options 'sensitivity';
+option precision 4;
+#option show_stats 1;
+include mg.mod;
+include mg.dat;
+
+read {t in Time} StateSequence[t] < StateSequence.txt;
+read {t in Time} Buying[t] < BuyingPrice.txt;
+read {t in Time} Selling[t] < SellingPrice.txt;
+read {t in Time} DemandSeq[t] < Demand.txt;
+read {t in Time} ResourcesSeq[t] < ResourcesSeq.txt;
+read {i in 1..3, j in 1..3} Prob[i, j] < dist24.txt;
+
+## one approach
+for { t in 1..SIZE-1 by 2} {
+
+	# Set the first stage parameters
+	let Demand := DemandSeq[t];
+	let Resources := ResourcesSeq[t];
+	let {i in 1..3} P[i]:=Prob[StateSequence[t], i];
+	let BuyingPrice := Buying[t];
+	let SellingPrice := Selling[t];
+	
+	# Set the second stage parameters 
+	let BuyingPrice_stage := Buying[t+1 mod SIZE];
+	let SellingPrice_stage := Selling[t+1 mod SIZE];
+	let Demand_stage := sum{j in 1..24} DemandSeq[t+j mod SIZE];
+	let {i in 1..3} Resources_stage[i]:= sum {j in 1..24} ResourcesSeq[t+j mod SIZE];
+	
+	# Solve SP
+	solve > NUL;
+
+	# First stage cost
+	print TransitionPrice * (amount['BC']+amount['BG']
+		+amount['GB']+amount['RB']) +
+	ReservePrice * (InitBattery-amount['BC'] - amount['BG']
+		+amount['GB']+amount['RB']) +
+	BuyingPrice * (amount['GB'] + amount['GC']) -
+	SellingPrice * (amount['BG'] + amount['RG']) > mg.out;
+
+	# Second State cost
+	print (
+		TransitionPrice * (
+			amount_stage['BC',StateSequence[t+1]]
+			+amount_stage['BG',StateSequence[t+1]]
+			+amount_stage['GB',StateSequence[t+1]]
+			+amount_stage['RB',StateSequence[t+1]]) +
+		ReservePrice * (
+			InitBattery
+			-amount['BC'] 
+			-amount['BG']
+			+amount['GB']
+			+amount['RB'] 
+			-amount_stage['BC',StateSequence[t+1]]
+			-amount_stage['BG',StateSequence[t+1]]
+			+amount_stage['GB',StateSequence[t+1]]
+			+amount_stage['RB',StateSequence[t+1]]) +
+		BuyingPrice_stage * (
+			amount_stage['GB',StateSequence[t+1]] 
+			+ amount_stage['GC',StateSequence[t+1]]) -
+		SellingPrice_stage * (
+			amount_stage['BG',StateSequence[t+1]] 
+			+ amount_stage['RG',StateSequence[t+1]]))/24 > mg.out;
+	
+	# print _objname, _obj > mg.out;
+	
+	# reset some parameters to solve it repeately
+	let InitBattery := InitBattery 
+						+ amount['GB'] + amount['RB'] 
+						- amount['BG'] - amount['BC'];
+}
